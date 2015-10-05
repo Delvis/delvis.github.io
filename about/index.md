@@ -22,12 +22,12 @@ Lately I've also been collaborating with [David Navega](https://github.com/dsnav
 * [rASUDAS](https://dsnavega.shinyapps.io/r-asudas-app/)
 * [AncesTrees](https://dsnavega.shinyapps.io/AncesTrees)
 
-## Giving an hand in the edification of the future of osteology
+## Jumping into the future, while bringing osteology with me:
 
-{% capture images %}
+[{% capture images %}
 	/images/osteomicsLogo.png
 {% endcapture %}
-{% include gallery images=images caption="I am webmaster and designer at osteomics, a startup developing clinical and forensic decision support systems for human bone biology" cols=1 %}
+{% include gallery images=images caption="osteomics: developing clinical and forensic decision support systems for human bone biology" cols=1 %}](http://osteomics.com)
 
 In this project I've been working directly with 3D printing technologies, virtual 3D modelling, complex morphometric analytics and web development.
 
