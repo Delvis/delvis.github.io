@@ -2,7 +2,7 @@
 layout: page
 title: About the J
 image:
-  feature: abstract-5.png
+  feature: cvr2.jpg
   credit: Mel Hattie
   creditlink: http://melhattie.com
 comments: false
