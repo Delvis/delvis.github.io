@@ -25,8 +25,8 @@ Lately I've also been collaborating with [David Navega](https://github.com/dsnav
 ## Co-founder of a startup merging future tech and osteology
 
 <figure>
-	<a href="http://osteomics.com"><img src="http://jcoelho.com/images/osteomicsLogo.png" alt="osteomics: bone products"></a>
-	<figcaption><a href="http://osteomics.com" title="osteomics">osteomics: developing clinical and forensic decision support systems for human bone biology</a>.</figcaption>
+	<a href="http://osteomics.com" target="_blank"><img src="http://jcoelho.com/images/osteomicsLogo.png" alt="osteomics: bone products"></a>
+	<figcaption><a href="http://osteomics.com" target="_blank" title="osteomics">osteomics: developing clinical and forensic decision support systems for human bone biology</a>.</figcaption>
 </figure>
 
 In this project I've been working directly with 3D printing technologies, virtual 3D modelling, complex morphometric analytics and web development.
