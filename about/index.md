@@ -24,10 +24,11 @@ Lately I've also been collaborating with [David Navega](https://github.com/dsnav
 
 ## Jumping into the future, while bringing osteology with me:
 
-[{% capture images %}
-	/images/osteomicsLogo.png
-{% endcapture %}
-{% include gallery images=images caption="osteomics: developing clinical and forensic decision support systems for human bone biology" cols=1 %}](http://osteomics.com)
+
+<figure>
+	<a href="http://osteomics.com"><img src="images/osteomicsLogo.png" alt="osteomics: bone products"></a>
+	<figcaption><a href="http://osteomics.com" title="osteomics">osteomics: developing clinical and forensic decision support systems for human bone biology</a>.</figcaption>
+</figure>
 
 In this project I've been working directly with 3D printing technologies, virtual 3D modelling, complex morphometric analytics and web development.
 
