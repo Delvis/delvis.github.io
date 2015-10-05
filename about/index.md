@@ -1,36 +1,27 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About the J
 image:
   feature: abstract-5.jpg
   credit: 
   creditlink: http://jcoelho.com
 comments: false
-modified: 2014-12-24
+modified: 2015-10-09
 ---
 
-Howdy! I am João, a young self-taught programmer from Coimbra, Portugal. On a day to day basis I use most of my synapses to tackle problems in bone biology and the forensic sciences.
+Howdy! I am João, a young self-taught programmer from Coimbra, Portugal. On a day to day basis I use most of my synapses to tackle problems that interest me in business and science.
 
-## Check for yoursefl the webapps I've been developing:
+## Check for yourself the webapps I've been developing:
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+* [MassReg](https://joao.shinyapps.io/MassReg)
+* [cranExplr](https://joao.shinyapps.io/cranExplr/)
+* [hefneR](https://joao.shinyapps.io/hefner-app) 
 
-## What HPSTR brings to the table:
+Lately I've also been working in this awesome projects:
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Built-in support for Sass courtesy of Jekyll 2.x.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy.
+* [rASUDAS](https://dsnavega.shinyapps.io/r-asudas-app/)
+* [AncesTrees](https://dsnavega.shinyapps.io/AncesTrees)
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
 
-[^1]: Example: *domain.com/category-name/post-title*
+
+
