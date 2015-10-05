@@ -3,13 +3,15 @@ layout: page
 title: About the Jekyll Theme
 image:
   feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  credit: 
+  creditlink: http://jcoelho.com
 comments: false
 modified: 2014-12-24
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+Howdy! I am João, a young self-taught programmer from Coimbra, Portugal. On a day to day basis I use most of my synapses to tackle problems in bone biology and the forensic sciences.
+
+## Check for yoursefl the webapps I've been developing:
 
 If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
 
