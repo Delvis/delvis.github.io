@@ -22,11 +22,10 @@ Lately I've also been collaborating with [David Navega](https://github.com/dsnav
 * [rASUDAS](https://dsnavega.shinyapps.io/r-asudas-app/)
 * [AncesTrees](https://dsnavega.shinyapps.io/AncesTrees)
 
-## Jumping into the future, while bringing osteology with me:
-
+## Co-founder of a startup merging future tech and osteology
 
 <figure>
-	<a href="http://osteomics.com"><img src="images/osteomicsLogo.png" alt="osteomics: bone products"></a>
+	<a href="http://osteomics.com"><img src="http://jcoelho.com/images/osteomicsLogo.png" alt="osteomics: bone products"></a>
 	<figcaption><a href="http://osteomics.com" title="osteomics">osteomics: developing clinical and forensic decision support systems for human bone biology</a>.</figcaption>
 </figure>
 
