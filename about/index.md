@@ -11,6 +11,8 @@ modified: 2015-10-09
 
 Howdy! I am João, a self-taught programmer from Coimbra, Portugal. Everyday I use most of my synapses to tackle problems that interest me in business and science.
 
+---
+
 ## Check for yourself the webapps I've been developing:
 
 * [MassReg](https://joao.shinyapps.io/MassReg)
@@ -21,6 +23,8 @@ Lately I've also been collaborating with [David Navega](https://github.com/dsnav
 
 * [rASUDAS](https://dsnavega.shinyapps.io/r-asudas-app/)
 * [AncesTrees](https://dsnavega.shinyapps.io/AncesTrees)
+
+---
 
 ## Co-founder of a startup merging future tech and osteology
 
