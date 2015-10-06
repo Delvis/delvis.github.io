@@ -33,9 +33,9 @@ My most personal project, <a href = "http://osteomics.com" target = "_blank">ost
 ## HOT Project logo
 
 
-<figure class = "third" height = "600px">
+<figure class = "third" width = "65%">
   <img src="http://jcoelho.com/images/HOT-Logo-withBlackOutlines.png" alt="HOT LOGO 1">
-  <img src="http://jcoelho.com/images/HOT-Logo.png" alt="HOT LOGO 2" height = "600px">
+  <img src="http://jcoelho.com/images/HOT-Logo.png" alt="HOT LOGO 2">
   <img src="http://jcoelho.com/images/HOT-Logo-minimalist.png" alt="HOT LOGO 3">
   <figcaption>HOT Project is a group of researchers insterested in heat-altered bone and teeth. This logo was developed based on an earlier similar concept originally thought by David Gonçalves. While I tend to prefer the version at the left, the one ending up being chosen was the one at the right.</figcaption>
 </figure>
