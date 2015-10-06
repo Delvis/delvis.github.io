@@ -22,10 +22,10 @@ share: true
 
 
 <figure>
-  <p align = "center"><a href = "http://hotresearch.wix.com/main" target = "_blank"><img src="http://jcoelho.com/images/HOT-Logo-withBlackOutlines.png" alt="HOT LOGO 1" width="16%"></a> ... <a href = "http://hotresearch.wix.com/main" target = "_blank"><img src="http://jcoelho.com/images/HOT-Logo.png" alt="HOT LOGO 2" width="16%"></a> ... <a href = "http://hotresearch.wix.com/main" target = "_blank"><img src="http://jcoelho.com/images/HOT-Logo-minimalist.png" alt="HOT LOGO 3" width="16%"></a></p>
+  <img src="http://jcoelho.com/images/HOT-Logo-withBlackOutlines.png" alt="HOT LOGO 1" width="16%"> ... <img src="http://jcoelho.com/images/HOT-Logo.png" alt="HOT LOGO 2" width="16%"> ... <img src="http://jcoelho.com/images/HOT-Logo-minimalist.png" alt="HOT LOGO 3" width="16%"></p>
 
 
-  <figcaption>HOT Project is a group of researchers insterested in heat-altered bone and teeth. This logo was developed based on an earlier similar concept originally thought by David Gonçalves</figcaption>
+  <figcaption>HOT Project is a group of researchers insterested in heat-altered bone and teeth. This logo was developed based on an earlier similar concept originally thought by David Gonçalves. While I tend to prefer the version at the left, the one ending up being chosen was the one at the right.</figcaption>
 </figure>
 
 To read more about the HOT Project, <a href = "http://hotresearch.wix.com/main" target = "_blank">click here</a>.
