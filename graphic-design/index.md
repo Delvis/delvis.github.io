@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Graphic design
+title: Graphic Design
 description: "My portfolio to show off my photoshop and illustrator skills."
 image:
   feature: cvr3.jpg
