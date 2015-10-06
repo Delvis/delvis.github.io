@@ -13,14 +13,14 @@ share: true
 
 <figure>
   <img src="http://jcoelho.com/images/lafLogo1.png" alt="Laboratório de Antropologia Forense">
-  <figcaption>The idea was to recreate the vitruvian man concept, a Da Vinci's famous drawing. Instead using a skeleton to represent the main object of study for forensic anthropologists. This is a logo I've designed for a portuguese lab of forensic anthropology based on the University of Coimbra, Portugal.</figcaption>
+  <figcaption>The idea was to recreate the <a href = "https://en.wikipedia.org/wiki/Vitruvian_Man" target = "_blank">Vitruvian Man</a> concept, a Da Vinci's famous drawing. But instead, using a skeleton to represent the main object of study for forensic anthropologists. This is a logo I've designed for a portuguese lab of forensic anthropology based on the University of Coimbra, Portugal.</figcaption>
 </figure>
 
 ---
 
 ## osteomics.com
 
-My most personal project, <a href = "http://osteomics.com" target = "_blank">osteomics</a> is a business focused in solving problems related to human osteology.
+My most personal project, <a href = "http://osteomics.com" target = "_blank">osteomics</a> is a business focused in solving problems related to human osteology. The logo was first, hand-draw, then vectorized with a computer.
 
 {% capture images %}
   /images/osteomicsLogo2.png
@@ -33,9 +33,10 @@ My most personal project, <a href = "http://osteomics.com" target = "_blank">ost
 ## HOT Project logo
 
 
-<figure>
-  <p align = "center"><img src="http://jcoelho.com/images/HOT-Logo-withBlackOutlines.png" alt="HOT LOGO 1" width="16%">   |   <img src="http://jcoelho.com/images/HOT-Logo.png" alt="HOT LOGO 2" width="16%">   |   <img src="http://jcoelho.com/images/HOT-Logo-minimalist.png" alt="HOT LOGO 3" width="16%"></p></p>
-
+<figure class = "third">
+  <img src="http://jcoelho.com/images/HOT-Logo-withBlackOutlines.png" alt="HOT LOGO 1" width="20%">
+  <img src="http://jcoelho.com/images/HOT-Logo.png" alt="HOT LOGO 2" width="20%">
+  <img src="http://jcoelho.com/images/HOT-Logo-minimalist.png" alt="HOT LOGO 3" width="20%">
   <figcaption>HOT Project is a group of researchers insterested in heat-altered bone and teeth. This logo was developed based on an earlier similar concept originally thought by David Gonçalves. While I tend to prefer the version at the left, the one ending up being chosen was the one at the right.</figcaption>
 </figure>
 
