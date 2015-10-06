@@ -22,8 +22,7 @@ share: true
 
 
 <figure>
-  <img src="http://jcoelho.com/images/HOT-Logo-withBlackOutlines.png" alt="HOT LOGO 1" width="16%"> ... <img src="http://jcoelho.com/images/HOT-Logo.png" alt="HOT LOGO 2" width="16%"> ... <img src="http://jcoelho.com/images/HOT-Logo-minimalist.png" alt="HOT LOGO 3" width="16%"></p>
-
+  <p align = "center"><img src="http://jcoelho.com/images/HOT-Logo-withBlackOutlines.png" alt="HOT LOGO 1" width="16%">      <img src="http://jcoelho.com/images/HOT-Logo.png" alt="HOT LOGO 2" width="16%">      <img src="http://jcoelho.com/images/HOT-Logo-minimalist.png" alt="HOT LOGO 3" width="16%"></p></p>
 
   <figcaption>HOT Project is a group of researchers insterested in heat-altered bone and teeth. This logo was developed based on an earlier similar concept originally thought by David Gonçalves. While I tend to prefer the version at the left, the one ending up being chosen was the one at the right.</figcaption>
 </figure>
