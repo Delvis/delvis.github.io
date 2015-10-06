@@ -13,7 +13,7 @@ share: true
 
 <figure>
   <img src="http://jcoelho.com/images/lafLogo1.png" alt="Laboratório de Antropologia Forense">
-  <figcaption>The idea was to recreate the <a href = "https://en.wikipedia.org/wiki/Vitruvian_Man" target = "_blank">Vitruvian Man</a> concept, a Da Vinci's famous drawing. But instead, using a skeleton to represent the main object of study for forensic anthropologists. This is a logo I've designed for a portuguese lab of forensic anthropology based on the University of Coimbra, Portugal.</figcaption>
+  <figcaption>The idea was to recreate the <a href = "https://en.wikipedia.org/wiki/Vitruvian_Man" target = "_blank">Vitruvian Man</a> concept, a Da Vinci's famous drawing. But instead, using a skeleton to represent the main object of study for forensic anthropologists. This is a logo I've designed for a portuguese lab of forensic anthropology hosted at the University of Coimbra, Portugal.</figcaption>
 </figure>
 
 ---
