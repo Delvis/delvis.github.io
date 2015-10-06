@@ -11,7 +11,7 @@ tags: [humeri, humerus, burnt, osteology, bones, geometric morphometric, 3D mode
 
 ## Interactive 3D meshes of humeri 
 
-Below, you will find humeri in pairs of *before* and *after* experimental burning, respectively. You can click to interact with the 3D object and expand these to full screen. Currently you can zoom, rotate and move the mesh, as well as share this meshes on other media, such as facebook.
+Below, you will find humeri in pairs of *before* and *after* experimental burning, respectively. You can click to interact with the 3D object and expand these to full screen. Currently you can zoom, rotate and move the mesh, as well as share this meshes on other media, such as Facebook.
 
 ### CEIXXI 05, right humerus, female individual.
 <p align = "center">
