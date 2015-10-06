@@ -16,6 +16,19 @@ share: true
   <figcaption>The idea was to recreate the vitruvian man concept, a Da Vinci's famous drawing. Instead using a skeleton to represent the main object of study for forensic anthropologists. This is a logo I've designed for a portuguese lab of forensic anthropology based on the University of Coimbra, Portugal.</figcaption>
 </figure>
 
+---
+
+## HOT Project logo
+
+
+<figure>
+  <a href = "http://hotresearch.wix.com/main" target = "_blank"><img src="http://jcoelho.com/images/HOT-Logo-withBlackOutlines.png" alt="HOT LOGO 1"></a>  <a href = "http://hotresearch.wix.com/main" target = "_blank"><img src="http://jcoelho.com/images/HOT-Logo.png" alt="HOT LOGO 1"></a>  <a href = "http://hotresearch.wix.com/main" target = "_blank"><img src="http://jcoelho.com/images/HOT-Logo-minimalist.png" alt="HOT LOGO 1"></a>
+
+
+  <figcaption>HOT Project is a group of researchers insterested in heat-altered bone and teeth. This logo was developed based on an earlier similar concept originally thought by David Gonçalves</figcaption>
+</figure>
+
+To read more about the HOT Project, <a href = "http://hotresearch.wix.com/main" target = "_blank">click here</a>.
 
 ---
 
@@ -29,20 +42,3 @@ One of the stuff I enjoy the most is to design scientifc posters that are clean,
   /images/TALUSposter2.png
 {% endcapture %}
 {% include gallery images=images caption="Scientifc posters for international conferences." cols=3 %}
-
----
-
-## HOT Project logo
-
-{% capture images %}
-  /images/HOT-Logo-withBlackOutlines.png
-  /images/HOT-Logo.png
-  /images/HOT-Logo-minimalist.png
-{% endcapture %}
-{% include gallery images=images caption="HOT Project is integrated by a group of researchers insterested in heat-altered bone and teeth morphology. This logo was developed based on an earlier similar concept originally thought by David Gonçalves." cols=3 %}
-
-To read more about the HOT Project, <a href = "http://hotresearch.wix.com/main" target = "_blank">click here</a>.
-
-
-
----
