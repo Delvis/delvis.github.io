@@ -13,7 +13,9 @@ Another point I'd like to state is that the opportunity to take some rust out of
 
 Of course all that has been said are just motivational drivers. What I truly hope to accomplish here, is to recover a writing routine and become even more productive.
 
-<p align = "left">Yours truly,
-
-j
+<p align = "left">
+	Yours truly,
+</p>
+<p align = "left">
+	j
 </p>
