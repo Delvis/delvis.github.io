@@ -18,11 +18,23 @@ share: true
 
 ---
 
+## osteomics.com
+
+My most personal project, <a href = "http://osteomics.com" target = "_blank">osteomics</a> is a business focused in solving problems related to human osteology.
+
+{% capture images %}
+  /images/osteomicsLogo2.png
+  /images/osteomicsPage.png
+{% endcapture %}
+{% include gallery images=images caption="A startup aiming to revolutionize the osteology market on a world-wide panorama, by introducing a new array of features in anatomical sciences" cols=2 %}
+
+---
+
 ## HOT Project logo
 
 
 <figure>
-  <p align = "center"><img src="http://jcoelho.com/images/HOT-Logo-withBlackOutlines.png" alt="HOT LOGO 1" width="16%">      <img src="http://jcoelho.com/images/HOT-Logo.png" alt="HOT LOGO 2" width="16%">      <img src="http://jcoelho.com/images/HOT-Logo-minimalist.png" alt="HOT LOGO 3" width="16%"></p></p>
+  <p align = "center"><img src="http://jcoelho.com/images/HOT-Logo-withBlackOutlines.png" alt="HOT LOGO 1" width="16%">   |   <img src="http://jcoelho.com/images/HOT-Logo.png" alt="HOT LOGO 2" width="16%">   |   <img src="http://jcoelho.com/images/HOT-Logo-minimalist.png" alt="HOT LOGO 3" width="16%"></p></p>
 
   <figcaption>HOT Project is a group of researchers insterested in heat-altered bone and teeth. This logo was developed based on an earlier similar concept originally thought by David Gonçalves. While I tend to prefer the version at the left, the one ending up being chosen was the one at the right.</figcaption>
 </figure>
@@ -42,14 +54,3 @@ One of the stuff I enjoy the most is to design scientifc posters that are clean,
 {% endcapture %}
 {% include gallery images=images caption="Scientifc posters for international conferences." cols=3 %}
 
----
-
-## osteomics.com
-
-My most personal project, <a href = "http://osteomics.com" target = "_blank">osteomics</a> is a business focused in solving problems related to human osteology.
-
-{% capture images %}
-  /images/osteomicsLogo2.png
-  /images/osteomicsPage.png
-{% endcapture %}
-{% include gallery images=images caption="A startup aiming to revolutionize the osteology market on a world-wide panorama, by introducing a new array of features in anatomical sciences" cols=2 %}
