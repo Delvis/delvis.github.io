@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Graphic Design
-description: "My portfolio to show off my photoshop and illustrator skills."
+description: "A portfolio to show off my photoshop and illustrator skills."
 image:
   feature: cvr3.jpg
   credit: Alberto Restifo

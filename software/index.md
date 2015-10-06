@@ -1,57 +1,48 @@
 ---
 layout: page
-title: Graphic Design
-description: "My portfolio to show off my photoshop and illustrator skills."
+title: Software
+description: "A portfolio to show off my R and Shiny skills."
 image:
-  feature: cvr3.jpg
-  credit: Alberto Restifo
-  creditlink: http://500px.com/albertorestifo
+  feature: cvr4.jpg
+  credit: Thomas Shellberg
+  creditlink: twitter.com/tommyshellberg
 share: true
 ---
 
-## Laboratory of Forensic Anthropology
+## MassReg
 
-<figure>
-  <img src="http://jcoelho.com/images/lafLogo1.png" alt="Laboratório de Antropologia Forense">
-  <figcaption>The idea was to recreate the <a href = "https://en.wikipedia.org/wiki/Vitruvian_Man" target = "_blank">Vitruvian Man</a> concept, a Da Vinci's famous drawing. But instead, using a skeleton to represent the main object of study for forensic anthropologists. This is a logo I've designed for a portuguese lab of forensic anthropology based on the University of Coimbra, Portugal.</figcaption>
-</figure>
-
----
-
-## osteomics.com
-
-My most personal project, <a href = "http://osteomics.com" target = "_blank">osteomics</a> is a business focused in solving problems related to human osteology. The logo was first, hand-draw, then vectorized with a computer.
+Last work based on a paper that will soon be submited.
 
 {% capture images %}
-  /images/osteomicsLogo2.png
-  /images/osteomicsPage.png
+  /images/massregP1.png
+  /images/massregP2.png
+  /images/massregP3.png
 {% endcapture %}
-{% include gallery images=images caption="A startup aiming to revolutionize the osteology market on a world-wide panorama, by introducing a new array of features in anatomical sciences" cols=2 %}
+{% include gallery images=images caption="Mass Reg description to add." cols=3 %}
 
 ---
 
-## HOT Project logo
+## cranExplr
 
-
-<figure>
-  <img src="http://jcoelho.com/images/HOT-Logo-withBlackOutlines.png" alt="HOT LOGO 1" width = "20%">
-  <img src="http://jcoelho.com/images/HOT-Logo.png" alt="HOT LOGO 2" width = "20%">
-  <img src="http://jcoelho.com/images/HOT-Logo-minimalist.png" alt="HOT LOGO 3" width = "20%">
-  <figcaption>HOT Project is a group of researchers insterested in heat-altered bone and teeth. This logo was developed based on an earlier similar concept originally thought by David Gonçalves. While I tend to prefer the version at the left, the one ending up being chosen was the one at the right.</figcaption>
-</figure>
-
-To read more about the HOT Project, <a href = "http://hotresearch.wix.com/main" target = "_blank">click here</a>.
-
----
-
-## Scientific Posters
-
-One of the stuff I enjoy the most is to design scientifc posters that are clean, minimalist and easily convey useful info to the public in conferences.
+Project done in less than a day for official submission in the online course <a href = "https://www.coursera.org/course/devdataprod" target = "_blank">Developing Data Products</a> from the Johns Hopkins University. I also had to submit an online presentation fully programmed in R, that you can can check by <a href = "http://rpubs.com/Del/cranExplrDeck" target = "_blank">here</a>.
 
 {% capture images %}
-  /images/TALUSposter1.png
-  /images/HOTposter1.png
-  /images/TALUSposter2.png
+  /images/cranP1.png
+  /images/cranP2.png
+  /images/cranP3.png
 {% endcapture %}
-{% include gallery images=images caption="Scientifc posters for international conferences." cols=3 %}
+{% include gallery images=images caption="cranExplr description to add." cols=3 %}
+
+---
+
+## hefneR
+
+First app I've ever done using the R and Shiny environment. An homage to Hefner's work in forensic anthropology and ancestry.
+
+{% capture images %}
+  /images/hefnerP1.png
+  /images/hefnerP2.png
+  /images/hefnerP3.png
+{% endcapture %}
+{% include gallery images=images caption="hefneR description to add." cols=3 %}
 
