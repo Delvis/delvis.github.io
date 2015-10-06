@@ -39,9 +39,9 @@ Project done in less than a day for official submission in the online course <a 
 
 ---
 
-
 ## hefneR
-<a href = "https://joao.shinyapps.io/hefner-app" target = "_blank">Click here to try hefneR</a>
+
+<a href = "https://joao.shinyapps.io/hefner-app" target = "_blank">Click here to try hefneR!</a>
 
 First app I've ever done using the R and Shiny environment. An homage to Hefner's work in forensic anthropology and ancestry.
 
@@ -51,4 +51,15 @@ First app I've ever done using the R and Shiny environment. An homage to Hefner'
   /images/hefnerP3.png
 {% endcapture %}
 {% include gallery images=images caption="hefneR description to add." cols=3 %}
+
+---
+
+## rASUDAS
+
+<a href = "https://dsnavega.shinyapps.io/r-asudas-app/" target = "_blank">Click here to try rASUDAS!</a>
+
+Coming from a collaborative effort with <a href = "https://github.com/dsnavega"  target = "_blank">David Navega</a> and <a href = "http://www.unr.edu/anthropology/people/faculty/g-richard-scott" target = "_blank">G. Richard Scott</a> we are aiming to revolutionize the field of dental morphology while creating a very useful new tool for ancestry estimation. The current version is a very early prototype. Soon, we will update it and provide an offline exectuable version.
+
+
+
 
