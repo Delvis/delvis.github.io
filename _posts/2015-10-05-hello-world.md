@@ -9,7 +9,7 @@ Hello folks! I am back to the world of web development with this combination of 
 
 The main reason for starting jcoelho.com, is that I have stuff scattered all over the web and old disks. Much has been lost over the years. So from now on, I will be moving all my works into this new home, as time allows me. 
 
-Another point I'd like to state is that the opportunity to take some rust out of my `HTML` and `CSS` skills is also something that I heavily took into consideration to start this. Advancing my skills in `javascript` and `Ruby`, as a starter in both, is a plus. Until now I've only played around with `RGSS` variation of `Ruby`, when I was really young and was trying to create some Role Playing Games. Moreover, the foundations of this site are product of Jekyll and everything is hosted in GitHub, so this is definitely the time and context for it.
+Another point I'd like to state is that the opportunity to take some rust out of my `HTML` and `CSS` skills is also something that I heavily took into consideration to start this. Advancing my skills in `javascript` and `Ruby`, as a starter in both, is a plus. Until now I've only played around with `RGSS` (a variation of Ruby), when I was really young and was trying to create some Role Playing Games. Moreover, the foundations of this site are product of Jekyll and everything is hosted in GitHub, so this is definitely the time and context for it.
 
 Of course all that has been said are just motivational drivers. What I truly hope to accomplish here, is to recover a writing routine and become even more productive.
 
