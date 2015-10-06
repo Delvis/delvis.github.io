@@ -11,20 +11,22 @@ share: true
 
 ## MassReg
 
-Last work based on a paper that will soon be submited.
+Last work based on a paper that will soon be submited. Objective is to regress the total skeletal mass based on the mass on single bones.
 
+<a href = "https://joao.shinyapps.io/MassReg" target = "_blank">
 {% capture images %}
   /images/massregP1.png
   /images/massregP2.png
   /images/massregP3.png
 {% endcapture %}
 {% include gallery images=images caption="Mass Reg description to add." cols=3 %}
-
+</a>
 ---
-
+<a href = "https://joao.shinyapps.io/cranExplr/" target = "_blank">
 ## cranExplr
+</a>
 
-Project done in less than a day for official submission in the online course <a href = "https://www.coursera.org/course/devdataprod" target = "_blank">Developing Data Products</a> from the Johns Hopkins University. I also had to submit an online presentation fully programmed in R, that you can can check by <a href = "http://rpubs.com/Del/cranExplrDeck" target = "_blank">here</a>.
+Project done in less than a day for official submission in the online course <a href = "https://www.coursera.org/course/devdataprod" target = "_blank">Developing Data Products</a> from the Johns Hopkins University. I also had to submit an online presentation fully programmed in R, that you can can check <a href = "http://rpubs.com/Del/cranExplrDeck" target = "_blank">here</a>.
 
 {% capture images %}
   /images/cranP1.png
@@ -35,6 +37,7 @@ Project done in less than a day for official submission in the online course <a 
 
 ---
 
+<a href = "https://joao.shinyapps.io/hefner-app" target = "_blank">
 ## hefneR
 
 First app I've ever done using the R and Shiny environment. An homage to Hefner's work in forensic anthropology and ancestry.
@@ -45,4 +48,4 @@ First app I've ever done using the R and Shiny environment. An homage to Hefner'
   /images/hefnerP3.png
 {% endcapture %}
 {% include gallery images=images caption="hefneR description to add." cols=3 %}
-
+</a>
