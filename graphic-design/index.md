@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Theme Setup
-description: "Instructions on how to install and customize the modern Jekyll theme HPSTR."
+title: Graphic design
+description: "My portfolio to show off my photoshop and illustrator skills."
 image:
   feature: abstract-11.jpg
   credit: dargadgetz
