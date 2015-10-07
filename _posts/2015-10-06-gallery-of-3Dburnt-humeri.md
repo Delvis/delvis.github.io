@@ -2,7 +2,7 @@
 layout: post
 title: "The first 3D visual database of burnt bones"
 description: "Below, you will find humerus in pairs, before and after experimental burning, respectively. Click to interact with the 3D object."
-tags: [humeri, humerus, burnt, osteology, bones, geometric morphometric, 3D models]
+tags: [humerus, burnt, osteology, geometric morphometric, 3D models, open science]
 ---
 
 <p align = "justify">
