@@ -9,6 +9,8 @@ image:
 share: true
 ---
 
+For as long as memory allows me to dive in I've had an inordinate fondness for drawing and playing aroud with illustration software.
+
 ## Laboratory of Forensic Anthropology
 
 <figure>
@@ -20,25 +22,24 @@ share: true
 
 ## osteomics.com
 
-My most personal project, <a href = "http://osteomics.com" target = "_blank">osteomics</a> is a business focused in solving problems related to human osteology. The logo was first, hand-draw, then vectorized with a computer.
+My most personal project, <a href = "http://osteomics.com" target = "_blank">osteomics</a> is a business focused in solving problems related to osteology. The logo was first hand-draw, then vectorized with a computer.
 
 {% capture images %}
   /images/osteomicsLogo2.png
   /images/osteomicsPage.png
 {% endcapture %}
-{% include gallery images=images caption="A startup aiming to revolutionize the osteology market on a world-wide panorama, by introducing a new array of features in anatomical sciences" cols=2 %}
+{% include gallery images=images caption="Osteomics is a project aiming to change osteology on a world-wide panorama." cols=2 %}
 
 ---
 
 ## HOT Project logo
 
-
 <figure>
   <p align = "center">
-  <img src="http://jcoelho.com/images/HOT-Logo-withBlackOutlines.png" alt="HOT LOGO 1" width = "20%">   |   
-  <img src="http://jcoelho.com/images/HOT-Logo.png" alt="HOT LOGO 2" width = "20%">   |   
-  <img src="http://jcoelho.com/images/HOT-Logo-minimalist.png" alt="HOT LOGO 3" width = "20%"></p>
-  <figcaption>HOT Project is a group of researchers insterested in heat-altered bone and teeth. This logo was developed based on an earlier similar concept originally thought by David Gonçalves. While I tend to prefer the version at the left, the one ending up being chosen was the one at the right.</figcaption>
+  <img src="http://jcoelho.com/images/HOT-Logo-withBlackOutlines.png" alt="HOT LOGO 1" width = "20%">   (A)   
+  <img src="http://jcoelho.com/images/HOT-Logo.png" alt="HOT LOGO 2" width = "20%">   (B)   
+  <img src="http://jcoelho.com/images/HOT-Logo-minimalist.png" alt="HOT LOGO 3" width = "20%">   (C)   </p>
+  <figcaption>The HOT Project has brought together a group of researchers insterested in burnt bones and teeth. This logo was developed based on an earlier similar concept originally thought by David Gonçalves. While I tend to prefer version A, the one ending up being chosen was C.</figcaption>
 </figure>
 
 To read more about the HOT Project, <a href = "http://hotresearch.wix.com/main" target = "_blank">click here</a>.
