@@ -35,7 +35,7 @@ Project done in less than a day for official submission in the online course <a 
   /images/cranP2.png
   /images/cranP3.png
 {% endcapture %}
-{% include gallery images=images caption="cranExplr is supposed to be just a visual exploration tool. However, it can also be use for case-by-case estimation if you have crania at hand." cols=3 %}
+{% include gallery images=images caption="cranExplr is supposed to be just a visual exploration tool. However, it can also be used for case-by-case estimation if you have complete crania at hand." cols=3 %}
 
 ---
 
@@ -58,7 +58,7 @@ First app I have ever done using the R and Shiny environment. An homage to Hefne
 
 <a href = "https://dsnavega.shinyapps.io/r-asudas-app/" target = "_blank">Click here to try rASUDAS!</a>
 
-A predictive software based on ASUDAS and developed in R stemming from a collaborative effort with <a href = "https://github.com/dsnavega"  target = "_blank">David Navega</a> and Professor <a href = "http://www.unr.edu/anthropology/people/faculty/g-richard-scott" target = "_blank">G. Richard Scott</a> that was born during the <a href = "http://www.uc.pt/fctuc/dcv/eventos/2015/IIbam" target = "_blank">II Bioanthropological Meeting</a> (Coimbra, Portugal). Together, we will revolutionize the field of dental morphology while creating a very useful new tool for ancestry estimation. The current version is a very early prototype - but already fully functional. Soon, we will update it with a far larger database and optimized algorithm, and provide also an offline executable version.
+A predictive software based on ASUDAS and developed in R stemming from a collaborative effort with <a href = "https://github.com/dsnavega"  target = "_blank">David Navega</a> and Professor <a href = "http://www.unr.edu/anthropology/people/faculty/g-richard-scott" target = "_blank">G. Richard Scott</a> that was born during the <a href = "http://www.uc.pt/fctuc/dcv/eventos/2015/IIbam" target = "_blank">II Bioanthropological Meeting</a> (Coimbra, Portugal). Together, we will revolutionize the field of dental morphology while creating a very useful new tool for ancestry estimation. The current version is a very early prototype, but already fully functional. Soon, we will update it with a far larger database and optimized algorithm, and provide also an offline executable version.
 
 
 
