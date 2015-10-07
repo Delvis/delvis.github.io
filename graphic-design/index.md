@@ -51,9 +51,9 @@ To read more about the HOT Project, <a href = "http://hotresearch.wix.com/main" 
 One of the stuff I enjoy the most is to design scientifc posters that are clean, minimalist and easily convey useful info to the public in conferences.
 
 {% capture images %}
-  /images/TALUSposter1.png
-  /images/HOTposter1.png
-  /images/TALUSposter2.png
+  /images/TALUSposter1.jpg
+  /images/HOTposter1.jpg
+  /images/TALUSposter2.jpg
 {% endcapture %}
 {% include gallery images=images caption="Scientifc posters for international conferences." cols=3 %}
 
