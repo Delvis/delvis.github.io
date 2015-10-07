@@ -13,14 +13,14 @@ share: true
 
 <a href = "https://joao.shinyapps.io/MassReg" target = "_blank">Click here to try MassReg!</a>
 
-Last work based on a paper that will soon be submited. Objective is to regress the total skeletal mass based on the mass on single bones.
+Last work based on a paper that will soon be submited. Objective is to predict the **total skeletal mass** (y variable) based on the mass of single bones (x variable), through simple linear regression models.
 
 {% capture images %}
   /images/massregP1.png
   /images/massregP2.png
   /images/massregP3.png
 {% endcapture %}
-{% include gallery images=images caption="Mass Reg description to add." cols=3 %}
+{% include gallery images=images caption="The estimation of total skeletal mass can potentially lead to important inferences regarding the circumstances of death. MassReg aim is to support researchers in such endeavors." cols=3 %}
 
 ---
 
@@ -35,7 +35,7 @@ Project done in less than a day for official submission in the online course <a 
   /images/cranP2.png
   /images/cranP3.png
 {% endcapture %}
-{% include gallery images=images caption="cranExplr description to add." cols=3 %}
+{% include gallery images=images caption="cranExplr is supposed to be just a visual exploration tool. However, it can also be use for case-by-case estimation if you have crania at hand." cols=3 %}
 
 ---
 
@@ -43,14 +43,14 @@ Project done in less than a day for official submission in the online course <a 
 
 <a href = "https://joao.shinyapps.io/hefner-app" target = "_blank">Click here to try hefneR!</a>
 
-First app I've ever done using the R and Shiny environment. An homage to Hefner's work in forensic anthropology and ancestry.
+First app I have ever done using the R and Shiny environment. An homage to Hefner's life work in forensic anthropology and ancestry.
 
 {% capture images %}
   /images/hefnerP1.png
   /images/hefnerP2.png
   /images/hefnerP3.png
 {% endcapture %}
-{% include gallery images=images caption="hefneR description to add." cols=3 %}
+{% include gallery images=images caption="hefneR is a fully functional app for ancestry estimation based of morphoscopic traits of the human skull." cols=3 %}
 
 ---
 
