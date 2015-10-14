@@ -11,7 +11,7 @@ share: true
 
 ## MassReg
 
-<a href = "https://joao.shinyapps.io/MassReg" target = "_blank">Click here to try MassReg!</a>
+<a href = "http://apps.osteomics.com/MassReg" target = "_blank">Click here to try MassReg!</a>
 
 Last work based on a paper that will soon be submited. Objective is to predict the **total skeletal mass** (y variable) based on the mass of single bones (x variable), through simple linear regression models.
 
@@ -26,7 +26,7 @@ Last work based on a paper that will soon be submited. Objective is to predict t
 
 ## cranExplr
 
-<a href = "https://joao.shinyapps.io/cranExplr/" target = "_blank">Click here to try cranExplr!</a>
+<a href = "http://apps.osteomics.com/cranExplr/" target = "_blank">Click here to try cranExplr!</a>
 
 Project done in less than a day for official submission in the online course <a href = "https://www.coursera.org/course/devdataprod" target = "_blank">Developing Data Products</a> from the Johns Hopkins University. I also had to submit an online presentation fully programmed in R, that you can can check <a href = "http://rpubs.com/Del/cranExplrDeck" target = "_blank">here</a>.
 
@@ -41,7 +41,7 @@ Project done in less than a day for official submission in the online course <a 
 
 ## hefneR
 
-<a href = "https://joao.shinyapps.io/hefner-app" target = "_blank">Click here to try hefneR!</a>
+<a href = "http://apps.osteomics.com/hefner-app" target = "_blank">Click here to try hefneR!</a>
 
 First app I have ever done using the R and Shiny environment. An homage to Hefner's life work in forensic anthropology and ancestry.
 

@@ -15,9 +15,9 @@ Howdy! I am João, a self-taught programmer from Coimbra, Portugal. Everyday I u
 
 ## Check for yourself the webapps I've been developing:
 
-* [MassReg](https://joao.shinyapps.io/MassReg)
-* [cranExplr](https://joao.shinyapps.io/cranExplr/)
-* [hefneR](https://joao.shinyapps.io/hefner-app) 
+* [MassReg](http://apps.osteomics.com/MassReg)
+* [cranExplr](http://apps.osteomics.com/cranExplr/)
+* [hefneR](http://apps.osteomics.com/hefner-app) 
 
 Lately I've also been collaborating with [David Navega](https://github.com/dsnavega) in these awesome projects:
 
