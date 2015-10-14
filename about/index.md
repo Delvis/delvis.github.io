@@ -23,10 +23,10 @@ Lately I've also been collaborating with [David Navega](https://github.com/dsnav
 
 <!---
 * [rASUDAS](https://dsnavega.shinyapps.io/r-asudas-app/)
-
+-->
 * [AncesTrees](https://apps.osteomics.com/AncesTrees)
 
----
+
 
 ## Co-founder of a startup merging future tech and osteology
 
