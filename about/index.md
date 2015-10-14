@@ -22,7 +22,7 @@ Howdy! I am João, a self-taught programmer from Coimbra, Portugal. Everyday I u
 Lately I've also been collaborating with [David Navega](https://github.com/dsnavega) in these awesome projects:
 
 * [rASUDAS](https://dsnavega.shinyapps.io/r-asudas-app/)
-* [AncesTrees](https://dsnavega.shinyapps.io/AncesTrees)
+* [AncesTrees](https://apps.osteomics.com/AncesTrees)
 
 ---
 
