@@ -17,15 +17,15 @@ Howdy! I am João, a self-taught programmer from Coimbra, Portugal. Everyday I u
 
 * [MassReg](http://apps.osteomics.com/MassReg)
 * [cranExplr](http://apps.osteomics.com/cranExplr/)
-* [hefneR](http://apps.osteomics.com/hefner-app) 
+* [hefneR](http://apps.osteomics.com/hefneR) 
 
 Lately I've also been collaborating with [David Navega](https://github.com/dsnavega) in these awesome projects:
 
 <!---
 * [rASUDAS](https://dsnavega.shinyapps.io/r-asudas-app/)
 -->
-* [AncesTrees](https://apps.osteomics.com/AncesTrees)
-
+* [AncesTrees](http://apps.osteomics.com/AncesTrees)
+* rASUDAS (link temporarily removed - app undergoing major updates)
 
 
 ## Co-founder of a startup merging future tech and osteology

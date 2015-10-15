@@ -9,6 +9,21 @@ image:
 share: true
 ---
 
+## hefneR
+
+<a href = "http://apps.osteomics.com/hefneR" target = "_blank">Click here to try hefneR!</a>
+
+First app I have ever done using the R and Shiny environment. An homage to Hefner's life work in forensic anthropology and ancestry.
+
+{% capture images %}
+  /images/hefnerP1.png
+  /images/hefnerP2.png
+  /images/hefnerP3.png
+{% endcapture %}
+{% include gallery images=images caption="hefneR is a fully functional app for ancestry estimation based of morphoscopic traits of the human skull." cols=3 %}
+
+---
+
 ## MassReg
 
 <a href = "http://apps.osteomics.com/MassReg" target = "_blank">Click here to try MassReg!</a>
@@ -39,20 +54,7 @@ Project done in less than a day for official submission in the online course <a 
 
 ---
 
-## hefneR
 
-<a href = "http://apps.osteomics.com/hefner-app" target = "_blank">Click here to try hefneR!</a>
-
-First app I have ever done using the R and Shiny environment. An homage to Hefner's life work in forensic anthropology and ancestry.
-
-{% capture images %}
-  /images/hefnerP1.png
-  /images/hefnerP2.png
-  /images/hefnerP3.png
-{% endcapture %}
-{% include gallery images=images caption="hefneR is a fully functional app for ancestry estimation based of morphoscopic traits of the human skull." cols=3 %}
-
----
 <!---
 ## rASUDAS
 
