@@ -13,18 +13,18 @@ Howdy! I am João, a self-taught programmer from Coimbra, Portugal. Everyday I u
 
 ---
 
-## Check for yourself the webapps I've been developing:
+## Check for yourself the webapps I've been working on:
 
-* [MassReg](http://apps.osteomics.com/MassReg)
-* [cranExplr](http://apps.osteomics.com/cranExplr/)
-* [hefneR](http://apps.osteomics.com/hefneR) 
+* <a href = "http://apps.osteomics.com/MassReg" target = "_blank">MassReg</a>
+* <a href = "http://apps.osteomics.com/cranExplr/" target = "_blank">cranExplr</a>
+* <a href = "http://apps.osteomics.com/hefneR" target = "_blank">hefneR</a>
 
-Lately I've also been collaborating with [David Navega](https://github.com/dsnavega) in these awesome projects:
+Lately I've been also collaborating with [David Navega](https://github.com/dsnavega) in these awesome projects:
 
 <!---
 * [rASUDAS](https://dsnavega.shinyapps.io/r-asudas-app/)
 -->
-* [AncesTrees](http://apps.osteomics.com/AncesTrees)
+* <a href = "http://apps.osteomics.com/AncesTrees)" target = "_blank">AncesTrees</a>
 * rASUDAS (link temporarily removed - app undergoing major updates)
 
 
