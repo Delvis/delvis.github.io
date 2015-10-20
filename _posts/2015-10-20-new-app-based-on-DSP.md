@@ -6,7 +6,7 @@ tags: [programming, anthropology, open science, sex diagnosis, osteology]
 ---
 
 
-Today was a very productive day. But something stood of, with a *shiny* aura around it.
+Today was a very productive day. But something stood off, with a shiny feeling: a new tool for bioanthropologists is on the making.
 
 That's it folks. <a href = "http://osteomics.com" target = "_blank">Osteomics</a> is releasing a new app today, on one of the 4 basic pillars of Forensic Anthropology, one that we hadn't explored yet: **sex diagnosis**. It is based on a famous article by Murail *et al*. (2005) that has probably the method with best balance between applicability and overall accuracy for sex estimation in osteology. Basically, we've implement a new interface onto the same algorithm (that has been rewritten in R). Which is now, by the way, *way faster* than the original DSP Excell-based software.
 
@@ -22,4 +22,4 @@ Hugs!
 
 **References:**
 
-Murail P, Bruzek J, Houet F, Cunha E. 2005. DSP: A tool for probabilistic sex diagnosis using worldwide variability in hip-bone measurements. *Bulletins et mémoires de la Societé d'Anthropologie de Paris*, **17**, (3-4), 167-176.
+Murail P, Bruzek J, Houët F, Cunha E. 2005. DSP: A tool for probabilistic sex diagnosis using worldwide variability in hip-bone measurements. *Bulletins et mémoires de la Societé d'Anthropologie de Paris*, **17**, (3-4), 167-176.
