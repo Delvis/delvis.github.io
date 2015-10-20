@@ -19,7 +19,7 @@ Howdy! I am João, a self-taught programmer from Coimbra, Portugal. Everyday I u
 * <a href = "http://apps.osteomics.com/cranExplr/" target = "_blank">cranExplr</a>
 * <a href = "http://apps.osteomics.com/hefneR/" target = "_blank">hefneR</a>
 
-Lately I've been also collaborating with [David Navega](https://github.com/dsnavega) in these awesome projects:
+Lately I've also been collaborating with <a href = "https://github.com/dsnavega/" target = "_blank">David Navega</a> in these awesome projects:
 
 <!---
 * [rASUDAS](https://dsnavega.shinyapps.io/r-asudas-app/)
