@@ -16,12 +16,10 @@ Here is the link:
 
 <a href = "http://apps.osteomics.com/DSP/" target = "_blank">DSP: betteR, fasteR, strongeR!</a>
 
-Since it is still on early stage (I'll be adding a Manual with images tomorrow and other functionalities), I would be very grateful if you guys tested it out, left any commentaries or try to crack it until you find some bugs for me to correct.
+Since it is still on early stage (I'll be adding a Manual with images tomorrow and other functionalities), I would be very grateful if you guys tested it out, left any commentaries or try to crack it until you find some bugs for me to correct. After this starts to look as a final product, I will update it and add it to the <a href="/software/" target = "_blank">Software section</a>.
 
 Hugs!
 
 *References:*
 
-p("Murail P, Bruzek J, Houet F, Cunha E. 2005. DSP: A tool for probabilistic sex diagnosis using worldwide variability in hip-bone measurements.",
-em("Bulletins et mémoires de la Societé d'Anthropologie de Paris."),
-strong("17"), "(3-4), 167-176.")
+Murail P, Bruzek J, Houet F, Cunha E. 2005. DSP: A tool for probabilistic sex diagnosis using worldwide variability in hip-bone measurements. **Bulletins et mémoires de la Societé d'Anthropologie de Paris**, *17*, (3-4), 167-176.
