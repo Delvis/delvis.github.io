@@ -8,7 +8,7 @@ tags: [programming, bibliography, citations, anthropology, open science]
 
 Today, I created a Zotero and Mendeley (.CSL 1.0.1) compatible reference style for the scientific magazines: *Antropologia Portuguesa* and *Cadernos do GEEvH*. My reason for doing this, is mainly because even though there was already an online version of this reference-style, it was only available for the paid-software EndNote. Since Zotero is free, it is definitely a more student-friendly option that I recommend to everyone. In the same spirit, I am sharing this for free to whoever might want or need it.
 
-It uses the style described in <a href = "http://impactum-journals.uc.pt/index.php/antropologiaportuguesa/about/submissions#authorGuidelines" taget = "_blank"><i>Antropologia Portuguesa</i> Guidelines</a>. You can download it directly from <a href = "https://github.com/Delvis/antropologia-portuguesa-csl/raw/master/antropologia-portuguesa.csl">here</a> or by visiting the <a href = "https://github.com/Delvis/antropologia-portuguesa-csl">GitHub repo</a>, an open collaborative coding platform where you can suggest modifications to the file.
+This .csl file uses the style described in <a href = "http://impactum-journals.uc.pt/index.php/antropologiaportuguesa/about/submissions#authorGuidelines" taget = "_blank"><i>Antropologia Portuguesa</i> Guidelines</a>. You can download it directly from <a href = "https://github.com/Delvis/antropologia-portuguesa-csl/raw/master/antropologia-portuguesa.csl" target = "_blank">here</a> or by visiting the <a href = "https://github.com/Delvis/antropologia-portuguesa-csl" target = "_blank">GitHub repo</a>, an open collaborative coding platform where you can suggest modifications to the file.
 
 ### Instructions:
 
