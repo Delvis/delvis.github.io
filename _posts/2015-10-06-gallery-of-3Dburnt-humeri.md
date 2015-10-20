@@ -5,9 +5,8 @@ description: "Below, you will find humerus in pairs, before and after experiment
 tags: [humerus, burnt, osteology, geometric morphometric, 3D models, open science]
 ---
 
-<p align = "justify">
+
 	My thesis, titled <i>Unwarping Heated Bones: A Quantitative Analysis of Heat-Induced Skeletal Deformations Using 3D Geometric Morphometrics</i> has spawn many fruits that are not a direct outcome of the quantitative analysis. In a open-science philosophy for further developing the global interest into the field of <b>heat-altered osteology</b>, during the next days I will be sharing with you most of what I have done during the last year. Ultimately, the full body of my thesis, as well as the data, will be available here on my personal page and in others, such as the <a href ="http://hotresearch.wix.com/main" target = "_blank">HOT Project webpage</a> which already counts with many interesting theses and articles by other colleagues.
-</p>
 
 ## Interactive 3D meshes of humeri 
 
