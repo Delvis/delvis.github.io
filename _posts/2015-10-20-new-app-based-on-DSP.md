@@ -24,7 +24,7 @@ Hugs!
 
 Murail P, Bruzek J, Houët F, Cunha E. 2005. DSP: A tool for probabilistic sex diagnosis using worldwide variability in hip-bone measurements. *Bulletins et mémoires de la Societé d'Anthropologie de Paris*, **17**, (3-4), 167-176.
 
-#### Update!
+### Update!
 22-October-2015 ~ around 01 AM
 
 * Manual with descriptions and pictures added;
