@@ -16,6 +16,13 @@ Here is the link:
 
 <a href = "http://apps.osteomics.com/DSP/" target = "_blank">DSP: betteR, fasteR, strongeR!</a>
 
+{% capture images %}
+  /images/DSP1.png
+  /images/DSP2.png
+  /images/DSP3.png
+{% endcapture %}
+{% include gallery images=images caption="Some print screens of DSP working in my iphone. The app allows you to do statistically significant sex estimations based on os coxae." cols=3 %}
+
 Since it is still on early stage (I'll be adding a Manual with images tomorrow and other functionalities), I would be very grateful if you guys tested it out, left any commentaries or try to crack it until you find some bugs for me to correct. After this starts to look as a final product, I will update it and add it to the <a href="/software/" target = "_blank">Software section</a>.
 
 Hugs!
