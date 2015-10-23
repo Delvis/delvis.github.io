@@ -23,7 +23,7 @@ Here is the link:
 {% endcapture %}
 {% include gallery images=images caption="Some print screens of DSP working in my iphone. The app allows you to do statistically significant sex estimations based on os coxae." cols=3 %}
 
-Since it is still on early stage (I'll be adding a Manual with images tomorrow and other functionalities), I would be very grateful if you guys tested it out, left any commentaries or try to crack it until you find some bugs for me to correct. After this starts to look as a final product, I will update it and add it to the <a href="/software/" target = "_blank">Software section</a>.
+Since it is still on early stage (I will be adding a Manual with images tomorrow and other functionalities), I'd be very grateful if you guys tested it out, left any commentaries or try to crack it until you find some bugs for me to correct. After this starts to look as a final product, I will update it and add it to the <a href="/software/" target = "_blank">Software section</a>.
 
 Hugs!
 
@@ -40,4 +40,4 @@ Murail P, Bruzek J, Houët F, Cunha E. 2005. DSP: A tool for probabilistic sex d
 * Corrected a lot of small bugs (calculations crashed under certains circunstances);
 * Added a lot of explanation texts here and there, and corrected some typos.
 
-It's pretty much a final product by now. Any suggestions?
+It is pretty much a final product by now. Any suggestions?
