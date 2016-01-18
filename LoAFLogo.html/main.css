@@ -4,10 +4,10 @@
 .sc_{-webkit-text-stroke:0px transparent;}
 }
 .y0{bottom:0.000000px;}
-.h1{height:595.000000px;}
-.h0{height:595.200000px;}
-.w0{width:841.920000px;}
-.w1{width:842.000000px;}
+/*.h1{height:595.000000px;}
+.h0{height:595.200000px;}*/
+.w0{width:95%;}
+.w1{width:95.1%;}
 .x0{left:0.000000px;}
 @media print{
 .y0{bottom:0.000000pt;}
