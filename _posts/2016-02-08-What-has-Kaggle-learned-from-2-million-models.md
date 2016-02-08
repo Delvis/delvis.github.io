@@ -7,7 +7,7 @@ tags: [youtube, talk, machine learning, kaggle]
 
 Great video with Anthony Goldbloom (founder, and CEO of Kaggle) on the insights on statistical learning that Kaggle has been obtaining from its community (around 450 000 data scientists competing!).
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/8KzjARKIgTo" frameborder="0" allowfullscreen></iframe>
+<iframe width="460" height="315" src="https://www.youtube.com/embed/8KzjARKIgTo" frameborder="0" allowfullscreen></iframe>
 
 
 
