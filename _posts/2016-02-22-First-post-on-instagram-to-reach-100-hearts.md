@@ -13,4 +13,4 @@ Just had a picture I took reach the 100 ♥ milestone on instagram! Thought I co
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
  
-It's actually a picture I took in 2013 during my Erasmus experience. During a roundtrip to a music festival in Ísafjörður, Iceland.
+It's actually a picture I took in 2013 during my Erasmus experience. More specifically, when I was doing a roundtrip to a music festival in Ísafjörður, Iceland.
