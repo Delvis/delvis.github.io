@@ -12,7 +12,7 @@ It's time for some more show off! Here is my latest project:
 
 <a href = "http://lfa.uc.pt" target = "_blank">LFA.UC.PT</a>
 
-For this project I had to develop a lot of stuff. First there was no identity image associated to the lab. First thing first, I proposed the following logotype, which was accepted by the majority of the lab team:
+For this project I had to develop a lot of stuff. First, there was no identity image associated to the lab. So I had to start by proposing the following logotype that was readily accepted by the majority of the lab team:
 
 
 <figure>
@@ -20,7 +20,7 @@ For this project I had to develop a lot of stuff. First there was no identity im
 	<figcaption>Logo</figcaption>
 </figure>
 
-I had to develop a few more neat visuals as you can see in the Projects section. Next, I started working in this beauty:
+Next, I had to develop a few more neat visuals as you can see in the Projects section. Last, I started working in this beauty:
 
   
 <figure>
