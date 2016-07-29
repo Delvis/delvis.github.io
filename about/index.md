@@ -32,7 +32,7 @@ Sex  estimation:
 
 Body parameters estimation:
 
-* <a href = "http://apps.osteomics.com/MassReg/" target = "_blank">MassReg</a> - <a href = "http://onlinelibrary.wiley.com/doi/10.1002/ajpa.22979/" target = "_blank">Publicaiton available</a>
+* <a href = "http://apps.osteomics.com/MassReg/" target = "_blank">MassReg</a> - <a href = "http://onlinelibrary.wiley.com/doi/10.1002/ajpa.22979/abstract" target = "_blank">Publicaiton available</a>
 * <a href = "http://apps.osteomics.com/raxter/" target = "_blank">raxter</a>
 
 Age-at-death estimation:
