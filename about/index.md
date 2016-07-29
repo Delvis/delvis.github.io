@@ -11,20 +11,33 @@ modified: 2015-10-09
 
 Howdy! I am João, a self-taught programmer from Coimbra, Portugal. Everyday I use most of my synapses to tackle problems that interest me in business and science.
 
+You can see my academic curriculum in the <a href = "http://www.degois.pt/visualizador/curriculum.jsp?key=3783104624248545" target = "_blank">DeGóis platform</a>.
+
 ---
 
-## Check for yourself the webapps I've been working on:
+## Check for yourself the webapps I've been working on in collaboration with <a href = "https://github.com/dsnavega/" target = "_blank">David Navega</a>. 
 
-* <a href = "http://apps.osteomics.com/MassReg/" target = "_blank">MassReg</a>
-* <a href = "http://apps.osteomics.com/cranExplr/" target = "_blank">cranExplr</a>
-* <a href = "http://apps.osteomics.com/DSP/" target = "_blank">DSP</a> (+New!)
-* <a href = "http://apps.osteomics.com/hefneR/" target = "_blank">hefneR</a>
+Ancestry estimation:
 
-Lately I've also been collaborating with <a href = "https://github.com/dsnavega/" target = "_blank">David Navega</a> in these awesome projects:
-
+* <a href = "http://apps.osteomics.com/rASUDAS/" target = "_blank">rASUDAS</a>
 * <a href = "http://apps.osteomics.com/AncesTrees/" target = "_blank">AncesTrees</a>
-* rASUDAS (link temporarily removed - app undergoing major updates)
+* <a href = "http://apps.osteomics.com/hefneR/" target = "_blank">hefneR</a>
+* <a href = "http://apps.osteomics.com/cranExplr/" target = "_blank">cranExplr</a> | small project I have done for an online course on webapp development - not very useful for actual forensic work.
 
+Sex  estimation:
+
+* <a href = "http://apps.osteomics.com/DSP/" target = "_blank">DSP</a>
+* <a href = "http://apps.osteomics.com/SeuPF/" target = "_blank">SeuPF</a> | <a href = "http://www.ncbi.nlm.nih.gov/pubmed/27373600" target = "_blank">Publication available</a>
+
+
+Body parameters estimation:
+
+* <a href = "http://apps.osteomics.com/MassReg/" target = "_blank">MassReg</a> | calculates total mass from an individual bone mass. <a href = "http://onlinelibrary.wiley.com/doi/10.1002/ajpa.22979/" target = "_blank">Publicaiton available</a>
+* <a href = "http://apps.osteomics.com/raxter/" target = "_blank">raxter</a> | estimates full stature
+
+Age-at-death estimation:
+
+* <a href = "http://apps.osteomics.com/SSAGE/" target = "_blank">SSAGE</a> | Sub-adult age estimation
 
 ## Co-founder of a startup merging future tech and osteology
 
