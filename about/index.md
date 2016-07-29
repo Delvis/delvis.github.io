@@ -22,22 +22,22 @@ Ancestry estimation:
 * <a href = "http://apps.osteomics.com/rASUDAS/" target = "_blank">rASUDAS</a>
 * <a href = "http://apps.osteomics.com/AncesTrees/" target = "_blank">AncesTrees</a>
 * <a href = "http://apps.osteomics.com/hefneR/" target = "_blank">hefneR</a>
-* <a href = "http://apps.osteomics.com/cranExplr/" target = "_blank">cranExplr</a> | small project I have done for an online course on webapp development - not very useful for actual forensic work.
+* <a href = "http://apps.osteomics.com/cranExplr/" target = "_blank">cranExplr</a>
 
 Sex  estimation:
 
 * <a href = "http://apps.osteomics.com/DSP/" target = "_blank">DSP</a>
-* <a href = "http://apps.osteomics.com/SeuPF/" target = "_blank">SeuPF</a> | <a href = "http://www.ncbi.nlm.nih.gov/pubmed/27373600" target = "_blank">Publication available</a>
+* <a href = "http://apps.osteomics.com/SeuPF/" target = "_blank">SeuPF</a> - <a href = "http://www.ncbi.nlm.nih.gov/pubmed/27373600" target = "_blank">Publication available</a>
 
 
 Body parameters estimation:
 
-* <a href = "http://apps.osteomics.com/MassReg/" target = "_blank">MassReg</a> | calculates total mass from an individual bone mass. <a href = "http://onlinelibrary.wiley.com/doi/10.1002/ajpa.22979/" target = "_blank">Publicaiton available</a>
-* <a href = "http://apps.osteomics.com/raxter/" target = "_blank">raxter</a> | estimates full stature
+* <a href = "http://apps.osteomics.com/MassReg/" target = "_blank">MassReg</a> - <a href = "http://onlinelibrary.wiley.com/doi/10.1002/ajpa.22979/" target = "_blank">Publicaiton available</a>
+* <a href = "http://apps.osteomics.com/raxter/" target = "_blank">raxter</a>
 
 Age-at-death estimation:
 
-* <a href = "http://apps.osteomics.com/SSAGE/" target = "_blank">SSAGE</a> | Sub-adult age estimation
+* <a href = "http://apps.osteomics.com/SSAGE/" target = "_blank">SSAGE</a>
 
 ## Co-founder of a startup merging future tech and osteology
 
