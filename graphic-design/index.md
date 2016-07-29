@@ -65,7 +65,27 @@ One of the stuff I enjoy the most is to design scientifc posters that are clean,
 When I was around 14~15 years old I collaborated in the developement of amateur RPG (Role-Playing Games) international projects, including a Pokémon fan-game.
 
 {% capture images %}
-  /images/pixelart/
+  /images/pixelart/2.png
+  /images/pixelart/3.png
+  /images/pixelart/4.png
+  /images/pixelart/5.png
+  /images/pixelart/6.png
+  /images/pixelart/7.png
+  /images/pixelart/8.png
+  /images/pixelart/9.png
+  /images/pixelart/10.png
+  /images/pixelart/build07.gif
+  /images/pixelart/Caterich.png
+  /images/pixelart/eggs.png
+  /images/pixelart/ghostie.png
+  /images/pixelart/humpclops2.png
+  /images/pixelart/kiwikou.png
+  /images/pixelart/koarbor.png
+  /images/pixelart/koalampur.png
+  /images/pixelart/nimbuclaus.png
+  /images/pixelart/Ultian.png
+  /images/pixelart/paranui.png
+  /images/pixelart/swirkyandtwatypus.png
 {% endcapture %}
-{% include gallery images=images caption="Pixel art" cols=4 %}
+{% include gallery images=images caption="Pixel art" cols=6 %}
 
