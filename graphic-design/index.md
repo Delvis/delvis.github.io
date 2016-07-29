@@ -65,6 +65,22 @@ One of the stuff I enjoy the most is to design scientifc posters that are clean,
 When I was around 14~15 years old I collaborated in the developement of amateur RPG (Role-Playing Games) international projects, including a Pokémon fan-game.
 
 {% capture images %}
+  /images/pixelart/darkball.png
+  /images/pixelart/lightball.png
+  /images/pixelart/virtualball.png
+  /images/pixelart/tinyball.png
+  /images/pixelart/bigball.png
+  /images/pixelart/farmball.png
+  /images/pixelart/greatfarmball.png
+  /images/pixelart/ultrafarmball.png
+  /images/pixelart/electraball.png
+  /images/pixelart/flameball.png
+  /images/pixelart/iceball.png
+  /images/pixelart/jewellball.png
+  /images/pixelart/metalball.png
+  /images/pixelart/lunarball.png
+  /images/pixelart/oreball.png
+  /images/pixelart/primaryball.png
   /images/pixelart/2.png
   /images/pixelart/3.png
   /images/pixelart/4.png
@@ -74,7 +90,6 @@ When I was around 14~15 years old I collaborated in the developement of amateur 
   /images/pixelart/8.png
   /images/pixelart/9.png
   /images/pixelart/10.png
-  /images/pixelart/eggs.png
   /images/pixelart/ghostie.png
   /images/pixelart/humpclops2.png
   /images/pixelart/kiwikou.png
@@ -84,8 +99,11 @@ When I was around 14~15 years old I collaborated in the developement of amateur 
   /images/pixelart/Ultian.png
   /images/pixelart/paranui.png
   /images/pixelart/swirkyandtwatypus.png
+  /images/pixelart/eggs.png
   /images/pixelart/1.png
   /images/pixelart/build07.gif
 {% endcapture %}
 {% include gallery images=images caption="Pixel art" cols=6 %}
+
+I also made a huge tileset with Pokémon graphics compatible with RPG Maker XP, you can download <a href = "http://jcoelho.com/images/pixelart/tileset.png" target = "_blank">it here</a>, it will take a will to load.
 
