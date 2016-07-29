@@ -74,8 +74,6 @@ When I was around 14~15 years old I collaborated in the developement of amateur 
   /images/pixelart/8.png
   /images/pixelart/9.png
   /images/pixelart/10.png
-  /images/pixelart/build07.gif
-  /images/pixelart/Caterich.png
   /images/pixelart/eggs.png
   /images/pixelart/ghostie.png
   /images/pixelart/humpclops2.png
@@ -86,6 +84,8 @@ When I was around 14~15 years old I collaborated in the developement of amateur 
   /images/pixelart/Ultian.png
   /images/pixelart/paranui.png
   /images/pixelart/swirkyandtwatypus.png
+  /images/pixelart/1.png
+  /images/pixelart/build07.gif
 {% endcapture %}
 {% include gallery images=images caption="Pixel art" cols=6 %}
 
