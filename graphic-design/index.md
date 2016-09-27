@@ -100,8 +100,8 @@ When I was around 14~15 years old I collaborated in the developement of amateur 
   /images/pixelart/paranui.png
   /images/pixelart/swirkyandtwatypus.png
   /images/pixelart/eggs.png
-  /images/pixelart/1.png
   /images/pixelart/build07.gif
+  /images/pixelart/1.png
 {% endcapture %}
 {% include gallery images=images caption="Pixel art" cols=6 %}
 
