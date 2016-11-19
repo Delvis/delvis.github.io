@@ -21,7 +21,7 @@ I have proposed 4 different logotypes to the LFA. The last one was their favouri
   /images/LoFA3.png
   /images/LoFA4.png
 {% endcapture %}
-{% include gallery images=images caption="A) Vitruvian Skeleton; B) Spreading Caliper; C) 4 Pillars of biological profiling (being used now at Osteomics with slight alterations); D) Cranium network (had the most votes; was chosen by the LFA team" cols=1 %}
+{% include gallery images=images caption="A) Vitruvian Skeleton; B) Spreading Caliper; C) 4 Pillars of biological profiling (being used now at Osteomics with slight alterations); D) Cranium network (had the most votes; was chosen by the LFA team" cols=2 %}
 
 I am also the creator and manager of the lab's website. Visit <a href = "http://lfa.uc.pt" target = "_blank">lfa.uc.pt</a>
 

@@ -9,7 +9,7 @@ image:
 share: true
 ---
 
-In collaboration with <a href = "https://github.com/dsnavega/" target = "_blank">David Navega</a> I have developed the following products for **Forensic Anthropologists**.
+Within Osteomics, I have co-developed the following products for **Forensic Anthropologists**.
 
 ## Biogeographic prediction
 
