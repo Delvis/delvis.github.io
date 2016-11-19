@@ -33,7 +33,7 @@ My most personal project, <a href = "http://osteomics.com" target = "_blank">ost
 
 {% capture images %}
   /images/osteomicsLogo2.png
-  /images/osteomicsPage.png
+  /images/osteomicsPage.jpg
 {% endcapture %}
 {% include gallery images=images caption="Osteomics is a project aiming to change osteology on a world-wide panorama." cols=2 %}
 
@@ -121,9 +121,9 @@ When I was around 14~15 years old I collaborated in the development of amateur R
   /images/pixelart/eggs.png
   /images/pixelart/swirkyandtwatypus.png
   /images/pixelart/build07.gif
-  /images/pixelart/build02.png
-  /images/pixelart/build04.png
   /images/pixelart/Lab01.png
+  /images/pixelart/Build02.png
+  /images/pixelart/Build04.png
 {% endcapture %}
 {% include gallery images=images caption="Pixel art" %}
 
