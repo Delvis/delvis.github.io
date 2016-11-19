@@ -18,22 +18,19 @@ You can see my academic curriculum in the <a href = "http://www.degois.pt/visual
 ## Education and Training
 
 ### Master's Degree in Human Evolution and Biology
-Faculty of Sciences and Technology of the University of Coimbra (Portugal)
-
-05/09/2013 – 15/09/2015
+Faculty of Sciences and Technology of the University of Coimbra (Portugal) | 05/09/2013 – 15/09/2015
 
 **Dissertation:** <a href = "http://jcoelho.com/thesis-on-heat-induced-skeletal-deformations-using-3D-geometric-morphometrics.pdf" target = "_blank">"Unwarping Heated Bones: A Quantitative Analysis of Heat-induced Skeletal Deformations Using 3D Geometric Morphometrics"</a>
 
 #### Graduation in Anthropology
-Faculty of Sciences and Technology of the University of Coimbra (Portugal)
-
-15/09/2010 – 18/08/2013
+Faculty of Sciences and Technology of the University of Coimbra (Portugal) | 15/09/2010 – 18/08/2013
 
 Including Erasmus programme at **Háskóli Íslands** (University of Iceland) - 2012/2013 
 
 ### Massive Open Online Courses (MOOC)
 
 coursera.org
+
 + **Stanford University:** Machine Learning (100%); Statistical Learning (100%);
 + **Johns Hopkins University:** The Data Scientist's Toolbox (100%); R Programming (100%); Getting and Cleaning Data (100%); Exploratory Data Analysis (100%); Reproducible Research (100%); Regression Models (100%); Practical Machine Learning (100%); Developing Data Products (100%); Mathematical Biostatistics Boot Camp 1 (94%); Mathematical Biostatistics Boot Camp 2 (100%); Bioinformatics: Life Sciences on Your Computer (93.5%); Statistical Analysis of fMRI Data (100%);
 + **University of Michigan:** Model Thinking (98.2%); Programming for Everybody (Python) (100%);
@@ -46,6 +43,7 @@ coursera.org
 + **Rice University:** An Introduction to Interactive Programming in Python (98.3%).
 
 edx.org
+
 + **Harvard University:** PH525.1x Statistics and R for the Life Sciences (100%); PH525.2x Matrix Algebra and Linear Models (100%); PH525.3x Advanced Statistics for the Life Sciences (97%); PH525.4x Introduction to Bioconductor (94%); AT1x AnatomyX: Musculoskeletal Cases (98%);
 + **MIT – Massachusetts Institute of Technology:** MAS.S69x Big Data and Social Physics (100%);
 + **The University of Queensland:** World101x Anthropology of Current World Issues (98%);
