@@ -117,12 +117,15 @@ When I was around 14~15 years old I collaborated in the development of amateur R
   /images/pixelart/nimbuclaus.png
   /images/pixelart/Ultian.png
   /images/pixelart/paranui.png
-  /images/pixelart/swirkyandtwatypus.png
-  /images/pixelart/eggs.png
-  /images/pixelart/build07.gif
   /images/pixelart/1.png
+  /images/pixelart/eggs.png
+  /images/pixelart/swirkyandtwatypus.png
+  /images/pixelart/build07.gif
+  /images/pixelart/build02.png
+  /images/pixelart/build04.png
+  /images/pixelart/Lab01.png
 {% endcapture %}
-{% include gallery images=images caption="Pixel art" cols=6 %}
+{% include gallery images=images caption="Pixel art" %}
 
 I also made a huge tileset with Pokémon graphics compatible with RPG Maker XP, you can download <a href = "http://jcoelho.com/images/pixelart/tileset.png" target = "_blank">it here</a>, it will take a while to load.
 
