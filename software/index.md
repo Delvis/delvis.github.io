@@ -15,7 +15,7 @@ In collaboration with <a href = "https://github.com/dsnavega/" target = "_blank"
 
 * <a href="osteomics.com/rASUDAS" target = "_blank">rASUDAS</a>
 * <a href="osteomics.com/hefneR" target = "_blank">hefneR</a>
-* <a href="osteomics.com/AncesTrees" target = "_blank">AncesTrees</a>
+* <a href="osteomics.com/AncesTrees" target = "_blank">AncesTrees</a> - <a href = "https://www.ncbi.nlm.nih.gov/pubmed/25053239" target = "_blank">Publication available</a>
 * <a href="osteomics.com/cranExplr" target = "_blank">cranExplr</a>
 
 ---
@@ -24,7 +24,7 @@ In collaboration with <a href = "https://github.com/dsnavega/" target = "_blank"
 
 * <a href="osteomics.com/raxter" target = "_blank">raxter</a>
 * <a href="osteomics.com/SPINNE" target = "_blank">SPINNE</a>
-* <a href="osteomics.com/MassReg" target = "_blank">MassReg</a> - <a href = "http://onlinelibrary.wiley.com/doi/10.1002/ajpa.22979/abstract" target = "_blank">Publicaiton available</a>
+* <a href="osteomics.com/MassReg" target = "_blank">MassReg</a> - <a href = "http://onlinelibrary.wiley.com/doi/10.1002/ajpa.22979/abstract" target = "_blank">Publication available</a>
 
 ___
 
