@@ -22,7 +22,7 @@ Faculty of Sciences and Technology of the University of Coimbra (Portugal) | 05/
 
 **Dissertation:** <a href = "http://jcoelho.com/thesis-on-heat-induced-skeletal-deformations-using-3D-geometric-morphometrics.pdf" target = "_blank">"Unwarping Heated Bones: A Quantitative Analysis of Heat-induced Skeletal Deformations Using 3D Geometric Morphometrics"</a>
 
-#### Graduation in Anthropology
+### Graduation in Anthropology
 Faculty of Sciences and Technology of the University of Coimbra (Portugal) | 15/09/2010 – 18/08/2013
 
 Including Erasmus programme at **Háskóli Íslands** (University of Iceland) - 2012/2013 
@@ -64,7 +64,7 @@ edx.org
 * Researcher with emphasis on statistical shape analysis (geometric morphometrics) of osteological material
 * Public communication, presenting science-related topics to non-experts
 
-#### Osteomics
+### Osteomics
 
 <figure>
 	<a href="http://osteomics.com" target="_blank"><img src="http://jcoelho.com/images/osteomicsLogo.png" alt="osteomics: bone products"></a>
@@ -75,7 +75,7 @@ In this startup I've been working directly with 3D printing technologies, virtua
 
 ---
 
-#### Honours and Awards
+## Honours and Awards
 
 * Finalist: "Best Business Plan" category at Arrisca-C 2014.
 * Grant recipient: Startup project through the "Passaporte para o Empreendedorismo" programme.
