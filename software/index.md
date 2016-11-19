@@ -9,60 +9,36 @@ image:
 share: true
 ---
 
-## hefneR
+In collaboration with <a href = "https://github.com/dsnavega/" target = "_blank">David Navega</a> I have developed the following products for **Forensic Anthropologists**.
 
-<a href = "http://apps.osteomics.com/hefneR" target = "_blank">Click here to try hefneR!</a>
+## Biogeographic prediction
 
-First app I have ever done using the R and Shiny environment. An homage to Hefner's life work in forensic anthropology and ancestry.
-
-{% capture images %}
-  /images/hefnerP1.png
-  /images/hefnerP2.png
-  /images/hefnerP3.png
-{% endcapture %}
-{% include gallery images=images caption="hefneR is a fully functional app for ancestry estimation based of morphoscopic traits of the human skull." cols=3 %}
+<a href="osteomics.com/rASUDAS" target = "_blank">rASUDAS</a>
+<a href="osteomics.com/hefneR" target = "_blank">hefneR</a>
+<a href="osteomics.com/AncesTrees" target = "_blank">AncesTrees</a>
+<a href="osteomics.com/cranExplr" target = "_blank">cranExplr</a>
 
 ---
 
-## MassReg
+## Body parameters calculation
 
-<a href = "http://apps.osteomics.com/MassReg" target = "_blank">Click here to try MassReg!</a>
+<a href="osteomics.com/raxter" target = "_blank">raxter</a>
+<a href="osteomics.com/SPINNE" target = "_blank">SPINNE</a>
+<a href="osteomics.com/MassReg" target = "_blank">MassReg</a> - <a href = "http://onlinelibrary.wiley.com/doi/10.1002/ajpa.22979/abstract" target = "_blank">Publicaiton available</a>
 
-Last work based on a paper that will soon be submited. Objective is to predict the **total skeletal mass** (y variable) based on the mass of single bones (x variable), through simple linear regression models.
+___
 
-{% capture images %}
-  /images/massregP1.png
-  /images/massregP2.png
-  /images/massregP3.png
-{% endcapture %}
-{% include gallery images=images caption="The estimation of total skeletal mass can potentially lead to important inferences regarding the circumstances of death. MassReg aim is to support researchers in such endeavors." cols=3 %}
+## Age-at-death estimation
 
----
+<a href="osteomics.com/DXAGE" target = "_blank">DXAGE</a>
+<a href="osteomics.com/SSAGE" target = "_blank">SSAGE</a>
 
-## cranExplr
+___
 
-<a href = "http://apps.osteomics.com/cranExplr/" target = "_blank">Click here to try cranExplr!</a>
+## Sex diagnosis
 
-Project done in less than a day for official submission in the online course <a href = "https://www.coursera.org/course/devdataprod" target = "_blank">Developing Data Products</a> from the Johns Hopkins University. I also had to submit an online presentation fully programmed in R, that you can can check <a href = "http://rpubs.com/Del/cranExplrDeck" target = "_blank">here</a>.
-
-{% capture images %}
-  /images/cranP1.png
-  /images/cranP2.png
-  /images/cranP3.png
-{% endcapture %}
-{% include gallery images=images caption="cranExplr is supposed to be just a visual exploration tool. However, it can also be used for case-by-case estimation if you have complete crania at hand." cols=3 %}
-
----
-
-
-<!---
-## rASUDAS
-
-<a href = "https://dsnavega.shinyapps.io/r-asudas-app/" target = "_blank">Click here to try rASUDAS!</a>
-
-A predictive software based on ASUDAS and developed in R stemming from a collaborative effort with <a href = "https://github.com/dsnavega"  target = "_blank">David Navega</a> and Professor <a href = "http://www.unr.edu/anthropology/people/faculty/g-richard-scott" target = "_blank">G. Richard Scott</a> that was born during the <a href = "http://www.uc.pt/fctuc/dcv/eventos/2015/IIbam" target = "_blank">II Bioanthropological Meeting</a> (Coimbra, Portugal). Together, we will revolutionize the field of dental morphology while creating a very useful new tool for ancestry estimation. The current version is a very early prototype, but already fully functional. Soon, we will update it with a far larger database and optimized algorithm, and provide also an offline executable version.
--->
-
-
+<a href="osteomics.com/CADOES" target = "_blank">CADOES</a>
+<a href="osteomics.com/SeuPF" target = "_blank">SeuPF</a> - <a href = "http://www.ncbi.nlm.nih.gov/pubmed/27373600" target = "_blank">Publication available</a>
+<a href="osteomics.com/DSP" target = "_blank">DSP</a>
 
 
