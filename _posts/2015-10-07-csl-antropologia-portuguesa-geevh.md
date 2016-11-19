@@ -13,7 +13,7 @@ This .csl file uses the style described in <a href = "http://impactum-journals.u
 ### Instructions:
 
 1. Install Zotero if you haven't done so.
-2. Download the `antropologia-portuguesa.csl` from <a href="https://github.com/Delvis/antropologia-portuguesa-csl">GitHub</a>.
+2. Download the *antropologia-portuguesa.csl* from <a href="https://github.com/Delvis/antropologia-portuguesa-csl">GitHub</a>.
 3. Double click on the file.
 4. In Zotero's settings, change your current style to "Antropologia Portuguesa".
 5. You are ready to go!
