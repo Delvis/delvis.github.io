@@ -9,14 +9,21 @@ image:
 share: true
 ---
 
-For as long as memory allows me to dive in I've had an inordinate fondness for drawing and playing aroud with illustration software.
+For as long as memory allows me to dive in I've had an inordinate fondness for drawing and playing around with illustration software.
 
 ## Laboratory of Forensic Anthropology
 
-<figure>
-  <img src="http://jcoelho.com/images/lafLogo1.png" alt="Laboratório de Antropologia Forense">
-  <figcaption>The idea was to recreate the <a href = "https://en.wikipedia.org/wiki/Vitruvian_Man" target = "_blank">Vitruvian Man</a> concept, a Da Vinci's famous drawing. But instead, using a skeleton to represent the main object of study for forensic anthropologists. This is a logo I've designed for a portuguese lab of forensic anthropology hosted at the University of Coimbra, Portugal.</figcaption>
-</figure>
+I have proposed 4 different logotypes to the LFA. The last one was their favourite.
+
+{% capture images %}
+  /images/LoFA1.png
+  /images/LoFA2.png
+  /images/LoFA3.png
+  /images/LoFA4.png
+{% endcapture %}
+{% include gallery images=images caption="A) Vitruvian Skeleton; B) Spreading Caliper; C) 4 Pillars of biological profiling (being used now at Osteomics with slight alterations); D) Cranium network (had the most votes; was chosen by the LFA team" cols=2 %}
+
+I am also the creator and manager of the lab's website. Visit <a href = "http://lfa.uc.pt" target = "_blank">lfa.uc.pt</a>
 
 ---
 
@@ -32,14 +39,24 @@ My most personal project, <a href = "http://osteomics.com" target = "_blank">ost
 
 ---
 
+## JEST
+
+I am a webdesigner at <a href = "http://jest.pt" target = "_blank">Junior Enterprise for Science and Tech</a>.
+
+{% capture images %}
+  /images/jestLogo_coresB.png
+  /images/jestPage.png
+{% endcapture %}
+{% include gallery images=images caption="JEST, page design. Logotype concept uses the '< >' visual from the coding community while creating a double Diamonds aesthetics (JESTer), plus it also mimics the DNA Code visual models." cols=2 %}
+
+---
+
 ## HOT Project logo
 
 <figure>
-  <p align = "center">
-  <img src="http://jcoelho.com/images/HOT-Logo-withBlackOutlines.png" alt="HOT LOGO 1" width = "20%">   (A)   
-  <img src="http://jcoelho.com/images/HOT-Logo.png" alt="HOT LOGO 2" width = "20%">   (B)   
-  <img src="http://jcoelho.com/images/HOT-Logo-minimalist.png" alt="HOT LOGO 3" width = "20%">   (C)   </p>
-  <figcaption>The HOT Project has brought together a group of researchers insterested in burnt bones and teeth. This logo was developed based on an earlier similar concept originally thought by David Gonçalves. While I tend to prefer version A, the one ending up being chosen was C.</figcaption>
+  <p align = "center">   
+  <img src="http://jcoelho.com/images/HOT-Logo.png" alt="HOT LOGO"> </p>
+  <figcaption>The HOT Project has brought together a group of researchers interested in burnt bones and teeth. This logo was developed based on an earlier similar concept originally thought by David Gonçalves.</figcaption>
 </figure>
 
 To read more about the HOT Project, <a href = "http://hotresearch.wix.com/main" target = "_blank">click here</a>.
@@ -48,21 +65,23 @@ To read more about the HOT Project, <a href = "http://hotresearch.wix.com/main" 
 
 ## Scientific Posters
 
-One of the stuff I enjoy the most is to design scientifc posters that are clean, minimalist and easily convey useful info to the public in conferences.
+One of the stuff I enjoy the most is to design scientific posters that are clean, minimalist and easily convey useful info to the public in conferences.
 
 {% capture images %}
   /images/TALUSposter1.jpg
   /images/HOTposter1.jpg
   /images/TALUSposter2.jpg
+  /images/posterDXAGE.png
 {% endcapture %}
-{% include gallery images=images caption="Scientifc posters for international conferences." cols=3 %}
+{% include gallery images=images caption="Scientifc posters for international conferences." cols=4 %}
 
 
 ---
 
+
 # Pixel Art
 
-When I was around 14~15 years old I collaborated in the developement of amateur RPG (Role-Playing Games) international projects, including a Pokémon fan-game.
+When I was around 14~15 years old I collaborated in the development of amateur RPG (Role-Playing Games) international projects, including a Pokémon fan-game.
 
 {% capture images %}
   /images/pixelart/darkball.png
@@ -105,5 +124,5 @@ When I was around 14~15 years old I collaborated in the developement of amateur 
 {% endcapture %}
 {% include gallery images=images caption="Pixel art" cols=6 %}
 
-I also made a huge tileset with Pokémon graphics compatible with RPG Maker XP, you can download <a href = "http://jcoelho.com/images/pixelart/tileset.png" target = "_blank">it here</a>, it will take a will to load.
+I also made a huge tileset with Pokémon graphics compatible with RPG Maker XP, you can download <a href = "http://jcoelho.com/images/pixelart/tileset.png" target = "_blank">it here</a>, it will take a while to load.
 
