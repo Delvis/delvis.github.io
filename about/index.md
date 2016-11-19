@@ -60,7 +60,7 @@ edx.org
 
 * Collaborator at the <a href = "http://cfe.uc.pt" target = "_blank">Paleoecology and Forensic Sciences</a> group
 * Webmaster and webdesigner at <a href = "http://lfa.uc.pt" target = "_blank">Laboratory of Forensic Anthropology</a>
-* Head of 3D scanning and photogrammetry. Curator of the <a href="sketchfab.com/lfa" target = "_blank">CEIXXI 3D Crania Collection</a>
+* Head of 3D scanning and photogrammetry. Curator of the <a href="http://sketchfab.com/lfa" target = "_blank">CEIXXI 3D Crania Collection</a>
 * Researcher with emphasis on statistical shape analysis (geometric morphometrics) of osteological material
 * Public communication, presenting science-related topics to non-experts
 

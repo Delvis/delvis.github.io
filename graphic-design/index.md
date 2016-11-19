@@ -11,6 +11,18 @@ share: true
 
 For as long as memory allows me to dive in I've had an inordinate fondness for drawing and playing around with illustration software.
 
+## JEST
+
+I am a webdesigner at <a href = "http://jest.pt" target = "_blank">Junior Enterprise for Science and Tech</a>.
+
+{% capture images %}
+  /images/jestLogo_coresB.png
+  /images/jestPage.jpg
+{% endcapture %}
+{% include gallery images=images caption="JEST, page design. Logotype concept uses the '< >' visual from the coding community while creating a double Diamonds aesthetics (JESTer), plus it also mimics the DNA Code visual models." cols=2 %}
+
+---
+
 ## Laboratory of Forensic Anthropology
 
 I have proposed 4 different logotypes to the LFA. The last one was their favourite.
@@ -39,18 +51,6 @@ My most personal project, <a href = "http://osteomics.com" target = "_blank">ost
 
 ---
 
-## JEST
-
-I am a webdesigner at <a href = "http://jest.pt" target = "_blank">Junior Enterprise for Science and Tech</a>.
-
-{% capture images %}
-  /images/jestLogo_coresB.png
-  /images/jestPage.jpg
-{% endcapture %}
-{% include gallery images=images caption="JEST, page design. Logotype concept uses the '< >' visual from the coding community while creating a double Diamonds aesthetics (JESTer), plus it also mimics the DNA Code visual models." cols=2 %}
-
----
-
 ## HOT Project logo
 
 <figure>
@@ -75,9 +75,7 @@ One of the stuff I enjoy the most is to design scientific posters that are clean
 {% endcapture %}
 {% include gallery images=images caption="Scientifc posters for international conferences." cols=2 %}
 
-
 ---
-
 
 # Pixel Art
 
