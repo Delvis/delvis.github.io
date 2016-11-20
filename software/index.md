@@ -11,7 +11,7 @@ share: true
 
 Within Osteomics, I have co-developed the following products for **Forensic Anthropologists**.
 
-<h2><img src = "/images/miniAncestry.png">. Biogeographic prediction</h2>
+<h2><img src = "/images/miniAncestry.png">	Biogeographic prediction</h2>
 
 * <a href="http://osteomics.com/rASUDAS" target = "_blank">rASUDAS</a>
 * <a href="http://osteomics.com/hefneR" target = "_blank">hefneR</a>
@@ -20,7 +20,7 @@ Within Osteomics, I have co-developed the following products for **Forensic Anth
 
 ---
 
-<h2><img src = "/images/miniBody.png">. Body parameters calculation</h2>
+<h2><img src = "/images/miniBody.png">	Body parameters calculation</h2>
 
 * <a href="http://osteomics.com/raxter" target = "_blank">raxter</a>
 * <a href="http://osteomics.com/SPINNE" target = "_blank">SPINNE</a>
@@ -28,14 +28,14 @@ Within Osteomics, I have co-developed the following products for **Forensic Anth
 
 ___
 
-<h2><img src = "/images/miniAge.png">. Age-at-death estimation</h2>
+<h2><img src = "/images/miniAge.png">	Age-at-death estimation</h2>
 
 * <a href="http://osteomics.com/DXAGE" target = "_blank">DXAGE</a>
 * <a href="http://osteomics.com/SSAGE" target = "_blank">SSAGE</a>
 
 ___
 
-<h2><img src = "/images/miniSex.png">. Sex diagnosis</h2>
+<h2><img src = "/images/miniSex.png">	Sex diagnosis</h2>
 
 * <a href="http://osteomics.com/CADOES" target = "_blank">CADOES</a>
 * <a href="http://osteomics.com/SeuPF" target = "_blank">SeuPF</a> - <a href = "http://www.ncbi.nlm.nih.gov/pubmed/27373600" target = "_blank">Publication available</a>
