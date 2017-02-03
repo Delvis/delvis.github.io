@@ -16,11 +16,11 @@ I'm proud to announce that my first peer-reviewed paper "*One for all and all fo
 
 Not a bad magazine for the first one, huh?
 
-This was a collaborative work lead by <a href = "http://lfa.uc.pt/member/david_goncalves/" target = "_blank">David Gonçalves</a> that counted with the help of many <a href = "http://lfa.uc.pt/team/">team members</a> from the <a href = "http://lfa.uc.pt/" target = "_blank">Laboraty of Forensic Anthropology</a>. I was deeply involved in this project from the beginning, and my main contributions were with the statistical analysis and predictive modelling. Plus, designing and programming a simple webapp, that was branded as <a href = "http://apps.osteomics.com/MassReg" target = "_blank">MassReg</a>. It allows users to explore our data and apply our models to their own samples.
+This was a collaborative work lead by <a href = "http://lfa.uc.pt/member/david_goncalves/" target = "_blank">David Gonçalves</a> that counted with the help of many <a href = "http://lfa.uc.pt/team/">team members</a> from the <a href = "http://lfa.uc.pt/" target = "_blank">Laboratory of Forensic Anthropology</a>. I was deeply involved in this project from the beginning, and my main contributions were with the statistical analysis and predictive modelling. Plus, designing and programming a simple webapp, that was branded as <a href = "http://osteomics.com/MassReg" target = "_blank">MassReg</a>. It allows users to explore our data and apply our models to their own samples.
 
 
 <figure>
-	<a href = "http://apps.osteomics.com/MassReg" target = "_blank"><img src="http://jcoelho.com/images/MassReg-Logo.png"/></a>
+	<a href = "http://osteomics.com/MassReg" target = "_blank"><img src="http://jcoelho.com/images/MassReg-Logo.png"/></a>
 	<figcaption>MassReg Logo</figcaption>
 </figure>
 
