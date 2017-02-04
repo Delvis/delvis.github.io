@@ -18,4 +18,4 @@ Around the end of last year I wrote a research proposal for a DPhil in Anthropol
 
 This week the official results of the <a href="http://fct.pt" href="_blank">Fundação para a Ciência e a Tecnologia</a> grants also come out. For me, it was positive! Which was awesome, unexpected good news. This scholarship will help me pay my studies and my life for the next 3 or 4 years in England.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=a7yb5eKBdYE" frameborder="0"> </iframe>
+<iframe width="460" height="315" src="https://www.youtube.com/watch?v=a7yb5eKBdYE" frameborder="0" allowfullscreen></iframe>
