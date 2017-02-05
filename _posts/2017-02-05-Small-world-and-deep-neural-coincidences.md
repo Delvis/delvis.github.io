@@ -25,7 +25,7 @@ What showed up in the video you can see here: <a href="http://www.evolvingai.org
 
 <figure>
 	<img src="/images/COCCINELLA-SEPTEMPUNCTATA.png" alt="7-spot ladybug">
-	<figcaption>Coccinella setempunctata, copulating (May, 2009 - Ansião, Portugal).</figcaption>
+	<figcaption>Coccinella setempunctata, copulating (May, 2009 - Ansião, Portugal). This is actually another picture from the same day, that I like better.</figcaption>
 </figure>
 
 So it seems I had this picture on <a href="https://www.flickr.com/photos/joaocoelho/3494485393" target="_blank">my old Flickr account</a>. And somehow, as they explain "we show the top 9 validation set images that highest activate a given neuron (left) and 9 synthetic images produced by our method (right)", this makes my picture a very ladybug-ish picture to "ladybug neurons" that were trained with thousands of ladybug pictures, or so I guess. That's so strange and hard to gasp.
