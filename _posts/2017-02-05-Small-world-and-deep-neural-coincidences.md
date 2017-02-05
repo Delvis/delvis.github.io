@@ -10,9 +10,9 @@ Today I was trying to update myself on the state of the art of deep learning, a 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3lp9eN5JE2A" frameborder="0" allowfullscreen></iframe>
 
-It is a work from the Evolving AI Lab, with Jeff Clune giving the lecture. But as he notices, most of the work presented is by his student Anh Nguyen, who has some awesome publications in the field of deep learning.
+It is a work from the Evolving AI Lab, with Jeff Clune giving the lecture. But as he notices, most of the work presented, was done by his student, Anh Nguyen, who has some awesome publications in the field of deep learning.
 
-Now the coolest thing, is that near the end of the video, Clune starts talking about how deep learning can used in a generative sense. For example, you can give hundreds of pictures of a flower or a bus to your model, and then use your model to create new, never seen before, pictures of what the model understands as a flower, or a bus. Then he shows some images of the results, and its very interesting.
+Now the coolest thing, is that near the end of the video, Clune starts talking about how deep learning can be used in a generative sense. For example, you can give hundreds of pictures of a flower or a bus to your model, and then use your model to create new, never seen before, pictures of what the model understands as a flower, or a bus. Then he shows some images of the results, and its very interesting.
 
 <figure>
 	<img src="/images/deepnn_ladybugs.png" alt="7-spot ladybug">
@@ -28,8 +28,10 @@ What showed up in the video you can see here: <a href="http://www.evolvingai.org
 	<figcaption>Coccinella setempunctata, copulating (May, 2009 - Ansião, Portugal).</figcaption>
 </figure>
 
-So it seems I had this picture on <a href="https://www.flickr.com/photos/joaocoelho/3494485393" target="_blank">my old Flickr account</a>. And somehow, as they explain "we show the top 9 validation set images that highest activate a given neuron (left) and 9 synthetic images produced by our method (right)", this makes my picture a very ladybug-ish picture to ladybug neurons that were trained with thousands of ladybug pictures, or so I guess. That's so strange and hard to gasp.
+So it seems I had this picture on <a href="https://www.flickr.com/photos/joaocoelho/3494485393" target="_blank">my old Flickr account</a>. And somehow, as they explain "we show the top 9 validation set images that highest activate a given neuron (left) and 9 synthetic images produced by our method (right)", this makes my picture a very ladybug-ish picture to "ladybug neurons" that were trained with thousands of ladybug pictures, or so I guess. That's so strange and hard to gasp.
 
 Cool stuff I thought I could share.
 
+Bye,
+joaninha voa voa que o teu pai...
 
