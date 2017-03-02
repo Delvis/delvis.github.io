@@ -114,7 +114,7 @@ When I was around 14~15 years old I collaborated in the development of amateur R
   /images/pixelart/koalampur.png
   /images/pixelart/nimbuclaus.png
   /images/pixelart/Ultian.png
-  /images/pixelart/paranui.png
+  /images/pixelart/parapanui.png
   /images/pixelart/1.png
   /images/pixelart/eggs.png
   /images/pixelart/swirkyandtwatypus.png
