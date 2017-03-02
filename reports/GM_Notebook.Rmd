@@ -1,0 +1,192 @@
+---
+title: "Distal Humeri Shape Analysis Notebook"
+output:
+  html_document: default
+  html_notebook: default
+---
+
+*Authors:* J. Coelho, S. Ammer
+
+```{r importing data}
+library(ggplot2)
+library(Momocs) # package for outline and curve analysis
+setwd("/Users/del/ACADEMY/WIP/HumerusProject/Photos_final/") # location of my data
+
+rawLPF <- import_tps(tps.path = "LPF/LPF.TPS", curves = T) # read data Left, Posterior, Females
+rawLPM <- import_tps(tps.path = "LPM/LPM.TPS", curves = T) # read data Left, Posterior, Males
+
+```
+
+## Rebuild dataset
+
+For some reason, I can't use `Momocs::Out()` directly on my imported TPS. Tried many ways, always obtaining different errors. I thought this migh be because the **p** of coordinates is not consistent. So I resample them. In my understanding `coo_sample()` works well for open curves, while I prefered `coo_interpolate()` for my closed outlines, sinde they had very inconsistent **p**.
+
+```{r rebuild}
+# Rebuild datasets
+# For females
+
+for	(i in seq_along(rawLPF$cur)){
+	# open (curves)
+	rawLPF$cur[[i]][[1]] <- coo_sample(rawLPF$cur[[i]][[1]], n = 16)
+	# closed (outlines)
+	rawLPF$cur[[i]][[2]] <- coo_interpolate(rawLPF$cur[[i]][[2]], n = 24)
+	# keep the IDs
+	names(rawLPF$cur)[[i]] <- names(rawLPF$cur)[[i]]
+}
+
+## For males
+
+for	(i in seq_along(rawLPM$cur)){
+	# open (curves)
+	rawLPM$cur[[i]][[1]] <- coo_sample(rawLPM$cur[[i]][[1]], n = 16)
+	# closed (outlines)
+	rawLPM$cur[[i]][[2]] <- coo_interpolate(rawLPM$cur[[i]][[2]], n = 24)
+	# keep the IDs
+	names(rawLPM$cur)[[i]] <- names(rawLPM$cur)[[i]]
+}
+
+```
+
+## Spliting data
+
+I tried to work with my curves together but for some reason, I also got errors trying to `Out()` these. So first I will split my open curve (TE: Throclear Extension) from my closed outlines (OF: Olecranon Fossa), but combine my males and females datasets to see the differences among these groups.
+
+```{r split}
+
+TE.f <- list()
+for	(i in seq_along(rawLPF$cur)){
+	TE.f[[i]] <- rawLPF$cur[[i]][[1]]
+	names(TE.f)[[i]] <- names(rawLPF$cur)[[i]]
+}
+
+TE.m <- list()
+for	(i in seq_along(rawLPM$cur)){
+	TE.m[[i]] <- rawLPM$cur[[i]][[1]]
+	names(TE.m)[[i]] <- names(rawLPM$cur)[[i]]
+}
+
+Sex <- rep("Female", length(TE.f))
+TE.f <- Out(TE.f, fac = as.data.frame(Sex))
+Sex <- rep("Male", length(TE.m))
+TE.m <- Out(TE.m, fac = as.data.frame(Sex))
+TE <- combine(TE.f, TE.m)
+
+###
+
+OF.f <- list()
+for	(i in seq_along(rawLPF$cur)){
+	OF.f[[i]] <- rawLPF$cur[[i]][[2]]
+	names(OF.f)[[i]] <- names(rawLPF$cur)[[i]]
+}
+
+OF.m <- list()
+for	(i in seq_along(rawLPM$cur)){
+	OF.m[[i]] <- rawLPM$cur[[i]][[2]]
+	names(OF.m)[[i]] <- names(rawLPM$cur)[[i]]
+}
+
+Sex <- rep("Female", length(OF.f))
+OF.f <- Out(OF.f, fac = as.data.frame(Sex))
+Sex <- rep("Male", length(OF.m))
+OF.m <- Out(OF.m, fac = as.data.frame(Sex))
+OF <- combine(OF.f, OF.m)
+
+
+```
+
+## Procrustes and Rotation
+
+My pics were (anatomically) upside-down. So I use the very useful `coo_rotate()` by Pi radians (180º). I have done some landmarks-based analysis before were procrustes was a mandatory step. I am not sure if it is with open curves and closed outlines, however I am also doing a superimposition step here.
+
+```{r Procrustes}
+TE.aligned <- TE %>% coo_rotate(.,theta = pi) %>% fgProcrustes() %>% Opn()
+OF.aligned <- OF %>% coo_rotate(.,theta = pi) %>% fgProcrustes() %>% coo_close()
+```
+
+# Throclear Extension
+
+```{r TE plotting}
+
+TE.aligned %>% stack(., title = "Trochlear Extension (H. sapiens)", fac = "Sex")
+
+TE.aligned %>% panel(., fac = "Sex")
+
+TE.aligned %>% npoly() %>% PCA() %>% plot(.,"Sex") # I need to read about this
+TE.aligned %>% opoly() %>% PCA() %>% plot(.,"Sex") # read about this
+TE.aligned %>% dfourier() %>% PCA() %>% plot(.,"Sex") # strange results; might not be proper for this dataset.
+
+TE.n <- npoly(TE.aligned, nb.pts = 16, degree = 5)
+TE.pca <- PCA(TE.n)
+TE.pca %>% as_df() %>% ggplot() +
+	aes(x = PC1, y = PC2, col = Sex) + coord_equal() + 
+	geom_point() + geom_density2d() + theme_light()
+
+# mean shape:
+TE.n %>% mshapes() %>% coo_plot()
+# mean shape per group:
+TE.ms <- mshapes(TE.n, 1)
+TEfffs <- TE.ms$shp$Female %T>% coo_plot(border = "red")
+TEmmms <- TE.ms$shp$Male %T>% coo_draw(border = "blue")
+legend("topright", lwd = 1, col = c("red", "blue"), legend = c("Female", "Male"), cex = 0.8)
+title(main = "Throclear Extension - Mean shapes")
+
+# TPS plots
+coo_lolli(TEfffs, TEmmms); title("Deformations")
+coo_arrows(TEfffs, TEmmms); title("Deformations")
+tps_grid(TEfffs, TEmmms)
+tps_arr(TEfffs, TEmmms)
+tps_iso(TEfffs, TEmmms)
+```
+
+# Olecranon Fossa
+
+```{r OF plotting}
+
+OF.aligned %>% stack(.,title = "Olecranon Fossa (H. sapiens)", fac = "Sex")
+OF.aligned %>% panel(., fac = "Sex")
+
+OF.aligned %>% efourier(norm=TRUE) %>% PCA() %>% plot(.,"Sex")
+
+OF.f <- efourier(OF.aligned, nb.h = 6)
+OF.pca <- PCA(OF.f)
+OF.pca %>% as_df() %>% ggplot() +
+	aes(x = PC1, y = PC2, col = Sex) + coord_equal() + 
+	geom_point() + geom_density2d() + theme_light()
+
+# mean shape:
+OF.f %>% mshapes() %>% coo_plot()
+# mean shape per group:
+OF.ms <- mshapes(OF.f, 1)
+OFfffs <- OF.ms$shp$Female %T>% coo_plot(border = "red")
+OFmmms <- OF.ms$shp$Male %T>% coo_draw(border = "blue")
+legend("topright", lwd = 1, col = c("red", "blue"), legend = c("Female", "Male"), cex = 0.8)
+title(main = "Olecranon Fossa - Mean shapes")
+
+# TPS plots
+coo_lolli(OFfffs, OFmmms); title("Deformations")
+coo_arrows(OFfffs, OFmmms); title("Deformations")
+tps_grid(OFfffs, OFmmms)
+tps_arr(OFfffs, OFmmms)
+tps_iso(OFfffs, OFmmms)
+
+```
+
+# Individuals by individual 
+## Throclear Extension
+
+```{r}
+p <- list()
+for (i in seq_along(TE.aligned)){
+	p[[i]] <- coo_oscillo(TE.aligned$coo[[i]])
+}
+```
+
+## Olecranon Fossa
+
+```{r}
+p <- list()
+for (i in seq_along(OF.aligned)){
+	p[[i]] <- coo_oscillo(OF.aligned$coo[[i]])
+}
+```
+
