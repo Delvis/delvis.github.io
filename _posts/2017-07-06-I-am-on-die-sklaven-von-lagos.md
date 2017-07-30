@@ -16,7 +16,7 @@ So this is one of those really cool things that passed through my mind when I wa
 	<figcaption>Click on the image to watch the documentaries episodes.</figcaption>
 </figure>
 
-TThe documentary is split into 6 episodes:
+The documentary is split into 6 episodes:
 
 + The skeletons from Algarve
 + Bioarchaeology: working with the bones
