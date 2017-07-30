@@ -24,4 +24,4 @@ Below, you will find humeri in pairs of *before* and *after* experimental burnin
 	<iframe src="https://sketchfab.com/models/bfc65c33d6194f7194381b07404363b4/embed" width="45%" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </p>
 
-The full gallery, with a total of 40 interactive 3D meshes of humeri can be found at [osteomics](http://osteomics.com/3d-virtual-models-of-hot-humeri/).
+The full gallery, with a total of 38 interactive 3D meshes of humeri can be found at [LFA 3D collections](https://sketchfab.com/lfa/collections/ceixxi-hotbones).
