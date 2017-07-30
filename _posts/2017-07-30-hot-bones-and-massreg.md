@@ -11,7 +11,7 @@ tags: [burnt, osteology]
 I am very pleased to announce that the HOT team has a new site:
 
 <figure>
-	<a href = "http://hotbones.net" target="_blank"><img src="/images/HOT-LOGO_bones.png" alt="hot bones"></a>
+	<a href = "http://hotbones.net" target="_blank"><img src="/images/hotbones.png" alt="hot bones"></a>
 	<figcaption>Click on the image to visit HOT BONES</figcaption>
 </figure>
 
