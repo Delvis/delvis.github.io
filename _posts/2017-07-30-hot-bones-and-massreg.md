@@ -26,7 +26,9 @@ Besides, we published recently, with some of the team members a new paper, *Dead
 Congrats to all involved!
 
 <a href = "http://www.scienceandjusticejournal.com/article/S1355-0306(17)30086-2/fulltext" target="_blank">Dead weight: Validation of mass regression equations on experimentally burned skeletal remains to assess skeleton completeness</a>
+
 *D. Gonçalves, J. d'Oliveira Coelho, A. Amarante, C. Makhoul, I. Oliveira-Santos, D. Navega, E. Cunha*
+
 **DOI:** http://dx.doi.org/10.1016/j.scijus.2017.07.003
 
 Best regards,
