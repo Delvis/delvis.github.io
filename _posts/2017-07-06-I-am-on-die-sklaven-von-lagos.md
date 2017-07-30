@@ -7,7 +7,7 @@ tags: [linguistics, mooc, duolingo]
 
 Hi everyone,
 
-So this is one of those really cool things that passed through my mind when I was a kid. Luckily, it is a dream I can remove from the checklist! So I appeared on a documentary on biological anthropology, more specifically about a recently discovered archaeological skeletal collection from Lagos, Portugal. This collection is unique, worldwide, in how much it can tell us about slavery related to the Exploration Epoch.
+So this is one of those really cool things that passed through my mind when I was a kid. Luckily, it is a dream I can remove from the checklist! So I appeared on a documentary on biological anthropology, more specifically about a recently discovered archaeological skeletal collection from Lagos, Portugal. This collection is unique, worldwide, in how much it can tell us about slavery related to the Age of Discovery.
 
 ## Die Sklaven von Lagos
 
