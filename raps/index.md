@@ -11,6 +11,13 @@ share: true
 
 I do rhyme once in a while, in portuguese - my mother tongue, under the alias of <a href="https://www.facebook.com/delvispr/" target = "_blank">DEL</a>.
 
+<h2>αxioma do sintoμa</h2>
+
+Poetry: João Coelho
+
+Instrumental: <a href="https://soundcloud.com/user-515975840" target="_blank">Carlos André Fonseca</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t_7fM-PMP9I" frameborder="0" allowfullscreen></iframe>
 
 <h2>Solipsismo a Dois</h2>
 
