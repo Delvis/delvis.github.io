@@ -26,7 +26,7 @@ All instrumentals by: <a href="http://kaoru.x10.mx" target="_blank">Carlos Andr�
 
 All mixed by: <a href="https://www.facebook.com/ZGcrAy/" target="_blank">José Guilherme Almeida</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jwrgoE1whz0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLDWPIkPOtJfVJcbQLkHtLNt81afv6gqMi" frameborder="0" allowfullscreen></iframe>
 
 <h2>αxioma do sintoμa</h2>
 
