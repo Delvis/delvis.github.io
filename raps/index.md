@@ -11,7 +11,7 @@ share: true
 
 I do rhyme once in a while, in portuguese - my mother tongue, under the alias of <a href="https://www.facebook.com/delvispr/" target = "_blank">DEL</a>. This schizophrenic fictional character also has over 20 heteronyms, some of those (e.g. delvispresley, g-elo, etc.) have realeased some tracks already.
 
-<h2>EP</h2>
+<h2>"da qaniɣ à aniɣu" (EP)</h2>
 
 4 songs, per order:
 
