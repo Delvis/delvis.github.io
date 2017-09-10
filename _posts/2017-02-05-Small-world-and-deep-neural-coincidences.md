@@ -2,7 +2,7 @@
 layout: post
 title: "Small world and deep neural coincidences"
 description: "Or how sharing stuff on the internet makes you come across your own stuff years later"
-tags: [programming, data science, entomology, deep learning]
+tags: [programming, data science, entomology, machine learning]
 ---
 
 Today I was trying to update myself on the state of the art of deep learning, a paradigm of machine learning that is exploding in popularity. In very few words, it grows artificial neural networks with very deep architectures (i.e. hundreds of hidden layers, thousands or millions of neurons) in an attempt to simulate or even beat human performance in a variety of tasks, for example, recognizing objects in pictures. And somehow I ended up watching this video:
