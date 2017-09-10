@@ -2,7 +2,7 @@
 layout: post
 title: "Lauching JEST and R Attack"
 description: "R programming workshop and Junior Enterprise for Science and Tech"
-tags: [programming, data science, JEST, R]
+tags: [programming, data science, JEST, R, machine learning]
 ---
 
 <figure>

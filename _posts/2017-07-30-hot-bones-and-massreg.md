@@ -2,7 +2,7 @@
 layout: post
 title: "New site for HOT BONES and new MassReg article"
 description: "I developed hotbones.net and published an article on full skeleton mass estimation with burned bones"
-tags: [burnt, osteology]
+tags: [burnt, osteology, forensic anthropology]
 ---
 
 ## HOT BONES
