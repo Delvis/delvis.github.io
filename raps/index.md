@@ -9,7 +9,27 @@ image:
 share: true
 ---
 
-I do rhyme once in a while, in portuguese - my mother tongue, under the alias of <a href="https://www.facebook.com/delvispr/" target = "_blank">DEL</a>. This schizophrenic fictional character also has over 20 heteronyms, some of those (e.g. delvispresley, g-elo, etc.) have realeased some tracks already.
+I do rhyme once in a while, in portuguese - my mother tongue - under the alias of <a href="https://www.facebook.com/delvispr/" target = "_blank">DEL</a>. This schizophrenic fictional character also has over 20 heteronyms, some of those (e.g. delvispresley, g-elo, etc.) have realeased some tracks already.
+
+<h2>delvispresley এবং kaoru starkid ≐ CYBERRAP - Vol. 1 "Memórias de 2103"</h2>
+
+This biopunk inspired EP, released on 11/11/17, contains 7 unreleased tracks from 2011-13 that were remixed by LeVert, per order:
+
++ Um Ensaio em Orch OR de 42 microtúbulos
++ CIRC8S
++ em redes neuronais (feat. Dusk)
++ da casca ao recipiente
++ aperta-me
++ isto sim, são barras
++ IC8
+
+All poetry by: João Coelho (2011-13), with expection of Dusk's own part (by Ricardo Alves, 2011).
+
+All instrumentals by: <a href="http://kaoru.x10.mx" target="_blank">Carlos André Fonseca (2011)</a>
+
+All mixed by: <a href="https://www.facebook.com/LeVert-1703028409985952/" target="_blank">José Pinto (2017)</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLDWPIkPOtJfVv9eK7kr6sPlL9KtX4ol5Z" frameborder="0" allowfullscreen></iframe>
 
 <h2>g-elo ᑕᓪᕙᓗ kaoru starkid ⤕ da qaniɣ à aniɣu</h2>
 
@@ -36,7 +56,7 @@ ____
 
 Poetry: João Coelho
 
-Beat and Piano: <a href="http://kaoru.x10.mx" target="_blank">Carlos André Fonseca</a>
+Drums and Piano: <a href="http://kaoru.x10.mx" target="_blank">Carlos André Fonseca</a>
 
 Synths and Irish Bouzouki: João Pedro Amorim
 
