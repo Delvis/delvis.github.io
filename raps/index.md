@@ -23,7 +23,7 @@ This biopunk inspired EP, released on 11/11/17, contains 7 unreleased tracks fro
 + isto sim, são barras
 + IC8
 
-All poetry by: João Coelho (2011-13), with expection of Dusk's own part (by Ricardo Alves, 2011).
+All poetry by: João Coelho (2011-13), with exception of Dusk's part (by Ricardo Alves, 2011).
 
 All instrumentals by: <a href="http://kaoru.x10.mx" target="_blank">Carlos André Fonseca (2011)</a>
 
