@@ -31,7 +31,7 @@ rASUDAS is free! You can try it <a href = "http://osteomics.com/rASUDAS" target=
 You can read the article, here is a very cool historical snippet from it on how me and Navega were working on these kind of projects early on in 2015.
 
 <figure>
-	<img src="/images/rASUDAS1.png" alt="rASDUAS creation">
+	<img src="/images/rASUDAS1.PNG" alt="rASUDAS creation">
 	<figcaption>Osteomics becoming part of forensic anthropology history!</figcaption>
 </figure>
 
