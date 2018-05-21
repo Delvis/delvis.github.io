@@ -28,7 +28,7 @@ The ability to incorporate more information from the skeleton when assessing anc
 
 rASUDAS is free! You can try it <a href = "http://osteomics.com/rASUDAS" target="_blank">here</a>.
 
-You can read the article, here is a very cool historical snippet from it on how me and Navega were working on these kind of projects early on in 2015.
+Feel free to read the paper, here is a very cool historical snippet from it on how me and Navega were working on these kind of projects early on in 2015.
 
 <figure>
 	<img src="/images/rASUDAS1.PNG" alt="rASUDAS creation">
