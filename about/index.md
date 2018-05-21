@@ -9,23 +9,30 @@ comments: false
 modified: 2015-10-09
 ---
 
-Howdy! I am João, a self-taught programmer from Coimbra, Portugal. Everyday I use most of my synapses to tackle problems that interest me in business and science.
+Howdy! I am João, a self-taught programmer from Coimbra, Portugal. Everyday I use most of my synapses to tackle problems that interest me in business and science. Currently I am doing a PhD at Oxford using machine learning and satellite imagery to automatically detect hominin fossil sites from space.
 
-You can see my academic curriculum in the <a href = "http://www.degois.pt/visualizador/curriculum.jsp?key=3783104624248545" target = "_blank">DeGóis platform</a>.
+You can see my academic curriculum in the <a href = "https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=Yeb6Q3gAAAAJ" target = "_blank">Google Scholar</a>.
 
 ---
 
+
 ## Education and Training
 
+### DPhil in Anthropology (on-going)
+Institute of Cognitive & Evolutionary Anthropology (Oxford, United Kingdom) | 08/10/2017 - Expected 2021
+
+**Doctoral project:** Automated geospatial search for human ancestors in Mozambique: a computer vision and machine learning approach
+
 ### Master's Degree in Human Evolution and Biology
-Faculty of Sciences and Technology of the University of Coimbra (Portugal) | 05/09/2013 – 15/09/2015
+Faculty of Sciences and Technology of the University of Coimbra (Coimbra, Portugal) | 05/09/2013 – 15/09/2015
 
 **Dissertation:** <a href = "http://jcoelho.com/thesis-on-heat-induced-skeletal-deformations-using-3D-geometric-morphometrics.pdf" target = "_blank">"Unwarping Heated Bones: A Quantitative Analysis of Heat-induced Skeletal Deformations Using 3D Geometric Morphometrics"</a>
 
 ### Graduation in Anthropology
-Faculty of Sciences and Technology of the University of Coimbra (Portugal) | 15/09/2010 – 18/08/2013
+Faculty of Sciences and Technology of the University of Coimbra (Coimbra, Portugal) | 15/09/2010 – 18/08/2013
 
-Including Erasmus programme at **Háskóli Íslands** (University of Iceland) - 2012/2013 
+#### Erasmus programme
+**Háskóli Íslands** or University of Iceland (Reykjavík, Iceland) | 09/2012 – 05/2013
 
 ### Massive Open Online Courses (MOOC)
 
@@ -51,6 +58,12 @@ edx.org
 + **The University of Texas at Austin:** UT.7.01x Foundations of Data Analysis (93%);
 + **University of California, Berkeley:** Stat_2.3x Introduction to Statistics: Inference (88%).
 
+FutureLearn.com
+
++ **University of Wollongong:** Homo Floresiensis Uncovered (100%); Bioprinting: 3D Printing Body Parts (100%)
++ **University of Basel:** Statistical Shape Modelling (90%)
++ **University of Southampton:** Archaeology of Portus (100%)
+
 ---
 
 ## Work Experience
@@ -58,9 +71,9 @@ edx.org
 ### Centre for Functional Ecology, Coimbra (Portugal)
 12/2015 – Present
 
-* Collaborator at the <a href = "http://cfe.uc.pt" target = "_blank">Paleoecology and Forensic Sciences</a> group
+* Collaborator at the <a href = "http://cfe.uc.pt/profile/lines/8" target = "_blank">Paleoecology and Forensic Sciences</a> group
 * Webmaster and webdesigner at <a href = "http://lfa.uc.pt" target = "_blank">Laboratory of Forensic Anthropology</a>
-* Head of 3D scanning and photogrammetry. Curator of the <a href="http://sketchfab.com/lfa" target = "_blank">CEIXXI 3D Crania Collection</a>
+* Head of bone 3D scanning and photogrammetry. Curator of the <a href="http://sketchfab.com/lfa" target = "_blank">CEIXXI 3D Crania Collection</a>
 * Researcher with emphasis on statistical shape analysis (geometric morphometrics) of osteological material
 * Public communication, presenting science-related topics to non-experts
 
@@ -71,12 +84,13 @@ edx.org
 	<figcaption><a href="http://osteomics.com" target="_blank" title="osteomics">osteomics: developing clinical and forensic decision support systems for human bone biology</a>.</figcaption>
 </figure>
 
-In this startup I've been working directly with 3D printing technologies, virtual 3D modelling, complex morphometric analytics and web development.
+In this startup I've been worked extensively with Shiny for R, 3D printing technologies, virtual 3D modelling, complex morphometric analytics and web development.
 
 ---
 
 ## Honours and Awards
 
+* Grant recipient: Boise Trust Fund 2018 (Department of Zoology, University of Oxford)
 * Finalist: "Best Business Plan" category at Arrisca-C 2014.
 * Grant recipient: Startup project through the "Passaporte para o Empreendedorismo" programme.
 * Finalist: "Best Business Idea" category at Arrisca-C 2013.
