@@ -6,7 +6,7 @@ image:
   credit: Mel Hattie
   creditlink: http://melhattie.com
 comments: false
-modified: 2015-10-09
+modified: 2018-05-21
 ---
 
 Howdy! I am João, a self-taught programmer from Coimbra, Portugal. Everyday I use most of my synapses to tackle problems that interest me in business and science. Currently I am doing a PhD at Oxford using machine learning and satellite imagery to automatically detect hominin fossil sites from space.
