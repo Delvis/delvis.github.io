@@ -91,6 +91,7 @@ In this startup I've been worked extensively with Shiny for R, 3D printing techn
 ## Honours and Awards
 
 * Grant recipient: Boise Trust Fund 2018 (Department of Zoology, University of Oxford)
+* PhD Studentship: Fundação para a Ciência e a Tecnologia (FCT), 2017-2021
 * Finalist: "Best Business Plan" category at Arrisca-C 2014.
 * Grant recipient: Startup project through the "Passaporte para o Empreendedorismo" programme.
 * Finalist: "Best Business Idea" category at Arrisca-C 2013.
