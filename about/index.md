@@ -11,7 +11,7 @@ modified: 2018-05-21
 
 Howdy! I am João, a self-taught programmer from Coimbra, Portugal. Everyday I use most of my synapses to tackle problems that interest me in business and science. Currently I am doing a PhD at Oxford using machine learning and satellite imagery to automatically detect hominin fossil sites from space.
 
-You can see my academic curriculum in the <a href = "https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=Yeb6Q3gAAAAJ" target = "_blank">Google Scholar</a>.
+You can see my academic curriculum in <a href = "https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=Yeb6Q3gAAAAJ" target = "_blank">Google Scholar</a>.
 
 ---
 
