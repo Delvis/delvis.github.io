@@ -31,7 +31,7 @@ ___
 <h2><img src = "/images/miniAge.png">	Age-at-death estimation</h2>
 
 * <a href="http://osteomics.com/DXAGE" target = "_blank">DXAGE</a> - <a href = "http://onlinelibrary.wiley.com/doi/10.1111/1556-4029.13582/abstract" target = "_blank">Publication available</a>
-* <a href="http://osteomics.com/SSAGE" target = "_blank">SSAGE</a> - Notice H. Cardoso comment down, i.e. this method is controversial, use carefully to your own discretion
+* <a href="http://osteomics.com/SSAGE" target = "_blank">SSAGE</a> - Notice H. Cardoso comment below, i.e. this method is controversial, use carefully on your own discretion
 
 ___
 
