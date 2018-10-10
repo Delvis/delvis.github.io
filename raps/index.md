@@ -9,7 +9,39 @@ image:
 share: true
 ---
 
-I do rhyme once in a while, in portuguese - my mother tongue - under the alias of <a href="https://www.facebook.com/delvispr/" target = "_blank">DEL</a>. This schizophrenic fictional character also has over 20 heteronyms, some of those (e.g. delvispresley, g-elo, etc.) have realeased some tracks already.
+I do rhyme once in a while, in portuguese - my mother tongue - under the alias of <a href="https://www.facebook.com/delvispr/" target = "_blank">DEL</a>. This schizophrenic fictional character also has over 20 heteronyms, some of those (e.g. delvispresley, g-elo, TΩDΩ-PΩDEλΩSΩ, etc.) have realeased some tracks already.
+
+
+<h1>NEW SONGS!</h1>
+
+Fresh new material! Also, there is an album coming out soon with ZGA, subscribe for updates!
+
+<h2>Palarvas, Casulos e Bourbonletras</h2>
+
+Poetry: João Coelho, José Pinto
+
+Instrumental: <a href="https://www.facebook.com/LeVert-1703028409985952/" target="_blank">José Pinto</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/smj3xekOMI0" frameborder="0" allowfullscreen></iframe>
+
+<h2>NAUTILUS</h2>
+
+Poetry: João Coelho
+
+Instrumental: <a href="https://www.youtube.com/channel/UCIZu-14HglBMrAbvAHieU0A" target="_blank">Miki Mallo</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MaLor-uA2QA" frameborder="0" allowfullscreen></iframe>
+
+<h2>DE NETO A NOVELO</h2>
+
+Poetry: João Coelho
+
+Instrumental: <a href="https://www.facebook.com/midd.sensamilla" target="_blank">
+Jorge André Silva Fernandes</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sblKoQo2hVQ" frameborder="0" allowfullscreen></iframe>
+
+<h1>EPs</h1>
 
 <h2>delvispresley এবং kaoru starkid ≐ CYBERRAP - Vol. 1 "Memórias de 2103"</h2>
 
@@ -97,8 +129,3 @@ Poetry: João Coelho
 Instrumental: <a href="https://www.facebook.com/ZGcrAy/" target="_blank">José Guilherme Almeida</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/smj3xekOMI0" frameborder="0" allowfullscreen></iframe>
-
-
-
-
-
