@@ -9,9 +9,9 @@ image:
 share: true
 ---
 
-# List of academic publication
+# List of academic publications
 
-Current research interests: geospatial palaeontology, machine learning applications to bioanthropology, geometric morphometrics, hominin origins
+**Current research interests**: geospatial palaeontology, machine learning applications to bioanthropology, geometric morphometrics, hominin origins
 
 To download my *Curriculum vitae*, <a href="http://jcoelho.com/CV/updated.pdf">click here</a>
 
