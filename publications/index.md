@@ -18,29 +18,29 @@ To download my *Curriculum vitae*, <a href="http://jcoelho.com/CV/updated.pdf">c
 
 # Scientific Papers
 
-Silva A, Tomé T, Cunha C, d’Oliveira Coelho J, Valera A, Filipe V, Scott GR. 2018. Unilateral absence of mandibular condyle in a Bronze Age male skeleton from Portugal. International Journal of Paleopathology, 22: 168–172.
+Silva A, Tomé T, Cunha C, **d'Oliveira Coelho J**, Valera A, Filipe V, Scott GR. 2018. Unilateral absence of mandibular condyle in a Bronze Age male skeleton from Portugal. International Journal of Paleopathology, 22: 168–172.
 
-Scott GR, Pilloud M, Navega D, d’Oliveira Coelho J, Cunha E, Irish J. 2018. rASUDAS: A New Web-Based Application for Estimating Ancestry from Tooth Morphology. Forensic Anthropology 1:18–31.
+Scott GR, Pilloud M, Navega D, **d'Oliveira Coelho J**, Cunha E, Irish J. 2018. rASUDAS: A New Web-Based Application for Estimating Ancestry from Tooth Morphology. Forensic Anthropology 1:18–31.
 
-Gonçalves D, d’Oliveira Coelho J, Amarante A, Makhoul C, Oliveira-Santos I, Navega D, Cunha E. 2018. Dead weight: Validation of mass regression equations on experimentally burned skeletal remains to assess skeleton completeness. Science & Justice 58:2–6.
+Gonçalves D, **d'Oliveira Coelho J**, Amarante A, Makhoul C, Oliveira-Santos I, Navega D, Cunha E. 2018. Dead weight: Validation of mass regression equations on experimentally burned skeletal remains to assess skeleton completeness. Science & Justice 58:2–6.
 
-Navega D, d’Oliveira Coelho J, Cunha E, Curate F. 2018. DXAGE: A New Method for Age at Death Estimation Based on Femoral Bone Mineral Density and Artificial Neural Networks. Journal of Forensic Sciences, 63(2): 497–503.
+Navega D, **d'Oliveira Coelho J**, Cunha E, Curate F. 2018. DXAGE: A New Method for Age at Death Estimation Based on Femoral Bone Mineral Density and Artificial Neural Networks. Journal of Forensic Sciences, 63(2): 497–503.
 
-Makhoul C, Amarante A, d’Oliveira Coelho J, Navega D, Almeida M, Parker SF, Ferreira MT, Viegas DX, Marques M, de Carvalho LB, Gonçalves D, Cunha E. 2017. Experimental burning and real fire scenarios: Are they comparable in terms of chemical anthropology? La Revue de Médecine Légale, 8(4): 187.
+Makhoul C, Amarante A, **d'Oliveira Coelho J**, Navega D, Almeida M, Parker SF, Ferreira MT, Viegas DX, Marques M, de Carvalho LB, Gonçalves D, Cunha E. 2017. Experimental burning and real fire scenarios: Are they comparable in terms of chemical anthropology? La Revue de Médecine Légale, 8(4): 187.
 
-Gonçalves D, d’Oliveira Coelho J, Acosta MA, Coelho C, Curate F, Ferreira MT, Gouveia M, Makhoul C, Pinto D, Oliveira-Santos I, Vassalo AR, Navega D, Cunha E. 2016. One for all and all for one: Linear regression from the mass of individual bones to assess human skeletal mass completeness: Linear Regression of Human Skeletal Mass. American Journal of Physical Anthropology 160:427–432.
+Gonçalves D, **d'Oliveira Coelho J**, Acosta MA, Coelho C, Curate F, Ferreira MT, Gouveia M, Makhoul C, Pinto D, Oliveira-Santos I, Vassalo AR, Navega D, Cunha E. 2016. One for all and all for one: Linear regression from the mass of individual bones to assess human skeletal mass completeness: Linear Regression of Human Skeletal Mass. American Journal of Physical Anthropology 160:427–432.
 
-Curate F, d’Oliveira Coelho J, Gonçalves D, Coelho C, Ferreira MT, Navega D, Cunha E. 2016. A method for sex estimation using the proximal femur. Forensic Science International 266:579.e1–7.
+Curate F, **d'Oliveira Coelho J**, Gonçalves D, Coelho C, Ferreira MT, Navega D, Cunha E. 2016. A method for sex estimation using the proximal femur. Forensic Science International 266:579.e1–7.
 
-Andrade B, Dias P, Coelho C, d’Oliveira Coelho J, Navega D, Wasterlain SN, Ferreira MT, Santos BS. 2016. Towards automatic non-metric traits analysis on 3D models of skulls. In: 23rd Portuguese Meeting on Computer Graphics and Interaction (EPCGI):1–7. DOI: 10.1109/EPCGI.2016.7851196
+Andrade B, Dias P, Coelho C, **d'Oliveira Coelho J**, Navega D, Wasterlain SN, Ferreira MT, Santos BS. 2016. Towards automatic non-metric traits analysis on 3D models of skulls. In: 23rd Portuguese Meeting on Computer Graphics and Interaction (EPCGI):1–7. DOI: 10.1109/EPCGI.2016.7851196
 
 # Scientific Conferences
 
-d’Oliveira Coelho J, Anemone R, Carvalho S. Finding the needle in a haystack: automating spectral remote searching for hominin fossil sites in Gorongosa, Mozambique. In: Proceedings of the European Society for the Study of Human Evolution. 56. Faro, Portugal, 2018 (Poster).
+**d'Oliveira Coelho J**, Anemone R, Carvalho S. Finding the needle in a haystack: automating spectral remote searching for hominin fossil sites in Gorongosa, Mozambique. In: Proceedings of the European Society for the Study of Human Evolution. 56. Faro, Portugal, 2018 (Poster).
 
-d’Oliveira Coelho J, Anemone R, Carvalho S. Why bother surveying? How automated search of fossil sites in Africa can help fill gaps in hominoid evolution. Abstracts of the 27th International Primatological Society Congress. Event–714. Nairobi, Kenya, 2018 (Podium presentation).
+**d'Oliveira Coelho J**, Anemone R, Carvalho S. Why bother surveying? How automated search of fossil sites in Africa can help fill gaps in hominoid evolution. Abstracts of the 27th International Primatological Society Congress. Event–714. Nairobi, Kenya, 2018 (Podium presentation).
 
-Ammer S, d’Oliveira Coelho, J. Estimating Sex with Outline Shape Analysis of the Trochlear Constriction and the Olecranon Fossa. American Academy of Forensic Sciences 70th Annual Scientific Meeting, Seattle, USA, 2018 (Podium presentation).
+Ammer S, **d'Oliveira Coelho J**. Estimating Sex with Outline Shape Analysis of the Trochlear Constriction and the Olecranon Fossa. American Academy of Forensic Sciences 70th Annual Scientific Meeting, Seattle, USA, 2018 (Podium presentation).
 
 **d'Oliveira Coelho J**, Ammer S. Sex estimation based on outline shape analysis of the posterior distal humerus, MORPH 2017 - A Conference on the Archaeological Applications of Morphometrics, Aarhus, Denmark, 2017 (Podium presentation).
 
