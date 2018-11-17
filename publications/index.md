@@ -58,11 +58,11 @@ Navega D, **d'Oliveira Coelho J**, Cunha E, Curate, F. Estimativa da idade à mo
 
 Ferreira MT, Coelho C, Rufino AI, **d'Oliveira Coelho J**, Navega D, Wasterlain SN. Os Escravos do Valle da Gafaria: novos dados e novas questões. *A História e a Memória dos Escravos Africanos*, Lagos, Portugal, 2016 (Podium presentation).
 
-Navega D, Coelho C, **d'Oliveira Coelho J**, Vicente R, Ferreira MT, Wu J, Cunha E. **AncesTrees**: uma nova ferramenta para a avaliação da ancestralidade em Antropologia forense. *I Congresso da Associação Portuguesa de Ciências Forenses*, Porto, Portugal, 2016 (Podium presentation).
+Navega D, Coelho C, **d'Oliveira Coelho J**, Vicente R, Ferreira MT, Wu J, Cunha E. *AncesTrees*: uma nova ferramenta para a avaliação da ancestralidade em Antropologia forense. *I Congresso da Associação Portuguesa de Ciências Forenses*, Porto, Portugal, 2016 (Podium presentation).
 
-Gonçalves D, **d'Oliveira Coelho J**, Makhoul C, Navega D, Cunha E. **MassReg**: An application to predict the skeleton mass of adult individuals in incomplete or poorly preserved assemblages of human remains. *XXI Jornadas Mediterráneas de Medicina Legal*, Badajoz, Spain, 2016 (Podium presentation).
+Gonçalves D, **d'Oliveira Coelho J**, Makhoul C, Navega D, Cunha E. *MassReg*: An application to predict the skeleton mass of adult individuals in incomplete or poorly preserved assemblages of human remains. *XXI Jornadas Mediterráneas de Medicina Legal*, Badajoz, Spain, 2016 (Podium presentation).
 
-Scott GR, Navega D, **d'Oliveira Coelho J**, Cunha E, Irish JD. **rASUDAS**: A New Method for Estimating Ancestry from Tooth Crown and Root Morphology. *The 85th Annual Meeting of the American Association of Physical Anthropologists*, Atlanta, USA, 2016 (Podium presentation).
+Scott GR, Navega D, **d'Oliveira Coelho J**, Cunha E, Irish JD. *rASUDAS*: A New Method for Estimating Ancestry from Tooth Crown and Root Morphology. *The 85th Annual Meeting of the American Association of Physical Anthropologists*, Atlanta, USA, 2016 (Podium presentation).
 
 **d'Oliveira Coelho J**, Gonçalves D, Makhoul C, Oliveira-Santos I, Navega D, Coelho C, Curate F, Ferreira MT, Cunha E. Retrodeformação morfológica em ossos queimados para estimar a forma prévia e condições de queima. *II Conferência do Instituto Nacional de Medicina Legal e Ciências Forenses*, Coimbra, Portugal, 2015 (Podium presentation).
 
