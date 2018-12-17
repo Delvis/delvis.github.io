@@ -9,7 +9,7 @@ image:
 share: true
 ---
 
-I do rhyme once in a while, in portuguese - my mother tongue - under the alias of <a href="https://www.facebook.com/delvispr/" target = "_blank">DEL</a>. This schizophrenic fictional character also has over 20 heteronyms, some of those (e.g. delvispresley, g-elo, TΩDΩ-PΩDEλΩSΩ, etc.) have realeased some tracks already.
+I do rhyme once in a while, in portuguese - my mother tongue - under the alias of <a href="https://www.facebook.com/delvispr/" target = "_blank">DEL</a>. This schizophrenic fictional character also has over 20 heteronyms, some of those (e.g. zer-0, delvispresley, g-elo, TΩDΩ-PΩDEλΩSΩ, etc.) have realeased some tracks already.
 
 
 <h1>ALBUM</h1>
@@ -36,13 +36,9 @@ Lines from 2008 up to 2018 get hyperdimensionally rebuilt into the ultimate orig
 Raps and lyrics by DEL 
 Beats, production, mastering, 1st verses and chorus on track 2, 2nd verse and chorus on track 10, adlibs on track 7 by Z G A 
 2nd verse on track 9 by zer-0 
-Piano and adlib on track 11 by Momentum II 
+Piano and adlib on track 11 by Momemtum II 
 
-The logo was a joint effort by Rafaela Silva, Carolina Calé and TΩDΩ-PΩDEλΩSΩ 
-Artwork was a joint effort between João Bica Carvalho and TΩDΩ-PΩDEλΩSΩ 
-All videos relating to this release were produced by TΩDΩ-PΩDEλΩSΩ
-
-You can see all of them here:
+All videos relating to this release were produced by TΩDΩ-PΩDEλΩSΩ. You can see all of them here:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLvqQBw_IW0MaXXVdYnthwLEuq2Goi1_7H" frameborder="0" allowfullscreen></iframe>
 
