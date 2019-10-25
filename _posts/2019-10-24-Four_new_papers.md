@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My last 4 bioanthropology scientific papers"
+title: "My most recent bioanth papers"
 description: " "
 tags: [data science, osteology, forensic anthropology, machine learning, paleopathology, quantitative analysis, stature, sex estimation, geometric morphometrics]
 ---
