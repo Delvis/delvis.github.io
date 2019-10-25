@@ -11,7 +11,7 @@ Hey, I have a few new publications I want to bring your attention to.
 
 **d’Oliveira Coelho J**, Curate F. 2019. CADOES: An interactive machine-learning approach for sex estimation with the pelvis. *Forensic Science International*. 302:109873.
 
-CADOES employs powerful graphical devices and 12 machine learning algorithms for estimating sex in skeletal remains using the pelvis.
+CADOES employs powerful graphical devices, flexible variable selection, robust cross-validation mechanisms, and 12 machine learning algorithms for estimating sex in skeletal remains using the pelvis.
 
 <figure>
 	<img src="http://osteomics.com/CADOES/LANDMARKS.png" alt="landmarks">
@@ -21,6 +21,8 @@ CADOES employs powerful graphical devices and 12 machine learning algorithms for
 The app is available <a href = "http://osteomics.com/CADOES/" target="_blank">at Osteomics</a>.
 
 New paper is available <a href = "https://www.sciencedirect.com/science/article/pii/S0379073819302890" target="_blank">here</a>.
+
+There was media coverage about CADOES in <a href = "https://observador.pt/2019/07/29/investigadores-portugueses-criam-software-que-facilita-identificacao-do-sexo-de-esqueletos-humanos/" target="_blank">Observador</a>, <a href = "http://exameinformatica.sapo.pt/noticias/ciencia/2019-07-29-Investigadores-de-Coimbra-criam-aplicacao-que-revela-sexo-de-esqueletos" target="_blank">Exame Informática</a>, among many other portuguese journals.
 
 <h3>Ammer-Coelho simulator</h3>
 
@@ -32,6 +34,8 @@ The easiest way to understand what we did here, is to grab a humerus, look at it
 	<img src="/images/Ammer-CoelhoPCA.jpg" alt="PCA separation">
 	<figcaption>PCA morphospace mined by an LDA algorithm for sex estimation</figcaption>
 </figure>
+
+<a href = "https://onlinelibrary.wiley.com/doi/abs/10.1111/1556-4029.14096" target="_blank">Paper available here.</a>
 
 <h3>SPINNE</h3>
 
