@@ -16,7 +16,7 @@ I do rhyme once in a while, in portuguese - my mother tongue - under the alias o
 
 <h2>ZGAXDEL - Directrizes e Métodos de Transcendência</h2>
 
-Lines from 2008 up to 2018 get hyperdimensionally rebuilt into the ultimate origami by DEL while ZGA brings all the genres into an ultimate darwinian competition in a spheric battflefield of lost clouds of electrons.
+Lines from 2008 up to 2018 get hyperdimensionally rebuilt into the ultimate origami by DEL while ZGA brings all the genres into a supernova darwinian competition in a spheric battflefield of lost clouds of electrons.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C-Z7F1_BfFY" frameborder="0" allowfullscreen></iframe>
 
