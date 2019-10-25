@@ -10,7 +10,7 @@ tags: [DMT, raps, hip hop, eletronica]
 
 <figure>
 	<a href="https://levelmusic.lnk.to/9W7k6F" target="_blank"><img src="/images/LOGO_FULL_SHADOWED.png" alt="L O G O"></a>
-	<figcaption>ZGA X DEL inside out</figcaption>
+	<figcaption>ZGA X DEL - LOGO</figcaption>
 </figure>
 
 Lines from 2008 up to 2018 get hyperdimensionally rebuilt into the ultimate origami by DEL while ZGA brings all the genres into a supernova darwinian competition in a spheric battflefield of lost clouds of electrons.
