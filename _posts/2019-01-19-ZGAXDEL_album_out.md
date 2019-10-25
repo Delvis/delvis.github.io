@@ -31,7 +31,7 @@ Lines from 2008 up to 2018 get hyperdimensionally rebuilt into the ultimate orig
 12. TU A VIRES TER COMIGO OU EU A IR TER CONTIGO
 
 <figure>
-	<a href="https://www.youtube.com/embed/C-Z7F1_BfFY" target="_blank"><img src="/images/ZGAXDEL-DMT-INSIDE_CD.png" alt="ZGA X DEL inside out"></a>
+	<a href="/images/ZGAXDEL-DMT-INSIDE_CD.png" target="_blank"><img src="/images/ZGAXDEL-DMT-INSIDE_CD.png" alt="ZGA X DEL inside out"></a>
 	<figcaption>ZGA X DEL inside out</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ Beats, production, mastering, 1st verses and chorus on track 2, 2nd verse and ch
 Piano and adlib on track 11 by Momemtum II 
 
 <figure>
-	<a href="https://www.youtube.com/embed/videoseries?list=PLvqQBw_IW0MaXXVdYnthwLEuq2Goi1_7H" target="_blank"><img src="/images/ZGAXDEL-DMT-OUTSIDE.png" alt="ZGA X DEL outside in"></a>
+	<a href="/images/ZGAXDEL-DMT-OUTSIDE.png" target="_blank"><img src="/images/ZGAXDEL-DMT-OUTSIDE.png" alt="ZGA X DEL outside in"></a>
 	<figcaption>ZGA X DEL outside in</figcaption>
 </figure>
 
