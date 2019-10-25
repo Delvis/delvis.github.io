@@ -2,7 +2,7 @@
 layout: post
 title: "Estimating ancestry from tooth morphology with rASUDAS, in the first number of Forensic Anthropology"
 description: " "
-tags: [data science, osteology, forensic anthropology, machine learning, biogeography, ancestry, rASUDAS, dental morphology. dental morphology, dental non-metrics, quantitative analysis, Arizona State University Dental Anthropology System, naive Bayes]
+tags: [data science, osteology, forensic anthropology, machine learning, biogeography, ancestry, rASUDAS, dental morphology, dental non-metrics, quantitative analysis, Arizona State University Dental Anthropology System, naive Bayes]
 ---
 
 

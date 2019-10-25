@@ -18,6 +18,13 @@ To download my *Curriculum vitae*, <a href="http://jcoelho.com/CV/updated.pdf" t
 
 # Scientific Papers
 
+**d’Oliveira Coelho J**, Curate F. 2019. CADOES: An interactive machine-learning approach for sex estimation with the pelvis. *Forensic Science International*. 302:109873.
+
+Ammer S, **d’Oliveira Coelho J**, Cunha E. 2019. Outline Shape Analysis on the Trochlear Constriction and Olecranon Fossa of the Humerus: Insights for Sex Estimation and a New Computational Tool. *Journal of Forensic Sciences*. DOI:10.1111/1556-4029.1409.
+
+Vilas-Boas D, Wasterlain SN, **d’Oliveira Coelho J**, Navega D, Gonçalves D. 2019. SPINNE: An app for human vertebral height estimation based on artificial neural networks. 
+*Forensic Science International*. 298:121–130.
+
 Silva A, Tomé T, Cunha C, **d'Oliveira Coelho J**, Valera A, Filipe V, Scott GR. 2018. Unilateral absence of mandibular condyle in a Bronze Age male skeleton from Portugal. *International Journal of Paleopathology*, 22: 168–172.
 
 Scott GR, Pilloud M, Navega D, **d'Oliveira Coelho J**, Cunha E, Irish J. 2018. rASUDAS: A New Web-Based Application for Estimating Ancestry from Tooth Morphology. *Forensic Anthropology*, 1:18–31.
@@ -35,6 +42,18 @@ Curate F, **d'Oliveira Coelho J**, Gonçalves D, Coelho C, Ferreira MT, Navega D
 Andrade B, Dias P, Coelho C, **d'Oliveira Coelho J**, Navega D, Wasterlain SN, Ferreira MT, Santos BS. 2016. Towards automatic non-metric traits analysis on 3D models of skulls. In: *23rd Portuguese Meeting on Computer Graphics and Interaction (EPCGI)*:1–7. DOI: 10.1109/EPCGI.2016.7851196
 
 # Scientific Conferences
+
+**d'Oliveira Coelho J**, Braun DR, Bobe R, Anemone RL, Carvalho S. A MaxEnt approach to estimate the likelihood of finding new fossil sites in Lake Turkana, Kenya, using satellite images. *9th Annual European Society for the study of Human Evolution meeting*, Liège, Belgium, 2019 (Poster).
+
+Gabriel B, Makhoul C, **d'Oliveira Coelho J**, de Carvalho LB, Cunha E. Thermally induced changes: influence of duration of heat exposure on colorometry, morphometry and chemometrics. *FASE – Forensic Anthropology Society of Europe Advanced Course in Forensic Anthropology and One-Day Symposium 2019*, Brussels, Belgium, 2019 (Poster).
+
+**d'Oliveira Coelho J**, Anemone RL, Carvalho S. Filling gaps in primate evolution: machine learning approaches for automated fossil site discover in Gorongosa, Mozambique. *European Federation for Primatology & the Primate Society of Great Britain Winter meeting*. Oxford, United Kingdom, 2019 (Podium).
+
+**d'Oliveira Coelho J**, Anemone RL, Bobe R, Carvalho S. Let the computers do the surveying: applying support vector machines on spectral data to identify new fossiliferous deposits in Koobi Fora, Kenya. *Paleoanthropology Society 2019 Meeting, Albuquerque*, USA, 2019 (Poster).
+
+**d'Oliveira Coelho J**, Anemone RL, Carvalho S. Standing out in a crowd of trees: spectral outliers as predictors of fossiliferous outcrops in modern forests. *Unravelling Human Origins 2019*, York, United Kingdom, 2019 (Podium).
+
+**d'Oliveira Coelho J**, Anemone RL, Carvalho S. Fossil sites as landscape outliers: the potential of the dbscan clustering algorithm for detecting fossiliferous outcrops in forests. *16th Conference of the Gesellschaft für Primatologie*, Göttingen, Germany, 2019 (Poster).
 
 **d'Oliveira Coelho J**, Anemone R, Carvalho S. Finding the needle in a haystack: automating spectral remote searching for hominin fossil sites in Gorongosa, Mozambique. In: *Proceedings of the European Society for the Study of Human Evolution*. 56. Faro, Portugal, 2018 (Poster).
 
