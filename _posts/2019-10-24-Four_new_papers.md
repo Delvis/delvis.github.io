@@ -25,7 +25,7 @@ Ammer S, **d’Oliveira Coelho J**, Cunha E. 2019. Outline Shape Analysis on the
 The easiest way to understand what we did here, is to grab a humerus, look at its distal (and posterior) end, and try to estimate its sex through outline shape simulation, <a href = "http://osteomics.com/Ammer-Coelho/" target="_blank">using our app</a>! I think this is the easiest-to-apply method based in geometric morphometrics ever. Well at least to my knowledge. I created the software back in 2017, so I am glad to see the paper out finally.
 
 <figure>
-	<img src="figure4.tif" alt="PCA separation">
+	<img src="Ammer-CoelhoPCA.jpg" alt="PCA separation">
 	<figcaption>PCA morphospace mined by an LDA algorithm for sex estimation</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ Silva A, Tomé T, Cunha C, **d’Oliveira Coelho J**, Valera A, Filipe V, Scott 
 I contributed with some quantitative landmark-based analyses and 3D modelling for this paper.
 
 <figure>
-	<img src="/dice_view.tif" alt="dice view">
+	<img src="/dice_view.png" alt="dice view">
 	<figcaption>I did this 3D model of the mandible using a NextEngine Scanner.</figcaption>
 </figure>
 
