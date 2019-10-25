@@ -28,7 +28,7 @@ There was media coverage about CADOES in <a href = "https://observador.pt/2019/0
 
 Ammer S, **d’Oliveira Coelho J**, Cunha E. 2019. Outline Shape Analysis on the Trochlear Constriction and Olecranon Fossa of the Humerus: Insights for Sex Estimation and a New Computational Tool. *Journal of Forensic Sciences*. DOI:10.1111/1556-4029.1409.
 
-The easiest way to understand what we did here, is to grab a humerus, look at its distal (and posterior) end, and try to estimate its sex through outline shape simulation, <a href = "http://osteomics.com/Ammer-Coelho/" target="_blank">using our app</a>! I think this is the easiest-to-apply method based in geometric morphometrics ever. Well at least to my knowledge. I created the software back in 2017, so I am glad to see the paper out finally.
+The easiest way to understand what we did here, is to grab a humerus, look at its distal (and posterior) end, and try to estimate its sex through outline shape simulation, <a href = "http://osteomics.com/Ammer-Coelho/" target="_blank">using our app</a>! I think this is the easiest-to-apply method based in geometric morphometrics ever. Well at least to my knowledge. I created the software back in 2017, so I am glad to see the paper out finally. <a href = "https://onlinelibrary.wiley.com/doi/abs/10.1111/1556-4029.14096" target = "_blank">Check it here!</a>
 
 <figure>
 	<img src="/images/Ammer-CoelhoPCA.jpg" alt="PCA separation">
