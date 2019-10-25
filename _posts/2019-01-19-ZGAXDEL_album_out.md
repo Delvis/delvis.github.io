@@ -36,8 +36,11 @@ Lines from 2008 up to 2018 get hyperdimensionally rebuilt into the ultimate orig
 </figure>
 
 Raps and lyrics by DEL 
+
 Beats, production, mastering, 1st verses and chorus on track 2, 2nd verse and chorus on track 10, adlibs on track 7 by Z G A 
+
 2nd verse on track 9 by zer-0 
+
 Piano and adlib on track 11 by Momemtum II 
 
 <figure>
