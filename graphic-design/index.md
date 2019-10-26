@@ -59,7 +59,7 @@ My most personal project, <a href = "http://osteomics.com" target = "_blank">ost
   <figcaption>The HOT Project has brought together a group of researchers interested in burnt bones and teeth. This logo was developed based on an earlier similar concept originally thought by David Gonçalves.</figcaption>
 </figure>
 
-To read more about the HOT Project, <a href = "http://hotresearch.wix.com/main" target = "_blank">click here</a>.
+To read more about the HOT Project, <a href = "http://hotbones.net" target = "_blank">click here</a>.
 
 ---
 
