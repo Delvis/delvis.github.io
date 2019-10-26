@@ -13,7 +13,7 @@ tags: [DMT, raps, hip hop, eletronica]
 	<figcaption>ZGA X DEL - LOGO</figcaption>
 </figure>
 
-Lines from 2008 up to 2018 get hyperdimensionally rebuilt into the ultimate origami by DEL while ZGA brings all the genres into a supernova darwinian competition in a spheric battflefield of lost clouds of electrons.
+Lines from 2008 up to 2018 get hyperdimensionally rebuilt into the ultimate origami by DEL while ZGA brings all the genres into a supernova darwinian competition in a spheric battlefield of lost clouds of electrons.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLvqQBw_IW0MaXXVdYnthwLEuq2Goi1_7H" frameborder="0" allowfullscreen></iframe>
 

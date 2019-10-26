@@ -22,7 +22,7 @@ The app is available <a href = "http://osteomics.com/CADOES/" target="_blank">at
 
 New paper is available <a href = "https://www.sciencedirect.com/science/article/pii/S0379073819302890" target="_blank">here</a>.
 
-There was media coverage about CADOES in <a href = "https://observador.pt/2019/07/29/investigadores-portugueses-criam-software-que-facilita-identificacao-do-sexo-de-esqueletos-humanos/" target="_blank">Observador</a>, <a href = "http://exameinformatica.sapo.pt/noticias/ciencia/2019-07-29-Investigadores-de-Coimbra-criam-aplicacao-que-revela-sexo-de-esqueletos" target="_blank">Exame Informática</a>, among many other portuguese journals.
+There was media coverage about CADOES in <a href = "https://observador.pt/2019/07/29/investigadores-portugueses-criam-software-que-facilita-identificacao-do-sexo-de-esqueletos-humanos/" target="_blank">Observador</a>, <a href = "http://exameinformatica.sapo.pt/noticias/ciencia/2019-07-29-Investigadores-de-Coimbra-criam-aplicacao-que-revela-sexo-de-esqueletos" target="_blank">Exame Informática</a>, among many other portuguese magazines.
 
 ---
 
