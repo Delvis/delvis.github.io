@@ -55,6 +55,21 @@ The <a href = "http://osteomics.com/SPINNE/" target="_blank">SPINNE webapp</a> t
 
 ---
 
+<h3>New biological profile data for the Lagos collections</h3>
+
+Ferreira MT, Coelho C, **d'Oliveira Coelho J**, Navega D, Wasterlain SN. 2018. New data about sex and age-at-death based on the postcranial skeleton of the enslaved adult Africans found at Lagos, Portugal (15th-17th centuries). *Cadernos do GEEvH*, 7(1):7–16.
+
+158 individuals of sub-saharan origin were excavated in an archaeological urban dump in Algarve. We re-analysed sex and age-at-death for adults (roughly 60% of the sample) using combinations of multiple methods. We provide all the dataset and results in this open access publication available at <a href = "https://geevh.jimdo.com/cadernos-do-geevh/arquivo-archive/vol-7-1/" target = "_blank">Cadernos do Grupo de Estudos de Evolução Humana</a>.
+
+Our research team was featured on <a href = "https://elpais.com/cultura/2019/03/29/actualidad/1553848854_810812.html" target="_blank">El País!</a>
+
+<figure>
+	<img src="/images/lagos_escravo.jpg" alt="escravo">
+	<figcaption>On of the individuals from the Lagos excavations.</figcaption>
+</figure>
+
+---
+
 <h3>Mandibular paleopathology case</h3>
 
 Silva A, Tomé T, Cunha C, **d’Oliveira Coelho J**, Valera A, Filipe V, Scott GR. 2018. Unilateral absence of mandibular condyle in a Bronze Age male skeleton from Portugal. *International Journal of Paleopathology*, 22: 168–172.
@@ -67,3 +82,5 @@ I contributed with some quantitative landmark-based analyses and 3D modelling fo
 </figure>
 
 The paper described a pathological absence of the left mandibular condyle and its possible diagnoses, including subcondylar fracture, cystic defect, congenital absence, condylar aplasia and mandibular condylysis. The most likely explanation for the pathological alteration is subcondylar fracture with non-union. This mandible was likely functional, as can be inferred from dental wear and muscle attachment sites. This trauma probably occurred before adult age (male individual) when remodelling capacity is still high. <a href = "https://www.sciencedirect.com/science/article/abs/pii/S1879981717301572" target="_blank">Read more about it here</a>.
+
+à bientôt.

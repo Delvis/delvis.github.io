@@ -22,8 +22,9 @@ To download my *Curriculum vitae*, <a href="http://jcoelho.com/CV/updated.pdf" t
 
 Ammer S, **d’Oliveira Coelho J**, Cunha E. 2019. Outline Shape Analysis on the Trochlear Constriction and Olecranon Fossa of the Humerus: Insights for Sex Estimation and a New Computational Tool. *Journal of Forensic Sciences*. DOI:10.1111/1556-4029.1409.
 
-Vilas-Boas D, Wasterlain SN, **d’Oliveira Coelho J**, Navega D, Gonçalves D. 2019. SPINNE: An app for human vertebral height estimation based on artificial neural networks. 
-*Forensic Science International*. 298:121–130.
+Vilas-Boas D, Wasterlain SN, **d’Oliveira Coelho J**, Navega D, Gonçalves D. 2019. SPINNE: An app for human vertebral height estimation based on artificial neural networks. *Forensic Science International*. 298:121–130.
+
+Ferreira MT, Coelho C, **d'Oliveira Coelho J**, Navega D, Wasterlain SN. 2018. New data about sex and age-at-death based on the postcranial skeleton of the enslaved adult Africans found at Lagos, Portugal (15th-17th centuries). *Cadernos do GEEvH*, 7(1):7–16.
 
 Silva A, Tomé T, Cunha C, **d'Oliveira Coelho J**, Valera A, Filipe V, Scott GR. 2018. Unilateral absence of mandibular condyle in a Bronze Age male skeleton from Portugal. *International Journal of Paleopathology*, 22: 168–172.
 
