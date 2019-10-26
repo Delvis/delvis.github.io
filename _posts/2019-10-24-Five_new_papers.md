@@ -55,7 +55,7 @@ The <a href = "http://osteomics.com/SPINNE/" target="_blank">SPINNE webapp</a> t
 
 ---
 
-<h3>New biological profile data for the Lagos collections</h3>
+<h3>New biological profile data for the Lagos skeletons</h3>
 
 Ferreira MT, Coelho C, **d'Oliveira Coelho J**, Navega D, Wasterlain SN. 2018. New data about sex and age-at-death based on the postcranial skeleton of the enslaved adult Africans found at Lagos, Portugal (15th-17th centuries). *Cadernos do GEEvH*, 7(1):7–16.
 
