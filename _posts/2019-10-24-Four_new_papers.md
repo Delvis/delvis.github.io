@@ -24,6 +24,8 @@ New paper is available <a href = "https://www.sciencedirect.com/science/article/
 
 There was media coverage about CADOES in <a href = "https://observador.pt/2019/07/29/investigadores-portugueses-criam-software-que-facilita-identificacao-do-sexo-de-esqueletos-humanos/" target="_blank">Observador</a>, <a href = "http://exameinformatica.sapo.pt/noticias/ciencia/2019-07-29-Investigadores-de-Coimbra-criam-aplicacao-que-revela-sexo-de-esqueletos" target="_blank">Exame Informática</a>, among many other portuguese journals.
 
+---
+
 <h3>Ammer-Coelho simulator</h3>
 
 Ammer S, **d’Oliveira Coelho J**, Cunha E. 2019. Outline Shape Analysis on the Trochlear Constriction and Olecranon Fossa of the Humerus: Insights for Sex Estimation and a New Computational Tool. *Journal of Forensic Sciences*. DOI:10.1111/1556-4029.1409.
@@ -37,6 +39,8 @@ The easiest way to understand what we did here, is to grab a humerus, look at it
 
 <a href = "https://onlinelibrary.wiley.com/doi/abs/10.1111/1556-4029.14096" target="_blank">Paper available here.</a>
 
+---
+
 <h3>SPINNE</h3>
 
 Vilas-Boas D, Wasterlain SN, **d’Oliveira Coelho J**, Navega D, Gonçalves D. 2019. SPINNE: An app for human vertebral height estimation based on artificial neural networks. 
@@ -48,6 +52,8 @@ The <a href = "http://osteomics.com/SPINNE/" target="_blank">SPINNE webapp</a> t
 	<img src="/images/SPINNE_CM.png" alt="correlation matrix">
 	<figcaption>Correlation Matrix with all the variables.</figcaption>
 </figure>
+
+---
 
 <h3>Mandibular paleopathology case</h3>
 
