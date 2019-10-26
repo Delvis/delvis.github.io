@@ -65,7 +65,7 @@ Our research team was featured on <a href = "https://elpais.com/cultura/2019/03/
 
 <figure>
 	<img src="/images/lagos_escravo.jpg" alt="escravo">
-	<figcaption>On of the individuals from the Lagos excavations.</figcaption>
+	<figcaption>One of the individuals from the Lagos excavations.</figcaption>
 </figure>
 
 ---
