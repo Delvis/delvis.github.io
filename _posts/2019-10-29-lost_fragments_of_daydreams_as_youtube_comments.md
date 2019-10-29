@@ -5,8 +5,6 @@ description: " "
 tags: [poetry, surrealism, dadaism]
 ---
 
-**Lost fragments of daydreams as youtube comments (Collection #001)**
-
 A semi-homonym, has been writing some short poems while listening to albums on youtube, João Pedro Valente relinquishes them in the platform as comments. But now, I'll be collecting them here. Hope you find them entertaining.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t0TcC3TISs4" frameborder="0" allowfullscreen></iframe>
