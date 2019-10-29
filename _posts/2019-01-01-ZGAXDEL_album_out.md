@@ -35,9 +35,9 @@ Lines from 2008 up to 2018 get hyperdimensionally rebuilt into the ultimate orig
 	<figcaption>ZGA X DEL inside out</figcaption>
 </figure>
 
-Raps and lyrics by DEL\
-Beats, production, mastering, 1st verses and chorus on track 2, 2nd verse and chorus on track 10, adlibs on track 7 by Z G A\
-2nd verse on track 9 by zer-0\
+Raps and lyrics by DEL<br/>
+Beats, production, mastering, 1st verses and chorus on track 2, 2nd verse and chorus on track 10, adlibs on track 7 by Z G A<br/>
+2nd verse on track 9 by zer-0<br/>
 Piano and adlib on track 11 by Momemtum II 
 
 
@@ -46,7 +46,7 @@ Piano and adlib on track 11 by Momemtum II
 	<figcaption>ZGA X DEL outside in</figcaption>
 </figure>
 
-There is a hidden track in the physical version of the CD as well. Shhhh!\
+There is a hidden track in the physical version of the CD as well. Shhhh!<br/>
 (Trumpet in hidden track by ORLA; verses in hidden track by zer-0)
 
 We are on <a href="https://open.spotify.com/album/3Law6Vfe908WydThe3gzyB" target="_blank">Spotify</a>, <a href="https://z-g-a.bandcamp.com/album/directrizes-e-m-todos-de-transcend-ncia" target="_blank">BandCamp</a>, <a href="https://www.amazon.co.uk/Directrizes-e-Mtodos-de-Transcendncia/dp/B07MM6G2ZT?tag=linkfirecom-21&ie=UTF8&linkCode=as2&ascsubtag=4936cb5067062a407f2d9568e27c216f" target="_blank">Amazon</a>, <a href="https://music.apple.com/gb/album/1449188648">Apple Music</a>, <a href="https://www.deezer.com/us/album/83977032" target="_blank">Deezer</a>, <a href="https://play.google.com/store/music/album/ZGAXDEL_Directrizes_e_Métodos_de_Transcendência?id=Bylkica2vpbb6nmkjbf6yepmxa4" target="_blank">Google Play</a>, <a href="https://listen.tidal.com/album/102269555" target="_blank">Tidal</a>, and <a href="https://www.youtube.com/watch?v=6YTrrNNa5M8&list=PLvqQBw_IW0MaXXVdYnthwLEuq2Goi1_7H">YouTube</a> (includes video-album and hidden track).
