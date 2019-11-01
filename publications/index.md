@@ -18,9 +18,9 @@ To download my *Curriculum vitae*, <a href="http://jcoelho.com/CV/updated.pdf" t
 
 # Scientific Papers
 
-**d’Oliveira Coelho J**, Curate F. 2019. CADOES: An interactive machine-learning approach for sex estimation with the pelvis. *Forensic Science International*. 302:109873.
+**d’Oliveira Coelho J**, Curate F. 2019. CADOES: An interactive machine-learning approach for sex estimation with the pelvis. *Forensic Science International*, 302:109873.
 
-Ammer S, **d’Oliveira Coelho J**, Cunha E. 2019. Outline Shape Analysis on the Trochlear Constriction and Olecranon Fossa of the Humerus: Insights for Sex Estimation and a New Computational Tool. *Journal of Forensic Sciences*. DOI:10.1111/1556-4029.1409.
+Ammer S, **d’Oliveira Coelho J**, Cunha E. 2019. Outline Shape Analysis on the Trochlear Constriction and Olecranon Fossa of the Humerus: Insights for Sex Estimation and a New Computational Tool. *Journal of Forensic Sciences*, 64(6):1788–1795.
 
 Vilas-Boas D, Wasterlain SN, **d’Oliveira Coelho J**, Navega D, Gonçalves D. 2019. SPINNE: An app for human vertebral height estimation based on artificial neural networks. *Forensic Science International*. 298:121–130.
 
@@ -38,7 +38,7 @@ Makhoul C, Amarante A, **d'Oliveira Coelho J**, Navega D, Almeida M, Parker SF, 
 
 Gonçalves D, **d'Oliveira Coelho J**, Acosta MA, Coelho C, Curate F, Ferreira MT, Gouveia M, Makhoul C, Pinto D, Oliveira-Santos I, Vassalo AR, Navega D, Cunha E. 2016. One for all and all for one: Linear regression from the mass of individual bones to assess human skeletal mass completeness: Linear Regression of Human Skeletal Mass. *American Journal of Physical Anthropology*, 160:427–432.
 
-Curate F, **d'Oliveira Coelho J**, Gonçalves D, Coelho C, Ferreira MT, Navega D, Cunha E. 2016. A method for sex estimation using the proximal femur. *Forensic Science International* 266:579.e1–7.
+Curate F, **d'Oliveira Coelho J**, Gonçalves D, Coelho C, Ferreira MT, Navega D, Cunha E. 2016. A method for sex estimation using the proximal femur. *Forensic Science International*, 266:579.e1–7.
 
 Andrade B, Dias P, Coelho C, **d'Oliveira Coelho J**, Navega D, Wasterlain SN, Ferreira MT, Santos BS. 2016. Towards automatic non-metric traits analysis on 3D models of skulls. In: *23rd Portuguese Meeting on Computer Graphics and Interaction (EPCGI)*:1–7. DOI: 10.1109/EPCGI.2016.7851196
 
