@@ -1,0 +1,44 @@
+---
+layout: post
+title: "1 year of ORLA"
+description: "ORLA MASS realese... one year after"
+tags: [ORLA, MASS, DMT, zer-0, LeVert, experimental, electronic, ambient, raps]
+---
+
+
+<h2>ORLA - MASS</h2>
+
+<figure>
+	<a href="https://orla.bandcamp.com" target="_blank"><img src="/images/ORLA.png" alt="orla L O G O"></a>
+	<figcaption>ORLA logo (by Crouga)</figcaption>
+</figure>
+
+<a href="https://orla.bandcamp.com" target="_blank">**ORLA**</a> is an etheral entity that emerged in depthness of blackholes.
+
+
+Last year ORLA released an ambient sci-fi inspired project titled <a href="https://orla.bandcamp.com/album/mass" target="_blank">**MASS**</a>, a cyclical exploratory journey through another universe. While mass increases, time does not exist: the journey never ends.
+
+1. Protostar	
+2. White Dwarf	
+3. Pulsar
+4. Strange Star	
+5. SmBH	
+
+Composition: João Pedro Amorim (as ORLA)<br/>
+João Bica (as Crouga) took part in the creation of "Pulsar" and "Strange Star"<br/>
+Editing: Otávio Crespo<br/>
+Mix & Master: Z G A
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jIHy6uU6RKs" frameborder="0" allowfullscreen></iframe>
+
+I created the video-album version of this album using only freely available material from the Public Domain.
+
+Below, more tracks featuring ORLA:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v=NBRHaJNhOAk" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v=EG3Np4kciWE" frameborder="0" allowfullscreen></iframe>
+
+You can buy his album on his <a href="https://orla.bandcamp.com" target="_blank">BandCamp</a>. Support your local artists!
+
+Meurónios Bosque
