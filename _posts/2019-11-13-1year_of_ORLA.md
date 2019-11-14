@@ -2,7 +2,7 @@
 layout: post
 title: "1 year of ORLA"
 description: "ORLA MASS realese... one year after"
-tags: [ORLA, MASS, DMT, zer-0, LeVert, experimental, electronic, ambient, raps]
+tags: [ORLA, MASS, DMT, ZGA, Crouga, zer-0, LeVert, experimental, electronic, ambient, raps]
 ---
 
 

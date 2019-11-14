@@ -2,7 +2,7 @@
 layout: post
 title: "DMT - My first album, produced by Z G A is out!"
 description: " "
-tags: [DMT, raps, hip hop, electronic, IDM]
+tags: [ZGA, DEL, DMT, raps, hip hop, electronic, IDM, ORLA, Crouga]
 ---
 
 
