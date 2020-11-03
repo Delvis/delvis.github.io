@@ -23,7 +23,7 @@ David Hilbert got 23 problems but The Players ain't one.
 
 ---
 
-<iframe width="560" height="315" src="bjw-3umBgL8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bjw-3umBgL8" frameborder="0" allowfullscreen></iframe>
 
 What I did not tell you earlier,
 (and now you might think I've been playing with you)
@@ -41,7 +41,7 @@ proportional hazards models Skidoo.
 
 - João Pedro Valente
 
-<iframe width="560" height="315" src="C81eRCaZnP0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C81eRCaZnP0" frameborder="0" allowfullscreen></iframe>
 
 Incrível e crível,
 Não passa no crivo: mel.
@@ -74,7 +74,7 @@ can we really measure what we call matter?
 
 - João Pedro Valente
 
-<iframe width="560" height="315" src="Mu4422uKlDI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mu4422uKlDI" frameborder="0" allowfullscreen></iframe>
 
 revue systématique && méta-analyse
 dans le spirale d'Amour qui pèse sur moi
@@ -96,7 +96,7 @@ vision nocturne == !(prononcer "tarsier" comme un anglais)
 What a mess,
 Call? All in.
 
-<iframe width="560" height="315" src="Mu4422uKlDI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mu4422uKlDI" frameborder="0" allowfullscreen></iframe>
 
 - João Pedro Valente
 
@@ -116,7 +116,7 @@ Queria estimar o erro residual, mas o N < 13, impede-mo.
 
 - João Pedro Valente
 
-<iframe width="560" height="315" src="0VXGDZGqixI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0VXGDZGqixI" frameborder="0" allowfullscreen></iframe>
 
 
 Je voudrais me souvenir de toi
@@ -137,7 +137,7 @@ Láctea.
 
 - João Pedro Valente
 
-<iframe width="560" height="315" src="6DSCHW0J_Q0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6DSCHW0J_Q0" frameborder="0" allowfullscreen></iframe>
 
 Até que
 ses parents,
