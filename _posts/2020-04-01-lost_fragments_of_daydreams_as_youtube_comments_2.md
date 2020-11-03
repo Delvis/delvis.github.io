@@ -41,6 +41,8 @@ and not marketable. Oh well. For starters<br/>
 you should be more interested in Cox's<br/>
 proportional hazards models Skidoo.<br/>
 
+---
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C81eRCaZnP0" frameborder="0" allowfullscreen></iframe>
 
 Incrível e crível,<br/>
@@ -53,6 +55,8 @@ são moleiros em rios de criogenia,<br/>
 dissimulados em cais de rias.<br/>
 Simulado o "eu" que escreveria,<br/>
 Mas cai nas escadarias.<br/>
+
+---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rw5G-r21gxE" frameborder="0" allowfullscreen></iframe>
 
@@ -69,6 +73,8 @@ does it really matter if oarfish are over ten meters?
 Or rather
 
 can we really measure what we call matter?
+
+---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mu4422uKlDI" frameborder="0" allowfullscreen></iframe>
 
@@ -92,6 +98,8 @@ vision nocturne == !(prononcer "tarsier" comme un anglais)<br/>
 What a mess,<br/>
 Call? All in.<br/>
 
+---
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mu4422uKlDI" frameborder="0" allowfullscreen></iframe>
 
 Observo o obverso (de novo...) ergo o ego.<br/>
@@ -108,8 +116,9 @@ Só viro vegetariano quando a dieta for trevos<br/>
 mutantes, de 4.2 folhas "- Como?" - em média - "Comédia".<br/>
 Queria estimar o erro residual, mas o N < 13, impede-mo.<br/>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0VXGDZGqixI" frameborder="0" allowfullscreen></iframe>
+---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0VXGDZGqixI" frameborder="0" allowfullscreen></iframe>
 
 Je voudrais me souvenir de toi<br/>
 mas foi de passagem como pássaros<br/>
@@ -126,6 +135,8 @@ essa elipse que o espírito orbita.<br/>
 Órbitas caem, após curvar na esquina.<br/>
 "C'est la vie" Não. É a Via<br/>
 Láctea.<br/>
+
+---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6DSCHW0J_Q0" frameborder="0" allowfullscreen></iframe>
 
