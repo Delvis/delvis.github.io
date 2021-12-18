@@ -26,28 +26,28 @@ The paper starts by exploring the spatial and temporal gaps of the primate & hom
 We also discuss the difficulties of surveying for new paleontological localities, specially within modern forests/woodlands as in Gorongosa, since dense vegetation cover reduces visibility (i.e. finding clues in topography and landscape).
 
 <figure>
-	<img src="https://github.com/Delvis/kmeansGorongosa/blob/master/img/kmeansGorongosa_Figure_3.png" alt="(A) Despite the ground foliage and dense vegetation, in situ and surface evidence of fossils abound in the gully valley connecting GPL-12 to GPL-12B; (B) Systematic mapping and collecting of surface fossil finds by students of the field school; (C) Side gully (~3 m deep) exposure and shovel test pit at GPL-12. Photographs are from the Paleo-Primate Project Gorongosa archive.">
+	<img src="https://raw.githubusercontent.com/Delvis/kmeansGorongosa/master/img/kmeansGorongosa_Figure_3.png" alt="(A) Despite the ground foliage and dense vegetation, in situ and surface evidence of fossils abound in the gully valley connecting GPL-12 to GPL-12B; (B) Systematic mapping and collecting of surface fossil finds by students of the field school; (C) Side gully (~3 m deep) exposure and shovel test pit at GPL-12. Photographs are from the Paleo-Primate Project Gorongosa archive.">
 	<figcaption>Surveying for fossils in a densely vegetated context</figcaption>
 </figure>
 
 To increase the chances of a successful discovery of fossil sites, we introduced an algorithmic pipeline. 1) Download Landsat 8 satellite image ➜ 2) crop image to study area ➜ 3) clustering algorithm ➜ 4) binarize clusters and calculate variable importance using randomForest 
 
 <figure>
-	<img src="https://github.com/Delvis/kmeansGorongosa/blob/master/img/kmeansGorongosa_Figure_4.png" alt="(1) Example of one of the seven spectral bands satellite images used in this study; (2) false colour map based on the infrared bands, after cropping to study area; (3) results of clustering using all seven spectral bands; (4) Binarize clusters for classification by selecting the cluster that contains most fossil sites as the target class (“walking back the cat”) versus all other clusters combined into a single class.">
+	<img src="https://raw.githubusercontent.com/Delvis/kmeansGorongosa/master/img/kmeansGorongosa_Figure_4.png" alt="(1) Example of one of the seven spectral bands satellite images used in this study; (2) false colour map based on the infrared bands, after cropping to study area; (3) results of clustering using all seven spectral bands; (4) Binarize clusters for classification by selecting the cluster that contains most fossil sites as the target class (“walking back the cat”) versus all other clusters combined into a single class.">
 	<figcaption>Flowchart of the algorithmic pipeline used for remote fossil site detection</figcaption>
 </figure>
 
 4 new fossil sites were discovered in Gorongosa National Park using this approach. Overall accuracy of the binarized k-means clusters was ~ 85%. This indicates the high potential of our remote sensing pipeline for exploratory paleontological surveys.
 
 <figure>
-	<img src="https://github.com/Delvis/kmeansGorongosa/blob/master/img/kmeansGorongosa_Figure_7.png" alt="New fossil sites GPL-10, 11, 12 and 12B are documented here for the first time. Trackways of surveys during 2018 are drawn in black. Clusters 2–8 are merged into a single cluster and compared against cluster 1 (predictive cluster). Total area = 36 km2. One grid square = 1 km2. One pixel-cell = 900 m2.">
+	<img src="https://raw.githubusercontent.com/Delvis/kmeansGorongosa/master/img/kmeansGorongosa_Figure_7.png" alt="New fossil sites GPL-10, 11, 12 and 12B are documented here for the first time. Trackways of surveys during 2018 are drawn in black. Clusters 2–8 are merged into a single cluster and compared against cluster 1 (predictive cluster). Total area = 36 km2. One grid square = 1 km2. One pixel-cell = 900 m2.">
 	<figcaption>Binarized classification plotting cluster 1 versus all other clusters</figcaption>
 </figure>
 
 Relative importance of spectral bands for clustering was determined using the **randomForest** algorithm, and near-infrared was the most important variable for fossil site detection, followed by other infrared bands. The visible spectrum did a poor job as an indicator of fossil sites.
 
 <figure>
-	<img src="https://github.com/Delvis/kmeansGorongosa/blob/master/img/kmeansGorongosa_Figure_8.png?raw=true" alt="Bars represent relative importance of the spectral predictors for optimally classifying all clusters as calculated by a supervised random forest algorithm (Breiman, 2001). Specific variable importance for detecting cluster 1 is shown with open circles.">
+	<img src="https://raw.githubusercontent.com/Delvis/kmeansGorongosa/master/img/kmeansGorongosa_Figure_8.png" alt="Bars represent relative importance of the spectral predictors for optimally classifying all clusters as calculated by a supervised random forest algorithm (Breiman, 2001). Specific variable importance for detecting cluster 1 is shown with open circles.">
 	<figcaption>Variable importance of spectral bands for clustering</figcaption>
 </figure>
 
