@@ -9,17 +9,13 @@ Short but intense music showcase performed by **K. Wölf** in our studio room in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wm3vfykJNQA" frameborder="0" allowfullscreen></iframe>
 
-Music:
-K. Wölf
+Music by K. Wölf
 
-Recording
-Audio: João Pedro Valente
-Video: João d'Oliveira Coelho
+Audio recorded by João Pedro Valente
 
-Video editing:
-TΩDΩ-PΩDEλΩSΩ
+Video recorded by João d'Oliveira Coelho
 
-Space provided by:
-Xana Ramos
-Vitor Santos
+Video editing by TΩDΩ-PΩDEλΩSΩ
+
+Space provided by Xana Ramos and Vitor Santos
 
