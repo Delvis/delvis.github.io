@@ -1,0 +1,57 @@
+I"Q	<figure>
+	<a href="http://jest.pt" target="_blank"><img src="/images/jestPTcover3.png" alt="JEST Team." /></a>
+	<figcaption>Junior Enterprise for Science and Tech.</figcaption>
+</figure>
+
+<p>Yo folks,</p>
+
+<p>Recently I launched in collaboration with a few friends the <a href="http://jest.pt" target="_blank">jest.pt</a> website. JEST promotes a startup-like environment for young academics, mainly from the <strong>Life Sciences Department</strong> at the University of Coimbra. We are a junior association that develops data science solutions in bioinformatics, forensic, and health sciences. We are committed to learn by doing and as a team.</p>
+
+<p>Our first project is <strong>R Attack</strong>, a workshop about the R Statistical Language that we will be giving during 4 days. You can read more about it here: <a href="http://jest.pt/2016/11/01/R.html" target="_blank">R Attack</a>. It goes from completely beginner’s material to very advanced topics, such as optimization of written functions. However, we will try to keep things simple, so that all the course is accessible even for people with no background whatsoever in programming.</p>
+
+<p><strong>DAY 1 - R for dummies</strong></p>
+
+<ul>
+  <li>Intro to R and R Studio</li>
+  <li>Importing data</li>
+  <li>Basic operations and loops</li>
+  <li>Descriptive and Inferential stats</li>
+</ul>
+
+<p><strong>DAY 2 - R for data nerds</strong></p>
+
+<ul>
+  <li>From raw data to tidy data (tidyr and dplyr)</li>
+  <li>Exploring: base plot vs. ggplot2</li>
+  <li>Intro to Machine Learning with caret</li>
+  <li>Open data, online collaboration and sharing</li>
+</ul>
+
+<p><strong>DAY 3 - R for hackers</strong></p>
+
+<ul>
+  <li>Reporting with R Markdown</li>
+  <li>Intro to Shiny: Web-app development</li>
+  <li>Interactive plotting</li>
+  <li>Intro to R efficiency</li>
+</ul>
+
+<p><strong>DAY 4 - R for programmers</strong></p>
+
+<ul>
+  <li>The apply family</li>
+  <li>Function writing</li>
+  <li>Advanced R programming</li>
+  <li>Data science workflow</li>
+</ul>
+
+<p>There will be a different speaker each day and I will be responsible for the 3rd day. My current role in JEST is as head of design, webmaster and workshop speaker.
+Don’t forget to follow us on <a href="https://www.facebook.com/UC.JEST/" target="_blank">facebook</a> to keep up with the news!</p>
+
+<p align="right">
+	Keep on untz untz,
+</p>
+<p align="right">
+	j
+</p>
+:ET
