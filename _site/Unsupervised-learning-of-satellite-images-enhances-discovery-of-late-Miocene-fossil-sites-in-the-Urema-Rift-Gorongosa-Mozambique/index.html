@@ -1,0 +1,315 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>First PhD chapter on fossil site remote detection &#8211; jcoelho</title>
+<meta name="description" content=" ">
+<meta name="keywords" content="Geospatial Paleontology, Southeast Africa, Late Miocene, Remote Sensing, Unsupervised Learning">
+
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://localhost:4000/images/">
+<meta name="twitter:title" content="First PhD chapter on fossil site remote detection">
+<meta name="twitter:description" content=" ">
+<meta name="twitter:creator" content="@Gangryong">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="First PhD chapter on fossil site remote detection">
+<meta property="og:description" content=" ">
+<meta property="og:url" content="http://localhost:4000/Unsupervised-learning-of-satellite-images-enhances-discovery-of-late-Miocene-fossil-sites-in-the-Urema-Rift-Gorongosa-Mozambique/">
+<meta property="og:site_name" content="jcoelho">
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/Unsupervised-learning-of-satellite-images-enhances-discovery-of-late-Miocene-fossil-sites-in-the-Urema-Rift-Gorongosa-Mozambique/">
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="jcoelho Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+<!-- Webfonts -->
+<link href="//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic" rel="stylesheet" type="text/css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="http://localhost:4000/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://localhost:4000/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://localhost:4000/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/images/apple-touch-icon-144x144-precomposed.png">
+
+
+
+</head>
+
+<body id="post" >
+
+<!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
+<nav id="dl-menu" class="dl-menuwrapper" role="navigation">
+	<button class="dl-trigger">Open Menu</button>
+	<ul class="dl-menu">
+		<li><a href="http://localhost:4000/">Home</a></li>
+		<li>
+			<a href="#">About</a>
+			<ul class="dl-submenu">
+				<li>
+					<img src="http://localhost:4000/images/avatar.jpg" alt="João Coelho photo" class="author-photo">
+					<h4>João Coelho</h4>
+					<p>Bioanthropologist, datapreneur wannabe and R enthusiast</p>
+				</li>
+				<li><a href="http://localhost:4000/about/"><span class="btn btn-inverse">Learn More</span></a></li>
+				
+				<li>
+					<a href="http://twitter.com/Gangryong"><i class="fa fa-fw fa-twitter"></i> Twitter</a>
+				</li>
+				
+				
+				<li>
+					<a href="http://linkedin.com/in/jpvocoelho"><i class="fa fa-fw fa-linkedin"></i> LinkedIn</a>
+				</li>
+				<li>
+					<a href="http://github.com/Delvis"><i class="fa fa-fw fa-github"></i> GitHub</a>
+				</li>
+				
+				<li>
+					<a href="http://instagram.com/delvispresley"><i class="fa fa-fw fa-instagram"></i> Instagram</a>
+				</li>
+				
+				
+			</ul><!-- /.dl-submenu -->
+		</li>
+		<li>
+			<a href="#">Posts</a>
+			<ul class="dl-submenu">
+				<li><a href="http://localhost:4000/posts/">All Posts</a></li>
+				<li><a href="http://localhost:4000/tags/">All Tags</a></li>
+			</ul>
+		</li>
+		
+	    
+	    <li><a href="http://localhost:4000/publications/" >Publications</a></li>
+	  
+	    
+	    <li><a href="http://localhost:4000/software/" >Software</a></li>
+	  
+	    
+	    <li><a href="http://localhost:4000/graphic-design/" >Graphic Design</a></li>
+	  
+	    
+	    <li><a href="http://localhost:4000/raps/" >Raps</a></li>
+	  
+	    
+	    <li><a href="https://www.youtube.com/channel/UCEb24VJvzN2gGe4DRGsB-ew" target="_blank">Meurónios Bosque</a></li>
+	  
+	</ul><!-- /.dl-menu -->
+</nav><!-- /.dl-menuwrapper -->
+
+
+
+
+<div id="main" role="main">
+  <article class="hentry">
+    <header class="header-title">
+      <div class="header-title-wrap">
+        
+          <h1 class="entry-title"><a href="http://localhost:4000/Unsupervised-learning-of-satellite-images-enhances-discovery-of-late-Miocene-fossil-sites-in-the-Urema-Rift-Gorongosa-Mozambique/" rel="bookmark" title="First PhD chapter on fossil site remote detection">First PhD chapter on fossil site remote detection</a></h1>
+        
+        <h2><span class="entry-date date published"><time datetime="2021-06-08T00:00:00+00:00">June 08, 2021</time></span></h2>
+        
+        <p class="entry-reading-time">
+          <i class="fa fa-clock-o"></i>
+          
+          Reading time ~6 minutes
+        </p><!-- /.entry-reading-time -->
+        
+      </div><!-- /.header-title-wrap -->
+    </header>
+    <div class="entry-content">
+      <p>Just published the first chapter of my PhD on remote fossil site detection using satellite images and unsupervised learning in <a href="https://peerj.com/articles/11573/" target="_blank">PeerJ</a>.</p>
+
+<p><strong>d’Oliveira Coelho J</strong>, Anemone RL, Carvalho S. 2021. Unsupervised learning of satellite images enhances discovery of late Miocene fossil sites in the Urema Rift, Gorongosa, Mozambique. <em>PeerJ</em> 9:e11573 https://doi.org/10.7717/peerj.11573</p>
+
+<p>It is open acess and available at <a href="https://peerj.com/articles/11573/" target="_blank">https://peerj.com/articles/11573/</a></p>
+
+<figure>
+	<img src="https://raw.githubusercontent.com/Delvis/kmeansGorongosa/master/img/kmeansGorongosa_Figure_2.png" alt="a) GPL-1 outcrops, notice how the surrounding vegetation is far more dense and extensive than in typical fossil sites from the EARS; b) GPL-1 in high-resolution satellite image, extracted from bing.com, shows a reduction of vegetation, but outcrops are barely noticeable; c) GPL-1, in a black rectangle, appears brighter than surrounding areas, when being mapped by lower resolution Landsat 8 false colour (infrared) image, and the same happens with other fossil sites, suggesting that infrared bands might be a useful indicator of fossiliferous deposits." />
+	<figcaption>The miombo woodland and the challenges it presents to fossil prospecting</figcaption>
+</figure>
+
+<p>The paper starts by exploring the spatial and temporal gaps of the primate &amp; hominid fossil record of Africa in the late Miocene. The Gorongosa National Park in Mozambique is shown to be a strategic location, with great potential to fill some major gaps in paleoanthropology.</p>
+
+<figure>
+	<img src="https://raw.githubusercontent.com/Delvis/kmeansGorongosa/master/img/kmeansGorongosa_Figure_1.png" alt="(A) Time gap: during this key period the African fossil record of primates is very incomplete (evaluated through species richness); but notice the split estimates from genomics; (B) spatial gap: virtually no fossils of this age are known in southeastern Africa, notice the strategic location of Gorongosa. Data extracted from paleobiodb.org, map adapted from Bobe et al. (2018); (C) study area for k-means within the geological context of Gorongosa, adapted from Habermann et al. (2019)." />
+	<figcaption>The great gaps of the African late Miocene</figcaption>
+</figure>
+
+<p>We also discuss the difficulties of surveying for new paleontological localities, specially within modern forests/woodlands as in Gorongosa, since dense vegetation cover reduces visibility (i.e. finding clues in topography and landscape).</p>
+
+<figure>
+	<img src="https://raw.githubusercontent.com/Delvis/kmeansGorongosa/master/img/kmeansGorongosa_Figure_3.png" alt="(A) Despite the ground foliage and dense vegetation, in situ and surface evidence of fossils abound in the gully valley connecting GPL-12 to GPL-12B; (B) Systematic mapping and collecting of surface fossil finds by students of the field school; (C) Side gully (~3 m deep) exposure and shovel test pit at GPL-12. Photographs are from the Paleo-Primate Project Gorongosa archive." />
+	<figcaption>Surveying for fossils in a densely vegetated context</figcaption>
+</figure>
+
+<p>To increase the chances of a successful discovery of fossil sites, we introduced an algorithmic pipeline. 1) Download Landsat 8 satellite image ➜ 2) crop image to study area ➜ 3) clustering algorithm ➜ 4) binarize clusters and calculate variable importance using randomForest</p>
+
+<figure>
+	<img src="https://raw.githubusercontent.com/Delvis/kmeansGorongosa/master/img/kmeansGorongosa_Figure_4.png" alt="(1) Example of one of the seven spectral bands satellite images used in this study; (2) false colour map based on the infrared bands, after cropping to study area; (3) results of clustering using all seven spectral bands; (4) Binarize clusters for classification by selecting the cluster that contains most fossil sites as the target class (“walking back the cat”) versus all other clusters combined into a single class." />
+	<figcaption>Flowchart of the algorithmic pipeline used for remote fossil site detection</figcaption>
+</figure>
+
+<p>4 new fossil sites were discovered in Gorongosa National Park using this approach. Overall accuracy of the binarized k-means clusters was ~ 85%. This indicates the high potential of our remote sensing pipeline for exploratory paleontological surveys.</p>
+
+<figure>
+	<img src="https://raw.githubusercontent.com/Delvis/kmeansGorongosa/master/img/kmeansGorongosa_Figure_7.png" alt="New fossil sites GPL-10, 11, 12 and 12B are documented here for the first time. Trackways of surveys during 2018 are drawn in black. Clusters 2–8 are merged into a single cluster and compared against cluster 1 (predictive cluster). Total area = 36 km2. One grid square = 1 km2. One pixel-cell = 900 m2." />
+	<figcaption>Binarized classification plotting cluster 1 versus all other clusters</figcaption>
+</figure>
+
+<p>Relative importance of spectral bands for clustering was determined using the <strong>randomForest</strong> algorithm, and near-infrared was the most important variable for fossil site detection, followed by other infrared bands. The visible spectrum did a poor job as an indicator of fossil sites.</p>
+
+<figure>
+	<img src="https://raw.githubusercontent.com/Delvis/kmeansGorongosa/master/img/kmeansGorongosa_Figure_8.png" alt="Bars represent relative importance of the spectral predictors for optimally classifying all clusters as calculated by a supervised random forest algorithm (Breiman, 2001). Specific variable importance for detecting cluster 1 is shown with open circles." />
+	<figcaption>Variable importance of spectral bands for clustering</figcaption>
+</figure>
+
+<p>This tool can be used for locating new fossil sites. In Gorongosa, the discovery of the first estuarine coastal forests of the East African Rift System (EARS) fills an important paleobiogeographic gap of Africa. The new sites will be key for testing hypotheses of primate evolution in such settings.</p>
+
+<figure>
+	<img src="/images/Figure2A_map_HQ_with_stream_network.jpg" alt="" />
+	<figcaption> Map of Gorongosa National Park along the East African Rift Valley, with the Cheringoma Plateau to the east and Mount Gorongosa to the northwest. The park hosts a wide range of environments. The new paleontological sites on the Cheringoma Plateau are ~95 km from the coast</figcaption>
+</figure>
+
+<h3>Abstract</h3>
+
+<p><strong>Background</strong></p>
+
+<p>Paleoanthropological research focus still devotes most resources to areas generally known to be fossil rich instead of a strategy that first maps and identifies possible fossil sites in a given region. This leads to the paradoxical task of planning paleontological campaigns without knowing the true extent and likely potential of each fossil site and, hence, how to optimize the investment of time and resources. Yet to answer key questions in hominin evolution, paleoanthropologists must engage in fieldwork that targets substantial temporal and geographical gaps in the fossil record. How can the risk of potentially unsuccessful surveys be minimized, while maximizing the potential for successful surveys?</p>
+
+<p><strong>Methods</strong></p>
+
+<p>Here we present a simple and effective solution for finding fossil sites based on clustering by unsupervised learning of satellite images with the k-means algorithm and pioneer its testing in the Urema Rift, the southern termination of the East African Rift System (EARS). We focus on a relatively unknown time period critical for understanding African apes and early hominin evolution, the early part of the late Miocene, in an overlooked area of southeastern Africa, in Gorongosa National Park, Mozambique. This clustering approach highlighted priority targets for prospecting that represented only 4.49% of the total area analysed.</p>
+
+<p><strong>Results</strong></p>
+
+<p>Applying this method, four new fossil sites were discovered in the area, and results show an 85% accuracy in a binary classification. This indicates the high potential of a remote sensing tool for exploratory paleontological surveys by enhancing the discovery of productive fossiliferous deposits. The relative importance of spectral bands for clustering was also determined using the random forest algorithm, and near-infrared was the most important variable for fossil site detection, followed by other infrared variables. Bands in the visible spectrum performed the worst and are not likely indicators of fossil sites.</p>
+
+<p><strong>Discussion</strong></p>
+
+<p>We show that unsupervised learning is a useful tool for locating new fossil sites in relatively unexplored regions. Additionally, it can be used to target specific gaps in the fossil record and to increase the sample of fossil sites. In Gorongosa, the discovery of the first estuarine coastal forests of the EARS fills an important paleobiogeographic gap of Africa. These new sites will be key for testing hypotheses of primate evolution in such environmental settings.</p>
+
+<figure>
+	<img src="/images/GPL12_350m_distance_fromPickfordMammals.jpg" alt="The gully sidewall at GPL-12 exposes a 3 m thick section comprising seven distinct sedimentary facies" />
+	<figcaption>Detail of the location of Gorongosa Paleontological Locality 12 (GPL-12) with a high density of fossils (bonebeds)</figcaption>
+</figure>
+
+      <footer class="entry-meta">
+        <span class="entry-tags"><a href="http://localhost:4000/tags/#Geospatial Paleontology" title="Pages tagged Geospatial Paleontology" class="tag"><span class="term">Geospatial Paleontology</span></a><a href="http://localhost:4000/tags/#Southeast Africa" title="Pages tagged Southeast Africa" class="tag"><span class="term">Southeast Africa</span></a><a href="http://localhost:4000/tags/#Late Miocene" title="Pages tagged Late Miocene" class="tag"><span class="term">Late Miocene</span></a><a href="http://localhost:4000/tags/#Remote Sensing" title="Pages tagged Remote Sensing" class="tag"><span class="term">Remote Sensing</span></a><a href="http://localhost:4000/tags/#Unsupervised Learning" title="Pages tagged Unsupervised Learning" class="tag"><span class="term">Unsupervised Learning</span></a></span>
+        
+        <div class="social-share">
+  <ul class="socialcount socialcount-small inline-list">
+    <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/Unsupervised-learning-of-satellite-images-enhances-discovery-of-late-Miocene-fossil-sites-in-the-Urema-Rift-Gorongosa-Mozambique/" title="Share on Facebook"><span class="count"><i class="fa fa-facebook-square"></i> Like</span></a></li>
+    <li class="twitter"><a href="https://twitter.com/intent/tweet?text=http://localhost:4000/Unsupervised-learning-of-satellite-images-enhances-discovery-of-late-Miocene-fossil-sites-in-the-Urema-Rift-Gorongosa-Mozambique/" title="Share on Twitter"><span class="count"><i class="fa fa-twitter-square"></i> Tweet</span></a></li>
+    <li class="googleplus"><a href="https://plus.google.com/share?url=http://localhost:4000/Unsupervised-learning-of-satellite-images-enhances-discovery-of-late-Miocene-fossil-sites-in-the-Urema-Rift-Gorongosa-Mozambique/" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus-square"></i> +1</span></a></li>
+  </ul>
+</div><!-- /.social-share -->
+      </footer>
+    </div><!-- /.entry-content -->
+    <section id="disqus_thread"></section><!-- /#disqus_thread -->
+    <div class="read-more">
+  
+    <div class="read-more-header">
+      <a href="http://localhost:4000/lost_fragments_of_daydreams_as_youtube_comments_2/" class="read-more-btn">Read More</a>
+    </div><!-- /.read-more-header -->
+    <div class="read-more-content">
+      <h3><a href="http://localhost:4000/K-Wolf-Concerto-Para-Dormir/" title="K. Wölf - Concerto Para Dormir">K. Wölf - Concerto Para Dormir</a></h3>
+      <p>K. Wölf - Concerto Para Dormir <a href="http://localhost:4000/K-Wolf-Concerto-Para-Dormir/">Continue reading</a></p>
+    </div><!-- /.read-more-content -->
+  
+  <div class="read-more-list">
+    
+      <div class="list-item">
+        <h4><a href="http://localhost:4000/lost_fragments_of_daydreams_as_youtube_comments_2/" title="Lost fragments of daydreams as youtube comments (Collection #002)">Lost fragments of daydreams as youtube comments (Collection #002)</a></h4>
+        <span>Published on April 01, 2020</span>
+      </div><!-- /.list-item -->
+    
+      <div class="list-item">
+        <h4><a href="http://localhost:4000/1year_of_ORLA/" title="1 year of ORLA">1 year of ORLA</a></h4>
+        <span>Published on November 13, 2019</span>
+      </div><!-- /.list-item -->
+    
+  </div><!-- /.read-more-list -->
+</div><!-- /.read-more -->
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrapper">
+  <footer role="contentinfo">
+    <span>Powered by coffee, skill and creativity. &copy; 2021 João Coelho.</span>
+  </footer>
+</div><!-- /.footer-wrapper -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://localhost:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://localhost:4000/assets/js/scripts.min.js"></script>
+
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68440862-1', 'auto');  
+  ga('require', 'linkid', 'linkid.js');
+  ga('send', 'pageview');
+</script>
+
+
+
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'jcoelho'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+	        
+
+</body>
+</html>

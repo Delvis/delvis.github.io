@@ -49,6 +49,7 @@ sass:
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
+plugins: [jekyll-paginate]
 paginate: 5
 
 kramdown:
