@@ -717,14 +717,26 @@ fit a GLMM with a random intercept:</p>
 <pre class="r"><code>library(lme4)
 
 # Fit the model
-model &lt;- glmer(ObjectUse ~ Habitat + Age + Sex + Location  + (1|group_ID), data = ObjectUse, family = binomial(link = &quot;logit&quot;))</code></pre>
+model &lt;- glmer(ObjectUse ~ Habitat + Age + Sex + Location + (1|group_ID), data = ObjectUse, family = binomial(link = &quot;logit&quot;))</code></pre>
 <p>In this example, <code>ObjectUse</code> is the binary outcome
-(response variable), <code>Habitat</code>, <code>Age</code> and
-<code>Sex</code> are fixed effects (i.e., predictor variables of
-interest), and <code>group_ID</code> is a grouping variable for the
-random intercept. The syntax <code>(1|group_ID)</code> specifies that
-there should be a random intercept for each level of
-<code>group_ID</code>.</p>
+(response variable), <code>Habitat</code>, <code>Age</code>,
+<code>Sex</code> and <code>Location</code> are fixed effects (i.e.,
+predictor variables of interest), and <code>group_ID</code> is a
+grouping variable for the random intercept. The syntax
+<code>(1|group_ID)</code> specifies that there should be a random
+intercept for each level of <code>group_ID</code>.</p>
+<p>The random effect in this model, represented by the term
+(1|group_ID), accounts for the fact that there may be some other source
+of variation in the response variable (ObjectUse) that is not explained
+by the fixed effects (Habitat, Age, Sex, Location). This source of
+variation is often referred to as a “random effect” because it is not
+something that is directly controlled or measured in the study. By
+including a random effect for group_ID, the model accounts for the
+possibility that the groups (identified by group_ID) may have different
+baseline rates of ObjectUse that are not explained by the other
+predictor variables. This can help to improve the accuracy of the
+model’s predictions by accounting for this additional source of
+variation.</p>
 </div>
 <div id="model-validity" class="section level2">
 <h2>5. Model validity</h2>
