@@ -737,53 +737,6 @@ baseline rates of ObjectUse that are not explained by the other
 predictor variables. This can help to improve the accuracy of the
 model’s predictions by accounting for this additional source of
 variation.</p>
-</div>
-<div id="model-validity" class="section level2">
-<h2>5. Model validity</h2>
-<p>There are several diagnostic tools that you can use to check the
-assumptions of your mixed-effects logistic regression model:</p>
-<p>5.1. <strong>Summary of the GLMM</strong></p>
-<pre class="r"><code>options(width = 300)
-
-summary(model)</code></pre>
-<pre><code>## Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) [&#39;glmerMod&#39;]
-##  Family: binomial  ( logit )
-## Formula: ObjectUse ~ Habitat + Age + Sex + Location + (1 | group_ID)
-##    Data: ObjectUse
-## 
-##      AIC      BIC   logLik deviance df.resid 
-##   2286.0   2362.2  -1129.0   2258.0     1693 
-## 
-## Scaled residuals: 
-##     Min      1Q  Median      3Q     Max 
-## -1.5076 -0.8398 -0.6442  1.1136  2.1911 
-## 
-## Random effects:
-##  Groups   Name        Variance Std.Dev.
-##  group_ID (Intercept) 0.09251  0.3041  
-## Number of obs: 1707, groups:  group_ID, 3
-## 
-## Fixed effects:
-##                                   Estimate Std. Error z value Pr(&gt;|z|)   
-## (Intercept)                        0.41342    0.44892   0.921  0.35709   
-## HabitatMixed                      -0.40159    0.19955  -2.013  0.04417 * 
-## HabitatSparse woodland (&lt;1%)      -0.95669    0.29719  -3.219  0.00129 **
-## HabitatOpen woodland (1-10%)      -0.31558    0.25264  -1.249  0.21163   
-## HabitatModerate woodland (10-50%) -0.55469    0.25616  -2.165  0.03036 * 
-## HabitatClosed woodland (50-75%)   -0.67027    0.33795  -1.983  0.04733 * 
-## AgeJuvenile                       -0.22638    0.35472  -0.638  0.52335   
-## AgeSubadult                       -0.62184    0.43560  -1.428  0.15342   
-## AgeAdult                          -0.61927    0.37974  -1.631  0.10293   
-## SexM                               0.13416    0.11442   1.173  0.24099   
-## SexUnknown                         0.01215    0.28760   0.042  0.96629   
-## LocationRaised                    -0.12912    0.29810  -0.433  0.66491   
-## LocationTree                       0.45283    0.19308   2.345  0.01901 * 
-## ---
-## Signif. codes:  0 &#39;***&#39; 0.001 &#39;**&#39; 0.01 &#39;*&#39; 0.05 &#39;.&#39; 0.1 &#39; &#39; 1</code></pre>
-<pre><code>## 
-## Correlation matrix not shown by default, as p = 13 &gt; 12.
-## Use print(x, correlation=TRUE)  or
-##     vcov(x)        if you need it</code></pre>
 <pre class="r"><code>knitr::kable(summary(model)$coef) # formatted table for word</code></pre>
 <table>
 <colgroup>
@@ -896,6 +849,53 @@ summary(model)</code></pre>
 </tr>
 </tbody>
 </table>
+</div>
+<div id="model-validity" class="section level2">
+<h2>5. Model validity</h2>
+<p>There are several diagnostic tools that you can use to check the
+assumptions of your mixed-effects logistic regression model:</p>
+<p>5.1. <strong>Summary of the GLMM</strong></p>
+<pre class="r"><code>options(width = 300)
+
+summary(model)</code></pre>
+<pre><code>## Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) [&#39;glmerMod&#39;]
+##  Family: binomial  ( logit )
+## Formula: ObjectUse ~ Habitat + Age + Sex + Location + (1 | group_ID)
+##    Data: ObjectUse
+## 
+##      AIC      BIC   logLik deviance df.resid 
+##   2286.0   2362.2  -1129.0   2258.0     1693 
+## 
+## Scaled residuals: 
+##     Min      1Q  Median      3Q     Max 
+## -1.5076 -0.8398 -0.6442  1.1136  2.1911 
+## 
+## Random effects:
+##  Groups   Name        Variance Std.Dev.
+##  group_ID (Intercept) 0.09251  0.3041  
+## Number of obs: 1707, groups:  group_ID, 3
+## 
+## Fixed effects:
+##                                   Estimate Std. Error z value Pr(&gt;|z|)   
+## (Intercept)                        0.41342    0.44892   0.921  0.35709   
+## HabitatMixed                      -0.40159    0.19955  -2.013  0.04417 * 
+## HabitatSparse woodland (&lt;1%)      -0.95669    0.29719  -3.219  0.00129 **
+## HabitatOpen woodland (1-10%)      -0.31558    0.25264  -1.249  0.21163   
+## HabitatModerate woodland (10-50%) -0.55469    0.25616  -2.165  0.03036 * 
+## HabitatClosed woodland (50-75%)   -0.67027    0.33795  -1.983  0.04733 * 
+## AgeJuvenile                       -0.22638    0.35472  -0.638  0.52335   
+## AgeSubadult                       -0.62184    0.43560  -1.428  0.15342   
+## AgeAdult                          -0.61927    0.37974  -1.631  0.10293   
+## SexM                               0.13416    0.11442   1.173  0.24099   
+## SexUnknown                         0.01215    0.28760   0.042  0.96629   
+## LocationRaised                    -0.12912    0.29810  -0.433  0.66491   
+## LocationTree                       0.45283    0.19308   2.345  0.01901 * 
+## ---
+## Signif. codes:  0 &#39;***&#39; 0.001 &#39;**&#39; 0.01 &#39;*&#39; 0.05 &#39;.&#39; 0.1 &#39; &#39; 1</code></pre>
+<pre><code>## 
+## Correlation matrix not shown by default, as p = 13 &gt; 12.
+## Use print(x, correlation=TRUE)  or
+##     vcov(x)        if you need it</code></pre>
 <p>5.2. <strong>Residual plots: You can use the plot() function from the
 lme4 package to create residual plots. For example, to create a residual
 vs. fitted plot, you can use the following code:</strong></p>
