@@ -717,7 +717,35 @@ fit a GLMM with a random intercept:</p>
 <pre class="r"><code>library(lme4)
 
 # Fit the model
-model &lt;- glmer(ObjectUse ~ Habitat + Age + Sex + Location + (1|group_ID), data = ObjectUse, family = binomial(link = &quot;logit&quot;))</code></pre>
+model &lt;- glmer(ObjectUse ~ Habitat + Age + Sex + Location + (1|group_ID), data = ObjectUse, family = binomial(link = &quot;logit&quot;))
+
+model</code></pre>
+<pre><code>## Generalized linear mixed model fit by maximum likelihood (Laplace
+##   Approximation) [glmerMod]
+##  Family: binomial  ( logit )
+## Formula: ObjectUse ~ Habitat + Age + Sex + Location + (1 | group_ID)
+##    Data: ObjectUse
+##       AIC       BIC    logLik  deviance  df.resid 
+##  2285.961  2362.156 -1128.980  2257.961      1693 
+## Random effects:
+##  Groups   Name        Std.Dev.
+##  group_ID (Intercept) 0.3041  
+## Number of obs: 1707, groups:  group_ID, 3
+## Fixed Effects:
+##                       (Intercept)                       HabitatMixed  
+##                           0.41342                           -0.40159  
+##      HabitatSparse woodland (&lt;1%)       HabitatOpen woodland (1-10%)  
+##                          -0.95669                           -0.31558  
+## HabitatModerate woodland (10-50%)    HabitatClosed woodland (50-75%)  
+##                          -0.55469                           -0.67027  
+##                       AgeJuvenile                        AgeSubadult  
+##                          -0.22638                           -0.62184  
+##                          AgeAdult                               SexM  
+##                          -0.61927                            0.13416  
+##                        SexUnknown                     LocationRaised  
+##                           0.01215                           -0.12912  
+##                      LocationTree  
+##                           0.45283</code></pre>
 <p>In this example, <code>ObjectUse</code> is the binary outcome
 (response variable), <code>Habitat</code>, <code>Age</code>,
 <code>Sex</code> and <code>Location</code> are fixed effects (i.e.,
