@@ -661,7 +661,13 @@ ObjectUse$Behaviour[ObjectUse$Activity == &quot;Object Use&quot;] &lt;- paste(&q
 ObjectUse$ObjFunction &lt;- as.factor(ObjectUse$ObjFunction)
 
 n_focals &lt;- length(unique(ObjectUse$focal_start_timeStamp))
-min_focal &lt;- 10 # each focal took 10 minutes</code></pre>
+min_focal &lt;- 10 # each focal took 10 minutes
+
+functionset &lt;- ObjectUse[ObjectUse$ObjFunction != &quot;&quot;,]
+
+functionset$ObjectFunction &lt;- ifelse(functionset$ObjFunction != &quot;Food processing&quot;, &quot;Object manipulation&quot;, as.character(functionset$ObjFunction))
+
+functionset$ObjectFunction &lt;- factor(functionset$ObjectFunction, levels = c(&quot;Object manipulation&quot;, &quot;Food processing&quot;))</code></pre>
 </div>
 <div id="data-structure" class="section level2">
 <h2>2. Data Structure</h2>
@@ -884,9 +890,7 @@ ggplot(ObjectUse, aes(x = actor, fill = age_and_sex)) +
 </div>
 <div id="object-function-per-group-barplot" class="section level3">
 <h3>Object Function per Group (%) barplot</h3>
-<pre class="r"><code>functionset &lt;- ObjectUse[ObjectUse$ObjFunction != &quot;&quot;,]
-
-ggplot(functionset, aes(x = group_ID, fill = ObjFunction)) + 
+<pre class="r"><code>ggplot(functionset, aes(x = group_ID, fill = ObjFunction)) + 
   geom_bar(position = &quot;fill&quot;) + 
   scale_y_continuous(breaks = seq(0, 1, .2), label = scales::percent) +
   scale_fill_viridis_d(option = &quot;C&quot;) +
@@ -1354,75 +1358,82 @@ could depend on the specific scenario and data.</p>
 </div>
 <div id="sub-model-for-object-function-analysis" class="section level2">
 <h2>Sub-model for Object Function analysis</h2>
+<p>Notice that the majority of object use (function) was described as
+“food processing”, a model with all classes was giving an error:</p>
+<pre class="r"><code>table(functionset$ObjFunction)</code></pre>
+<pre><code>## 
+##                         Display Food processing            Play          Weapon 
+##               0              34             689              53              11</code></pre>
+<p>Therefore we grouped the variables with few observations as food
+processing vs all other types of object use:</p>
+<pre class="r"><code>table(functionset$ObjectFunction)</code></pre>
+<pre><code>## 
+## Object manipulation     Food processing 
+##                  98                 689</code></pre>
+<p>This model worked properly, as you can see below:</p>
 <pre class="r"><code># Fit the model
-model_objFunction &lt;- glmer(ObjFunction ~ Habitat + Age + Sex + Location + Obj_Lat + (1|group_ID), data = functionset, family = binomial(link = &quot;logit&quot;))</code></pre>
-<pre><code>## boundary (singular) fit: see help(&#39;isSingular&#39;)</code></pre>
-<pre class="r"><code>model_objFunction</code></pre>
+model_objFunction &lt;- glmer(ObjectFunction ~ Habitat + Age + Sex + Location + Obj_Lat + (1|group_ID), data = functionset, family = binomial(link = &quot;logit&quot;))
+
+model_objFunction</code></pre>
 <pre><code>## Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) [&#39;glmerMod&#39;]
 ##  Family: binomial  ( logit )
-## Formula: ObjFunction ~ Habitat + Age + Sex + Location + Obj_Lat + (1 |      group_ID)
+## Formula: ObjectFunction ~ Habitat + Age + Sex + Location + Obj_Lat + (1 |      group_ID)
 ##    Data: functionset
 ##       AIC       BIC    logLik  deviance  df.resid 
-##  255.5858  325.6092 -112.7929  225.5858       772 
+##  417.6864  487.7098 -193.8432  387.6864       772 
 ## Random effects:
 ##  Groups   Name        Std.Dev.
-##  group_ID (Intercept) 0       
+##  group_ID (Intercept) 0.9461  
 ## Number of obs: 787, groups:  group_ID, 3
 ## Fixed Effects:
 ##                       (Intercept)       HabitatSparse woodland (&lt;1%)       HabitatOpen woodland (1-10%)  HabitatModerate woodland (10-50%)    HabitatClosed woodland (50-75%)                        AgeJuvenile                        AgeSubadult                           AgeAdult  
-##                          -13.1568                            -1.9837                            -3.3274                            -2.4403                            -2.0027                            18.7180                            16.2064                            18.5416  
+##                            2.1928                            -0.2474                            -2.1386                            -1.7111                            -1.4687                             1.3537                             0.8211                             2.1254  
 ##                              SexM                         SexUnknown                     LocationRaised                       LocationTree                        Obj_LatLeft                       Obj_LatRight  
-##                            0.6865                            18.5424                            -1.5753                            -2.0718                             0.6701                             0.8422  
-## optimizer (Nelder_Mead) convergence code: 0 (OK) ; 0 optimizer warnings; 1 lme4 warnings</code></pre>
+##                            0.3948                            -1.0819                            -1.5871                            -1.7583                             1.5166                             0.7206</code></pre>
 <pre class="r"><code>summary(model_objFunction)</code></pre>
-<pre><code>## Warning in vcov.merMod(object, use.hessian = use.hessian): variance-covariance matrix computed from finite-difference Hessian is
-## not positive definite or contains NA values: falling back to var-cov estimated from RX</code></pre>
-<pre><code>## Warning in vcov.merMod(object, correlation = correlation, sigm = sig): variance-covariance matrix computed from finite-difference Hessian is
-## not positive definite or contains NA values: falling back to var-cov estimated from RX</code></pre>
 <pre><code>## Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) [&#39;glmerMod&#39;]
 ##  Family: binomial  ( logit )
-## Formula: ObjFunction ~ Habitat + Age + Sex + Location + Obj_Lat + (1 |      group_ID)
+## Formula: ObjectFunction ~ Habitat + Age + Sex + Location + Obj_Lat + (1 |      group_ID)
 ##    Data: functionset
 ## 
 ##      AIC      BIC   logLik deviance df.resid 
-##    255.6    325.6   -112.8    225.6      772 
+##    417.7    487.7   -193.8    387.7      772 
 ## 
 ## Scaled residuals: 
 ##      Min       1Q   Median       3Q      Max 
-## -14.7669   0.0677   0.1506   0.2294   0.9222 
+## -15.6125   0.0526   0.1466   0.3273   2.3470 
 ## 
 ## Random effects:
 ##  Groups   Name        Variance Std.Dev.
-##  group_ID (Intercept) 0        0       
+##  group_ID (Intercept) 0.895    0.9461  
 ## Number of obs: 787, groups:  group_ID, 3
 ## 
 ## Fixed effects:
-##                                    Estimate Std. Error z value Pr(&gt;|z|)    
-## (Intercept)                        -13.1568  4287.3446  -0.003  0.99755    
-## HabitatSparse woodland (&lt;1%)        -1.9837     1.4468  -1.371  0.17034    
-## HabitatOpen woodland (1-10%)        -3.3274     1.0780  -3.087  0.00202 ** 
-## HabitatModerate woodland (10-50%)   -2.4403     1.0830  -2.253  0.02424 *  
-## HabitatClosed woodland (50-75%)     -2.0027     1.2131  -1.651  0.09877 .  
-## AgeJuvenile                         18.7180  4287.3445   0.004  0.99652    
-## AgeSubadult                         16.2064  4287.3444   0.004  0.99698    
-## AgeAdult                            18.5416  4287.3445   0.004  0.99655    
-## SexM                                 0.6865     0.4375   1.569  0.11658    
-## SexUnknown                          18.5424  4287.3444   0.004  0.99655    
-## LocationRaised                      -1.5753     0.8458  -1.863  0.06252 .  
-## LocationTree                        -2.0718     0.4857  -4.266 1.99e-05 ***
-## Obj_LatLeft                          0.6701     0.5074   1.321  0.18665    
-## Obj_LatRight                         0.8422     0.5283   1.594  0.11086    
+##                                   Estimate Std. Error z value Pr(&gt;|z|)    
+## (Intercept)                         2.1928     1.4628   1.499 0.133870    
+## HabitatSparse woodland (&lt;1%)       -0.2474     1.5032  -0.165 0.869252    
+## HabitatOpen woodland (1-10%)       -2.1386     1.3489  -1.585 0.112859    
+## HabitatModerate woodland (10-50%)  -1.7111     1.3082  -1.308 0.190866    
+## HabitatClosed woodland (50-75%)    -1.4687     1.4374  -1.022 0.306896    
+## AgeJuvenile                         1.3537     0.8274   1.636 0.101845    
+## AgeSubadult                         0.8211     1.1399   0.720 0.471330    
+## AgeAdult                            2.1254     0.9135   2.327 0.019987 *  
+## SexM                                0.3948     0.3177   1.243 0.213970    
+## SexUnknown                         -1.0819     0.7318  -1.478 0.139287    
+## LocationRaised                     -1.5871     0.5711  -2.779 0.005455 ** 
+## LocationTree                       -1.7583     0.4142  -4.245 2.19e-05 ***
+## Obj_LatLeft                         1.5166     0.4089   3.709 0.000208 ***
+## Obj_LatRight                        0.7206     0.3329   2.164 0.030438 *  
 ## ---
 ## Signif. codes:  0 &#39;***&#39; 0.001 &#39;**&#39; 0.01 &#39;*&#39; 0.05 &#39;.&#39; 0.1 &#39; &#39; 1</code></pre>
 <pre><code>## 
 ## Correlation matrix not shown by default, as p = 14 &gt; 12.
 ## Use print(x, correlation=TRUE)  or
 ##     vcov(x)        if you need it</code></pre>
-<pre><code>## optimizer (Nelder_Mead) convergence code: 0 (OK)
-## boundary (singular) fit: see help(&#39;isSingular&#39;)</code></pre>
-<p>This model is currently giving me a warning, so let’s not take it
-super seriously for now. I will try to solve this before Friday. I know
-a few potential solutions for the warning.</p>
+<p>In this model the negative class is “Food processing”, and “Object
+manipulation” (play, display, and weapons combined) is the positive.
+Thus, we can say adults engage in less object manipulation significantly
+compared to infants.</p>
 </div>
 
 
