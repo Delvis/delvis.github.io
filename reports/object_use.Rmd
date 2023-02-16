@@ -1,0 +1,729 @@
+---
+title: "Object Use Analysis in Gorongosa Baboons"
+author: "Jd'OC"
+date: "2023-01-13"
+output:
+  html_document:
+    code_folding: hide
+
+---
+
+## 1. Data Preprocessing
+
+Open the `code` snippet below and to the right to see all data transformations executed to clean the dataset.
+
+```{r Data Preprocessing, message=FALSE}
+################################
+####### OCTOBER DATASETS #######
+################################
+
+library(plyr); library(dplyr)
+
+# FIRST JOINT, FOCAL DATA
+
+Oct <- read.csv("./rawData/Oct30_2021_Ipad Susana/behaviorsTable.csv")
+
+sessionsTableOct <- read.csv("./rawData/Oct30_2021_Ipad Susana/sessionsTable.csv")
+
+sessionsTableOct <- sessionsTableOct[,c("session_start_timeStamp", "group_ID")]
+
+FocalOctJoin <- join(Oct, sessionsTableOct, by = "session_start_timeStamp")
+
+FocalOctJoin$USE <- "Research"
+
+
+# Second joint, SCAN DATA
+
+OctScan <- read.csv("./rawData/Oct30_2021_Ipad Susana/scansTable.csv") # 110 obs
+
+HabitatOct <- read.csv("./rawData/Oct30_2021_Ipad Susana/scanVarsTable.csv") # 99 obs
+
+HabitatOct <- HabitatOct[,c("focal_start_timeStamp", "TERRAIN.")]
+
+HabitatOct <- HabitatOct[HabitatOct$TERRAIN. != "", ] # remove rows without terrain
+HabitatOct <- unique(HabitatOct) # AVOID DUPLICATES
+
+ScanOctJoin <- join(OctScan, HabitatOct, by = "focal_start_timeStamp")
+
+
+### SCAN + HabitatOct + GROUP
+
+scan_final_oct <- join(ScanOctJoin, sessionsTableOct, by = "session_start_timeStamp")
+
+write.csv(scan_final_oct, "scan_final_oct.xlsx")
+
+################################
+####### JULY DATASETS #########
+################################
+
+# FIRST JOINT, FOCAL DATA
+
+Jul <- read.csv("./rawData/Julho17_2022_Ipad Jacinto/behaviorsTable.csv")
+
+Jul[,c("FOOD_ITEM.", "PART_EATEN.")] <- Jul[,c("FOOD_ITEM..1", "PART_EATEN..1")]
+Jul <- subset(Jul, select = -c(`FOOD_ITEM..1`, `PART_EATEN..1`))
+
+sessionsTableJul <- read.csv("./rawData/Julho17_2022_Ipad Jacinto/sessionsTable.csv")
+sessionsTableJul <- sessionsTableJul[,c("session_start_timeStamp", "group_ID")]
+
+FocalJul <- join(Jul, sessionsTableJul, by = "session_start_timeStamp")
+
+focalVarsJul <- read.csv("./rawData/Julho17_2022_Ipad Jacinto/focalVarsTable.csv")
+focalVarsJul <- focalVarsJul[,c("session_start_timeStamp", "USE")]
+focalVarsJul <- focalVarsJul[which(focalVarsJul$USE == "Research"),]
+focalVarsJul <- unique(focalVarsJul)
+
+FocalJulJoin <- left_join(FocalJul, focalVarsJul, by = "session_start_timeStamp")
+
+write.csv(FocalJulJoin,"./tables/FocalJulJoin.csv")
+
+# Second scans + HabitatOct, SCAN DATA
+
+JulScan <- read.csv("./rawData/Julho17_2022_Ipad Jacinto/scansTable.csv") # 1445 obs
+
+HabitatJul <- read.csv("./rawData/Julho17_2022_Ipad Jacinto/scanVarsTable.csv") # 1437 obs
+
+HabitatJul <- HabitatJul[,c("focal_start_timeStamp", "TERRAIN.")]
+HabitatJul <- HabitatJul[HabitatJul$TERRAIN. != "", ] # remove rows without terrain
+HabitatJul <- unique(HabitatJul) # AVOID DUPLICATES
+
+ScanJulJoin <- join(JulScan, HabitatJul, by = "focal_start_timeStamp")
+
+write.csv(ScanJulJoin, "./tables/ScanJulJoin.csv")
+
+### SCAN + HABITAT + GROUP
+
+scan_final_jul <- join(ScanJulJoin, sessionsTableJul, by = "session_start_timeStamp")
+
+write.csv(scan_final_jul, "scan_final_jul.xlsx")
+
+### FOCAL OCT + FOCAL JULY
+
+focalFinal <- rbind(FocalJulJoin, FocalOctJoin) # 2290 obs
+focalFinal$session_start_timeStamp <- as.POSIXct(focalFinal$session_start_timeStamp, format = "%Y-%m-%d,%H:%M:%S")
+
+### SCAN OCT + FOCAL JULY
+
+scanFinal <- rbind(scan_final_jul, scan_final_oct) # 1555 obs
+scanFinal$session_start_timeStamp <- as.POSIXct(scanFinal$session_start_timeStamp, format = "%Y-%m-%d,%H:%M:%S")
+
+
+### Get Habitat values into FOCAL DATASET
+
+scanHabitats <- scanFinal[, c("session_start_timeStamp", "TERRAIN.")]
+scanHabitats <- unique(scanHabitats[!is.na(scanHabitats$TERRAIN.),])
+scanHabitats <- scanHabitats[!duplicated(scanHabitats$session_start_timeStamp), ]
+
+# Fill habitat NAs, anti_join() return all rows from x without a match in y.
+missing_values <- anti_join(focalFinal, scanHabitats, by = "session_start_timeStamp")
+missing_values$TERRAIN. <- NA
+missing_values <- missing_values[,c("session_start_timeStamp", "TERRAIN.")]
+
+for (i in 1:nrow(missing_values)) {
+  time_differences <- difftime(missing_values$session_start_timeStamp[i], scanHabitats$session_start_timeStamp, units = "secs")
+  closest_index <- which.min(abs(time_differences))
+  missing_values$TERRAIN.[i] <- scanHabitats$TERRAIN.[closest_index]
+}
+
+scan_habitats <- rbind(scanHabitats, unique(missing_values))
+remove_set <- anti_join(scan_habitats, focalFinal,  by = "session_start_timeStamp")
+habitatFinal <- anti_join(scan_habitats, remove_set,  by = "session_start_timeStamp")
+
+final_set <- join(focalFinal, unique(habitatFinal), by = "session_start_timeStamp")
+final_set <- final_set[, colSums(is.na(final_set)) != nrow(final_set)] # remove all empty columns
+
+#########################################
+######## EDIT TERRAIN VARIABLE ##########
+#########################################
+
+final_set$TERRAIN. <- ifelse(final_set$TERRAIN. == "Closed woodland (50-75%);Road", "Closed woodland (50-75%)", final_set$TERRAIN.)
+final_set$TERRAIN. <- ifelse(final_set$TERRAIN. == "Floodplain Grass", "Floodplain", final_set$TERRAIN.)
+final_set$TERRAIN. <- ifelse(final_set$TERRAIN. == "Floodplain;Floodplain Grass", "Floodplain", final_set$TERRAIN.)
+final_set$TERRAIN. <- ifelse(final_set$TERRAIN. == "Moderate woodland (10-50%);Road", "Moderate woodland (10-50%)", final_set$TERRAIN.)
+final_set$TERRAIN. <- ifelse(final_set$TERRAIN. == "Open woodland (1-10%);Moderate woodland (10-50%)", "Moderate woodland (10-50%)", final_set$TERRAIN.)
+final_set$TERRAIN. <- ifelse(final_set$TERRAIN. == "Sparse woodland (<1%);Floodplain", "Sparse woodland (<1%)", final_set$TERRAIN.)
+final_set$TERRAIN. <- ifelse(final_set$TERRAIN. == "Sparse woodland (<1%);Floodplain Grass", "Sparse woodland (<1%)", final_set$TERRAIN.)
+final_set$TERRAIN. <- ifelse(final_set$TERRAIN. == "Sparse woodland (<1%);Open woodland (1-10%)", "Sparse woodland (<1%)", final_set$TERRAIN.)
+
+#########################################
+########### ADD AGE AND SEX #############
+#########################################
+
+demographics <- read.csv("demographics.csv")
+final_set <- left_join(final_set, demographics, by = "actor")
+
+#########################################
+########### FINAL CLEANING ##############
+#########################################
+
+final_set <- final_set[!is.na(final_set$USE),] # remove non-research instances
+final_set <- final_set[final_set$group_ID != "Bones of Predation",] # remove non-research instances
+final_set <- final_set[final_set$Sex != "",] # remove Empty "" obsv in Sex
+
+final_set$ObjectUse <- ifelse(final_set$Activity != "Object Use", "Other", final_set$Activity)
+
+idx <- which(final_set$Obj_Type == "")
+
+final_set$Anthropogenic <- ifelse(final_set$Obj_Type != "Man-made", "Non-anthropogenic", final_set$Obj_Type)
+final_set$Anthropogenic[idx] <- ""
+
+idx2 <- final_set$Anthropogenic == "Man-made"
+final_set$Anthropogenic[idx2] <- "Anthropogenic"
+
+final_set <- final_set[-2211, ] # Remove line with Tool Use obsv test
+
+library(rio)
+library(dplyr)
+library(lme4)
+
+ObjectUse <- read.csv("final_set.csv", row.names = 1)
+
+ObjectUse$focal_start_timeStamp <- as.POSIXct(ObjectUse$focal_start_timeStamp, format = "%Y-%m-%d,%H:%M:%S")
+
+days <- format(as.Date(ObjectUse$focal_start_timeStamp, format="%Y-%m-%d,%H:%M:%S"),"%Y-%m-%d")
+
+
+# reorder AGE levels for aesthetics in graphics
+ObjectUse$Age <- factor(
+  ObjectUse$Age,
+  levels = c(
+    'Infant', 'Juvenile', 'Subadult', 'Adult'
+  )
+)
+ObjectUse$Sex <- factor(ObjectUse$Sex)
+
+ObjectUse$ObjectUse <- factor(ObjectUse$ObjectUse,
+                              levels = c("Other", "Object Use"))
+
+# reorder HABITAT levels for aesthetics + change variable name
+ObjectUse$Habitat <- factor(
+  ObjectUse$TERRAIN.,
+  levels = c(
+    "Floodplain",
+    "Sparse woodland (<1%)",
+    "Open woodland (1-10%)",
+    "Moderate woodland (10-50%)",
+    "Closed woodland (50-75%)"
+  )
+)
+
+# Create new variable Behaviour / based on "Activity" + "Object Function"
+
+library(forcats)
+
+ObjectUse$Behaviour <- fct_collapse(ObjectUse$Activity, "Vocalization" = c("Bark", "Wahoo")) # join variables (low n)
+
+ObjectUse$Behaviour <- fct_collapse(ObjectUse$Behaviour, "Moving" = c("Locomotion", "Move", "Travel")) # join variables (similar)
+
+ObjectUse$Behaviour <- fct_collapse(ObjectUse$Behaviour, "Forage" = c("Forage", "Hunt")) # join variables (low n)
+
+
+ObjectUse$Behaviour <- as.character(ObjectUse$Behaviour) # convert to string for next operation
+ObjectUse$Behaviour[ObjectUse$Activity == "Object Use"] <- paste("Object Use:", ObjectUse$ObjFunction[ObjectUse$Activity == "Object Use"]) # get object function to break object use into multiple categories
+
+ObjectUse$ObjFunction <- as.factor(ObjectUse$ObjFunction)
+
+n_focals <- length(unique(ObjectUse$focal_start_timeStamp))
+min_focal <- 10 # each focal took 10 minutes
+
+ObjectUse$Play_Type <- factor(ObjectUse$Play_Type)
+
+functionset <- ObjectUse[ObjectUse$ObjFunction != "",]
+playset <- ObjectUse[ObjectUse$Play_Type != "",]
+
+objPlay <- functionset[functionset$ObjFunction == "Play", ]
+objPlayset <- rbind(playset, objPlay)
+
+functionset$ObjectFunction <- ifelse(functionset$ObjFunction != "Food processing", "Object manipulation", as.character(functionset$ObjFunction))
+
+functionset$ObjectFunction <- factor(functionset$ObjectFunction, levels = c("Object manipulation", "Food processing"))
+
+objPlayset$Play_Obj <- factor(objPlayset$Activity)
+levels(objPlayset$Play_Obj) <- c("Play with Object", "Play without Object")
+objPlayset$Play_Obj <- factor(objPlayset$Play_Obj, levels = c("Play without Object", "Play with Object"))
+
+```
+
+## 2. Data Structure
+
+```{r structure}
+str(ObjectUse)
+
+```
+
+After processing the data we obtained a cleaned data set, **with `r nrow(ObjectUse)` observations (rows)**, and a **total of `r ncol(ObjectUse)` variables (columns)**. The variables are the following: `r colnames(ObjectUse)`
+
+There was a total of `r n_focals` focals, each with a total time of 10 minutes, meaning that the total time of observation was `r n_focals * min_focal` min. A total of approximately 32 hours and 50 minutes, sampled over a period of `r length(unique(days))` days.
+
+```{r daysbarplot, fig.width=12}
+library(ggplot2)
+
+# Convert behavior_timeStamp to Date format
+ObjectUse$behaviorDays <- as.Date(ObjectUse$behavior_timeStamp)
+
+# Order dates
+ObjectUse$behaviorDays <- ObjectUse$behaviorDays[order(ObjectUse$behaviorDays, decreasing = FALSE)]
+
+# Create a new column for the month and day
+ObjectUse$month_and_day <- as.factor(format(ObjectUse$behaviorDays, "%b-%d"))
+
+# Reorder month_and_day
+ObjectUse$month_and_day <- factor(ObjectUse$month_and_day, levels = unique(ObjectUse$month_and_day))
+
+# Plot the frequency of behavior_timeStamp per day and year using ggplot2
+ggplot(ObjectUse, aes(x = month_and_day, fill = as.factor(format(behaviorDays, "%Y")))) +
+  geom_bar() +
+  labs(x = "Month and Day", y = "# of recorded behaviours") +
+  theme_minimal() +
+  scale_fill_viridis_d(option = "D", name = "Year") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  scale_y_continuous(breaks = seq(0, 120, by = 10))
+
+
+```
+
+
+
+#### List of days with Focals:
+```{r day_list}
+indDays <- order(unique(days), decreasing = FALSE)
+
+unique(days)[indDays]
+```
+
+
+```{r focalsplot, fig.width=12}
+uniqueFocals <- unique(ObjectUse[, c("focal_start_timeStamp")])
+
+# Order dates
+uniqueFocals <- as.data.frame(uniqueFocals[order(uniqueFocals, decreasing = FALSE)])
+
+# Convert behavior_timeStamp to Date format
+uniqueFocals$Days <- as.Date(uniqueFocals[,1])
+
+# Create a new column for the month and day
+uniqueFocals$fmonth_and_day <- as.factor(format(uniqueFocals$Days, "%b-%d"))
+
+# Reorder month_and_day
+uniqueFocals$fmonth_and_day <- factor(uniqueFocals$fmonth_and_day, levels = unique(uniqueFocals$fmonth_and_day))
+
+# Plot the frequency of behavior_timeStamp per day and year using ggplot2
+ggplot(uniqueFocals, aes(x = fmonth_and_day, fill = as.factor(format(Days, "%Y")))) +
+  geom_bar() +
+  labs(x = "Month and Day", y = "# of focals") +
+  theme_minimal() +
+  scale_fill_viridis_d(option = "D", name = "Year") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  scale_y_continuous(breaks = seq(0, 8, by = 1))
+
+
+```
+
+Mean n of focals per day = `r round(mean(table(uniqueFocals$fmonth_and_day)), 3)` *
+
+*this only considers days where at least 1 focal occurred.
+
+#### Individuals observed:
+
+```{r indiv, fig.width=12}
+# Create a new variable "sex-and-age"
+ObjectUse$age_and_sex <- as.factor(paste(ObjectUse$Age, ObjectUse$Sex))
+
+levels(ObjectUse$age_and_sex) <- c("Adult Female", "Adult Male", "Adult Unknown", "Infant", "Juvenile Female", "Juvenile Male", "Juvenile Unknown", "Subadult Male", "Subadult Unknown")
+
+ObjectUse$age_and_sex <- factor(ObjectUse$age_and_sex, levels = c("Adult Male", "Subadult Male", "Juvenile Male", "Adult Female", "Juvenile Female", "Adult Unknown", "Subadult Unknown", "Juvenile Unknown", "Infant"))
+
+# Plot the frequency of behavior_timeStamp per day and year using ggplot2
+ggplot(ObjectUse, aes(x = actor, fill = age_and_sex)) +
+  geom_bar() +
+  labs(x = "ID", y = "# of recorded behaviours") +
+  theme_minimal() +
+  scale_fill_viridis_d(option = "C", name = "Age and Sex") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5)) +
+  scale_y_continuous(breaks = seq(0, 200, by = 20))
+
+```
+
+
+## 3. Data vizualization
+
+### Behaviour per Habitat (%) barplot
+
+```{r plot-habitat-1, fig.width=12}
+
+ggplot(ObjectUse, aes(x = Habitat, fill = Behaviour)) + 
+  geom_bar(position = "fill") + # Dados em Proporção (corrigidos pelo total de observações)
+  scale_y_continuous(breaks = seq(0, 1, .2), label = scales::percent) +
+  scale_fill_viridis_d(option = "C") +
+  labs(y = "Percent") + theme_minimal()
+```
+
+### Behaviour per Habitat (count) barplot
+
+```{r plot-habitat-2, fig.width=12}
+ggplot(ObjectUse, aes(x = Habitat, fill = Behaviour)) + 
+  geom_bar(position = "dodge") +
+  scale_fill_viridis_d(option = "C") +
+  theme_minimal()
+```
+
+
+### Behaviour per Age class (%) barplot
+
+```{r plot-age1, fig.width=12}
+ggplot(ObjectUse, aes(x = Age, fill = Behaviour)) + 
+  geom_bar(position = "fill") + 
+  scale_y_continuous(breaks = seq(0, 1, .2), label = scales::percent) +
+  scale_fill_viridis_d(option = "C") +
+  labs(fill = "Behaviour", y = "Percent") + theme_minimal() +
+  theme(text = element_text(size=20))
+```
+
+### Behaviour per Age class (count) barplot
+
+```{r plot-age2, fig.width=12}
+ggplot(ObjectUse, aes(x = Age, fill = Behaviour)) + 
+    geom_bar(position = "dodge") +
+  scale_fill_viridis_d(option = "C") +
+  labs(fill = "Behaviour") + theme_minimal() +
+  theme(text = element_text(size=20))
+```
+
+
+### Behaviour per Sex (%) barplot
+
+```{r plot-sex1, fig.width=12}
+ggplot(ObjectUse, aes(x = Sex, fill = Behaviour)) + 
+  geom_bar(position = "fill") + 
+  scale_y_continuous(breaks = seq(0, 1, .2), label = scales::percent) +
+  scale_fill_viridis_d(option = "C") +
+  labs(y = "Percent") + theme_minimal() +
+  theme(text = element_text(size=20))
+```
+
+### Behaviour per Sex (count) barplot
+
+```{r plot-sex2, fig.width=12}
+ggplot(ObjectUse, aes(x = Sex, fill = Behaviour)) + 
+  geom_bar(position = "dodge") +
+  scale_fill_viridis_d(option = "C") +
+  theme_minimal() + theme(text = element_text(size=20))
+```
+
+### Behaviour per Group (%) barplot
+
+```{r plot-gr1, fig.width=12}
+ggplot(ObjectUse, aes(x = group_ID, fill = Behaviour)) + 
+  geom_bar(position = "fill") + 
+  scale_y_continuous(breaks = seq(0, 1, .2), label = scales::percent) +
+  scale_fill_viridis_d(option = "C") +
+  labs(fill = "Behaviour", x = "Group", y = "Percent") +
+  theme_minimal() + theme(text = element_text(size=20))
+```
+
+### Behaviour per Group (count) barplot
+
+```{r plot-gr2, fig.width=12}
+ggplot(ObjectUse, aes(x = group_ID, fill = Behaviour)) + 
+    geom_bar(position = "dodge") +
+  scale_fill_viridis_d(option = "C") +
+  labs(fill = "Behaviour", x = "Group") + theme_minimal() +
+  theme(text = element_text(size=20))
+```
+
+### Object Function per Group (%) barplot
+
+```{r plot_objectFunc, fig.width=12}
+ggplot(functionset, aes(x = group_ID, fill = ObjFunction)) + 
+  geom_bar(position = "fill") + 
+  scale_y_continuous(breaks = seq(0, 1, .2), label = scales::percent) +
+  scale_fill_viridis_d(option = "C") +
+  labs(fill = "Object Use Function", x = "Group", y = "Percent") +
+  theme_minimal() + theme(text = element_text(size=20))
+
+```
+
+### Object Function per Group (count) barplot
+
+```{r plot_objectFunction, fig.width=12}
+ggplot(functionset, aes(x = group_ID, fill = ObjFunction)) + 
+  geom_bar(position = "dodge") +
+  scale_fill_viridis_d(option = "C") +
+  labs(fill = "Object Use Function",
+       x = "Group") +
+  theme_minimal() + theme(text = element_text(size=20))
+```
+
+### Hand Laterality per Age class (%) barplot
+
+```{r plot_handlat, fig.width=12, fig.height=12}
+ggplot(functionset, aes(x = group_ID, fill = Obj_Lat)) + 
+  geom_bar(position = "fill") + 
+  scale_y_continuous(breaks = seq(0, 1, .2), label = scales::percent) +
+  scale_fill_viridis_d(option = "C") +
+  labs(fill = "Laterality", x = "Group", y = "Percent") +
+  theme_minimal() + theme(text = element_text(size=20)) +
+  facet_wrap(~ Age)
+```
+
+### Hand Laterality per Age class (count) barplot
+
+```{r plot_hand_lat, fig.width=12, fig.height=12}
+ggplot(functionset, aes(x = group_ID, fill = Obj_Lat)) + 
+  geom_bar(position = "dodge") +
+  scale_fill_viridis_d(option = "C") +
+  labs(fill = "Laterality", x = "Group") + theme_minimal() +
+  theme(text = element_text(size=20)) + facet_wrap(~ Age)
+```
+
+### Type of play (count) per group barplot
+
+```{r plot_play_groyp, fig.width=12, fig.height=12}
+ggplot(playset, aes(x = group_ID, fill = Play_Type)) + 
+  geom_bar(position = "dodge") +
+  scale_fill_viridis_d(option = "C") +
+  labs(fill = "Played in", x = "Group") + theme_minimal() +
+  theme(text = element_text(size=20))
+```
+
+### Type of play (count) per age barplot
+
+```{r plot_play_age, fig.width=12, fig.height=12}
+ggplot(playset, aes(x = Age, fill = Play_Type)) + 
+  geom_bar(position = "dodge") +
+  scale_fill_viridis_d(option = "C") +
+  labs(fill = "Played in", x = "Age") + theme_minimal() +
+  theme(text = element_text(size=20))
+```
+
+### Type of play (count) per sex barplot
+
+```{r plot_play_sex, fig.width=12, fig.height=12}
+ggplot(playset, aes(x = Sex, fill = Play_Type)) + 
+  geom_bar(position = "dodge") +
+  scale_fill_viridis_d(option = "C") +
+  labs(fill = "Played in", x = "Sex") + theme_minimal() +
+  theme(text = element_text(size=20))
+```
+
+### Type of play (count) per habitat barplot
+
+```{r plot_play_habitat, fig.width=12, fig.height=12}
+ggplot(playset, aes(x = Habitat, fill = Play_Type)) + 
+  geom_bar(position = "dodge") +
+  scale_fill_viridis_d(option = "C") +
+  labs(fill = "Played in", x = "Habitat") + theme_minimal() +
+  theme(text = element_text(size=18))
+```
+
+### Object or non-object play (count) per group barplot
+
+```{r plot_playobj_group, fig.width=12, fig.height=12}
+ggplot(objPlayset, aes(x = group_ID, fill = Play_Obj)) + 
+  geom_bar(position = "dodge") +
+  scale_fill_viridis_d(option = "C") +
+  labs(fill = "Play", x = "Group") + theme_minimal() +
+  theme(text = element_text(size=20))
+```
+
+
+### Object or non-object play (count) per age barplot
+
+```{r plot_playobj_age, fig.width=12, fig.height=12}
+ggplot(objPlayset, aes(x = Age, fill = Play_Obj)) + 
+  geom_bar(position = "dodge") +
+  scale_fill_viridis_d(option = "C") +
+  labs(fill = "Play", x = "Age") + theme_minimal() +
+  theme(text = element_text(size=20))
+```
+
+
+### Intrinsic factors mosaic plot
+
+```{r mosaicplot, fig.width=12, fig.height=9, message=FALSE}
+library(vcd)
+library(viridis)
+
+# create a contingency table 
+marimekko <- table(ObjectUse[c("ObjectUse", "Age", "Sex")])
+# mosaic plot from vcd package 
+mosaic(marimekko, shade = TRUE)
+```
+
+In a mosaic plot, the shading of the rectangles can be used to display additional information about the data, such as the standardized residuals. The standardized residuals are a measure of how far the observed values in each cell of the contingency table deviate from the expected values under a given statistical model. In the case of a mosaic plot, the standardized residuals can be represented by the color of the rectangles.
+
+Pearson residuals are one way to calculate the standardized residuals. The Pearson residual for a cell is defined as the difference between the observed count and the expected count in that cell, divided by the square root of the expected count. It is a measure of the deviance of the observed count from the expected count.
+
+A Mosaic Plot is also a good way to see if there are any biases in the data collection, or structures that might cause troubles in modelling. E.g. we can quickly see that no female sub-adults were sampled and therefore we cannot make any inferences about this demographic group.
+
+
+## 4. Mixed-effects Logistic Regression Model
+
+There are a few different packages in R that can be used to perform a Generalized Linear Mixed Model (GLMM) with random effects. Here is an example of how to use the glmer() function from the "lme4" package to fit a GLMM with a random intercept:
+
+```{r lme4, message=FALSE}
+library(lme4)
+
+# Fit the model
+model <- glmer(ObjectUse ~ Habitat + Age + Sex + Location + (1|group_ID), data = ObjectUse, family = binomial(link = "logit"))
+
+model
+
+```
+
+In this example, `ObjectUse` is the binary outcome (response variable), `Habitat`, `Age`, `Sex` and `Location` are fixed effects (i.e., predictor variables of interest), and `group_ID` is a grouping variable for the random intercept. The syntax `(1|group_ID)` specifies that there should be a random intercept for each level of `group_ID`.
+
+The random effect in this model, represented by the term (1|group_ID), accounts for the fact that there may be some other source of variation in the response variable (ObjectUse) that is not explained by the fixed effects (Habitat, Age, Sex, Location). This source of variation is often referred to as a "random effect" because it is not something that is directly controlled or measured in the study. By including a random effect for group_ID, the model accounts for the possibility that the groups (identified by group_ID) may have different baseline rates of ObjectUse that are not explained by the other predictor variables. This can help to improve the accuracy of the model's predictions by accounting for this additional source of variation.
+
+```{r COEFS, fig.width=12}
+knitr::kable(summary(model)$coef) # formatted table for word
+
+```
+
+
+
+## 5. Model validity
+
+There are several diagnostic tools that you can use to check the assumptions of your mixed-effects logistic regression model:
+
+5.1. **Summary of the GLMM**
+
+```{r summary}
+options(width = 300)
+
+summary(model)
+
+```
+
+
+
+5.2. **Residual plots: You can use the plot() function from the lme4 package to create residual plots. For example, to create a residual vs. fitted plot, you can use the following code:**
+
+```{r resplot}
+# Plot residuals against predicted probabilities
+plot(model, which = 1)
+
+```
+
+This plot will show you if there is any pattern in the residuals. In logistic regression, it is common to see a parallel-lines pattern in the residuals vs fitted plot, with two smooth curves, rather than a random scatter of points. This is because the logistic regression model is non-linear and the relationship between the predictors and the response variable is typically non-linear.
+
+To evaluate the residuals vs fitted plot in logistic regressions, you should look for:
+
++ Spread of residuals: The spread of residuals should be roughly constant across the range of fitted values. If the spread is not constant, it may indicate heteroscedasticity (non-constant variance) in the residuals.
+
++ Outliers: You should check for outliers, which are residuals that are far from the rest of the residuals. Outliers may indicate influential observations or errors in the data.
+
++ Heteroskedasticity: You should check for heteroskedasticity, which is a situation where the residuals have different variances for different fitted values. This can be checked using a Scale-Location plot.
+
++ Lack of fit: If the residuals show a clear pattern, such as a both curves being negative (or positive), or a lack of symmetry, it may indicate that the model does not fit the data well.
+
+5.3. **Multicollinearity: You can use the vif() function from the car package to check for multicollinearity among the predictor variables. No multicollinearity: The predictor variables should not be highly correlated with each other.**
+
+```{r vif, message=FALSE}
+library(car)
+# Check for multicollinearity
+vif_table <- vif(model)
+knitr::kable(vif_table)
+```
+
+The variance inflation factor (VIF) is a measure of how much the variance of the estimated regression coefficient of one predictor variable is increased due to the presence of other predictor variables in the model. A VIF of 1 indicates that the predictor variable is not correlated with any of the other predictor variables and therefore has no multicollinearity issues. A VIF greater than 1 indicates that the predictor variable is correlated with one or more other predictor variables and the magnitude of the VIF gives an indication of the degree of multicollinearity.
+
++ The first output, **GVIF (Generalized Variance Inflation Factor)**, is the value of the VIF for each predictor variable. A GVIF value of 1 indicates no multicollinearity, while a GVIF value greater than 1 indicates that there is multicollinearity among the predictor variables. The greater the GVIF value, the more the variance of the coefficients is inflated.
+
++ The second output, **Df, is the degrees of freedom** for the predictor variable. It represents the number of classes of the predictor variable minus one (n-1).
+
++ The third output, **GVIF^(1/(2×Df)), is the square root of the GVIF divided by the degrees of freedom**. This value is used to compare the relative importance of the predictor variables in a more meaningful way. It is also known as the **tolerance value**, with values close to 1 indicating low multicollinearity and values close to 0 indicating high multicollinearity.
+
+*A general rule of thumb is that a VIF value greater than 5 or 10 indicates high multicollinearity and that one of the correlated predictor variables should be removed from the model*. However, this threshold can vary depending on the specific context and the number of predictors in the model.
+
+5.4. **Model fit: Assess the model fit using a goodness-of-fit statistic such as the deviance or the AIC/BIC.**
+
+```{r information, echo = TRUE}
+# deviance
+deviance(model)
+
+# AIC/BIC
+AIC(model)
+BIC(model)
+```
+
+A lower value of deviance or AIC/BIC indicates a better-fitting model.
+
+Deviance, Akaike Information Criterion (AIC), and Bayesian Information Criterion (BIC) are all measures of model fit that can be used to compare different models. However, they differ in their underlying assumptions and the information they use to evaluate model fit.
+
++ Deviance is a measure of the difference between the observed data and the predicted data under a given model. It is based on the likelihood function of the model and is closely related to the residual sum of squares in linear regression. It is a measure of how well the model fits the data, with lower values indicating a better fit.
+
++ AIC is a measure of the relative quality of a statistical model, it balances the goodness of fit of the model with the complexity of the model. AIC is defined as twice the difference between the log-likelihood of the data under the estimated model and the maximum log-likelihood possible. A lower AIC value indicates a better model fit.
+
++ BIC is also a measure of the relative quality of a statistical model, similar to AIC. BIC is defined as the log-likelihood of the estimated model, minus the number of parameters in the model times the natural logarithm of the sample size. Like AIC, a lower BIC value indicates a better model fit.
+
+Both AIC and BIC take into account the number of parameters in the model and the sample size, which helps to penalize models with more parameters. This helps to avoid overfitting and to choose the simplest model that still explains the data well.
+
+In short, deviance is a measure of how well a model fits the data, AIC and BIC are measures of how well a model fits the data relative to its complexity. Deviance is based on likelihood, AIC and BIC are based on likelihood and complexity, and AIC and BIC are used to compare different models and select the best one.
+
+5.5. **Overdispersion: Compare the residual deviance to the residual degrees of freedom, if the deviance is much larger than the residual degrees of freedom, this is an indication of overdispersion.**
+
+```{r overdispersion, warning=FALSE, message=FALSE}
+# To check overdispersion, you can use the dispersion_glmer() function from the package "blmeco" which provides tools for fitting Bayesian linear mixed-effects models using the Stan software.
+
+# load the package
+library(blmeco)
+
+# check overdispersion
+dispersion_glmer(model)
+```
+The dispersion_glmer() function returns the ratio of the deviance to the residual degrees of freedom (residual deviance divided by the residual degrees of freedom). In a well-specified model, this ratio should be close to 1. A ratio greater than 1 indicates some degree of overdispersion, which means that the variance of the residuals is greater than the variance predicted by the model.
+
+In your case, the ratio returned by the function is `r dispersion_glmer(model)`, which means that the model is overdispersed by `r round((dispersion_glmer(model) - 1) * 100, 2)` %. 
+
+It is important to test for overdispersion in a logistic GLMM because if overdispersion is present and not accounted for, it can lead to incorrect inferences and conclusions about the model's parameters and significance. If overdispersion is detected, one can use a quasibinomial or negative binomial distribution instead of a standard binomial distribution to model the data.
+
+Overdispersion is not always present, and sometimes the standard binomial GLMM can be a good fit. Additionally, even if overdispersion is present, it does not always mean that the results will be biased and it could depend on the specific scenario and data.
+
+---
+
+## Sub-model for Object Function analysis
+
+Notice that the majority of object use (function) was described as "food processing", a model with all classes was giving an error:
+
+```{r}
+table(functionset$ObjFunction)
+```
+
+Therefore we grouped the variables with few observations as "Object manipulation" vs "Food processing"
+
+```{r}
+table(functionset$ObjectFunction)
+```
+
+This model worked properly, as you can see below:
+
+```{r model2}
+
+# Fit the model
+model_objFunction <- glmer(ObjectFunction ~ Habitat + Age + Sex + Location + Obj_Lat + (1|group_ID), data = functionset, family = binomial(link = "logit"))
+
+model_objFunction
+
+summary(model_objFunction)
+```
+
+In this model the negative class is "Object manipulation" (play, display, and weapons combined), and "Food processing" is the positive. Thus, we can say adults engage in less object manipulation significantly compared to infants (p = 0.01).
+We can also say the there is more object manipulation than food processing when raised (p = 0.005), and even more when on trees (highly significant, p < 0.0001).
+In terms of laterality, while engaging in food processing, individuals seem to rely more in single-hand use, mostly left hand (p = 0.0002), but they also use more the right hand than both hands (p = 0.03), when compared to other types of object manipulation.
+
+## Sub-model for Object Play vs Non-object Play analysis
+
+```{r objplay model}
+
+# Fit the model
+model_playObj <- glmer(Play_Type ~ Habitat + Age + Sex + Location + Observers + (1|group_ID), data = playset, family = binomial(link = "logit"))
+
+model_playObj
+
+summary(model_playObj)
+
+
+```
+
+Model has very few observations, cannot find any statistical significant value.
