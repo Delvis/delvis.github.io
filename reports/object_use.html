@@ -1364,8 +1364,8 @@ could depend on the specific scenario and data.</p>
 <pre><code>## 
 ##                         Display Food processing            Play          Weapon 
 ##               0              34             689              53              11</code></pre>
-<p>Therefore we grouped the variables with few observations as food
-processing vs all other types of object use:</p>
+<p>Therefore we grouped the variables with few observations as “Object
+manipulation” vs “Food processing”</p>
 <pre class="r"><code>table(functionset$ObjectFunction)</code></pre>
 <pre><code>## 
 ## Object manipulation     Food processing 
@@ -1430,10 +1430,16 @@ model_objFunction</code></pre>
 ## Correlation matrix not shown by default, as p = 14 &gt; 12.
 ## Use print(x, correlation=TRUE)  or
 ##     vcov(x)        if you need it</code></pre>
-<p>In this model the negative class is “Food processing”, and “Object
-manipulation” (play, display, and weapons combined) is the positive.
+<p>In this model the negative class is “Object manipulation” (play,
+display, and weapons combined), and “Food processing” is the positive.
 Thus, we can say adults engage in less object manipulation significantly
-compared to infants.</p>
+compared to infants (p = 0.01). We can also say the there is more object
+manipulation than food processing when raised (p = 0.005), and even more
+when on trees (highly significant, p &lt; 0.0001). In terms of
+laterality, while engaging in food processing, individuals seem to rely
+more in single-hand use, mostly left hand (p = 0.0002), but they also
+use more the right hand than both hands (p = 0.03), when compared to
+other types of object manipulation.</p>
 </div>
 
 
