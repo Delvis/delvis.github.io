@@ -19,6 +19,6 @@ In the ever-twisting non-Euclidean wheel of chaos and order, civilization hatche
 
 The legend raved that, despite their tentacled differences and the never-ending nature of their alien brawl, the Freakin' Ouroboros and the divine Dragonslayer played vital roles in the grand spectacle of existence. They were the autokinetic guardians of the bizarro equilibrium between the braids of anarchy and harmony, like characters straight out of your family. Think mom and dad. They reminded everyone that even within the throes of an anamorphic drama, the beanstalk seeds of titanic civilizations could take a square root and fibonaccin’ the fuck out of there.
 
-In this way, as their dryadic roots entwined in a timeless fractal spiral, progressing through messiah-zoic eons, just as cryptic hominoids had evolved from a Bombadil fantasy into a full-blown cyber-reality-show of the future governed by triple-entry accounting and self-replicating 3D-printing bots. Do not despair, little mantis. The moon and the sun will continue to shine. Something must power the parasitic machinery.
+In this way, as their dryadic roots entwined in a timeless fractal spiral, progressing through messiah-zoic eons, just as cryptic hominoids had evolved from a Bombadil fantasy into a full-blown cyber-reality-show of the future—a future governed by triple-entry accounting and self-replicating 3D-printing bots. Do not despair, little mantis. The moon and the sun will continue to shine. Something must power the parasitic machinery.
 
 João Pedro Valente
