@@ -5,7 +5,7 @@ description: "Jack and the Gödel Eggs"
 tags: [parabole, short story]
 ---
 
-In a realm drenched in the chaotic haze of oblivion, an eternal freakshow unfurled, a wild tale muttered through the geodesic realms of debauchery. Within this twisted land, a cosmic serpent, the Freakin' Ouroboros, slithered in a mind-bending dimethyltryptamine trip. It embodied the essence of möebius-esque creation, a creature of endless lunacy, engaged in a full-throttle rampage, attacking its own tail with an elvish fervour, ensnared in its own kaleidoscopic loop.
+In a timespace drenched in the pandemoniac haze of oblivion, an eternal freakshow unfurled, a wild tale muttered through the geodesic dominions of debauchery. Within this twisted land, a cosmic serpent, the Freakin' Ouroboros, slithered in a mind-bending dimethyltryptamine trip. It embodied the essence of möebius-esque creation, a creature of endless lunacy, engaged in a full-throttle rampage, attacking its own tail with an elvish fervour, ensnared in its own kaleidoscopic loop.
 
 Facing that serpent of yin was the mighty Dragonslayer, a knight decked out in armour festooned with psychedelic hieroglyphs of mathematical proofs. His sword, a demented relic of the guano realms, sparkled with the essence of batshit righteousness. His trillion-years old job was to confront the damn cobra, to stomp out its nutty self-referencing tendencies, and shield the muscarinic fields from its acid-infested shenanigans.
 
