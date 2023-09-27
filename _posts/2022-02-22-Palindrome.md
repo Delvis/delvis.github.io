@@ -91,4 +91,4 @@ Of Mars's Pharaoes.<br/>
 
 Ancient riddles kept<br/>
 In stone, a cosmic code,<br/>
-Sacred Gizeh sci-fi show.<br/>
+Gizeh sci-fi show.<br/>
