@@ -5,90 +5,90 @@ description: "2022 22 02"
 tags: [haiku, palindrome]
 ---
 
-One seeks the unknown,
-In science and spirit's depths,
-Quest for higher worlds.
+One seeks the unknown,<br> 
+In science and spirit's depths,<br> 
+Quest for higher worlds.<br> 
 
-But skeptics abound,
-This path they deem impossible,
-Closed minds block the way.
+But skeptics abound,<br> 
+This path they deem impossible,<br> 
+Closed minds block the way.<br> 
 
-Yet, deep in our souls,
-Questions linger without answers,
-Yearning for the truth.
+Yet, deep in our souls,<br> 
+Questions linger without answers,<br> 
+Yearning for the truth.<br> 
 
-A truth that transcends,
-Mere senses and worldly bounds,
-Supersensible realms.
+A truth that transcends,<br> 
+Mere senses and worldly bounds,<br> 
+Supersensible realms.<br> 
 
-To understand this,
-One must embrace inner work,
-Meditate and seek.
+To understand this,<br> 
+One must embrace inner work,<br> 
+Meditate and seek.<br> 
 
-For cognition's strength,
-Not bound to the body's grasp,
-Inward journey starts.
+For cognition's strength,<br> 
+Not bound to the body's grasp,<br> 
+Inward journey starts.<br> 
 
-Like the eye's vision,
-Enhanced through instruments' aid,
-Soul's power can grow.
+Like the eye's vision,<br> 
+Enhanced through instruments' aid,<br> 
+Soul's power can grow.<br> 
 
-Supersensible,
-A realm veiled from the senses,
-Inner sight required.
+Supersensible,<br> 
+A realm veiled from the senses,<br> 
+Inner sight required.<br> 
 
-Though words may fall short,
-Glimpses of Saturn's, Sun's, Moon's,
-Alchemical tale.
+Though words may fall short,<br> 
+Glimpses of Saturn's, Sun's, Moon's,<br> 
+Alchemical tale.<br> 
 
-Each story distinct,
-In description and in tone,
-Seeking to convey.
+Each story distinct,<br> 
+In description and in tone,<br> 
+Seeking to convey.<br> 
 
-Perception's unfold,
-A fractal from self to world,
-Universal truth.
+Perception's unfold,<br> 
+A fractal from self to world,<br> 
+Universal truth.<br> 
 
-Not mystic alone,
-Objective truths they unveil,
-Striving for the light.
+Not mystic alone,<br/>
+Objective truths they unveil,<br/>
+Striving for the light.<br/>
 
-In this haiku's words,
-No need for labels or names,
-Truth's pursuit is key.
+In this haiku's words,<br/>
+No need for labels or names,<br/>
+Truth's pursuit is key.<br/>
 
-For hostile words cast,
-Do not diminish the quest,
-Independent search.
+For hostile words cast,<br/>
+Do not diminish the quest,<br/>
+Independent search.<br/>
 
-And so, we conclude,
-With thoughts of truth and seeking,
-In this spiral's wake.
+And so, we conclude,<br/>
+With thoughts of truth and seeking,<br/>
+In this spiral's wake.<br/>
 
-Fission's hidden lore,
-Pyramid's enigmatic core,
-Ancient secrets soar.
+Fission's hidden lore,<br/>
+Pyramid's enigmatic core,<br/>
+Ancient secrets soar.<br/>
 
-Uranium's grace,
-In chambers deep, a secret place,
-Time's isotopic embrace.
+Uranium's grace,<br/>
+In chambers deep, a secret place,<br/>
+Time's isotopic embrace.<br/>
 
-Silent granite tomb,
-Whispers of a nuclear bloom,
-Ancient reactor's womb.
+Silent granite tomb,<br/>
+Whispers of a nuclear bloom,<br/>
+Ancient reactor's womb.<br/>
 
-Isotopes confined,
-In pyramids, a secret bind,
-Plutonium-239 within.
+Isotopes confined,<br/>
+In pyramids, a secret bind,<br/>
+Plutonium-239 within.<br/>
 
-Granite and decay,
-In sarcophogus, they lay,
-Mysteries of the day.
+Granite and decay,<br/>
+In sarcophogus, they lay,<br/>
+Mysteries of those days.<br/>
 
-Radiation's trace,
-Hidden in that sacred space,
-Gizé sent all to Mars.
+Radiation's trace,<br/>
+Hidden in that sacred space,<br/>
+Pharaoh sent it all to Mars.<br/>
 
-Ancient riddles kept
-in stone, a cosmic code,
-Geometric sci-fi show.
+Ancient riddles kept<br/>
+in stone, a cosmic code,<br/>
+Sacred Gizeh sci-fi show.<br/>
