@@ -64,3 +64,31 @@ Independent search.
 And so, we conclude,
 With thoughts of truth and seeking,
 In this spiral's wake.
+
+Fission's hidden lore,
+Pyramid's enigmatic core,
+Ancient secrets soar.
+
+Uranium's grace,
+In chambers deep, a secret place,
+Time's isotopic embrace.
+
+Silent granite tomb,
+Whispers of a nuclear bloom,
+Ancient reactor's womb.
+
+Isotopes confined,
+In pyramids, a secret bind,
+Plutonium-239 within.
+
+Granite and decay,
+In sarcophogus, they lay,
+Mysteries of the day.
+
+Radiation's trace,
+Hidden in that sacred space,
+Gizé sent all to Mars.
+
+Ancient riddles kept
+in stone, a cosmic code,
+Geometric sci-fi show.
