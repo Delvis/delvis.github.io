@@ -81,14 +81,14 @@ Isotopes confined,<br/>
 In pyramids, a secret bind,<br/>
 Plutonium-239 within.<br/>
 
-Granite and decay,<br/>
+Empire in decay,<br/>
 In sarcophogus, they lay,<br/>
 Mysteries of those days.<br/>
 
 Radiation's trace,<br/>
 Hidden in that sacred space,<br/>
-Pharaoh sent it all to Mars.<br/>
+Of Mars's Pharaoes.<br/>
 
 Ancient riddles kept<br/>
-in stone, a cosmic code,<br/>
+In stone, a cosmic code,<br/>
 Sacred Gizeh sci-fi show.<br/>
