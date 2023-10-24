@@ -4,6 +4,8 @@ title: "Epistle to Periander"
 tags: [Tyrant's Letter, Epistle to Periander, Politics, Censorship, Power Dynamics]
 ---
 
+Epistle to Periander
+
 In Aristotles'<a href = "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0058:book=3:section=1284a&highlight=periander" target="_blank">[1]</a> and Diogenes Laërtius'<a href = "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/1/Periander*.html" target="_blank">[2]</a> accounts, an intriguing episode involving Periander, a youthful Corinthian tyrant, and Thrasybulus, an established and authoritative tyrant from Miletus, unfolds. Periander, facing the challenge of maintaining effective rule, sought counsel from Thrasybulus. However, Thrasybulus declined to convey his advice in written form and instead embarked on a symbolic act. He escorted Periander's envoy to a field where he proceeded to traverse the terrain. During this traversal, he systematically removed the most conspicuous and elevated stalks of wheat, rendering the field flat and barren. No verbal explanation was proffered; the messenger was then dispatched back to Periander.
 
 Periander, upon receiving this cryptic visual message,  comprehended its intended meaning. Thrasybulus had subtly advised him to eliminate any individuals who might pose a potential threat or challenge to his rule. In essence, Thrasybulus' action of severing the tallest stalks served as a symbolic directive for Periander to remove those prominent and influential figures who could jeopardize his grip on power.
