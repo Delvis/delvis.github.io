@@ -17,4 +17,4 @@ Notably, Aristotle offers an intriguing perspective on this theme, underscoring 
 </figure>
 
 [1] Ἀριστοτέλης (4th century BC). Πολιτικά, 3, 1284a.
-[2] Laërtius, D (3rd century A.D.). Vitae Philosophorum, 1, Ch. 7. Periander (tyrant 625‑585 B.C.)
+[2] Laërtius, D (3rd century AD). Vitae Philosophorum, 1, Ch. 7. Periander (tyrant 625‑585 B.C.)
