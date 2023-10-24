@@ -17,5 +17,4 @@ Notably, Aristotle offers an intriguing perspective on this theme, underscoring 
 </figure>
 
 [1] Ἀριστοτέλης (4th c BC). *Πολιτικά*, 3, 1284a.<br>
-</br>
 [2] Laërtius, D (3rd century AD). *Vitae Philosophorum*, 1, Ch. 7. "Periander (tyrant, 625–585 BC)".
