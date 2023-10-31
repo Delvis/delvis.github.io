@@ -31,11 +31,11 @@ Happy birthday Bitcoin!
 13.	Chinese South-Pointing Chariot (300s): A mechanical device that consistently pointed south, demonstrating an early form of differential gears.
 14.	Rai Stones (500s): The Rai Stones of Yap, a form of currency consisting of large stone disks, highlight the historical development of money and the concept of value representation.
 15.	Banknotes (700s): The issuance of paper banknotes by Chinese and Middle Eastern governments marked the introduction of paper money as a form of currency.
-16.	Book of Kells (8th century): a medieval illuminated manuscript, features intricate designs and ciphers.
-17.	Frequency Analysis (9th century): Islamic scholar Al-Kindi introduced the concept of frequency analysis for breaking simple ciphers.
+16.	Book of Kells (800s): a medieval illuminated manuscript, features intricate designs and ciphers.
+17.	Frequency Analysis (900s): Islamic scholar Al-Kindi introduced the concept of frequency analysis for breaking simple ciphers.
 18.	Al-Jazari's Automata (1200s): Al-Jazari, a Muslim inventor, created various mechanical devices that could perform practical tasks, such as automated musical instruments.
-19.	Notary Public (14th century): Trusted witnesses for document signing and timestamping.
-20.	Clocks (14th-16th century): Advancements in mechanical clocks revolutionize timekeeping in the late Middle Ages.
+19.	Notary Public (1400s): Trusted witnesses for document signing and timestamping.
+20.	Clocks (1400-1600s): Advancements in mechanical clocks revolutionize timekeeping in the late Middle Ages.
 21.	Gutenberg's Printing Press (1440s): Revolutionized the way information was distributed.
 22.	Gregorian Calendar (1582): The reform of the Julian calendar to improve timekeeping accuracy.
 23.	Vigenère Cipher (1586): Blaise de Vigenère's polyalphabetic cipher was a significant advancement in cryptography.
@@ -43,8 +43,8 @@ Happy birthday Bitcoin!
 25.	Pascaline (1642): Invented by Blaise Pascal, it was one of the earliest mechanical calculators capable of addition and subtraction.
 26.	Gambler's Dilemma (1654): Blaise Pascal and Pierre de Fermat's correspondence on the problem of points laid the foundation for probability theory, addressing questions related to games of chance.
 27.	Stepped Reckoner (1673): Designed by Gottfried Wilhelm Leibniz, it improved on the Pascaline, performing all four arithmetic operations.
-28.	Colonial Scrip (17-18th century): Colonial America's use of scrip as a form of local currency exhibited early experimentation with alternative forms of money.
-29.	Pocket Watches (17th-19th century): Portable timekeeping devices, like pocket watches, become widespread and essential tools for personal time management.
+28.	Colonial Scrip (1700-1800s): Colonial America's use of scrip as a form of local currency exhibited early experimentation with alternative forms of money.
+29.	Pocket Watches (1700-1900s): Portable timekeeping devices, like pocket watches, become widespread and essential tools for personal time management.
 30.	De Moivre's Theorem (1733): Abraham de Moivre's work on the normal distribution provided a critical link between probability and statistics.
 31.	Law of Large Numbers (1733): Jacob Bernoulli's formulation of the law of large numbers demonstrated the convergence of sample means to population means.
 32.	Bayesian Probability (1763): Thomas Bayes' work on inverse probability laid the foundation for Bayesian statistics, a crucial aspect of modern probability theory.
