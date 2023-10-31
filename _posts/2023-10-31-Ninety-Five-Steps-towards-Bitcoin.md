@@ -29,7 +29,7 @@ Happy birthday Bitcoin!
 11.	Julius Caesar's Cipher (58 BC): Caesar's use of substitution ciphers for secure communication.
 12.	Christianity (33 AD): Jesus was crucified at 33 years old. Coincidently the total number of halving events that are programmed to occur throughout Bitcoin monetization phase (2012-2140) are 33.
 13.	Chinese South-Pointing Chariot (200s): A mechanical device that consistently pointed south, demonstrating an early form of differential gears.
-14.	Rai Stones (Unknown): The Rai Stones of Yap, a form of currency consisting of large stone disks, highlight the historical development of money and the concept of value representation.
+14.	Collapse of Rome (476): As all empires in history, Rome's collapse is intimately connected to bad economic and monetary policies.
 15.	Banknotes (600s): The issuance of paper banknotes by Chinese and Middle Eastern governments marked the introduction of paper money as a form of currency.
 16.	Book of Kells (c. 790-810): a medieval illuminated manuscript, features intricate designs and ciphers.
 17.	Frequency Analysis (800s): Islamic scholar Al-Kindi introduced the concept of frequency analysis for breaking simple ciphers.
@@ -48,12 +48,12 @@ Happy birthday Bitcoin!
 30.	De Moivre's Theorem (1733): Abraham de Moivre's work on the normal distribution provided a critical link between probability and statistics.
 31.	Law of Large Numbers (1733): Jacob Bernoulli's formulation of the law of large numbers demonstrated the convergence of sample means to population means.
 32.	Bayesian Probability (1763): Thomas Bayes' work on inverse probability laid the foundation for Bayesian statistics, a crucial aspect of modern probability theory.
-33.	Difference Engine (1822): Charles Babbage's mechanical calculator designed to compute polynomial functions.
-34.	Analytical Engine (1837): Charles Babbage's general-purpose mechanical computer, featuring concepts like loops and conditional branching, laying the foundation for modern computing.
-35.	Telegraphy (1838-1844): Revolutionizing time-sensitive communication, it spurred the race between paper (or soft) money, easily moved across space, and hard money (i.e., gold) that endures across time.
-36.	One-Time Pads (1882): Frank Miller's invention of the one-time pad as a secure encryption method is a key milestone in cryptographic history.
-37.	Kerckhoffs' Principle (1883): suggests that the security of a cryptographic system should not depend on the secrecy of the algorithm but rather on the secrecy of the key, is fundamental to modern cryptography.
-38.	George Boole (1815-1864): George Boole's work in mathematical logic laid the foundation for concepts related to tree structures in mathematics and computer science.
+33.	George Boole (1815-1864): George Boole's work in mathematical logic laid the foundation for concepts related to tree structures in mathematics and computer science.
+34.	Difference Engine (1822): Charles Babbage's mechanical calculator designed to compute polynomial functions.
+35.	Analytical Engine (1837): Charles Babbage's general-purpose mechanical computer, featuring concepts like loops and conditional branching, laying the foundation for modern computing.
+36.	Telegraphy (1838-1844): Revolutionizing time-sensitive communication, it spurred the race between paper (or soft) money, easily moved across space, and hard money (i.e., gold) that endures across time.
+37.	One-Time Pads (1882): Frank Miller's invention of the one-time pad as a secure encryption method is a key milestone in cryptographic history.
+38.	Kerckhoffs' Principle (1883): suggests that the security of a cryptographic system should not depend on the secrecy of the algorithm but rather on the secrecy of the key, is fundamental to modern cryptography.
 39.	Enigma Machine (1918-1923): The German Enigma machine was a notable advancement in mechanical encryption devices, used during World War I.
 40.	Central Limit Theorem (1920s): Russian mathematician Aleksandr Lyapunov and others refined the Central Limit Theorem, demonstrating how the distribution of the sum of independent, identically distributed random variables tends towards a normal distribution.
 41.	Kolmogorov's Axioms (1933): Andrey Kolmogorov's axiomatic formulation of probability theory created a rigorous and unified framework for the field.
@@ -107,10 +107,10 @@ Happy birthday Bitcoin!
 89.	BitTorrent (2001): Bram Cohen's creation of the BitTorrent protocol revolutionized file sharing and peer-to-peer (P2P) technologies.
 90.	SHA-256d (2001): SHA-256 is a cryptographic hash function and is part of the SHA-2 family. It is currently widely used for secure cryptographic applications, including Bitcoin.
 91.	Tor (2002): Often referred to as The Onion Router, Tor is a significant contribution to online privacy and anonymity as it allows users to browse the internet while concealing their identity and location.
-92.	RPOW (Reusable Proof of Work, 2004): Hal Finney's creation of Reusable Proof of Work offered a novel approach to digital currency, serving as an early experiment in cryptographic proof of work.
-93.	The Global Financial Crisis (2008): Worldwide economic downturn triggered by the bursting of the U.S. housing bubble and subsequent banking and financial market turmoil, leading to a global recession and extensive government interventions (i.e., money printing).
-94.	Bitcoin Whitepaper (2008): On October 31st, 2008, Satoshi Nakamoto released a whitepaper titled "Bitcoin: A Peer-to-Peer Electronic Cash System.
-95.	Genesis Block (2009): On January 3, 2009, Satoshi Nakamoto mined the block 0 of the timechain. This marked the official beginning of the only truly decentralized digital currency and the discovery of digital scarcity. This discovery, by the definition, cannot be repeated.
+92.	RPOW (2004): Hal Finney's creation of Reusable Proof of Work offered a novel approach to digital currency, serving as an early experiment in cryptographic proof of work.
+93.	The Global Financial Crisis (2008): Worldwide economic downturn triggered by the bursting of the U.S. housing bubble and subsequent banking and financial market turmoil, leading to a global recession and extensive government interventions.
+94.	Bitcoin Whitepaper (2008): On October 31<sup>st</sup>, 2008, Satoshi Nakamoto released a whitepaper titled "Bitcoin: A Peer-to-Peer Electronic Cash System.
+95.	Genesis Block (2009): On January 3<sup>rd</sup>, 2009, Satoshi Nakamoto mined the block 0 of the timechain. This marked the official beginning of the only truly decentralized digital currency and the discovery of digital scarcity. This discovery, by the definition, cannot be repeated.
 
 <figure>
 	<img src="/images/bitcoin_supply_formula.jpg" alt="Bitcoin Supply Issuance">
