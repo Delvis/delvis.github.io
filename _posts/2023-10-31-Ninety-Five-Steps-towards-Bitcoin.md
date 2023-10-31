@@ -23,16 +23,11 @@ Happy birthday Bitcoin!
 5. Sundials (c. 1500 BC): Used to mark hours and track time.
 6. Transposition Ciphers (c. 500 BC): Early encryption techniques focused on changing the order of characters in the plaintext, as seen in the Spartan scytale.
 7. Atbash Cipher (c. 500 BC): Ancient Hebrew substitution cipher. It involves replacing each letter of the alphabet with its reverse counterpart, so 'A' = 'Z,' 'B' = 'Y,' etc.
-8. Antikythera Mechanism (2nd century BC): An ancient Greek analog computer used to predict astronomical positions and eclipses.
+8. Antikythera Mechanism (c. 200 BC): An ancient Greek analog computer used to predict astronomical positions and eclipses.
 9. Astrolabe (c. 150 BC): An instrument used for solving problems related to time and the position of celestial objects.
 10.	Promissory notes (118 BC): In China, during the Han Dynasty, promissory notes made of leather appeared. 
-11.	Julius Caesar's Cipher (c. 58 BC): Caesar's use of substitution ciphers for secure communication.
+11.	Julius Caesar's Cipher (58 BC): Caesar's use of substitution ciphers for secure communication.
 12.	Christianity (33 AD): Jesus was crucified at 33 years old. Coincidently the total number of halving events that are programmed to occur throughout Bitcoin monetization phase (2012-2140) are 33.
-
-<figure>
-	<img src="/images/bitcoin_supply_formula.jpg" alt="Bitcoin Supply Issuance">
-</figure>
-
 13.	Chinese South-Pointing Chariot (300s): A mechanical device that consistently pointed south, demonstrating an early form of differential gears.
 14.	Rai Stones (500s): The Rai Stones of Yap, a form of currency consisting of large stone disks, highlight the historical development of money and the concept of value representation.
 15.	Banknotes (700s): The issuance of paper banknotes by Chinese and Middle Eastern governments marked the introduction of paper money as a form of currency.
@@ -116,3 +111,7 @@ Happy birthday Bitcoin!
 93.	The Global Financial Crisis (2008): Worldwide economic downturn triggered by the bursting of the U.S. housing bubble and subsequent banking and financial market turmoil, leading to a global recession and extensive government interventions (i.e., money printing).
 94.	Bitcoin Whitepaper (2008): On October 31st, 2008, Satoshi Nakamoto released a whitepaper titled "Bitcoin: A Peer-to-Peer Electronic Cash System.
 95.	Genesis Block (2009): On January 3, 2009, Satoshi Nakamoto mined the block 0 of the timechain. This marked the official beginning of the only truly decentralized digital currency and the discovery of digital scarcity. This discovery, by the definition, cannot be repeated.
+
+<figure>
+	<img src="/images/bitcoin_supply_formula.jpg" alt="Bitcoin Supply Issuance">
+</figure>
