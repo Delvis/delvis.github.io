@@ -16,7 +16,7 @@ Happy birthday Bitcoin!
 
 **95 Steps towards Bitcoin**
 
-1. Clay Tablets (c. 3400 BC): Early records marked with timestamps.
+1. Clay Tablets (c. 3400 BC): Early records marked with timestamps. Used as ledgers, they are the earliest examples of writing and record-keeping technologies.
 2. Gold and Precious Metals (c. 2800 BC): The use of precious metals, such as gold and silver, as a medium of exchange and a store of value, represents a significant milestone in the history of money.
 3. Abacus (c. 2700 BC): One of the earliest counting devices, which played a crucial role in mathematical computations.
 4. Substitution Ciphers (2000 BC): One of the earliest forms of encryption, substitution ciphers involved replacing plaintext letters with other letters.
