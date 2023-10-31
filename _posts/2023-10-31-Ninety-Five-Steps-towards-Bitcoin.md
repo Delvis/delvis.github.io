@@ -11,7 +11,7 @@ Today commemorates the 15<sup>th</sup> anniversary of *Bitcoin's White Paper* <a
 Happy birthday Bitcoin!
 
 <figure>
-	<img src="/images/bitcoin_durability.png" alt="Bitcoin is Rebirth">
+	<img src="/images/bitcoin_durability.jpg" alt="Bitcoin is Rebirth">
 </figure>
 
 **95 Steps towards Bitcoin**
