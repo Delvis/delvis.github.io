@@ -28,12 +28,12 @@ Happy birthday Bitcoin!
 10.	Promissory notes (118 BC): In China, during the Han Dynasty, promissory notes made of leather appeared. 
 11.	Julius Caesar's Cipher (58 BC): Caesar's use of substitution ciphers for secure communication.
 12.	Christianity (33 AD): Jesus was crucified at 33 years old. Coincidently the total number of halving events that are programmed to occur throughout Bitcoin monetization phase (2012-2140) are 33.
-13.	Chinese South-Pointing Chariot (300s): A mechanical device that consistently pointed south, demonstrating an early form of differential gears.
-14.	Rai Stones (500s): The Rai Stones of Yap, a form of currency consisting of large stone disks, highlight the historical development of money and the concept of value representation.
-15.	Banknotes (700s): The issuance of paper banknotes by Chinese and Middle Eastern governments marked the introduction of paper money as a form of currency.
-16.	Book of Kells (800s): a medieval illuminated manuscript, features intricate designs and ciphers.
-17.	Frequency Analysis (900s): Islamic scholar Al-Kindi introduced the concept of frequency analysis for breaking simple ciphers.
-18.	Al-Jazari's Automata (1200s): Al-Jazari, a Muslim inventor, created various mechanical devices that could perform practical tasks, such as automated musical instruments.
+13.	Chinese South-Pointing Chariot (200s): A mechanical device that consistently pointed south, demonstrating an early form of differential gears.
+14.	Rai Stones (Unknown): The Rai Stones of Yap, a form of currency consisting of large stone disks, highlight the historical development of money and the concept of value representation.
+15.	Banknotes (600s): The issuance of paper banknotes by Chinese and Middle Eastern governments marked the introduction of paper money as a form of currency.
+16.	Book of Kells (c. 790-810): a medieval illuminated manuscript, features intricate designs and ciphers.
+17.	Frequency Analysis (800s): Islamic scholar Al-Kindi introduced the concept of frequency analysis for breaking simple ciphers.
+18.	Al-Jazari's Automata (1206): Al-Jazari, a Muslim inventor, created various mechanical devices that could perform practical tasks, such as automated musical instruments.
 19.	Notary Public (1400s): Trusted witnesses for document signing and timestamping.
 20.	Clocks (1400-1600s): Advancements in mechanical clocks revolutionize timekeeping in the late Middle Ages.
 21.	Gutenberg's Printing Press (1440s): Revolutionized the way information was distributed.
@@ -43,8 +43,8 @@ Happy birthday Bitcoin!
 25.	Pascaline (1642): Invented by Blaise Pascal, it was one of the earliest mechanical calculators capable of addition and subtraction.
 26.	Gambler's Dilemma (1654): Blaise Pascal and Pierre de Fermat's correspondence on the problem of points laid the foundation for probability theory, addressing questions related to games of chance.
 27.	Stepped Reckoner (1673): Designed by Gottfried Wilhelm Leibniz, it improved on the Pascaline, performing all four arithmetic operations.
-28.	Colonial Scrip (1700-1800s): Colonial America's use of scrip as a form of local currency exhibited early experimentation with alternative forms of money.
-29.	Pocket Watches (1700-1900s): Portable timekeeping devices, like pocket watches, become widespread and essential tools for personal time management.
+28.	Colonial Scrip (1600-1700s): Colonial America's use of scrip as a form of local currency exhibited early experimentation with alternative forms of money.
+29.	Pocket Watches (1600-1800s): Portable timekeeping devices, like pocket watches, become widespread and essential tools for personal time management.
 30.	De Moivre's Theorem (1733): Abraham de Moivre's work on the normal distribution provided a critical link between probability and statistics.
 31.	Law of Large Numbers (1733): Jacob Bernoulli's formulation of the law of large numbers demonstrated the convergence of sample means to population means.
 32.	Bayesian Probability (1763): Thomas Bayes' work on inverse probability laid the foundation for Bayesian statistics, a crucial aspect of modern probability theory.
