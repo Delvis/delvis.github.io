@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "95 Steps to Bitcoin"
+title: "95 Steps towards Bitcoin"
 tags: [Bitcoin, White Paper, Halloween]
 ---
 
