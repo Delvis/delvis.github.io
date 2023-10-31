@@ -16,12 +16,12 @@ Happy birthday Bitcoin!
 
 **95 Steps towards Bitcoin**
 
-1. Clay Tablets (c. 3400 BC): Early records marked with timestamps. Used as ledgers, they are the earliest examples of writing and record-keeping technologies.
+1. Clay Tablets (c. 3400 BC): Serving as ledgers, they represent some of the earliest instances of writing and record-keeping techniques. They contained information related to trade, taxation, and other economic activities.
 2. Gold and Precious Metals (c. 2800 BC): The use of precious metals, such as gold and silver, as a medium of exchange and a store of value, represents a significant milestone in the history of money.
 3. Abacus (c. 2700 BC): One of the earliest counting devices, which played a crucial role in mathematical computations.
 4. Substitution Ciphers (2000 BC): One of the earliest forms of encryption, substitution ciphers involved replacing plaintext letters with other letters.
-5. Sundials (c. 1500 BC): Used to mark hours and track time.
-6. Transposition Ciphers (c. 500 BC): Early encryption techniques focused on changing the order of characters in the plaintext, as seen in the Spartan scytale.
+5. Sundials (c. 1600 BC): Used to mark hours and track time.
+6. Transposition Ciphers (c. 600 BC): Early encryption techniques focused on changing the order of characters in the plaintext, as seen in the Spartan scytale.
 7. Atbash Cipher (c. 500 BC): Ancient Hebrew substitution cipher. It involves replacing each letter of the alphabet with its reverse counterpart, so 'A' = 'Z', 'B' = 'Y', etc.
 8. Antikythera Mechanism (c. 200 BC): An ancient Greek analog computer used to predict astronomical positions and eclipses.
 9. Astrolabe (c. 150 BC): An instrument used for solving problems related to time and the position of celestial objects.
