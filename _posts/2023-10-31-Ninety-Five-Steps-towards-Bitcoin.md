@@ -105,10 +105,10 @@ Happy birthday Bitcoin!
 87.	Massias, Avila, Quisquater (1999): Design of a minimal trust secure timestamping presented at ITB 20.
 88.	Freenet (2000): Developed by Ian Clarke, was one of the earliest P2P networks designed to provide anonymity and censorship resistance, it laid foundation for later systems aiming to protect user privacy.
 89.	BitTorrent (2001): Bram Cohen's creation of the BitTorrent protocol revolutionized file sharing and peer-to-peer (P2P) technologies.
-90.	SHA-256d (2001): SHA-256 is a cryptographic hash function and is part of the SHA-2 family. It is currently widely used for secure cryptographic applications, including Bitcoin.
-91.	Tor (2002): Often referred to as The Onion Router, Tor is a significant contribution to online privacy and anonymity as it allows users to browse the internet while concealing their identity and location.
+90.	Tor (2002): Often referred to as The Onion Router, Tor is a significant contribution to online privacy and anonymity as it allows users to browse the internet while concealing their identity and location.
+91.	SHA-256d (2003): SHA-256 is a cryptographic hash function and is part of the SHA-2 family. It is currently widely used for secure cryptographic applications, and in its SHA-256(SHA-256(x)) form for Bitcoin.
 92.	RPOW (2004): Hal Finney's creation of Reusable Proof of Work offered a novel approach to digital currency, serving as an early experiment in cryptographic proof of work.
-93.	The Global Financial Crisis (2008): Worldwide economic downturn triggered by the bursting of the U.S. housing bubble and subsequent banking and financial market turmoil, leading to a global recession and extensive government interventions.
+93.	The Global Financial Crisis (2007-2009): Worldwide economic downturn triggered by the bursting of the U.S. housing bubble and subsequent banking and financial market turmoil, leading to a global recession and extensive government interventions.
 94.	Bitcoin Whitepaper (2008): On October 31<sup>st</sup>, 2008, Satoshi Nakamoto released a whitepaper titled "Bitcoin: A Peer-to-Peer Electronic Cash System.
 95.	Genesis Block (2009): On January 3<sup>rd</sup>, 2009, Satoshi Nakamoto mined the block 0 of the timechain. This marked the official beginning of the only truly decentralized digital currency and the discovery of digital scarcity. This discovery, by the definition, cannot be repeated.
 
