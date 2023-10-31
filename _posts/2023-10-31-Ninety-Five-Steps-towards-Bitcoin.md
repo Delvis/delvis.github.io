@@ -52,7 +52,7 @@ Happy birthday Bitcoin!
 34. Difference Engine (1822): Charles Babbage’s mechanical calculator designed to compute polynomial functions.
 35. Analytical Engine (1837): Charles Babbage’s general-purpose mechanical computer, featuring concepts like loops and conditional branching, laying the foundation for modern computing.
 36. Telegraphy (1838-1844): Revolutionizing time-sensitive communication, it spurred the race between paper (or soft) money, easily moved across space, and hard money (i.e., gold) that endures across time.
-37. Austrian School (1871): Carl Menger's publishes Principles of Economics.
+37. Austrian School (1871): Carl Menger publishes *Principles of Economics*.
 38. One-Time Pads (1882): Frank Miller’s invention of the one-time pad as a secure encryption method is a key milestone in cryptographic history.
 39. Kerckhoffs’ Principle (1883): suggests that the security of a cryptographic system should not depend on the secrecy of the algorithm but rather on the secrecy of the key, is fundamental to modern cryptography.
 40. Enigma Machine (1918-1923): The German Enigma machine was a notable advancement in mechanical encryption devices, used during World War I.
