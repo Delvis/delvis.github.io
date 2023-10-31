@@ -31,7 +31,7 @@ Happy birthday Bitcoin!
 13.	Chinese South-Pointing Chariot (200s): A mechanical device that consistently pointed south, demonstrating an early form of differential gears.
 14.	Collapse of Rome (476): As all empires in history, Rome's collapse is intimately connected to bad economic and monetary policies.
 15.	Banknotes (600s): The issuance of paper banknotes by Chinese and Middle Eastern governments marked the introduction of paper money as a form of currency.
-16.	Book of Kells (c. 790-810): a medieval illuminated manuscript, features intricate designs and ciphers.
+16.	Arabic Numerals (700-800s): The Hindu-Arabic numeral system, which uses the ten digits we are familiar with today (0 to 9), made its way to the Islamic world during this period. These numerals eventually spread to Europe and became the standard for mathematics and commerce.
 17.	Frequency Analysis (800s): Islamic scholar Al-Kindi introduced the concept of frequency analysis for breaking simple ciphers.
 18.	Al-Jazari's Automata (1206): Al-Jazari, a Muslim inventor, created various mechanical devices that could perform practical tasks, such as automated musical instruments.
 19.	Notary Public (1400s): Trusted witnesses for document signing and timestamping.
