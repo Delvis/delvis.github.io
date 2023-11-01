@@ -104,7 +104,7 @@ Happy birthday Bitcoin!
 86. Freenet (2000): Developed by Ian Clarke, was one of the earliest P2P networks designed to provide anonymity and censorship resistance, it laid foundation for later systems aiming to protect user privacy.
 87. BitTorrent (2001): Bram Cohen’s creation of the BitTorrent protocol revolutionized file sharing and peer-to-peer (P2P) technologies.
 88. Tor (2002): The Onion Router is a significant contribution to online privacy and anonymity as it allows users to browse the internet while concealing their identity and location.
-89. SHA-256<sub>d</sub> (2003): Ferguson and Schneier define SHA256(SHA256(x)) in their book Practical Cryptography in Chapter 6.3.1 Length Extensions.
+89. SHA-256<sub>d</sub> (2003): Ferguson and Schneier define SHA256(SHA256(x)) in Chapter 6.3.1 Length Extensions of their book *Practical Cryptography*.
 90. RPOW (2004): Hal Finney’s creation of Reusable Proof of Work offered a novel approach to digital currency, serving as an early experiment in cryptographic proof of work.
 91. Nick Szabo’s “bit gold” (2005): A new design for a decentralized digital currency for secure transactions and wealth preservation using a cryptographic approach.
 92. Liberty Reserve (2006): Digital private currency service that facilitated anonymous online financial transactions, since it was not decentralized the government was able to eventually shut it down.
