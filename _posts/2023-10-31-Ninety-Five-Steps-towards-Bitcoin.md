@@ -16,8 +16,8 @@ Happy birthday Bitcoin!
 
 **95 Steps Towards Bitcoin**
 
-1. Clay Tablets (c. 3400 BC): Earliest instances of writing and record-keeping techniques. Serving as ledgers, they contained information related to trade, taxation, and other economic activities.
-2. Precious Metals as Monies (c. 2800 BC): Gold and silver being used a store of value and a medium of exchange.
+1. Precious Metals as Monies (c. 5000 BC): First evidence of gold and silver being used a store of value and a medium of exchange.
+2. Clay Tablets (c. 3400 BC): Earliest instances of writing and record-keeping techniques. Serving as ledgers, they contained information related to trade, taxation, and other economic activities.
 3. Abacus (c. 2700 BC): One of the earliest counting devices, played a crucial role in mathematical computations.
 4. Substitution Ciphers (c. 2000 BC): One of the earliest forms of encryption, substitution ciphers involved replacing plaintext letters with other letters.
 5. Sundials (c. 1600 BC): Used to mark hours and track time, e.g., Nebra Sky Disc from Germany.
