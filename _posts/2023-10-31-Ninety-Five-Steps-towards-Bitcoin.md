@@ -49,7 +49,7 @@ Happy birthday Bitcoin!
 31. Bayesian Probability (1763): Thomas Bayes’ work on inverse probability laid the foundation for modern probability theory.
 32. Analytical Engine (1837): Charles Babbage’s general-purpose mechanical computer, featuring concepts like loops and conditional branching, laying the foundation for modern computing.
 33. Telegraphy (1838-1844): Revolutionizing time-sensitive communication, it spurred the race between paper (or soft) money, easily moved across space, and hard money (i.e., gold) that endures across time.
-34. First Computer Algorithm (1842): Ada Lovelace writes a program to calculate Bernoulli numbers with the Cabbage’s Analytical Engine. Birth of computer programming.
+34. Computer Programming (1842): Ada Lovelace writes an algorithm to calculate Bernoulli numbers with the Cabbage’s Analytical Engine. 
 35. George Boole (1854): George Boole’s work in logic laid the foundation for concepts related to tree structures in mathematics and computer science.
 36. Austrian School (1871): Carl Menger publishes *Principles of Economics*.
 37. One-Time Pads (1882): Frank Miller’s invention of the one-time pad as a secure encryption method is a key milestone in cryptographic history.
