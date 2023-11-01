@@ -94,7 +94,7 @@ Happy birthday Bitcoin!
 76. Jackson-Downey’s “e-gold” (1996): Online payment system backed by precious metals reserves. Since it was not decentralized, all user’s assets were eventually seized by the government.
 77. HMAC (1996): Hash-based message authentication code introduced.
 78. Onion Routing (1996): It involved routing internet traffic through multiple nodes, with each layer of encryption removed at each hop. This design enhanced user anonymity and security. Developed by the U.S. Naval Research Laboratory, it served as the basis for Tor.
-79. Adam Back’s Hashcash (1997): a proof-of-work system for combating email spam laid the foundation for the concept of proof of work in cryptocurrencies.
+79. Adam Back’s Hashcash (1997): A proof-of-work system for combating email spam laid the foundation for the concept of proof of work in cryptocurrencies.
 80. Haber and Stornetta (1997): “Secure names for bit-strings” presented at the 4th ACM Conference on Computer and Communications Security.
 81. Wei Dai’s “b-money” (1998): An influential proposal that introduced the concept of a decentralized, digital currency system based on cryptographic techniques.
 82. Smart Contracts (1998): Nick Szabo publishes "Securing Property Titles with Owner Authority".
@@ -110,7 +110,7 @@ Happy birthday Bitcoin!
 92. Liberty Reserve (2006): Digital private currency service that facilitated anonymous online financial transactions, since it was not decentralized the government was able to eventually shut it down.
 93. The Global Financial Crisis (2007-2009): Worldwide economic downturn triggered by the bursting of the U.S. housing bubble and subsequent banking and financial market turmoil, leading to a global recession and extensive government interventions.
 94. Bitcoin Whitepaper (2008): On October 31<sup>st</sup>, 2008, Satoshi Nakamoto released a groundbreaking whitepaper titled "Bitcoin: A Peer-to-Peer Electronic Cash System", introducing the concept of triple-entry accounting and providing a solution to the Byzantine Generals' Problem.
-95. Genesis Block (2009): On January 3<sup>rd</sup>, 2009, Satoshi Nakamoto mined the block 0 of the timechain. This marked the official beginning of the only truly decentralized money and the discovery of digital scarcity. This discovery, by definition, **cannot be repeated**.
+95. Genesis Block (2009): On January 3<sup>rd</sup>, 2009, Satoshi Nakamoto mined the block 0 of the timechain. This marked the official beginning of the only truly decentralized money and the discovery of digital scarcity. This discovery, by definition, **cannot be replicated**.
 
 <iframe width="450" height="800" src="https://www.youtube.com/embed/kJqj9YQZRp0" frameborder="0" allowfullscreen></iframe>
 Video credits: <a href="https://twitter.com/bitstein" target="_blank">bitstein</a>.
