@@ -27,7 +27,7 @@ Happy birthday Bitcoin!
 9. Astrolabe (c. 150 BC): An instrument used for solving problems related to time and the position of celestial objects.
 10. Promissory notes (118 BC): In China, during the Han Dynasty, promissory notes made of leather appeared.
 11. Caesar’s Cipher (58 BC): Julius Caesar’s used substitution ciphers for secure communication.
-12. Christianity (33 AD): Jesus was crucified at the age of 33. There will be exactly 33 halving events. Further evidence of <a href="https://21lessons.com/5/" target="_blank">an immaculate conception?</a>.
+12. Christianity (33 AD): Jesus was crucified at the age of 33. There will be exactly 33 halving events. Further evidence of <a href="https://21lessons.com/5/" target="_blank">an immaculate conception</a>?
 13. Chinese South-Pointing Chariot (200s): A mechanical device that consistently pointed south, demonstrating an early form of differential gears.
 14. Collapse of Rome (476): As all empires in history, Rome’s collapse is intimately connected to bad economic and monetary policies.
 15. Banknotes (600s): The issuance of paper banknotes by Chinese and Middle Eastern governments marked the introduction of paper money as a form of currency.
