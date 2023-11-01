@@ -110,7 +110,7 @@ Happy birthday Bitcoin!
 92. RPOW (2004): Hal Finney’s creation of Reusable Proof of Work offered a novel approach to digital currency, serving as an early experiment in cryptographic proof of work.
 93. The Global Financial Crisis (2007-2009): Worldwide economic downturn triggered by the bursting of the U.S. housing bubble and subsequent banking and financial market turmoil, leading to a global recession and extensive government interventions.
 94. Bitcoin Whitepaper (2008): On October 31<sup>st</sup>, 2008, Satoshi Nakamoto released a groundbreaking whitepaper titled "Bitcoin: A Peer-to-Peer Electronic Cash System", introducing the concept of triple-entry accounting and providing a solution to the Byzantine Generals' Problem.
-95. Genesis Block (2009): On January 3<sup>rd</sup>, 2009, Satoshi Nakamoto mined the block 0 of the timechain. This marked the official beginning of the only truly decentralized money and the discovery of digital scarcity. This discovery, by the definition, **cannot be repeated**.
+95. Genesis Block (2009): On January 3<sup>rd</sup>, 2009, Satoshi Nakamoto mined the block 0 of the timechain. This marked the official beginning of the only truly decentralized money and the discovery of digital scarcity. This discovery, by definition, **cannot be repeated**.
 
 <figure>
 	<img src="/images/bitcoin_supply_formula.jpg" alt="Bitcoin Supply Issuance">
