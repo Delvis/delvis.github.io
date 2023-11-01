@@ -26,7 +26,7 @@ Happy birthday Bitcoin!
 8. Antikythera Mechanism (c. 200 BC): An ancient Greek analog computer used to predict astronomical positions and eclipses.
 9. Astrolabe (c. 150 BC): An instrument used for solving problems related to time and the position of celestial objects.
 10. Promissory notes (118 BC): In China, during the Han Dynasty, promissory notes made of leather appeared.
-11. Julius Caesar’s Cipher (58 BC): Caesar’s use of substitution ciphers for secure communication.
+11. Caesar’s Cipher (58 BC): Julius Caesar’s used substitution ciphers for secure communication.
 12. Christianity (33 AD): Jesus was crucified at 33 years old. Coincidently the total number of halving events that are programmed to occur throughout Bitcoin monetization phase (2012-2140) are 32... Or 33 if you include Cycle 0 (2009-12).
 13. Chinese South-Pointing Chariot (200s): A mechanical device that consistently pointed south, demonstrating an early form of differential gears.
 14. Collapse of Rome (476): As all empires in history, Rome’s collapse is intimately connected to bad economic and monetary policies.
