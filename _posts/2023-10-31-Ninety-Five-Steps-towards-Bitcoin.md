@@ -37,7 +37,7 @@ Happy birthday Bitcoin!
 19. Weight Clocks (1200-1300s): Advancements in mechanical clocks revolutionize timekeeping in the Middle Ages.
 20. Notary Public (1400s): Trusted witnesses for document signing and timestamping.
 21. Gutenberg’s Printing Press (1440s): Revolutionized the way information was distributed.
-22. Gregorian Calendar (1582): A reform of the Julian calendar aimed at enhancing the precision of timekeeping and synchronizing the calendar year with astronomical events.
+22. Double-entry accounting (1494): Luca Pacioli developed double-entry bookkeeping in "Summa de arithmetica, geometria, proportioni et proportionalita"
 23. Vigenère Cipher (1586): Blaise de Vigenère’s polyalphabetic cipher was a significant advancement in cryptography.
 24. Slide Rule (c. 1620): Developed by William Oughtred, this hand-operated analog computer allowed for multiplication and division.
 25. Pascaline (1642): Invented by Blaise Pascal, it was one of the earliest mechanical calculators capable of addition and subtraction.
@@ -109,8 +109,8 @@ Happy birthday Bitcoin!
 91. SHA-256d (2003): SHA-256 is a cryptographic hash function and is part of the SHA-2 family. It is currently widely used for secure cryptographic applications, and in its SHA-256(SHA-256(x)) form for Bitcoin.
 92. RPOW (2004): Hal Finney’s creation of Reusable Proof of Work offered a novel approach to digital currency, serving as an early experiment in cryptographic proof of work.
 93. The Global Financial Crisis (2007-2009): Worldwide economic downturn triggered by the bursting of the U.S. housing bubble and subsequent banking and financial market turmoil, leading to a global recession and extensive government interventions.
-94. Bitcoin Whitepaper (2008): On October 31st, 2008, Satoshi Nakamoto released a whitepaper titled “Bitcoin: A Peer-to-Peer Electronic Cash System.
-95. Genesis Block (2009): On January 3rd, 2009, Satoshi Nakamoto mined the block 0 of the timechain. This marked the official beginning of the only truly decentralized digital currency and the discovery of digital scarcity. This discovery, by the definition, cannot be repeated.
+94. Bitcoin Whitepaper (2008): On October 31st, 2008, Satoshi Nakamoto released a groundbreaking whitepaper titled "Bitcoin: A Peer-to-Peer Electronic Cash System," introducing the concept of triple-entry accounting and providing a solution to the Byzantine General Problem.
+95. Genesis Block (2009): On January 3rd, 2009, Satoshi Nakamoto mined the block 0 of the timechain. This marked the official beginning of the only truly decentralized digital currency and the discovery of digital scarcity. This discovery, by the definition, **cannot be repeated**.
 
 <figure>
 	<img src="/images/bitcoin_supply_formula.jpg" alt="Bitcoin Supply Issuance">
