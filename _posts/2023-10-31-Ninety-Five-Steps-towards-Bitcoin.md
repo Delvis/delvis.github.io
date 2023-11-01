@@ -55,7 +55,7 @@ Happy birthday Bitcoin!
 37. One-Time Pads (1882): Frank Miller’s invention of the one-time pad as a secure encryption method is a key milestone in cryptographic history.
 38. Kerckhoffs’ Principle (1883): Suggests that the security of a cryptographic system should not depend on the secrecy of the algorithm but rather on the secrecy of the key, is fundamental to modern cryptography.
 39. Enigma Machine (1918-1923): The German Enigma machine was a notable advancement in mechanical encryption devices, used during World War I.
-40. Executive Order 6102 (1933): President Franklin D. Roosevelt signed an executive order on April 5, 1933, which required citizens to turn in their gold coins, gold bullion, and gold certificates to the government.
+40. Executive Order 6102 (1933): President Franklin D. Roosevelt signed an executive order on April 5<sup>th</sup>, 1933, which required citizens to turn in their gold coins, gold bullion, and gold certificates to the government.
 41. Navajo Code Talkers (1940s): The Navajo code talkers’ contributions during World War II underscore the significance of indigenous languages in cryptography.
 42. Lorenz Cipher Machine (1941): The development of the Lorenz cipher machine during World War II and the subsequent efforts to crack it showcase the importance of code-breaking in the major events of world history.
 43. Wiener’s Stochastic Processes (1942): The concept of Brownian motion, had a profound impact on both mathematics and applications in fields like finance.
