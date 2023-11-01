@@ -106,7 +106,7 @@ Happy birthday Bitcoin!
 88. Freenet (2000): Developed by Ian Clarke, was one of the earliest P2P networks designed to provide anonymity and censorship resistance, it laid foundation for later systems aiming to protect user privacy.
 89. BitTorrent (2001): Bram Cohen’s creation of the BitTorrent protocol revolutionized file sharing and peer-to-peer (P2P) technologies.
 90. Tor (2002): Often referred to as The Onion Router, Tor is a significant contribution to online privacy and anonymity as it allows users to browse the internet while concealing their identity and location.
-91. SHA-256d (2003): SHA-256 is a cryptographic hash function and is part of the SHA-2 family. It is currently widely used for secure cryptographic applications, and in its SHA-256(SHA-256(x)) form for Bitcoin.
+91. SHA-256<sub>d</sub> (2003): Ferguson and Schneier define SHA256(SHA256(x)) in their book Practical Cryptography in Chapter 6.3.1 Length Extensions.
 92. RPOW (2004): Hal Finney’s creation of Reusable Proof of Work offered a novel approach to digital currency, serving as an early experiment in cryptographic proof of work.
 93. The Global Financial Crisis (2007-2009): Worldwide economic downturn triggered by the bursting of the U.S. housing bubble and subsequent banking and financial market turmoil, leading to a global recession and extensive government interventions.
 94. Bitcoin Whitepaper (2008): On October 31<sup>st</sup>, 2008, Satoshi Nakamoto released a groundbreaking whitepaper titled "Bitcoin: A Peer-to-Peer Electronic Cash System", introducing the concept of triple-entry accounting and providing a solution to the Byzantine Generals' Problem.
