@@ -37,7 +37,7 @@ Happy birthday Bitcoin!
 19. Weight Clocks (1200-1300s): Advancements in mechanical clocks revolutionize timekeeping in the Middle Ages.
 20. Notary Public (1400s): Trusted witnesses for document signing and timestamping.
 21. Gutenberg’s Printing Press (1440s): Revolutionized the way information was distributed.
-22. Double-entry accounting (1494): Luca Pacioli developed double-entry bookkeeping in "Summa de arithmetica, geometria, proportioni et proportionalita"
+22. Double-entry Accounting (1494): Luca Pacioli developed double-entry bookkeeping in "Summa de arithmetica, geometria, proportioni et proportionalita"
 23. Vigenère Cipher (1586): Blaise de Vigenère’s polyalphabetic cipher was a significant advancement in cryptography.
 24. Slide Rule (c. 1620): Developed by William Oughtred, this hand-operated analog computer allowed for multiplication and division.
 25. Pascaline (1642): Invented by Blaise Pascal, it was one of the earliest mechanical calculators capable of addition and subtraction.
