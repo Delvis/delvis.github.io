@@ -105,8 +105,8 @@ Happy birthday Bitcoin!
 87. BitTorrent (2001): Bram Cohen’s creation of the BitTorrent protocol revolutionized file sharing and peer-to-peer (P2P) technologies.
 88. Tor (2002): The Onion Router is a significant contribution to online privacy and anonymity as it allows users to browse the internet while concealing their identity and location.
 89. SHA-256<sub>d</sub> (2003): Ferguson and Schneier define SHA256(SHA256(x)) in Chapter 6.3.1 Length Extensions of their book *Practical Cryptography*.
-90. RPOW (2004): Hal Finney’s creation of Reusable Proof of Work offered a novel approach to digital currency, serving as an early experiment in cryptographic proof of work.
-91. Nick Szabo’s “bit gold” (2005): A new design for a decentralized digital currency for secure transactions and wealth preservation using a cryptographic approach.
+90. RPOW (2004): Hal Finney’s creation of Reusable Proof of Work offered a novel approach to digital currency, serving as the foundation for cryptographic proof of work.
+91. Nick Szabo’s “bit gold” (2005): A new design for a decentralized digital currency allowing secure transactions and wealth preservation through cryptography.
 92. Liberty Reserve (2006): Digital private currency service that facilitated anonymous online financial transactions, since it was not decentralized the government was able to eventually shut it down.
 93. The Global Financial Crisis (2007-2009): Worldwide economic downturn triggered by the bursting of the U.S. housing bubble and subsequent banking and financial market turmoil, leading to a global recession and extensive government interventions.
 94. Bitcoin Whitepaper (2008): On October 31<sup>st</sup>, 2008, Satoshi Nakamoto released a groundbreaking whitepaper titled "Bitcoin: A Peer-to-Peer Electronic Cash System", introducing the concept of triple-entry accounting and providing a solution to the Byzantine Generals' Problem.
