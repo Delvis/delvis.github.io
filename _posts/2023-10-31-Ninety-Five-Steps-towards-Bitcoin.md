@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "95 Steps towards Bitcoin"
+title: "95 Steps Towards Bitcoin"
 tags: [Bitcoin, White Paper, Halloween]
 ---
 
@@ -14,10 +14,10 @@ Happy birthday Bitcoin!
 	<img src="/images/bitcoin_durability.jpg" alt="Bitcoin is Rebirth">
 </figure>
 
-**95 Steps towards Bitcoin**
+**95 Steps Towards Bitcoin**
 
 1. Clay Tablets (c. 3400 BC): Serving as ledgers, they represent some of the earliest instances of writing and record-keeping techniques. They contained information related to trade, taxation, and other economic activities.
-2. Gold and Precious Metals (c. 2800 BC): The use of precious metals, such as gold and silver, as a medium of exchange and a store of value, represents a significant milestone in the history of money.
+2. Precious Metals as Monies (c. 2800 BC): The use of precious metals, such as gold and silver, as a store of value and a medium of exchange, represents a significant milestone in the history of money.
 3. Abacus (c. 2700 BC): One of the earliest counting devices, which played a crucial role in mathematical computations.
 4. Substitution Ciphers (2000 BC): One of the earliest forms of encryption, substitution ciphers involved replacing plaintext letters with other letters.
 5. Sundials (c. 1600 BC): Used to mark hours and track time.
