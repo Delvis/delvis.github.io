@@ -37,13 +37,13 @@ Happy birthday Bitcoin!
 19. Weight Clocks (1200-1300s): Advancements in mechanical clocks revolutionize timekeeping in the Middle Ages.
 20. Notary Public (1400s): Trusted witnesses for document signing and timestamping.
 21. Gutenberg’s Printing Press (1440s): Revolutionized the way information was distributed.
-22. Double-entry Accounting (1494): Luca Pacioli developed double-entry bookkeeping in "Summa de arithmetica, geometria, proportioni et proportionalita".
+22. Double-entry Accounting (1494): Luca Pacioli developed double-entry bookkeeping in *Summa de arithmetica, geometria, proportioni et proportionalita*.
 23. Vigenère Cipher (1586): Blaise de Vigenère’s polyalphabetic cipher was a significant advancement in cryptography.
-24. Slide Rule (c. 1620): Developed by William Oughtred, this hand-operated analog computer allowed for multiplication and division.
+24. Slide Rule (1620): Developed by William Oughtred, this hand-operated analog computer allowed for multiplication and division.
 25. Pascaline (1642): Invented by Blaise Pascal, it was one of the earliest mechanical calculators capable of addition and subtraction.
 26. Gambler’s Dilemma (1654): Blaise Pascal and Pierre de Fermat’s correspondence on the problem of points laid the foundation for probability theory, addressing questions related to games of chance.
 27. Stepped Reckoner (1673): Designed by Gottfried Wilhelm Leibniz, it improved on the Pascaline, performing all four arithmetic operations.
-28. Pocket Watches (1600-1800s): Portable timekeeping devices, like pocket watches, become widespread and essential tools for personal time management.
+28. Pocket Watches (1600-1800s): Portable timekeeping devices become widespread and essential tools for personal time management.
 29. De Moivre’s Theorem (1733): Abraham de Moivre’s work on the normal distribution provided a critical link between probability and statistics.
 30. Law of Large Numbers (1733): Jacob Bernoulli’s formulation of the law of large numbers demonstrated the convergence of sample means to population means.
 31. Bayesian Probability (1763): Thomas Bayes’ work on inverse probability laid the foundation for modern probability theory.
