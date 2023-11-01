@@ -97,7 +97,7 @@ Happy birthday Bitcoin!
 79. Adam Back’s Hashcash (1997): a proof-of-work system for combating email spam laid the foundation for the concept of proof of work in cryptocurrencies.
 80. Haber and Stornetta (1997): “Secure names for bit-strings” presented at the 4th ACM Conference on Computer and Communications Security.
 81. Wei Dai’s “b-money” (1998): An influential proposal that introduced the concept of a decentralized, digital currency system based on cryptographic techniques.
-82. Smart Contracts (1998): Nick Szabo published "Securing Property Titles with Owner Authority"
+82. Smart Contracts (1998): Nick Szabo publishes "Securing Property Titles with Owner Authority".
 83. PayPal (1999): The launch of PayPal provided a digital wallet and online payment platform, making e-commerce transactions more convenient and widespread.
 84. Napster (1999): A peer-to-peer (P2P) file-sharing service that allowed users to share music files with one another. It failed because it was not decentralized.
 85. Massias, Avila, Quisquater (1999): Design of a minimal trust secure timestamping presented at ITB 20.
