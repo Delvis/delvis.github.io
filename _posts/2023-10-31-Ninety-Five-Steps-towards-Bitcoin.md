@@ -34,10 +34,10 @@ Happy birthday Bitcoin!
 16. Arabic Numerals (700-800s): The Hindu-Arabic numeral system, which uses the ten digits we are familiar with today (0 to 9), made its way to the Islamic world during this period. These numerals eventually spread to Europe and became the standard for mathematics and commerce.
 17. Frequency Analysis (800s): Islamic scholar Al-Kindi introduced the concept of frequency analysis for breaking simple ciphers.
 18. Al-Jazari’s Automata (1206): Al-Jazari, a Muslim inventor, created various mechanical devices that could perform practical tasks, such as automated musical instruments.
-19. Notary Public (1400s): Trusted witnesses for document signing and timestamping.
-20. Clocks (1400-1600s): Advancements in mechanical clocks revolutionize timekeeping in the late Middle Ages.
+19. Weight Clocks (1200-1300s): Advancements in mechanical clocks revolutionize timekeeping in the Middle Ages.
+20. Notary Public (1400s): Trusted witnesses for document signing and timestamping.
 21. Gutenberg’s Printing Press (1440s): Revolutionized the way information was distributed.
-22. Gregorian Calendar (1582): The reform of the Julian calendar to improve timekeeping accuracy.
+22. Gregorian Calendar (1582): A reform of the Julian calendar aimed at enhancing the precision of timekeeping and synchronizing the calendar year with astronomical events.
 23. Vigenère Cipher (1586): Blaise de Vigenère’s polyalphabetic cipher was a significant advancement in cryptography.
 24. Slide Rule (c. 1620): Developed by William Oughtred, this hand-operated analog computer allowed for multiplication and division.
 25. Pascaline (1642): Invented by Blaise Pascal, it was one of the earliest mechanical calculators capable of addition and subtraction.
