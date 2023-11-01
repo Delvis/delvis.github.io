@@ -78,7 +78,7 @@ Happy birthday Bitcoin!
 60. RSA Cryptosystem (1977): Ron Rivest, Adi Shamir, and Leonard Adleman introduced the RSA algorithm, one of the first practical public key cryptosystems.
 61. Merkle-Damgård Construction (1979): This construction laid the foundation for many cryptographic hash functions. It allows for the construction of collision-resistant hash functions from simpler compression functions.
 62. Merkle’s Protocols (1980): Richard C. Merkle’s work on “Protocols for Public Key Cryptosystems” presented innovative methods for public key distribution, adding to the foundation of modern cryptographic protocols.
-63. Chaum’s Concept of Digital Cash (1982): David Chaum’s publication of “Blind Signatures for Untraceable Payments” laid the theoretical groundwork for digital cash and anonymous transactions.
+63. Chaumian eCash (1982): David Chaum’s publication of “Blind Signatures for Untraceable Payments” laid the theoretical groundwork for digital cash and anonymous transactions.
 64. Domain Name System (1983): Paul Mockapetris and Jon Postel developed DNS, which allowed human-readable domain names to be associated with IP addresses, making it easier to navigate the growing internet.
 65. GNU Project (1983): Stallman’s efforts led to the development of the GNU General Public License (GPL), a widely used open-source license, and the Free Software Foundation (FSF), an organization dedicated to promoting and protecting free software.
 66. Neuromancer (1984): This iconic cyberpunk novel by William Gibson introduced readers to a future where virtual currencies, hacking, and decentralized networks played a central role in a high-tech, dystopian world.
