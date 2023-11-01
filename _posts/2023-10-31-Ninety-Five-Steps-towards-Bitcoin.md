@@ -20,7 +20,7 @@ Happy birthday Bitcoin!
 2. Clay Tablets (c. 3400 BC): Earliest instances of writing and record-keeping techniques. Serving as ledgers, they contained information related to trade, taxation, and other economic activities.
 3. Abacus (c. 2700 BC): One of the earliest counting devices, played a crucial role in mathematical computations.
 4. Substitution Ciphers (c. 2000 BC): One of the earliest forms of encryption, substitution ciphers involved replacing plaintext letters with other letters.
-5. Sundials (c. 1600 BC): Used to mark hours and track time, e.g., Nebra Sky Disc from Germany.
+5. Sundials (c. 1500 BC): Used to mark hours and track time.
 6. Transposition Ciphers (c. 600 BC): Early encryption techniques focused on changing the order of characters in the plaintext, as seen in the Spartan scytale.
 7. Atbash Cipher (c. 500 BC): Ancient Hebrew substitution cipher. It involves replacing each letter of the alphabet with its reverse counterpart, so 'A' = 'Z', 'B' = 'Y', etc.
 8. Antikythera Mechanism (c. 200 BC): An ancient Greek analog computer used to predict astronomical positions and eclipses.
