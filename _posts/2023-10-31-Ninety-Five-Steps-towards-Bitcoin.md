@@ -112,5 +112,10 @@ Happy birthday Bitcoin!
 94. Bitcoin Whitepaper (2008): On October 31<sup>st</sup>, 2008, Satoshi Nakamoto released a groundbreaking whitepaper titled "Bitcoin: A Peer-to-Peer Electronic Cash System", introducing the concept of triple-entry accounting and providing a solution to the Byzantine Generals' Problem.
 95. Genesis Block (2009): On January 3<sup>rd</sup>, 2009, Satoshi Nakamoto mined the block 0 of the timechain. This marked the official beginning of the only truly decentralized money and the discovery of digital scarcity. This discovery, by definition, **cannot be repeated**.
 
-<iframe width="450" height="800" src="https://www.youtube.com/embed/kJqj9YQZRp0" frameborder="0" allowfullscreen></iframe>
+
+<figure>
+	<a href="https://www.youtube.com/watch?v=kJqj9YQZRp0" target="_blank">
+		<img src="/images/btcvideo.png" alt="Watch this video">
+	</a>
+</figure>
 Video credits: <a href="https://twitter.com/bitstein" target="_blank">bitstein</a>.
