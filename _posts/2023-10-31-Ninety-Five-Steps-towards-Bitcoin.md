@@ -27,7 +27,7 @@ Happy birthday Bitcoin!
 9. Astrolabe (c. 150 BC): An instrument used for solving problems related to time and the position of celestial objects.
 10. Promissory notes (118 BC): In China, during the Han Dynasty, promissory notes made of leather appeared.
 11. Caesar’s Cipher (58 BC): Julius Caesar’s used substitution ciphers for secure communication.
-12. Christianity (33 AD): Jesus was crucified at 33 years old. Coincidently the total number of halving events that are programmed to occur throughout Bitcoin monetization phase (2012-2140) are 32... Or 33 if you include Cycle 0 (2009-12).
+12. Christianity (33 AD): Jesus was crucified at the age of 33. There will be exactly 33 halving events.
 13. Chinese South-Pointing Chariot (200s): A mechanical device that consistently pointed south, demonstrating an early form of differential gears.
 14. Collapse of Rome (476): As all empires in history, Rome’s collapse is intimately connected to bad economic and monetary policies.
 15. Banknotes (600s): The issuance of paper banknotes by Chinese and Middle Eastern governments marked the introduction of paper money as a form of currency.
@@ -37,7 +37,7 @@ Happy birthday Bitcoin!
 19. Weight Clocks (1200-1300s): Advancements in mechanical clocks revolutionize timekeeping in the Middle Ages.
 20. Notary Public (1400s): Trusted witnesses for document signing and timestamping.
 21. Gutenberg’s Printing Press (1440s): Revolutionized the way information was distributed.
-22. Double-entry Accounting (1494): Luca Pacioli developed double-entry bookkeeping in "Summa de arithmetica, geometria, proportioni et proportionalita"
+22. Double-entry Accounting (1494): Luca Pacioli developed double-entry bookkeeping in "Summa de arithmetica, geometria, proportioni et proportionalita".
 23. Vigenère Cipher (1586): Blaise de Vigenère’s polyalphabetic cipher was a significant advancement in cryptography.
 24. Slide Rule (c. 1620): Developed by William Oughtred, this hand-operated analog computer allowed for multiplication and division.
 25. Pascaline (1642): Invented by Blaise Pascal, it was one of the earliest mechanical calculators capable of addition and subtraction.
