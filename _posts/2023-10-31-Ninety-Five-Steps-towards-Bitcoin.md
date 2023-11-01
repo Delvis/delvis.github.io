@@ -61,18 +61,18 @@ Happy birthday Bitcoin!
 43. Executive Order 6102 (1933): President Franklin D. Roosevelt signed an executive order on April 5, 1933, which required citizens to turn in their gold coins, gold bullion, and gold certificates to the government.
 44. Navajo Code Talkers (1940s): The Navajo code talkers’ contributions during World War II underscore the significance of indigenous languages in cryptography.
 45. Lorenz Cipher Machine (1941): The development of the Lorenz cipher machine during World War II and the subsequent efforts to crack it showcase the importance of code-breaking in the major events of world history.
-46. Wiener’s Stochastic Processes (1942): Norbert Wiener’s development of stochastic processes, particularly the Wiener process (Brownian motion), had a profound impact on both mathematics and applications in fields like finance.
+46. Wiener’s Stochastic Processes (1942): The concept of Brownian motion, had a profound impact on both mathematics and applications in fields like finance.
 47. von Neumann’s Game Theory (1944): John von Neumann’s contributions to game theory provided a significant application of probability theory in economics and decision-making.
 48. Bretton Woods Conference (1944): Led to a new international monetary system in which currencies were pegged to the U.S. dollar, and the U.S. dollar was convertible to gold.
-49. Shannon’s Information Theory (1948): Claude Shannon’s work on information theory, including the concept of entropy, introduced key concepts in probability and statistics.
-50. H. P. Luhn (1953): Originated the concept of hashing in his January 1953 IBM memorandum, which introduced the idea of chaining, marking one of the early applications of linked linear lists.
-51. Feller’s Probability Theory (1957): “An Introduction to Probability Theory and Its Applications” consolidated and advanced the field, making it accessible to a broader audience and influencing many disciplines, including cryptography and financial mathematics.
+49. Information Theory (1948): Claude Shannon’s work on information theory, including the concept of entropy, provides a foundation for the study of communication and data transmission.
+50. Hashing (1953): H. P. Luhn originated the concept of hashing in his January 1953 IBM memorandum, which introduced the idea of chaining, marking one of the early applications of linked linear lists.
+51. Feller’s Probability Theory (1957): “An Introduction to Probability Theory and Its Applications” consolidated and advanced the field, influencing many disciplines, including cryptography and financial mathematics.
 52. The Moon Is a Harsh Mistress (1966): Robert A. Heinlein’s classic novel explores themes of individual liberty, self-governance, and the consequences of a digital currency in a lunar colony struggle against an oppressive Earth government.
 53. ARPANET (1969): Developed by ARPA it was he first wide-area packet-switching network and it laid the foundation for the internet’s infrastructure.
 54. TCP/IP (1970s): The development of the Transmission Control Protocol (TCP) and Internet Protocol (IP) formed the basis of modern internet communication. Vinton Cerf and Robert Kahn are often credited with the creation of TCP/IP.
 55. Email (1971): Ray Tomlinson sent the first networked email using the “@” symbol, which became a fundamental component of email addresses.
 56. End of the Gold Standard (1971): President Nixon’s decision to suspend the U.S. dollar’s convertibility into gold lead to the abandonment of the gold standard and introducing a system of purely fiat currency.
-57. SWIFT Network (1973): The Society for Worldwide Interbank Financial Telecommunication (SWIFT) network standardized and secured international financial transactions.
+57. SWIFT Network (1973): The Society for Worldwide Interbank Financial Telecommunication (SWIFT) network standardized and monopolized international financial transactions.
 58. Ethernet (1973): Ethernet, developed by Bob Metcalfe at Xerox PARC, provided a standard for connecting computers in local area networks (LANs), a crucial element for building the internet.
 59. Diffie-Hellman Key Exchange (1976): Introduction of public key cryptography, laying the groundwork for secure communication.
 60. RSA Cryptosystem (1977): Ron Rivest, Adi Shamir, and Leonard Adleman introduced the RSA algorithm, one of the first practical public key cryptosystems.
