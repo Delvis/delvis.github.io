@@ -19,10 +19,10 @@ Happy birthday Bitcoin!
 1. Precious Metals as Monies (c. 5000 BC): First evidence of gold and silver being used a store of value and a medium of exchange.
 2. Clay Tablets (c. 3400 BC): Earliest instances of writing and record-keeping techniques. Serving as ledgers, they contained information related to trade, taxation, and other economic activities.
 3. Abacus (c. 2700 BC): One of the earliest counting devices, played a crucial role in mathematical computations.
-4. Substitution Ciphers (c. 2000 BC): One of the earliest forms of encryption, substitution ciphers involved replacing plaintext letters with other letters.
-5. Sundials (c. 1500 BC): Used to mark hours and track time.
+4. Water clock (c. 2000 BC): Developed at least by the Old Babylonian period, it was one of the earliest timekeeping devices.
+5. Sundials (c. 1500 BC): Time tracking devices that use the position of the sun's shadow cast by a gnomon.
 6. Transposition Ciphers (c. 600 BC): Early encryption techniques focused on changing the order of characters in the plaintext, as seen in the Spartan scytale.
-7. Atbash Cipher (c. 500 BC): Ancient Hebrew substitution cipher. It involves replacing each letter of the alphabet with its reverse counterpart, so 'A' = 'Z', 'B' = 'Y', etc.
+7. Atbash Cipher (c. 550 BC): Ancient Hebrew substitution cipher. It involves replacing each letter of the alphabet with its reverse counterpart, so 'A' = 'Z', 'B' = 'Y', etc.
 8. Antikythera Mechanism (c. 200 BC): An ancient Greek analog computer used to predict astronomical positions and eclipses.
 9. Astrolabe (c. 150 BC): An instrument used for solving problems related to time and the position of celestial objects.
 10. Promissory notes (118 BC): In China, during the Han Dynasty, promissory notes made of leather appeared.
