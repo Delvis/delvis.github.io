@@ -1,0 +1,428 @@
+baseURL: "https://jcoelho.com"
+languageCode: "en-us"
+title: "jcoelho"
+theme: "hugo-profile"
+ignoreFiles:
+  - "\\.Rmd$"
+  - "\\.Rmarkdown$"
+  - "_cache$"
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+  page:
+    - "HTML"
+    - "RSS"
+
+Paginate: 3
+enableRobotsTXT: true
+disqusShortname: jcoelho
+# googleAnalytics: G-MEASUREMENT_ID
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+Menus:
+  main:
+    - identifier: blog
+      name: Words
+      title: Words
+      url: /blogs
+      weight: 1
+    # - identifier: gallery
+    #   name: Gallery
+    #   title: Blog posts
+    #   url: /gallery
+    #   weight: 2
+    #Dropdown menu
+    - identifier: Portfolio
+      title: Portfolio
+      name: Portfolio
+      weight: 2
+    - identifier: Publications
+      title: Publications
+      name: Publications
+      url: /publications
+      parent: Portfolio
+      weight: 1
+    - identifier: Graphic Design
+      title: Graphic Design
+      name: Graphic Design
+      url: /graphic-design
+      parent: Portfolio
+      weight: 2
+    - identifier: Raps
+      title: Raps
+      name: Raps
+      url: /raps
+      parent: Portfolio
+      weight: 3
+
+params:
+  title: "jcoelho"
+  description: João Pedro Valente de Oliveira Coelho
+  # staticPath: ""  # The path to serve the static files from
+  favicon: "/favicon.ico"
+
+  # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
+  # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
+  # Note the lack of "" in true, it should be of boolean type.
+  useBootstrapCDN: false
+
+  # If you want to load dynamically responsive images from Cloudinary
+  # This requires your images to be uploaded + hosted on Cloudinary
+  # Uncomment and change YOUR_CLOUD_NAME to the Cloud Name in your Cloudinary console
+  # cloudinary_cloud_name: "YOUR_CLOUD_NAME"
+
+  # Whether to add mathjax support on all pages. Alternatively, you can opt-in per page by adding `mathjax: true` in the frontmatter.
+  mathjax: false
+
+  # Whether the fade animations on the home page will be enabled
+  animate: true
+
+  theme:
+    # disableThemeToggle: true
+    defaultTheme: "light" # dark
+
+  font:
+    fontSize: 1rem # default: 1rem
+    fontWeight: 400 # default: 400
+    lineHeight: 1.5 # default: 1.5
+    textAlign: left # default: left
+
+  # color preference
+  color:
+    textColor:
+    secondaryTextColor:
+    backgroundColor:
+    secondaryBackgroundColor:
+    primaryColor:
+    secondaryColor:
+
+    darkmode:
+      textColor:
+      secondaryTextColor:
+      backgroundColor:
+      secondaryBackgroundColor:
+      primaryColor: "#007bff"
+      secondaryColor:
+
+  # If you want to customize the menu, you can change it here
+  navbar:
+    align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
+    brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
+    # showBrandLogo: false # Show brand logo in nav bar | default is true
+    brandName: "jcoelho" # Brand name for the brand | default is the title variable
+    disableSearch: false
+    # searchPlaceholder: "Search"
+    stickyNavBar:
+      enable : true
+      showOnScrollUp : true
+    menus:
+      disableAbout: false
+      disableExperience: false
+      disableEducation: false
+      disableProjects: false
+      disableAchievements: false
+      disableContact: false
+
+  # Hero
+  hero:
+    enable: true
+    intro: "Hi, I am"
+    title: "jcoelho aka DEL"
+    subtitle: "I research and create"
+    content: "A lover of natural history and poetry. Building on- and off-line communities."
+    image: /images/del.jpg
+    bottomImage:
+      enable: false
+    # roundImage: true # Make hero image circular | default false
+    button:
+      enable: true
+      name: "Curriculum Vitae"
+      url: "/CV_UPDATED.pdf"
+      download: true
+      newPage: false
+    socialLinks:
+      fontAwesomeIcons:
+        - icon: fab fa-github
+          url: https://github.com/Delvis
+        - icon: fab fa-x-twitter
+          url: https://twitter.com/Gangryong
+        - icon: fab fa-instagram
+          url: https://instagram.com/deusexistelonge
+        - icon: fab fa-youtube
+          url: https://youtube.com/MeuroniosBosque
+      customIcons:
+        - icon: /images/osteomics_favicon.png
+          url: "https://osteomics.com"
+
+  # About
+  about:
+    enable: true
+    title: "About Me"
+    image: "/images/me.png"
+    content: |-
+      I am a self-taught programmer with an academic background in biological anthropology. I graduated in Human Evolution and Biology at the University of Coimbra, while simultaneously founding [osteomics](http://osteomics.com), where I developed several web applications.
+
+      I am currently completing a DPhil at the University of Oxford in Geospatial Paleoanthropology and doing fieldwork at Gorongosa National Park in Mozambique.
+    skills:
+      enable: true
+      title: "Here are a few technologies I can help you with:"
+      items:
+        - "R"
+        - "Photogrammetry"
+        - "Machine Learning"
+        - "GIS analysis"
+        - "Shiny Apps"
+        - "Music/Video editing"
+
+  # Experience
+  experience:
+    enable: true
+    # title: "Custom Name"
+    items:
+      - job: "Founder"
+        company: "osteomics"
+        companyUrl: "https://osteomics.com"
+        date: "2013-present"
+        featuredLink:
+          enable: true
+          name: "View the project"
+          url: "https://osteomics.com"
+        content: |
+          I develop and maintain Osteomics—a web platform offering free software tools for bioanthropologists. We provide consulting on statistical analysis and app development for scientific projects in forensic anthropology and human evolution.
+          - Lead Designer
+          - Web App Developer & Shiny Jedi
+          - 3D Printing and 3D Scanning services
+
+      - job: "Paleontologist"
+        company: "PPP Gorongosa"
+        companyUrl: "https://gorongosa.org/paleo-primate-project/"
+        date: "2018-present"
+        featuredLink:
+          enable: true
+          name: "Learn more about the Paleo-Primate Project Gorongosa"
+          url: "https://gorongosa.org/paleo-primate-project/"
+        info:
+          enable: true
+          content: I work as a paleontologist every summer in PPPG, but also as a primatologist in 2021 (Oct-Dec).
+        content: |
+          - Field School Instructor
+          - Database management, lab photography, 3D photogrammetry, fossil curation, anatomy and taxonomy
+          - Co-directed a paleontological excavation (GPL-12-E in 2022)
+          - Primatology (bipedalism and carnivory) and Taphonomy (carcasses monitoring) data collection for the 'Bones of Predation' project (2021)
+          - Surveying team leader (2018 and 2019)
+
+      - job: "Collaborator"
+        company: "CFE-UC"
+        companyUrl: "https://cfe.uc.pt/"
+        date: "2015-present"
+        info:
+          enable: true
+          content: Researcher at Centre for Functional Ecology, Universidade de Coimbra (Portugal)
+        content: |
+          - Collaborator at the 'Forensic Anthropology and Paleobiology' group – cfe.uc.pt
+          - Statistical shape analysis (geometric morphometrics) of osteological material
+          - Webmaster and Web Designer at 'Laboratory of Forensic Anthropology' – lfa.uc.pt
+          - 3D scanning expert and curator of the CEIXXI 3D Crania Collection (see sketchfab.com/lfa)
+          - Public communication and workshops, science communication
+
+      - job: "Web Designer & Co-founder"
+        company: "JEST"
+        companyUrl: "https://jest.pt"
+        date: "2016 - 2017"
+        content: |
+          I co-founded JEST - Junior Enterprise for Science and Tech @ University of Coimbra.
+          - Head designer and webmaster of the original team of 7 alumni belonging to the Department of Life Sciences @ UC
+          - Organized workshops and conferences on data science, and programming languages (R and Python).
+          - Instructor for several R workshops (intro, data viz, modelling, Machine Learning, shiny, etc.).
+
+  # Education
+  education:
+    enable: true
+    # title: "Education & Training"
+    index: false
+    items:
+      - title: "Doctor of Philosophy in Evolutionary Anthropology"
+        school:
+          name: "University of Oxford, United Kingdom"
+          url: "https://www.ox.ac.uk/admissions/graduate/courses/dphil-anthropology"
+        date: "2018 - 2023"
+        content: |-
+          Thesis
+          - From satellite pixels to fossil apes: targeting gaps in the hominid fossil record
+
+          Supervisors
+            - Prof. Susana Carvalho (University of Oxford)
+            - Prof. Robert L. Anemone (The University of North Carolina at Greensboro)
+
+        featuredLink:
+          enable: true
+          name: "DPhil Thesis (submitted, will be available soon)"
+          url: "/"
+
+      - title: "Master's Degree in Human Evolution and Biology"
+        school:
+          name: "Universidade de Coimbra, Portugal"
+          url: "https://apps.uc.pt/courses/en/course/340"
+        date: "2013 - 2015"
+        content: |-
+          Dissertation
+          - Unwarping Heated Bones: a quantitative analysis of heat-induced skeletal deformations using 3D geometric morphometrics
+
+          Supervisors
+            - Dr. David Gonçalves
+            - Prof. Eugénia Cunha
+
+        featuredLink:
+          enable: true
+          name: "MSc Dissertation"
+          url: "/thesis-on-heat-induced-skeletal-deformations-using-3D-geometric-morphometrics.pdf"
+
+      - title: "Bachelor's Degree in Anthropology"
+        school:
+          name: "Universidade de Coimbra, Portugal"
+          url: "https://apps.uc.pt/courses/en/course/345"
+        date: "2010 - 2013"
+        content: |-
+          Erasmus programme
+          - Háskóli Íslands, Iceland (2012 - 2013)
+
+
+  # Achievements
+  achievements:
+    enable: true
+    title: "Awards"
+    items:
+      - title: The Boise Trust Fund
+        content: Awarded three times (2017, 2018, 2021) for fieldwork in human evolution.
+        url: https://www.biology.ox.ac.uk/funding
+        image: /images/dep_bio_ox.png
+      - title: Best Poster Prize
+        content: Primate Society of Great Britain - Winter meeting 2020.
+        image: /images/psgb_fig2.png
+      - title: PhD Scholarship, FCT
+        content: Fundação para a Ciência e a Tecnologia, Portugal (2017-2021), SFRH/BD/122306/2016.
+        url: https://www.fct.pt/
+        image: /images/fct_logo.svg
+      - title: Arrisca C
+        content: Osteomics was one of the finalists for Best Business Idea (2013) and also finalist for Best Business Plan (2014).
+        url: https://www.arriscac.pt/
+        image: /images/arrisca_c_logo.png
+      - title: Passaporte para o Empreendedorismo, IAPMEI
+        content: 25000€ grant recipient for a biotech startup (2013 edition).
+        url: https://www.iapmei.pt/
+        image: /images/republica_pt_economia.png
+      - title: Erasmus Scholarship
+        content: Scholarship for the LLP/Erasmus Programme, studied in Háskóli Íslands (University of Iceland) in 2012-13.
+        url: https://erasmus-plus.ec.europa.eu/
+        image: /images/logo-eur.svg
+
+
+  # projects
+  # projects:
+  #   enable: true
+  #   # title: "Custom Name"
+  #   items:
+  #     - title: Hugo Profile
+  #       content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
+  #       image: /images/projects/profile.png
+  #       featured:
+  #         name: Demo
+  #         link: https://hugo-profile.netlify.app
+  #       badges:
+  #         - "Hugo"
+  #         - "Bootstrap"
+  #         - "Javascript"
+  #       links:
+  #         - icon: fa fa-envelope
+  #           url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #         - icon: fab fa-github
+  #           url: https://github.com/gurusabarish/hugo-profile
+  #         - icon: fab fa-twitter
+  #           url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  #
+  #     - title: Image Converter
+  #       content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+  #       image: /images/projects/converter.jpg
+  #       featured:
+  #         name: Demo
+  #         link: https://django-converter.herokuapp.com
+  #       badges:
+  #         - "Django"
+  #         - "Bootstrap"
+  #       links:
+  #         - icon: fab fa-github
+  #           url: https://github.com/gurusabarish/converter
+  #
+  #     - title: Hugo Profile V2
+  #       content: A clean and simple Hugo template for personal portfolio and blog.
+  #       image: /images/projects/profile2.jpg
+  #       featured:
+  #         name: Demo V2
+  #         link: https://hugo-profile-2.netlify.app
+  #       badges:
+  #         - "Hugo"
+  #         - "Bootstrap"
+  #         - "Javascript"
+  #       links:
+  #         - icon: fab fa-github
+  #           url: https://github.com/Delvis
+
+  #Contact
+  contact:
+    enable: true
+    # title: "Custom Name"
+    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+    email: joaopedrocoelho@gmail.com
+    btnName: Mail me
+    # formspree:
+    #   enable: true # `contact.email` value will be ignored
+    #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
+    #   emailCaption: "Enter your email address"
+    #   messageCaption: "Enter your message here"
+
+  footer:
+    recentPosts:
+      path: "blogs"
+      count: 3
+      title: Recent Posts
+      enable: true
+      disableFeaturedImage: false
+    # socialNetworks:
+    #   github: https://github.com/Delvis
+    #   twitter: https://twitter.com/Gangryong
+    #   instagram: https://instagram.com/deusexistelonge
+
+  # List pages like blogs and posts
+  listPages:
+    disableFeaturedImage: false
+
+  # Single pages like blog and post
+  singlePages:
+    readTime:
+      enable: true
+      content: "min read"
+    scrollprogress:
+      enable: true
+
+  # For translations
+  terms:
+    read: "Read"
+    toc: "Table Of Contents"
+    copyright: "Copyleft – all rights reversed."
+    pageNotFound: "Page not found"
+    emailText: "Check out this site"
+
+  datesFormat:
+    article: "Jan 2, 2006"
+    articleList: "Jan 2, 2006"
+    articleRecent: "Jan 2, 2006"
+
+  #customScripts: -| # You can add custom scripts which will be added before </body> tag
+  #  <script type="text/javascript"><!-- any script here --></script>
