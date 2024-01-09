@@ -378,7 +378,7 @@ params:
   contact:
     enable: true
     # title: "Custom Name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+    content: Feel free to drop me a line anytime! Whether you are pondering a question or just in the mood for a friendly chat, I am here and eager to connect. Your messages are always welcome, and I'll do my utmost to respond promptly!
     email: joaopedrocoelho@gmail.com
     btnName: Mail me
     # formspree:
@@ -390,7 +390,7 @@ params:
   footer:
     recentPosts:
       path: "blogs"
-      count: 9
+      count: 3
       title: Recent Posts
       enable: true
       disableFeaturedImage: false
