@@ -136,7 +136,7 @@ params:
     intro: "Hi, I am"
     title: "jcoelho aka DEL"
     subtitle: "I research and create"
-    content: "A lover of natural history and poetry. Building on- and off-line communities."
+    content: "A lover of natural history 🐞 and poetry ✍️. Building on- and off-line communities."
     image: /images/del.jpg
     bottomImage:
       enable: false
