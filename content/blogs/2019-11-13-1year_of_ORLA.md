@@ -1,17 +1,14 @@
 ---
 layout: post
 title: "1 year of ORLA"
-description: "ORLA MASS realese... one year after"
+description: "ORLA MASS release... one year after"
+modified: 2019-11-12
 tags: [ORLA, MASS, DMT, ZGA, Crouga, zer-0, LeVert, experimental, electronic, ambient, raps]
+image: /images/ORLA.png
 ---
 
 
-<h2>ORLA - MASS</h2>
-
-<figure>
-	<a href="https://orla.bandcamp.com" target="_blank"><img src="/images/ORLA.png" alt="orla L O G O"></a>
-	<figcaption>ORLA logo (by Crouga)</figcaption>
-</figure>
+## ORLA - MASS
 
 <a href="https://orla.bandcamp.com" target="_blank">**ORLA**</a> is an etheral entity that emerged either within the depthness of blackholes or in the throat of Cthulhu eons ago.
 
