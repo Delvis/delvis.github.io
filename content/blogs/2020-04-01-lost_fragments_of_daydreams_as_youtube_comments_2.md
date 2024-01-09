@@ -2,6 +2,7 @@
 layout: post
 title: "Lost fragments of daydreams as youtube comments (Collection #002)"
 description: " "
+modified: 2020-04-01
 tags: [poetry, surrealism, dadaism]
 image: /images/abstract-2.jpg
 ---
