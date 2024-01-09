@@ -378,14 +378,14 @@ params:
   contact:
     enable: true
     # title: "Custom Name"
-    content: Feel free to drop me a line anytime! Whether you are pondering a question or just in the mood for a friendly chat, I am here and eager to connect. Your messages are always welcome, and I'll do my utmost to respond promptly!
+    content: Whether you are pondering a question or just in the mood for a friendly chat, I am here and eager to connect, and I'll do my utmost to respond promptly.
     email: joaopedrocoelho@gmail.com
     btnName: Mail me
-    # formspree:
-    #   enable: true # `contact.email` value will be ignored
-    #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
-    #   emailCaption: "Enter your email address"
-    #   messageCaption: "Enter your message here"
+    formspree:
+      enable: true # `contact.email` value will be ignored
+      formId: mleqdrjl # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
+      emailCaption: "Enter your email address"
+      messageCaption: "Enter your message here"
 
   footer:
     recentPosts:
