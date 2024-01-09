@@ -86,7 +86,7 @@ I am also the creator and manager of the lab's website. Visit <a href = "http://
 
 ---
 
-# Pixel Art
+## Pixel Art
 
 When I was around 14~15 years old I collaborated in the development of amateur RPG (Role-Playing Games) international projects, including a Pokémon fan-game.
 
