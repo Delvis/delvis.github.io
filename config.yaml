@@ -29,8 +29,8 @@ markup:
 Menus:
   main:
     - identifier: blog
-      name: Words
-      title: Words
+      name: Blog
+      title: Blog
       url: /blogs
       weight: 1
     # - identifier: gallery
@@ -390,7 +390,7 @@ params:
   footer:
     recentPosts:
       path: "blogs"
-      count: 3
+      count: 9
       title: Recent Posts
       enable: true
       disableFeaturedImage: false
