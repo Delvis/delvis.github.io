@@ -7,7 +7,7 @@ share: true
 date: "2023-01-09"
 ---
 
-For as long as memory allows me to dive in I've had an inordinate fondness for drawing and playing around with illustration software.
+In the wild swirl of memories, an undying love sprouted for the chaotic tango of pen strokes and the hallucinatory ballet of illustration software.
 
 
 ## osteomics
@@ -88,7 +88,7 @@ I am also the creator and manager of the lab's website. Visit <a href = "http://
 
 ## Pixel Art
 
-When I was around 14~15 years old I collaborated in the development of amateur RPG (Role-Playing Games) international projects, including a Pokémon fan-game.
+In the haze of my adolescent years, a nebulous span between 14 and 15, I found myself entangled in the clandestine world of amateur international RPG (Role-Playing Games) projects. Within this enigmatic tapestry, I wove threads of creation, birthing a Pokémon fan-game: an obscure constellation in the vast and cryptic cosmos of my formative pursuits.
 
 ![Dark Ball](/images/pixelart/darkball.png)
 ![Light Ball](/images/pixelart/lightball.png)
@@ -131,5 +131,5 @@ When I was around 14~15 years old I collaborated in the development of amateur R
 ![Build02](/images/pixelart/Build02.png)
 ![Build04](/images/pixelart/Build04.png)
 
-I also made a huge tileset with Pokémon graphics compatible with RPG Maker XP, you can download <a href = "http://jcoelho.com/images/pixelart/tileset.png" target = "_blank">it here</a>, it will take a while to load.
+I also made a huge tileset with Pokémon graphics compatible with RPG Maker XP, you can download <a href = "/images/pixelart/tileset.png" target = "_blank">it here</a>, it will take a while to load.
 
