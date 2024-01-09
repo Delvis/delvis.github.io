@@ -89,7 +89,7 @@ params:
     defaultTheme: "light" # dark
 
   font:
-    fontSize: 1.5rem # default: 1rem
+    fontSize: 1rem # default: 1rem
     fontWeight: 400 # default: 400
     lineHeight: 1.5 # default: 1.5
     textAlign: left # default: left
