@@ -2,6 +2,7 @@
 layout: post
 title: "FARUBO"
 description: "Faunal Association Rules from the Upper Burgi to the Okote"
+author: João d'Oliveira Coelho
 modified: 2024-01-10
 image: /images/webapps/FARUBO.png
 tags: [Paleoecology, East Africa, Kenya, Turkana, Pleistocene, APRIORI, Machine Learning]
