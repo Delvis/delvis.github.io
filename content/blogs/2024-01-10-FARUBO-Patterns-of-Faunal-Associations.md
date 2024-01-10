@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "FARUBO: Faunal Association Rules from the Upper Burgi to the Okote"
-description: "Excerpt of Book Chapter - "
+title: "FARUBO"
+description: "Faunal Association Rules from the Upper Burgi to the Okote"
 modified: 2024-01-10
 image: /images/webapps/FARUBO.png
 tags: [Paleoecology, East Africa, Kenya, Turkana, Pleistocene, APRIORI, Machine Learning]
 mathjax: true
 ---
 
-The following is an *edited* excerpt from a a book chapter I recently co-authored with René Bobe, Susana Carvalho, and Meave Leakey. You can cite this as follows:
+**This post is an *edited* excerpt of a book chapter I co-authored:**
 
 Bobe, R., d’Oliveira Coelho, J., Carvalho, S., Leakey, M., 2022. Early hominins and paleoecology of the Koobi Fora Formation, Lake Turkana Basin, Kenya. In: Reynolds, S.C., Bobe, R. (Eds.), *African Paleoecology and Human Evolution*. Cambridge University Press, Cambridge. DOI: [10.1017/9781139696470.026](https://doi.org/10.1017/9781139696470.026)
 
@@ -25,13 +25,16 @@ Instead of looking at transactions per se, we transformed our count data (a prox
 
 This Boolean matrix \\(X_{ij}\\) can then be fed into the APRIORI algorithm to understand associations \\(if \ i \ then \ j\\) between any paleotaxa \\(i\\) and \\(j\\). Then, the associations calculated were analyzed, scored and ranked by the following thresholds:
 
+
 $$ Support=\\frac{\\text{ Number of Associations between A and B }}{\\text{ Total number of Associations}}=P\\left(A \\cap B\\right) \quad (Eq. 1) $$
 $$ Confidence=\\frac{\\text{ Number of Associations between A and B }}{\\text{ Total number of Associations with A}}=\\frac{P\\left(A \\cap B\\right)}{P\\left(A\\right)} \quad (Eq. 2) $$
 $$ Lift=\\frac{Confidence}{\\text{Expected Confidence}} = \\frac{P\\left(A \\cap B\\right)}{P\\left(A\\right) \\times P\\left(B\\right)} \quad (Eq. 3) $$
 
+
 ## The FARUBO webapp 
 
-Here we introduce FARUBO, a flexible web application for rule-based learning and visualization of paleofaunal associations, available through the “osteomics” web platform. FARUBO (http://osteomics.com/FARUBO) was fully developed in R using `shiny`, `arules` and `arulesViz` packages (Hahsler et al., 2005, 2011; Hahsler, 2017; R Core Team, 2019). [FARUBO](http://osteomics.com/FARUBO) is designed with a side panel for interactive functionalities and a main panel with three menu tabs: “Data Exploration,” “Paleofaunal Network,” and “Clustered Rules.” The side panel allows users to control interactively all parameters as minimum thresholds (eqs. 1–3). The fourth parameter of the side panel, “Rules length,” allows one to define the number of taxa in the left-hand side (LHS) of the if–then rule, while the last parameters are all related to filtering taxa for the analyses. Regarding the main panel, the first tab “Data Exploration” is the landpage; it summarizes all rules being generated in real-time by the web application and it allows users to download them anytime as a .csv table. In the “Paleofaunal Network” tab, interactive networks of associations can be visualized; in the default display, circle size increases with support and circle shading saturates (to red) with confidence, while the rules’ number decreases with lift. If hundreds or thousands of rules are being generated the graph visualization gets too convoluted, and therefore users can alternatively use the “Clustered Rules” tab to see a summarized visualization of the rules. The current version of the webapp loads with the hominins as required RHS (right-hand side) taxa, but this is also an option that can be manipulated in the side panel. *Homo* associations tend to rank higher than *Paranthropus* in terms of Support and Confidence, but lower in terms of Lift. This is due to *Paranthropus* being comparatively underrepresented in the upper Burgi Mb, which leads to lower expected confidence.
+Here we introduce FARUBO, a flexible web application for rule-based learning and visualization of paleofaunal associations, available through the “osteomics” web platform. FARUBO (http://osteomics.com/FARUBO) was fully developed in `R` using `shiny`, `arules` and `arulesViz` packages (Hahsler et al., 2005, 2011; Hahsler, 2017; R Core Team, 2019). [FARUBO](http://osteomics.com/FARUBO) is designed with a side panel for interactive functionalities and a main panel with three menu tabs: “Data Exploration,” “Paleofaunal Network,” and “Clustered Rules.” The side panel allows users to control interactively all parameters as minimum thresholds (eqs. 1–3). The fourth parameter of the side panel, “Rules length,” allows one to define the number of taxa in the left-hand side (LHS) of the if–then rule, while the last parameters are all related to filtering taxa for the analyses. Regarding the main panel, the first tab “Data Exploration” is the landpage; it summarizes all rules being generated in real-time by the web application and it allows users to download them anytime as a .csv table. In the “Paleofaunal Network” tab, interactive networks of associations can be visualized; in the default display, circle size increases with support and circle shading saturates (to red) with confidence, while the rules’ number decreases with lift. If hundreds or thousands of rules are being generated the graph visualization gets too convoluted, and therefore users can alternatively use the “Clustered Rules” tab to see a summarized visualization of the rules. The current version of the webapp loads with the hominins as required RHS (right-hand side) taxa, but this is also an option that can be manipulated in the side panel. *Homo* associations tend to rank higher than *Paranthropus* in terms of Support and Confidence, but lower in terms of Lift. This is due to *Paranthropus* being comparatively underrepresented in the upper Burgi Mb, which leads to lower expected confidence.
+
 
 ## Results: Part I
 
@@ -42,9 +45,11 @@ For the results presented here, we defined the same minimum thresholds of suppor
 	<figcaption>Figure A: Faunal associations in the Koobi Fora Formation upper Burgi, KBS, and Okote members with abundance data at the genus level. Extended Hominin graph model showing the top 10 rules (by lift). Parameters: minimum support = 0.4; minimum confidence = 0.6; minimum lift = 1; maximum length = 3; RHS = c(“Paranthropus,” “Homo”); maximum rules displayed = 10.</figcaption>
 </figure>
 
+
 The fossil record indicates that *Theropithecus* was a successful primate lineage, comparable to some early hominins in terms of geographic range and terrestriality (Elton, 2006). At the site of Olorgesailie in Kenya, there is direct evidence of coexistence and interactions between *Theropithecus* and Pleistocene hominins from cut-marked bones of *T. oswaldi* (Shipman et al., 1981). Additionally, *Theropithecus* has been central as a comparative model for hominin locomotor evolution (Jolly, 1970; Wrangham, 1980; Kingdon, 2003) and behavioral adaptations (e.g., diet) to changing habitats and climate (Dunbar, 1983; Foley, 1993). As for *Metridiochoerus* and its stronger association to *Paranthropus*, we tentatively attribute this to overlapping habitat preferences, and to possibly similar strategies of resource exploitation. It is known that in eastern Africa grasses were an important component of both of their diets, and *Metridiochoerus* species (advanced forms of the genus) have been interpreted as indicators among suids of seasonal grassland habitats (Bobe and Behrensmeyer, 2004). However, taphonomic factors likely play a role: *Paranthropus* and *Metridiochoerus* teeth are both abundant in the fluvial deposits of the KBS Mb, where their durable teeth may survive better during fluvial transport.
 
 Also important are the hominin associations to *Hippopotamus* and *Tragelaphus* most likely demonstrating the importance of close sources of fresh water and trees in the life history of hominins. Furthermore, if we look at the lower-ranking rules, we see that *Crocuta* is also associated with *Homo* in multiple rules (but with lower support values), and other bovid tribes such as Reduncini and to a lesser extent Bovini also show some degree of association to the hominins (not depicted), which further illustrates the complexities of the environmental context.
+
 
 ## Results: Part II
 
@@ -56,6 +61,7 @@ The evolutionary and ecological significance of these associations needs further
 	<img src="/images/papers/FARUBOb.png" alt="FARUBO reduced faunal associations">
 	<figcaption>Figure B: Faunal associations in the Koobi Fora Formation upper Burgi, KBS, and Okote members with abundance data at the genus level. Main taxa associated with <i>Homo</i> and <i>Paranthropus</i>, with a central role of Theropithecus, and with <i>Crocuta</i> and <i>Metridiochoerus</i> as the respective satellite associations in this reduced graph model. Parameters: minimum support = 0.4; minimum confidence = 0.5; minimum lift = 1; maximum length = 2; RHS = c(“Paranthropus,” “Homo”).</figcaption>
 </figure>
+
 
 ## References
 
