@@ -18,8 +18,8 @@ outputs:
 
 Paginate: 3
 enableRobotsTXT: true
-disqusShortname: jcoelho
-googleAnalytics: UA-68440862-1
+# disqusShortname: jcoelho
+# googleAnalytics: UA-68440862-1
 
 markup:
   goldmark:
