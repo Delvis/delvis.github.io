@@ -7,11 +7,11 @@ image: /images/GPL12_350m_distance_fromPickfordMammals.jpg
 tags: [Geospatial Paleontology, Southeast Africa, Late Miocene, Remote Sensing, Unsupervised Learning]
 ---
 
-Just published the first chapter of my PhD on remote fossil site detection using satellite images and unsupervised learning in <a href = "https://peerj.com/articles/11573/" target = "_blank">PeerJ</a>.
+Just published the first chapter of my PhD on remote fossil site detection using satellite images and unsupervised learning in <a href = "https://peerj.com/articles/11573/?td=bl" target = "_blank">PeerJ</a>.
 
 **d’Oliveira Coelho J**, Anemone RL, Carvalho S. 2021. Unsupervised learning of satellite images enhances discovery of late Miocene fossil sites in the Urema Rift, Gorongosa, Mozambique. *PeerJ* 9:e11573 https://doi.org/10.7717/peerj.11573
 
-It is open acess and available at <a href = "https://peerj.com/articles/11573/" target = "_blank">https://peerj.com/articles/11573/</a>
+It is open acess and available at <a href = "https://peerj.com/articles/11573/?td=bl" target = "_blank">https://peerj.com/articles/11573/?td=bl</a>
 
 <figure>
 	<img src="https://raw.githubusercontent.com/Delvis/kmeansGorongosa/master/img/kmeansGorongosa_Figure_2.png" alt="a) GPL-1 outcrops, notice how the surrounding vegetation is far more dense and extensive than in typical fossil sites from the EARS; b) GPL-1 in high-resolution satellite image, extracted from bing.com, shows a reduction of vegetation, but outcrops are barely noticeable; c) GPL-1, in a black rectangle, appears brighter than surrounding areas, when being mapped by lower resolution Landsat 8 false colour (infrared) image, and the same happens with other fossil sites, suggesting that infrared bands might be a useful indicator of fossiliferous deposits.">
