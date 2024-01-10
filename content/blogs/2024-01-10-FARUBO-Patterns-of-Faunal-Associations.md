@@ -59,16 +59,16 @@ The evolutionary and ecological significance of these associations needs further
 
 ## References
 
-Agrawal, R., Imieliński, T., Swami, A., 1993. Mining association rules between sets of items in large databases, *Proceedings of the 1993 ACM SIGMOD International Conference on Management of Data.*, ACM, New York, pp. 207–216.
-Behrensmeyer, A.K., 1975. Taphonomy and paleoecology in the hominid fossil record. Yearbook of Physical Anthropology. 19, 36–50.
-Behrensmeyer, A.K., 1978. Taphonomic and ecologic information from bone weathering. Paleobiology. 4, 150–162.
-Behrensmeyer, A.K., 1985. Taphonomy and the paleoecologic reconstruction of hominid habitats in the Koobi Fora Formation. In: Coppens, Y. (Ed.), L’Environment Des Hominides Au Plio-Pleistocene. Masson, Paris, pp. 309–324.
-Bobe, R., Behrensmeyer, A.K., 2004. The expansion of grassland ecosystems in Africa in relation to mammalian evolution and the origin of the genus Homo. *Palaeogeography, Palaeoclimatology, Palaeoecology*. 207, 399–420.
-Dice, L.R., 1945. Measures of the amount of ecologic association between species. *Ecology*, 26, 297–302.
-Forbes, S.A., 1907. On the local distribution of certain Illinois fishes: an essay in statistical ecology. *Bulletin of the Illinois State Laboratory of Natural History*, 7, 273–303.
-Hahsler, M., 2017. arulesViz: Interactive Visualization of Association Rules with R. *The R Journal*, 9, 163-175.
-Hahsler, M., Chelluboina, S., Hornik, K., Buchta, C., 2011. The arules R-Package Ecosystem: analyzing interesting patterns from large transaction data sets. *Journal of Machine Learning Research*, 12, 2021–2025.
-Hahsler, M., Grün, B., Hornik, K., 2005. arules - A computational environment for mining association rules and frequent item sets. 2005 14, 25.
-Hahsler, M., Karpienko, R., 2017. Visualizing association rules in hierarchical groups. *Journal of Business Economics*, 87, 317-335.
-Legendre, P., Gallagher, E.D., 2001. Ecologically meaningful transformations for ordination of species data. *Oecologia*, 129, 271-280.
-R Core Team, 2019. *R: A Language and Environment for Statistical Computing.* R Foundation for Statistical Computing, Vienna.
+- Agrawal, R., Imieliński, T., Swami, A., 1993. Mining association rules between sets of items in large databases, *Proceedings of the 1993 ACM SIGMOD International Conference on Management of Data.*, ACM, New York, pp. 207–216.
+- Behrensmeyer, A.K., 1975. Taphonomy and paleoecology in the hominid fossil record. Yearbook of Physical Anthropology. 19, 36–50.
+- Behrensmeyer, A.K., 1978. Taphonomic and ecologic information from bone weathering. Paleobiology. 4, 150–162.
+- Behrensmeyer, A.K., 1985. Taphonomy and the paleoecologic reconstruction of hominid habitats in the Koobi Fora Formation. In: Coppens, Y. (Ed.), L’Environment Des Hominides Au Plio-Pleistocene. Masson, Paris, pp. 309–324.
+- Bobe, R., Behrensmeyer, A.K., 2004. The expansion of grassland ecosystems in Africa in relation to mammalian evolution and the origin of the genus Homo. *Palaeogeography, Palaeoclimatology, Palaeoecology*. 207, 399–420.
+- Dice, L.R., 1945. Measures of the amount of ecologic association between species. *Ecology*, 26, 297–302.
+- Forbes, S.A., 1907. On the local distribution of certain Illinois fishes: an essay in statistical ecology. *Bulletin of the Illinois State Laboratory of Natural History*, 7, 273–303.
+- Hahsler, M., 2017. arulesViz: Interactive Visualization of Association Rules with R. *The R Journal*, 9, 163-175.
+- Hahsler, M., Chelluboina, S., Hornik, K., Buchta, C., 2011. The arules R-Package Ecosystem: analyzing interesting patterns from large transaction data sets. *Journal of Machine Learning Research*, 12, 2021–2025.
+- Hahsler, M., Grün, B., Hornik, K., 2005. arules - A computational environment for mining association rules and frequent item sets. 2005 14, 25.
+- Hahsler, M., Karpienko, R., 2017. Visualizing association rules in hierarchical groups. *Journal of Business Economics*, 87, 317-335.
+- Legendre, P., Gallagher, E.D., 2001. Ecologically meaningful transformations for ordination of species data. *Oecologia*, 129, 271-280.
+- R Core Team, 2019. *R: A Language and Environment for Statistical Computing.* R Foundation for Statistical Computing, Vienna.
