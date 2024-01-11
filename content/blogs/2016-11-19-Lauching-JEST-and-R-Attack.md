@@ -4,6 +4,7 @@ title: "Lauching JEST and R Attack"
 description: "R programming workshop and Junior Enterprise for Science and Tech"
 modified: 2016-11-19
 tags: [programming, data science, JEST, R, machine learning]
+author: João d'Oliveira Coelho
 ---
 
 <figure>

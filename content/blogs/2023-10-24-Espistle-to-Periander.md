@@ -4,6 +4,7 @@ title: "Epistle to Periander"
 modified: 2023-10-24
 image: /images/periander_mosaic.png
 tags: [Tyrant's Letter, Epistle to Periander, Politics, Censorship, Power Dynamics]
+author: João Pedro Valente
 ---
 
 or **The Tyrant's Letter**

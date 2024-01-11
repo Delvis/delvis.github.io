@@ -5,6 +5,7 @@ description: "ACID IDM RAP"
 modified: 2019-01-01
 tags: [ZGA, DEL, DMT, raps, hip hop, electronic, IDM, ORLA, Crouga]
 image: /images/LOGO_FULL_SHADOWED.png
+author: DEL
 ---
 
 

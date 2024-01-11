@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Entropia Vegetal"
-description: "My friend Amorim asked me to contribute with some poetry for an anthology of texts he's organizing, this is one of the pieces I developed"
-modified: 2022-09-29
-tags: [short story, conto, surrealism]
+description: "My friend Amorim asked me to contribute with some writings for an anthology of texts he's organizing, this is one of the pieces I developed"
+modified: 2020-04-02
+tags: [literature, short story, conto, surrealism, ORLA, pᴼᴸᴸᴵᴱdro, experimental]
 image: /images/poetry/entropia_vegetal.png
 author: pᴼᴸᴸᴵᴱdro
 ---

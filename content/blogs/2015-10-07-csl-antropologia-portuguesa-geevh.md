@@ -4,6 +4,7 @@ title: "Free .csl for Antropologia Portuguesa"
 description: "Citation Style Language for Antropologia Portuguesa, Cadernos do GEEvH."
 modified: 2015-10-07
 tags: [programming, bibliography, citations, anthropology, open science]
+author: João d'Oliveira Coelho
 ---
 
 

@@ -4,6 +4,7 @@ title: "The Laboratory of Forensic Anthropology arrives to the web"
 description: "I developed a new site, and design for the LFA based at the Departament of Life Science, University of Coimbra"
 modified: 2016-03-06
 tags: [programming, design, forensic anthropology]
+author: João d'Oliveira Coelho
 ---
 
 Yo folks.

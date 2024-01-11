@@ -4,6 +4,7 @@ title: "I am on - Die Sklaven von Lagos - a german scientific documentary"
 description: "Die Sklaven von Lagos, Filmproduktionen der Gerda Henkel Stiftung with Maria Teresa Ferreira project"
 modified: 2017-07-06
 tags: [documentary, open science, archeology]
+author: João d'Oliveira Coelho
 ---
 
 Hi everyone,

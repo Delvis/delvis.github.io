@@ -5,6 +5,7 @@ description: " "
 modified: 2020-04-01
 tags: [poetry, surrealism, dadaism]
 image: /images/abstract-2.jpg
+author: João Pedro Valente
 ---
 
 Part 2.

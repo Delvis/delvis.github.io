@@ -5,6 +5,7 @@ description: "Sciencing"
 modified: 2019-10-24
 tags: [data science, osteology, forensic anthropology, machine learning, paleopathology, quantitative analysis, stature, sex estimation, geometric morphometrics]
 image: /images/cvr2.jpg
+author: João d'Oliveira Coelho
 ---
 
 Hey, I have a few new publications I want to bring your attention to.

@@ -4,6 +4,7 @@ title: "First post on Instagram to reach 100 ♥"
 description: "Just a promotion of instagram with first picture to reach 100 likes milestone"
 modified: 2016-02-22
 tags: [social networks, photography, iceland]
+author: JP
 ---
 
 Yo!

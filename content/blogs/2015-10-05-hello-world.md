@@ -4,6 +4,7 @@ title: "Hello World!"
 description: "João Coelho's welcome message to the web"
 modified: 2015-10-05
 tags: [anthropologist, blogger]
+author: jcoelho
 ---
 
 Hello folks! I am back to the world of web development with this combination of a *personal blog* + *portfolio-style* page. The focus, as you can see is clearly on **content**. To help on that, the menu has been collapsed into a floating square at the upper-left corner. However in the menu is where you can find all the neat stuff. This will include my endeavors in anthropology, business, web design, and programming. Some stuff is already there, so check it if you feel like it. :)

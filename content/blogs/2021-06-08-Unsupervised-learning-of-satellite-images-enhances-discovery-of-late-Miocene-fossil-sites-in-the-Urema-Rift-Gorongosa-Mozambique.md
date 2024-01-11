@@ -5,6 +5,7 @@ description: "Finding fossil sites from satellite pixels"
 modified: 2021-06-08
 image: /images/GPL12_350m_distance_fromPickfordMammals.jpg
 tags: [Geospatial Paleontology, Southeast Africa, Late Miocene, Remote Sensing, Unsupervised Learning]
+author: João d'Oliveira Coelho
 ---
 
 Just published the first chapter of my PhD on remote fossil site detection using satellite images and unsupervised learning in <a href = "https://peerj.com/articles/11573/?td=bl" target = "_blank">PeerJ</a>.

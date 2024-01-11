@@ -4,6 +4,7 @@ title: "The first 3D visual database of burnt bones"
 description: "Below, you will find humerus in pairs, before and after experimental burning, respectively. Click to interact with the 3D object."
 modified: 2015-10-06
 tags: [humerus, burnt, osteology, geometric morphometric, 3D models, open science]
+author: João d'Oliveira Coelho
 ---
 
 

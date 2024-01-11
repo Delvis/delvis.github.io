@@ -4,6 +4,7 @@ title: "Unwarping Heated Bones, a thesis on heat-deformed osteology is online fo
 description: "Unwarping Heated Bones: A Quantitative Analysis of Heat-induced Skeletal Deformations Using 3D Geometric Morphometrics"
 modified: 2015-10-28
 tags: [programming, anthropology, open science, geometric morphometrics, burnt, osteology, humerus, thesis]
+author: João d'Oliveira Coelho
 ---
 
 

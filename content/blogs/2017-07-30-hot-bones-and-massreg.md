@@ -4,17 +4,14 @@ title: "New site for HOT BONES and new MassReg article"
 description: "I developed hotbones.net and published an article on full skeleton mass estimation with burned bones"
 modified: 2017-07-30
 tags: [burnt, osteology, forensic anthropology]
+author: João d'Oliveira Coelho
+image: /images/hotbones.png
 ---
 
 ## HOT BONES
 
 
-I am very pleased to announce that the HOT team has a new site:
-
-<figure>
-	<a href = "http://hotbones.net" target="_blank"><img src="/images/hotbones.png" alt="hot bones"></a>
-	<figcaption>Click on the image to visit HOT BONES</figcaption>
-</figure>
+I am very pleased to announce that the HOT team has a new site.
 
 The coolest thing I learned when developing HOT BONES was to create this beauties, using only the R programming language and a simple sheet from Excel.
 

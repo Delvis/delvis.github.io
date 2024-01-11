@@ -3,7 +3,7 @@ layout: post
 title: "Palindrome"
 description: "2022 22 02"
 modified: 2022-02-22
-tags: [haiku, palindrome]
+tags: [literature, poetry, haiku, palindrome]
 image: /images/cvr1.jpg
 author: Mr. Rabbit Whole
 ---

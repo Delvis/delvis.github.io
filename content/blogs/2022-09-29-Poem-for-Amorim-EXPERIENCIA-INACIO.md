@@ -3,7 +3,7 @@ layout: post
 title: "Poema Rude"
 description: "My friend Amorim asked me to contribute with some poetry for an anthology of texts he's organizing, this is one of the pieces I developed"
 modified: 2022-09-29
-tags: [poetry, surrealism]
+tags: [literature, poetry, surrealism]
 image: /images/poetry/pombo.png
 author: João Pedro Valente
 ---

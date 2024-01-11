@@ -4,7 +4,8 @@ title: "Jack and the Gödel Eggs"
 description: "Jack and the Gödel Eggs"
 modified: 2023-09-26
 image: /images/jack_snake.png
-tags: [parabole, short story]
+tags: [literature, parabole, short story, conto, gonzo]
+author: Mr. Rabbit Whole
 ---
 
 In a timespace drenched in the pandemoniac haze of oblivion, an eternal freakshow unfurled, a wild tale muttered through the geodesic dominions of debauchery. Within this twisted land, a cosmic serpent, the Freakin' Ouroboros, slithered in a mind-bending dimethyltryptamine trip. It embodied the essence of möbius' abortion, a creature of endless lunacy, engaged in a full-throttle rampage, attacking its own alchemical tail with an elvish fervour, ensnared in its own kaleidoscopic loop.

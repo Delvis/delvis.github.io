@@ -4,6 +4,7 @@ title: "I've finished a knowledge tree in Duolingo"
 description: "How I mastered the danish language, but still cannot speak any danish"
 modified: 2017-04-26
 tags: [linguistics, mooc, duolingo]
+author: João Pedro Valente
 ---
 
 Congrats to me!

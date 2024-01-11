@@ -4,6 +4,7 @@ title: "New paper for sex estimation from the proximal femur and new site for CI
 description: "A method for sex estimation using the proximal femur, plus, cias.uc.pt"
 modified: 2016-09-15
 tags: [programming, forensic anthropology, osteology, publishing, design ]
+author: João d'Oliveira Coelho
 ---
 
 Just wanted to announce that we have published a new scientific article: <a href = "http://www.fsijournal.org/article/S0379-0738(16)30263-8/abstract" target="_blank">Curate et al. 2016</a>: "A method for sex estimation using the proximal femur" on **Forensic Science International**. Again this is a collaborative work with some members from the <a href = "http://lfa.uc.pt/" target = "_blank">Laboratory of Forensic Anthropology</a>.

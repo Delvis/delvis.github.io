@@ -4,6 +4,7 @@ title: "New webapp based on the DSP method"
 description: "Diagnose Sexuelle Probabiliste: betteR, fasteR, strongeR"
 modified: 2015-10-20
 tags: [programming, anthropology, open science, sex diagnosis, osteology]
+author: João d'Oliveira Coelho
 ---
 
 

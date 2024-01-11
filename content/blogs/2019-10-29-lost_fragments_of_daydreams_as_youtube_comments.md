@@ -5,6 +5,7 @@ description: "poetry"
 modified: 2019-10-29
 image: /images/abstract-1.jpg
 tags: [poetry, surrealism, dadaism]
+author: João Pedro Valente
 ---
 
 A semi-homonym, has been writing some short poems while listening to albums on youtube, João Pedro Valente relinquishes them in the platform as comments. But now, I'll be collecting them here. Hope you find them entertaining.
