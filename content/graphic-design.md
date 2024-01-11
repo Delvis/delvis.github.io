@@ -32,16 +32,16 @@ Osteomics is a project with the goal of simplifying and making osteology tools a
 
 ---
 
-## EFP-PSGB2019
+## EFP-PSGB 2019
 
-My first site *fully developed in R* (a Hugo's implementation via the blogdown package), was a simple static landpage-focused experience for a primatology international conference. "Our Primate Heritage, Our Primate Legacy - EFP/PSGB 2019" was held in Oxford from September 8 to 11, 2019. This was a very successful joint meeting of *The European Federation of Primatology* and the *Primatological Society of Great Britain*, and besides my role as web master I was also part of the local organizing committee.
+My first site *fully developed in R* (a Hugo's implementation via the blogdown package), was a simple static landpage-focused experience for a primatology international conference. "Our Primate Heritage, Our Primate Legacy - EFP/PSGB 2019" was held in Oxford from September 8 to 11, 2019. This was a very successful joint meeting of *The European Federation for Primatology* and the *Primate Society of Great Britain*, and besides my role as web master I was also part of the local organizing committee.
 
 <figure>
   <p align = "center">
   <img src="/images/sites/efp-psgb2019.png" alt="EFP/PSGB 2019"> </p>
 </figure>
 
-Although the original domain is no longer active, I maintain a legacy version of the page, accessible through https://efp2019.netlify.app/
+Although the original domain is no longer active, I maintain a legacy version of the page, accessible through <a href="https://efp2019.netlify.app/" target = "_blank">https://efp2019.netlify.app/</a>
 
 
 ---
