@@ -232,9 +232,10 @@ params:
           enable: true
           content: Researcher at the Primate Models for Behavioural Evolution Lab, University of Oxford (UK)
         content: |
-          - Researcher at the <bold>Primate Models for Behavioural Evolution Lab</bold>, University of Oxford.
+          - Researcher at the Primate Models for Behavioural Evolution Lab, University of Oxford.
           - Co-organized an International Conference, and create its website - <a href="https://efp2019.netlify.app/" target = "_blank">EFP/PSGB 2019</a>.
-          - Tutorial's instructor (on genetics); teaching (undergrad students in archaeology and anthropology); led seminars (for MSc students).
+          - Tutorial's instructor (on genetics); teaching (undergrad students in archaeology and anthropology).
+          - Led the "Miocene Apes and the Origins of Bipedalism" seminar for the MSc Cognitive and Evolutionary Anthropology.
           - Data collection at Nairobi National Museum, Kenya and Oxford's Natural History Museum, UK.
 
       - job: "Collaborator"
