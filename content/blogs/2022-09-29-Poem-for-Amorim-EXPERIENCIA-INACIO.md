@@ -3,12 +3,12 @@ layout: post
 title: "Poema Rude"
 description: "My friend Amorim asked me to contribute with some poetry for an anthology of texts he's organizing, this is one of the pieces I developed"
 modified: 2022-09-29
-tags: [literature, poetry, surrealism]
+tags: [literature, poetry, surrealism, EXPERIÊNCIA INÁCIO]
 image: /images/poetry/pombo.png
 author: João Pedro Valente
 ---
 
-This is one of the pieces I wrote for an anthalogy of short stories and poetry organized by my good friend João Pedro Amorim, titled "EXPERIÊNCIA INÁCIO", It starts with a massive title:
+This is one of the pieces I wrote for an anthology of short stories and poetry organized by my good friend João Pedro Amorim, titled "EXPERIÊNCIA INÁCIO", It starts with a massive title:
 
 
 **Poema rude e muito básico, simples e sem floreados sobre um kiwi, porém, ao longo da sua arquitectura contém escondido um fabuloso trocadilho-enigma de grau elevado e encriptadíssimo, para o leitor mais audaz e fanático por trigonometria decifrar**
