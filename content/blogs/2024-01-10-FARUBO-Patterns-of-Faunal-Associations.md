@@ -19,23 +19,24 @@ Bobe, R., d’Oliveira Coelho, J., Carvalho, S., Leakey, M., 2022. Early hominin
 ## Introduction
 
 The best sampled and most continuous part of the **Koobi Fora Formation** is from the upper Burgi Member to the Okote Member, i.e., from about 2 to 1.4 Million years ago. The fossil record of the upper Burgi, KBS, and Okote Mbs has been more thoroughly studied and published, and here we present new analyses of faunal associations based on these upper members. Ever since the first coefficient of association between species was devised by pioneer ecologist Stephen Alfred Forbes (Forbes, 1907), numerous quantitative metrics have been defined, aiming at clarifying how species combine themselves into larger communities (Dice, 1945). We use a version of Table 26.2 that includes only genera across the upper Burgi, KBS, and Okote Mbs to detect patterns of association in relation to taxonomic abundance data. All extremely rare genera (N ≤ 10) were excluded from the following analysis. To reveal faunal patterns, we employed APRIORI (Agrawal et al., 1993), an \\(if \ A \ then \ B\\) algorithm for mining **association rules**, typically used to analyze transaction data for retail markets and online e-commerce stores (Hahsler, 2017; Hahsler and Karpienko, 2017).
+<br></br>
 
 ## APRIORI applied to paleoecology
 
 Instead of looking at transactions per se, we transformed our count data (a proxy for the abundance of taxa) of genera across geological members into “association” data. The data transformation involved three steps: first the data set was double-standardized per \\(max\\) value of each column (member) and per the \\(sum\\) of each row (genus; Legendre and Gallagher, 2001); second, a Euclidean distance matrix \\(D_{mn}\\) was calculated; and third, a matrix \\(X_{ij}\\), where each value \\(ij\\) is a binarized logical solution for \\( D_{mn} < \overline{D}_n \\).
 
 This Boolean matrix \\(X_{ij}\\) can then be fed into the APRIORI algorithm to understand associations \\(if \ i \ then \ j\\) between any paleotaxa \\(i\\) and \\(j\\). Then, the associations calculated were analyzed, scored and ranked by the following thresholds:
-
+<br></br>
 
 $$ Support=\\frac{\\text{ Number of Associations between A and B }}{\\text{ Total number of Associations}}=P\\left(A \\cap B\\right) \quad (Eq. 1) $$
 $$ Confidence=\\frac{\\text{ Number of Associations between A and B }}{\\text{ Total number of Associations with A}}=\\frac{P\\left(A \\cap B\\right)}{P\\left(A\\right)} \quad (Eq. 2) $$
 $$ Lift=\\frac{Confidence}{\\text{Expected Confidence}} = \\frac{P\\left(A \\cap B\\right)}{P\\left(A\\right) \\times P\\left(B\\right)} \quad (Eq. 3) $$
-
+<br></br>
 
 ## The FARUBO webapp 
 
 Here we introduce FARUBO, a flexible web application for rule-based learning and visualization of paleofaunal associations, available through the “osteomics” web platform. FARUBO (http://osteomics.com/FARUBO) was fully developed in `R` using `shiny`, `arules` and `arulesViz` packages (Hahsler et al., 2005, 2011; Hahsler, 2017; R Core Team, 2019). [FARUBO](http://osteomics.com/FARUBO) is designed with a side panel for interactive functionalities and a main panel with three menu tabs: “Data Exploration,” “Paleofaunal Network,” and “Clustered Rules.” The side panel allows users to control interactively all parameters as minimum thresholds (eqs. 1–3). The fourth parameter of the side panel, “Rules length,” allows one to define the number of taxa in the left-hand side (LHS) of the if–then rule, while the last parameters are all related to filtering taxa for the analyses. Regarding the main panel, the first tab “Data Exploration” is the landpage; it summarizes all rules being generated in real-time by the web application and it allows users to download them anytime as a .csv table. In the “Paleofaunal Network” tab, interactive networks of associations can be visualized; in the default display, circle size increases with support and circle shading saturates (to red) with confidence, while the rules’ number decreases with lift. If hundreds or thousands of rules are being generated the graph visualization gets too convoluted, and therefore users can alternatively use the “Clustered Rules” tab to see a summarized visualization of the rules. The current version of the webapp loads with the hominins as required RHS (right-hand side) taxa, but this is also an option that can be manipulated in the side panel. *Homo* associations tend to rank higher than *Paranthropus* in terms of Support and Confidence, but lower in terms of Lift. This is due to *Paranthropus* being comparatively underrepresented in the upper Burgi Mb, which leads to lower expected confidence.
-
+<br></br>
 
 ## Results: Part I
 
@@ -45,12 +46,12 @@ For the results presented here, we defined the same minimum thresholds of suppor
 	<img src="/images/papers/FARUBOa.png" alt="FARUBO generated network of faunal associations">
 	<figcaption>Figure A: Faunal associations in the Koobi Fora Formation upper Burgi, KBS, and Okote members with abundance data at the genus level. Extended Hominin graph model showing the top 10 rules (by lift). Parameters: minimum support = 0.4; minimum confidence = 0.6; minimum lift = 1; maximum length = 3; RHS = c(“Paranthropus,” “Homo”); maximum rules displayed = 10.</figcaption>
 </figure>
-
+<br></br>
 
 The fossil record indicates that *Theropithecus* was a successful primate lineage, comparable to some early hominins in terms of geographic range and terrestriality (Elton, 2006). At the site of Olorgesailie in Kenya, there is direct evidence of coexistence and interactions between *Theropithecus* and Pleistocene hominins from cut-marked bones of *T. oswaldi* (Shipman et al., 1981). Additionally, *Theropithecus* has been central as a comparative model for hominin locomotor evolution (Jolly, 1970; Wrangham, 1980; Kingdon, 2003) and behavioral adaptations (e.g., diet) to changing habitats and climate (Dunbar, 1983; Foley, 1993). As for *Metridiochoerus* and its stronger association to *Paranthropus*, we tentatively attribute this to overlapping habitat preferences, and to possibly similar strategies of resource exploitation. It is known that in eastern Africa grasses were an important component of both of their diets, and *Metridiochoerus* species (advanced forms of the genus) have been interpreted as indicators among suids of seasonal grassland habitats (Bobe and Behrensmeyer, 2004). However, taphonomic factors likely play a role: *Paranthropus* and *Metridiochoerus* teeth are both abundant in the fluvial deposits of the KBS Mb, where their durable teeth may survive better during fluvial transport.
 
 Also important are the hominin associations to *Hippopotamus* and *Tragelaphus* most likely demonstrating the importance of close sources of fresh water and trees in the life history of hominins. Furthermore, if we look at the lower-ranking rules, we see that *Crocuta* is also associated with *Homo* in multiple rules (but with lower support values), and other bovid tribes such as Reduncini and to a lesser extent Bovini also show some degree of association to the hominins (not depicted), which further illustrates the complexities of the environmental context.
-
+<br></br>
 
 ## Results: Part II
 
@@ -60,9 +61,9 @@ The evolutionary and ecological significance of these associations needs further
 
 <figure>
 	<img src="/images/papers/FARUBOb.png" alt="FARUBO reduced faunal associations">
-	<figcaption>Figure B: Faunal associations in the Koobi Fora Formation upper Burgi, KBS, and Okote members with abundance data at the genus level. Main taxa associated with <i>Homo</i> and <i>Paranthropus</i>, with a central role of Theropithecus, and with <i>Crocuta</i> and <i>Metridiochoerus</i> as the respective satellite associations in this reduced graph model. Parameters: minimum support = 0.4; minimum confidence = 0.5; minimum lift = 1; maximum length = 2; RHS = c(“Paranthropus,” “Homo”).</figcaption>
+	<figcaption>Figure B: Faunal associations in the Koobi Fora Formation upper Burgi, KBS, and Okote members with abundance data at the genus level. Main taxa associated with <i>Homo</i> and <i>Paranthropus</i>, with a central role of <i>Theropithecus</i>, and with <i>Crocuta</i> and <i>Metridiochoerus</i> as the respective satellite associations in this reduced graph model. Parameters: minimum support = 0.4; minimum confidence = 0.5; minimum lift = 1; maximum length = 2; RHS = c(“Paranthropus,” “Homo”).</figcaption>
 </figure>
-
+<br></br>
 
 ## References
 
@@ -72,10 +73,19 @@ The evolutionary and ecological significance of these associations needs further
 - Behrensmeyer, A.K., 1985. Taphonomy and the paleoecologic reconstruction of hominid habitats in the Koobi Fora Formation. In: Coppens, Y. (Ed.), L’Environment Des Hominides Au Plio-Pleistocene. Masson, Paris, pp. 309–324.
 - Bobe, R., Behrensmeyer, A.K., 2004. The expansion of grassland ecosystems in Africa in relation to mammalian evolution and the origin of the genus Homo. *Palaeogeography, Palaeoclimatology, Palaeoecology*. 207, 399–420.
 - Dice, L.R., 1945. Measures of the amount of ecologic association between species. *Ecology*, 26, 297–302.
+- Dunbar, R.I.M., 1983. Theropithecines and hominids: Contrasting solutions to the same ecological problem. *Journal of Human Evolution*. 12, 647–658.
+- Elton, S., 2006. Forty years on and still going strong: the use of hominin-cercopithecid comparisons in palaeoanthropology. *Journal of the Royal Anthropological Institute*. 12, 19–38.
+- Foley, R.A., 1993. African terrestrial primates: the comparative evolutionary biology of Theropithecus and the Hominidae. In: Jablonski, N.G. (Ed.), *Theropithecus*. Cambridge University Press, pp. 245–270.
 - Forbes, S.A., 1907. On the local distribution of certain Illinois fishes: an essay in statistical ecology. *Bulletin of the Illinois State Laboratory of Natural History*, 7, 273–303.
 - Hahsler, M., 2017. arulesViz: Interactive Visualization of Association Rules with R. *The R Journal*, 9, 163-175.
 - Hahsler, M., Chelluboina, S., Hornik, K., Buchta, C., 2011. The arules R-Package Ecosystem: analyzing interesting patterns from large transaction data sets. *Journal of Machine Learning Research*, 12, 2021–2025.
 - Hahsler, M., Grün, B., Hornik, K., 2005. arules - A computational environment for mining association rules and frequent item sets. 2005 14, 25.
 - Hahsler, M., Karpienko, R., 2017. Visualizing association rules in hierarchical groups. *Journal of Business Economics*, 87, 317-335.
+- Jolly, C.J., 1970. The Seed-Eaters: A New Model of Hominid Differentiation Based on a Baboon Analogy. *Man*. 5, 5–26.
+- Kingdon, J., 2003. *Lowly Origin: Where, When, and why Our Ancestors First Stood Up*. Princeton University Press.
 - Legendre, P., Gallagher, E.D., 2001. Ecologically meaningful transformations for ordination of species data. *Oecologia*, 129, 271-280.
+- Moleón, M., Sánchez-Zapata, J.A., Margalida, A., Carrete, M., Owen-Smith, N., Donázar, J.A., 2014. Humans and Scavengers: The Evolution of Interactions and Ecosystem Services. *BioScience*. 64, 394–403.
 - R Core Team, 2019. *R: A Language and Environment for Statistical Computing.* R Foundation for Statistical Computing, Vienna.
+- Shipman, P., Bosler, W., Davis, K.L., Behrensmeyer, A.K., Dunbar, R.I.M., Groves, C.P., Thackeray, F., Couvering, J.A.H.V., Stucky, R.K., 1981. Butchering of Giant Geladas at an Acheulian Site [and Comments and Reply]. *Current Anthropology*. 22, 257–268.
+- Wrangham, R.W., 1980. Bipedal locomotion as a feeding adaptation in gelada baboons, and its implications for hominid evolution. *Journal of Human Evolution*. 9, 329–331.
+
