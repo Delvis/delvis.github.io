@@ -5,6 +5,7 @@ description: "2022 22 02"
 modified: 2022-02-22
 tags: [haiku, palindrome]
 image: /images/cvr1.jpg
+author: Mr. Rabbit Whole
 ---
 
 One seeks the unknown,<br> 

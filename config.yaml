@@ -64,7 +64,7 @@ Menus:
 
 params:
   title: "jcoelho"
-  description: João Pedro Valente de Oliveira Coelho
+  description: Tipo um ovni, só visto.
   # staticPath: ""  # The path to serve the static files from
   favicon: "/favicon.ico"
 
@@ -234,9 +234,9 @@ params:
         content: |
           - Researcher at the Primate Models for Behavioural Evolution Lab, University of Oxford.
           - Co-organized an International Conference, and created its website - <a href="https://efp2019.netlify.app/" target = "_blank">EFP/PSGB 2019</a>.
-          - Tutorial's instructor (on genetics); teaching (undergrad students in archaeology and anthropology).
-          - Miocene Apes and the Origins of Bipedalism Seminar, MSc Cognitive and Evolutionary Anthropology.
           - Data collection at Nairobi National Museum, Kenya and Oxford's Natural History Museum, UK.
+          - Miocene Apes and the Origins of Bipedalism Seminar, MSc Cognitive and Evolutionary Anthropology.
+          - Tutorial's instructor (on genetics); teaching (undergrad students in archaeology and anthropology).
 
       - job: "Web Designer & Co-founder"
         company: "JEST"
@@ -244,7 +244,7 @@ params:
         date: "2016 - 2017"
         content: |
           I co-founded JEST - Junior Enterprise for Science and Tech @ University of Coimbra.
-          - Head designer and webmaster of the original team of 7 alumni belonging to the Department of Life Sciences @ UC
+          - Head designer and webmaster of the original project (mantained from 2016 to 2019).
           - Organized workshops and conferences on data science, and programming languages (R and Python).
           - Instructor for several R workshops (intro, data viz, modelling, Machine Learning, shiny, etc.).
 
@@ -257,9 +257,9 @@ params:
           content: Researcher at the Centre for Functional Ecology, Universidade de Coimbra (Portugal)
         content: |
           - Collaborator at the 'Forensic Anthropology and Paleobiology' group – <a href="https://cfe.uc.pt" target = "_blank">cfe.uc.pt</a>.
-          - Statistical shape analysis (geometric morphometrics) of osteological material.
+          - 3D scanning expert and curator of the CEIXXI Digital Museum (see <a href="https://sketchfab.com/lfa" target = "_blank">sketchfab.com/lfa</a>).
           - Webmaster and Web Designer at 'Laboratory of Forensic Anthropology' – <a href="https://lfa.uc.pt" target = "_blank">lfa.uc.pt</a>.
-          - 3D scanning expert and curator of the CEIXXI 3D Crania Collection (see <a href="https://sketchfab.com/lfa" target = "_blank">sketchfab.com/lfa</a>).
+          - Statistical shape analysis (geometric morphometrics) of osteological material.
           - Public communication and workshops, science communication.
 
 
