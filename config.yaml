@@ -233,10 +233,20 @@ params:
           content: Researcher at the Primate Models for Behavioural Evolution Lab, University of Oxford (UK)
         content: |
           - Researcher at the Primate Models for Behavioural Evolution Lab, University of Oxford.
-          - Co-organized an International Conference, and create its website - <a href="https://efp2019.netlify.app/" target = "_blank">EFP/PSGB 2019</a>.
+          - Co-organized an International Conference, and created its website - <a href="https://efp2019.netlify.app/" target = "_blank">EFP/PSGB 2019</a>.
           - Tutorial's instructor (on genetics); teaching (undergrad students in archaeology and anthropology).
-          - Led the "Miocene Apes and the Origins of Bipedalism" seminar for MSc Cognitive and Evolutionary Anthropology.
+          - Miocene Apes and the Origins of Bipedalism Seminar, MSc Cognitive and Evolutionary Anthropology.
           - Data collection at Nairobi National Museum, Kenya and Oxford's Natural History Museum, UK.
+
+      - job: "Web Designer & Co-founder"
+        company: "JEST"
+        companyUrl: "https://jest.pt"
+        date: "2016 - 2017"
+        content: |
+          I co-founded JEST - Junior Enterprise for Science and Tech @ University of Coimbra.
+          - Head designer and webmaster of the original team of 7 alumni belonging to the Department of Life Sciences @ UC
+          - Organized workshops and conferences on data science, and programming languages (R and Python).
+          - Instructor for several R workshops (intro, data viz, modelling, Machine Learning, shiny, etc.).
 
       - job: "Collaborator"
         company: "CFE-UC"
@@ -252,15 +262,6 @@ params:
           - 3D scanning expert and curator of the CEIXXI 3D Crania Collection (see <a href="https://sketchfab.com/lfa" target = "_blank">sketchfab.com/lfa</a>).
           - Public communication and workshops, science communication.
 
-      - job: "Web Designer & Co-founder"
-        company: "JEST"
-        companyUrl: "https://jest.pt"
-        date: "2016 - 2017"
-        content: |
-          I co-founded JEST - Junior Enterprise for Science and Tech @ University of Coimbra.
-          - Head designer and webmaster of the original team of 7 alumni belonging to the Department of Life Sciences @ UC
-          - Organized workshops and conferences on data science, and programming languages (R and Python).
-          - Instructor for several R workshops (intro, data viz, modelling, Machine Learning, shiny, etc.).
 
   # Education
   education:
