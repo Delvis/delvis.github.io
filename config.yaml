@@ -159,8 +159,8 @@ params:
           url: https://twitter.com/Gangryong
         - icon: fab fa-instagram
           url: https://instagram.com/deusexistelonge
-        - icon: fab fa-goodreads
-          url: https://www.goodreads.com/user/show/10768018-jo-o
+        # - icon: fab fa-goodreads
+        #   url: https://www.goodreads.com/user/show/10768018-jo-o
         - icon: fab fa-youtube
           url: https://youtube.com/MeuroniosBosque
       customIcons:
