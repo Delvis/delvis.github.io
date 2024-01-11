@@ -3,7 +3,7 @@ layout: post
 title: "ORLA - Espiral Medusa"
 description: "New album from ORLA"
 modified: 2020-04-02
-tags: [literature, short story, conto, surrealism, ORLA, pᴼᴸᴸᴵᴱdro, experimental, Espiral Medusa, Crouga, experimental, bouzouki, ambient, raps]
+tags: [literature, short story, conto, surrealism, ORLA, pᴼᴸᴸᴵᴱdro, experimental, Espiral Medusa, Crouga, experimental, bouzouki, ambient, raps, TΩDΩ-PΩDEλΩSΩ]
 image: /images/poetry/ORLA_ESPIRAL_MEDUSA.png
 author: pᴼᴸᴸᴵᴱdro
 ---
@@ -68,3 +68,5 @@ FULL ALBUM AVAILABLE AT:
 ## ORLA - Espiral Medusa
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLvqQBw_IW0MabDEvH11suGAf-4bSsnroJ" frameborder="0" allowfullscreen></iframe>
+
+I did all the visualizers for this album as TΩDΩ-PΩDEλΩSΩ, and I rhymed in track 5.
