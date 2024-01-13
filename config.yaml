@@ -33,6 +33,16 @@ Menus:
       title: Blog
       url: /blogs
       weight: 1
+    - identifier: Science
+      title: Science
+      name: Science
+      weight: 2
+    - identifier: Publications
+      title: Publications
+      name: Publications
+      url: /publications
+      parent: Science
+      weight: 1
     # - identifier: gallery
     #   name: Gallery
     #   title: Blog posts
@@ -42,25 +52,19 @@ Menus:
     - identifier: Portfolio
       title: Portfolio
       name: Portfolio
-      weight: 2
-    - identifier: Publications
-      title: Publications
-      name: Publications
-      url: /publications
-      parent: Portfolio
-      weight: 1
+      weight: 3
     - identifier: Graphic Design
       title: Graphic Design
       name: Graphic Design
       url: /graphic-design
       parent: Portfolio
-      weight: 2
+      weight: 1
     - identifier: Raps
       title: Raps
       name: Raps
       url: /raps
       parent: Portfolio
-      weight: 3
+      weight: 2
 
 params:
   title: "jcoelho"

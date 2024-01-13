@@ -9,8 +9,6 @@ date: "2023-01-09"
 
 ## Scientific Articles
 
-**d’Oliveira Coelho J**, Anemone RL, Bobe R, Carvalho S (Submitted to Biological Reviews). Parting ways: Pan-Homo Divergence Revisited.
-
 Freymann E, **d’Oliveira Coelho J**, Muhumuza G, Hobaiter C, Huffman MA, Zuberbühler K, Carvalho S. 2023 (Accepted). Applying Collocation and APRIORI Analyses to Chimpanzee Diets: methods for investigating non-random food combinations in primate self-medication. *American Journal of Primatology*. (Accepted)
 
 Bobe R, Aldeias V, Alemseged Z, Anemone RL, Archer W, Aumaître G, Bamford MK, Biro D, Bourlès DL, Boyd MD, Braun DR, Capelli C, **d’Oliveira Coelho J**, Habermann JM, Head JJ, Keddadouche K, Kupczik K, Lebatard A-E, Lüdecke T, Macôa A, Martínez FI, Mathe J, Mendes C, Paulo LM, Pinto M, Presnyakova D, Püschel TA, Regala FT, Sier M, da Silva MJF, Stalmans M, Carvalho S. 2023. The first Miocene fossils from coastal woodlands in the southern East African Rift. *iScience*. **26** (9). DOI: 10.1016/j.isci.2023.107644
