@@ -5,6 +5,7 @@ description: "A portfolio to show off my photoshop and illustrator skills."
 image: /images/ADEUSPEDIDA.png
 share: true
 date: "2023-01-09"
+author: DEL
 ---
 
 In the wild swirl of memories, an undying love sprouted for the heavy blues of pen strokes and the hallucinatory techno of illustration software.

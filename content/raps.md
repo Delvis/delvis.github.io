@@ -5,6 +5,7 @@ description: "A portfolio of my rythm and poetry"
 image: /images/lui.jpg
 share: true
 date: "2021-08-04"
+author: DEL
 ---
 
 I do rhyme once in a while, in portuguese - my mother tongue - under the alias of <a href="https://www.facebook.com/delvispr/" target = "_blank">DEL</a>. This schizophrenic fictional character also has over 20 heteronyms, some of those (e.g. zer-0, delvispresley, g-elo, TΩDΩ-PΩDEλΩSΩ, etc.) have realeased some tracks already.

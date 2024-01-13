@@ -5,6 +5,7 @@ description: "Scientific Papers"
 image: /images/cvr3.jpg
 share: true
 date: "2023-01-09"
+author: jcoelho
 ---
 
 ## Scientific Articles

@@ -5,6 +5,7 @@ description: "Conference Podium Presentations and Invited Talks"
 image: /images/cvr4.jpg
 share: true
 date: "2023-01-13"
+author: jcoelho
 ---
 
 ## Presentations
