@@ -43,6 +43,12 @@ Menus:
       url: /publications
       parent: Science
       weight: 1
+    - identifier: Talks
+      title: Talks
+      name: Talks
+      url: /talks
+      parent: Science
+      weight: 2
     # - identifier: gallery
     #   name: Gallery
     #   title: Blog posts
