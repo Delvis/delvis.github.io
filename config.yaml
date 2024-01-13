@@ -49,6 +49,12 @@ Menus:
       url: /talks
       parent: Science
       weight: 2
+    - identifier: Posters
+      title: Posters
+      name: Posters
+      url: /posters
+      parent: Science
+      weight: 3
     # - identifier: gallery
     #   name: Gallery
     #   title: Blog posts
