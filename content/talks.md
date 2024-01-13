@@ -72,6 +72,6 @@ Hockings, K., Carvalho, S., Bersacola, E., Mielke, A., Ramon, M., Phillips, C., 
 
 **"Hunting in the Floodplain"**. February 4, 2022. [Watch Here](https://www.youtube.com/watch?v=9DVzuDbfwgs).
 
-3. **"The Feast in Mussicadzi"**. November 14, 2021. [Watch Here](https://www.youtube.com/watch?v=9LxJAvtPTPM).
+**"The Feast in Mussicadzi"**. November 14, 2021. [Watch Here](https://www.youtube.com/watch?v=9LxJAvtPTPM).
 
-4. **"Dead-infant Carrying in Baboons and Vervets of Gorongosa"**. November 1, 2021. [Watch Here](https://www.youtube.com/watch?v=U8D9AWhqWG0).
+**"Dead-infant Carrying in Baboons and Vervets of Gorongosa"**. November 1, 2021. [Watch Here](https://www.youtube.com/watch?v=U8D9AWhqWG0).
