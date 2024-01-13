@@ -2,7 +2,7 @@
 layout: page
 title: Posters
 description: "Conference Posters"
-image: /images/cvr5.jpg
+image: /images/conferences/poster_tolkien.png
 share: true
 date: "2023-01-13"
 author: jcoelho
