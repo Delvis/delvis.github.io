@@ -85,9 +85,9 @@ All mixed by: <a href="https://www.facebook.com/ZGcrAy/" target="_blank">José G
 
 ____
 
-# Singles (2018)
+## Singles (2019)
 
-## Palarvas, Casulos e Bourbonletras
+### Palarvas, Casulos e Bourbonletras
 
 Poetry: João Coelho as **DEL**, José Pinto as **LeVert**
 
@@ -95,7 +95,7 @@ Instrumental: <a href="https://www.facebook.com/LeVert-1703028409985952/" target
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oLa8aannazs" frameborder="0" allowfullscreen></iframe>
 
-## NAUTILUS
+### NAUTILUS
 
 Poetry: João Coelho as **g-elo** and **DEL**
 
@@ -103,18 +103,17 @@ Instrumental: <a href="https://www.youtube.com/channel/UCIZu-14HglBMrAbvAHieU0A"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MaLor-uA2QA" frameborder="0" allowfullscreen></iframe>
 
-## DE NETO A NOVELO
+### DE NETO A NOVELO
 
 Poetry: João Coelho as **DEL** (2010, recorded in 2018)
 
-Instrumental: <a href="https://www.facebook.com/midd.sensamilla" target="_blank">
-Jorge André Silva Fernandes (2008)</a>
+Instrumental: Jorge André Silva Fernandes (2008) as **miDD**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sblKoQo2hVQ" frameborder="0" allowfullscreen></iframe>
 
-# Singles (2018)
+## Singles (2018)
 
-## Διογένης, ou "Diogenes"
+### Διογένης, ou "Diogenes"
 
 Poetry: João Coelho as **DEL**
 
@@ -126,7 +125,7 @@ Mixed by: <a href="https://www.facebook.com/ZGcrAy/" target="_blank">José Guilh
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CG1Am8ePZlU" frameborder="0" allowfullscreen></iframe>
 
-## αxioma do sintoμa
+### αxioma do sintoμa
 
 Poetry: João Coelho as **delvispresley**
 
@@ -136,7 +135,7 @@ Mixed by: <a href="https://www.facebook.com/ZGcrAy/" target="_blank">José Guilh
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t_7fM-PMP9I" frameborder="0" allowfullscreen></iframe>
 
-## 0/10
+### 0/10
 
 Poetry: João Coelho as **DEL**
 
