@@ -11,9 +11,9 @@ author: jcoelho
 
 ## Media
 
-Digges C. 2023. Digging for Our Origins in the Bone Beds of an African Park. *Nautilus*, media coverage of <a href = "https://www.sciencedirect.com/science/article/pii/S2589004223017212" target = "_blank">10.1016/j.isci.2023.107644</a>
+Digges C. 2023. Digging for Our Origins in the Bone Beds of an African Park. <i><a href = "https://nautil.us/digging-for-our-origins-in-the-bone-beds-of-an-african-park-449572/" target = "_blank">Nautilus</a></i>, media coverage of <a href = "https://www.sciencedirect.com/science/article/pii/S2589004223017212" target = "_blank">10.1016/j.isci.2023.107644</a>
 
-Berdugo S. 2022. AI Fossil Hunters. *The Oxford Scientist*, media coverage of <a href = "https://peerj.com/articles/11573/" target = "_blank">10.7717/peerj.11573</a>
+Berdugo S. 2022. AI Fossil Hunters. <i><a href = "https://oxsci.org/ai-fossil-hunters/" target = "_blank">The Oxford Scientist</a></i>, media coverage of <a href = "https://peerj.com/articles/11573/" target = "_blank">10.7717/peerj.11573</a>
 
 **CADOES**:
 
