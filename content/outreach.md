@@ -21,7 +21,7 @@ Séneca H. 2019. Investigadores de Coimbra criam aplicação que revela sexo de 
 
 Observador. 2019. Investigadores portugueses criam software que facilita identificação do sexo de esqueletos humanos. <a href = "https://observador.pt/2019/07/29/investigadores-portugueses-criam-software-que-facilita-identificacao-do-sexo-de-esqueletos-humanos/" target = "_blank">Observador</a>.
 
-Agência Lusa. 2019. Novo programa informático facilita identificação do sexo de esqueletos humanos. <a href = "https://www.asbeiras.pt/2019/07/novo-programa-informatico-da-uc-facilita-identificacao-do-sexo-de-esqueletos-humanos/" target = "_blank">As Beiras</a>.
+Agência Lusa. 2019. Novo programa informático facilita identificação do sexo de esqueletos humanos. <a href = "https://www.asbeiras.pt/2019/07/novo-programa-informatico-da-uc-facilita-identificacao-do-sexo-de-esqueletos-humanos/" target = "_blank">Diário As Beiras</a>.
 
 Notícias UC. 2019. CADOES, o programa informático que vai facilitar o trabalho de antropólogos e arqueólogos. <a href = "https://noticias.uc.pt/artigos/cadoes-o-programa-informatico-que-vai-facilitar-o-trabalho-de-antropologos-e-arqueologos/" target = "_blank">Universidade de Coimbra</a>.
 
