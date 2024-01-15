@@ -55,6 +55,12 @@ Menus:
       url: /posters
       parent: Science
       weight: 3
+    - identifier: Outreach
+      title: Outreach
+      name: Outreach
+      url: /outreach
+      parent: Science
+      weight: 4
     # - identifier: gallery
     #   name: Gallery
     #   title: Blog posts

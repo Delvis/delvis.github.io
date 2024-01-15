@@ -44,11 +44,11 @@ Curate F, **d’Oliveira Coelho J**, Gonçalves D, Coelho C, Ferreira MT, Navega
 
 ## Book Chapters
 
-**d’Oliveira Coelho J** (2023). JOÃO COELHO. In: Wasterlain, SN. (Eds.), *30 Anos, 30 Antropólogos*. Imprensa da Universidade de Coimbra: 51-56.
+**d’Oliveira Coelho J** (2023). JOÃO COELHO. *In*: Wasterlain, SN. (Eds.), *30 Anos, 30 Antropólogos*. Imprensa da Universidade de Coimbra: 51-56.
 
-Bobe R, **d’Oliveira Coelho J**, Carvalho S, Leakey M. 2022. Early Hominins and Paleoecology of the Koobi Fora Formation, Lake Turkana Basin, Kenya. In: Reynolds, SC, Bobe, R. (Eds.), *African Paleoecology and Human Evolution*. Cambridge University Press, Cambridge: 311–331. DOI: 10.1017/9781139696470.026
+Bobe R, **d’Oliveira Coelho J**, Carvalho S, Leakey M. 2022. Early Hominins and Paleoecology of the Koobi Fora Formation, Lake Turkana Basin, Kenya. *In*: Reynolds, SC, Bobe, R. (Eds.), *African Paleoecology and Human Evolution*. Cambridge University Press, Cambridge: 311–331. DOI: 10.1017/9781139696470.026
 
-**d’Oliveira Coelho J**, Curate F, Navega D. 2020. Chapter 5.1 - Osteomics: Decision support systems for forensic anthropologists. In: Obertová, Z., Stewart, A., Cattaneo, C. (Eds.), *Statistics and Probability in Forensic Anthropology*. Academic Press: 259–273.
+**d’Oliveira Coelho J**, Curate F, Navega D. 2020. Chapter 5.1 - Osteomics: Decision support systems for forensic anthropologists. *In*: Obertová, Z, Stewart A, Cattaneo C. (Eds.), *Statistics and Probability in Forensic Anthropology*. Academic Press: 259–273.
 
 ## Conference Papers
 
