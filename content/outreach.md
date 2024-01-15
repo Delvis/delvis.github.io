@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Talks
-description: "Conference Podium Presentations and Invited Talks"
+title: Outreach
+description: "Media and educational material"
 image: /images/cvr5.jpg
 share: true
 date: "2023-01-15"
