@@ -2,7 +2,7 @@
 layout: post
 title: "ORLA - Espiral Medusa"
 description: "New album from ORLA"
-modified: 2020-04-02
+modified: 2020-07-07
 tags: [literature, short story, conto, surrealism, ORLA, pᴼᴸᴸᴵᴱdro, experimental, Espiral Medusa, Crouga, experimental, bouzouki, ambient, raps, TΩDΩ-PΩDEλΩSΩ]
 image: /images/poetry/ORLA_ESPIRAL_MEDUSA.png
 author: pᴼᴸᴸᴵᴱdro
@@ -60,6 +60,7 @@ Enfurecido, o Areal vira-se e não responde visto que nem sequer estava lá.
 
 
 — Pedro Petrus “pᴼᴸᴸᴵᴱdro”, o Pedra-Calhau
+(written on April 1st 2020, originally published in my facebook page).
 
 ---
 
