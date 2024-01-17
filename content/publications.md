@@ -52,16 +52,16 @@ Bobe R, **d’Oliveira Coelho J**, Carvalho S, Leakey M. 2022. Early Hominins an
 
 ## Conference Papers
 
+Andrade B, Dias P, Santos BS, Coelho C, **d’Oliveira Coelho J**, Navega D, Ferreira MT, Wasterlain S. Morphological analysis of 3D skull models for ancestry estimation. 2018. *22nd International Conference Information Visualisation (IV) 2018 Jul 10 (IEEE)*:567–573. <a href = "https://ieeexplore.ieee.org/document/8564222" target = "_blank">10.1109/iV.2018.00104</a>
+
+Andrade B, Dias P, Coelho C, **d’Oliveira Coelho J**, Navega D, Wasterlain SN, Ferreira MT, Santos BS. 2016. Towards automatic non-metric traits analysis on 3D models of skulls. *23rd Portuguese Meeting on Computer Graphics and Interaction (EPCGI)*:1–7. <a href = "https://ieeexplore.ieee.org/document/7851196" target = "_blank">10.1109/EPCGI.2016.7851196</a>
+
+## Published Abstracts (Society Meetings)
+
 Scott GR, Navega D, **d’Oliveira Coelho J**, Vlemincq-Mendieta T, Kenessey D, Pilloud MA. 2022. Tooth morphology and population affinity: testing rASUDAS2 on modern African and European-derived samples. *American Journal of Biological Anthropology*, **177**(S73):164–165. <a href = "https://onlinelibrary.wiley.com/doi/10.1002/ajpa.24514" target = "_blank">10.1002/ajpa.24514</a>
 
 Dorans ER, **d’Oliveira Coelho J**, Anemone RL, Bobe R, Carvalho S, Forrest F, Braun DR. 2020. Using remote sensing and machine learning to reconstruct paleoenvironmental features in the Koobi Fora Formation. *American Journal of Physical Anthropology*, **171**(S69):73–74. <a href = "https://onlinelibrary.wiley.com/doi/10.1002/ajpa.24023" target = "_blank">10.1002/ajpa.24023</a>
 
 **d’Oliveira Coelho J**, Anemone RL, Carvalho S. 2020. Filling Gaps in Primate Evolution: Machine Learning Approaches for Automated Fossil Site Discovery in Gorongosa, Mozambique. *Folia Primatologica*, **91**(3):251–252. <a href = "https://brill.com/view/journals/ijfp/91/3/article-p240_7.xml" target = "_blank">10.1159/000502392</a>
 
-Andrade B, Dias P, Santos BS, Coelho C, **d’Oliveira Coelho J**, Navega D, Ferreira MT, Wasterlain S. Morphological analysis of 3D skull models for ancestry estimation. 2018. *22nd International Conference Information Visualisation (IV) 2018 Jul 10 (IEEE)*:567–573. <a href = "https://ieeexplore.ieee.org/document/8564222" target = "_blank">10.1109/iV.2018.00104</a>
-
 Makhoul C, Amarante A, **d’Oliveira Coelho J**, Navega D, Almeida M, Parker SF, Ferreira MT, Viegas DX, Marques M, de Carvalho LB, Gonçalves D, Cunha E. 2017. Experimental burning and real fire scenarios: Are they comparable in terms of chemical anthropology? *La Revue de Médecine Légale*, **8**(4): 187. <a href = "https://www.sciencedirect.com/science/article/pii/S1878652917300974" target = "_blank">10.1016/j.medleg.2017.10.019</a>
-
-Andrade B, Dias P, Coelho C, **d’Oliveira Coelho J**, Navega D, Wasterlain SN, Ferreira MT, Santos BS. 2016. Towards automatic non-metric traits analysis on 3D models of skulls. *23rd Portuguese Meeting on Computer Graphics and Interaction (EPCGI)*:1–7. <a href = "https://ieeexplore.ieee.org/document/7851196" target = "_blank">10.1109/EPCGI.2016.7851196</a>
-
-
