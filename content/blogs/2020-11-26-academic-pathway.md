@@ -3,12 +3,12 @@ layout: post
 title: "Academic Pathway"
 description: "Written for PrimoBevoLab"
 modified: 2020-11-26
-tags: [academia, PhD, Oxford University, prose, autobiographic]
+tags: [academia, PhD, Oxford University, autobiographic]
 image: /images/fieldwork/gorongosa/2018/safari_by_chelsea.jpg
 author: João d'Oliveira Coelho
 ---
 
-**This text was written for "Pathways into Academia" series from the PrimoBevoLab website**
+*This text was written for "Pathways into Academia" series from the PrimoBevoLab website*
 
 ## João's Pathway to Graduate Student
 
