@@ -10,15 +10,15 @@ author: Johan Joakimson
 
 ## Delade Känslor
 
-Jag går som en kentaur, <br></br>
-halv man, halv älg <br></br>
-Jag tycker om dig, <br></br>
-men <br></br>
-jag älskar henne. <br></br>
+Jag går som en kentaur, </br>
+halv man, halv älg </br>
+Jag tycker om dig, </br>
+men </br>
+jag älskar henne. </br>
 
-Kommer du <br></br>
-eller <br></br>
-inte? <br></br>
+Kommer du </br>
+eller </br>
+inte? </br>
 
 2017 oktober 30,
 — Johan Joakimson
