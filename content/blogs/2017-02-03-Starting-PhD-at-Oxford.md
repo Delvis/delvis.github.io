@@ -3,7 +3,7 @@ layout: post
 title: "Starting PhD at Oxford"
 description: "Philosophiae Doctor"
 modified: 2017-02-03
-tags: [programming, data science, Mozambique, PhD, Oxford University, geospatial paleoanthropology]
+tags: [programming, data science, Mozambique, PhD, Oxford University, geospatial paleoanthropology, academia]
 author: João d'Oliveira Coelho
 ---
 
