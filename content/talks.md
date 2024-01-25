@@ -36,7 +36,7 @@ Ferreira MT, Coelho C, Rufino AI, Navega D, **d’Oliveira Coelho J**, Wasterlai
 
 Rodrigues H, Fagundes L, Ramos R, Galego O, **d’Oliveira Coelho J**, Navega D, Caseiro-Alves F, Cunha E. 2017. Análise da mastóide, ouvido médio e ouvido interno em tomografia axial computarizada (TAC) - Possível contribuição para a identificação de cadáveres. *16º Congresso de Medicina Legal e Ciências Forenses*. Coimbra, Portugal.
 
-Pilloud MA, Scott GR, Navega D, d'Oliveira Coelho J, Cunha E, and Irish JD. 2017. A New Application for Estimating Ancestry Based on Dental Morphology. *American Academy of Forensic Sciences 69th Annual Scientific Meeting*. New Orleans, USA.
+Pilloud MA, Scott GR, Navega D, **d’Oliveira Coelho J**, Cunha E, Irish JD. 2017. A New Application for Estimating Ancestry Based on Dental Morphology. *American Academy of Forensic Sciences 69th Annual Scientific Meeting*. New Orleans, USA.
 
 Rufino AI, **d’Oliveira Coelho J**, Navega D. 2016. A coleção PAVd'09 (Lagos): futuro e novas perspetivas. *V Jornadas Portuguesas de Paleopatologia*. Coimbra, Portugal.
 
