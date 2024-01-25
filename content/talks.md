@@ -56,7 +56,7 @@ Scott GR, Navega D, **d’Oliveira Coelho J**, Cunha E, Irish JD. 2016. rASUDAS:
 
 **d’Oliveira Coelho J**. 2023. Early Apes and Bipedalism Origins. *Ecology and Evolution Seminar Series for the MSc in Cognitive and Evolutionary Anthropology*. University of Oxford, United Kingdom.
 
-**d’Oliveira Coelho J**. 2023. Testemunos de Alumni do DCV. *Semana de Recepçao ao Caloiro: Apresentação dos Centros de Investigação do Departamento de Ciências da Vida*. Universidade de Coimbra, Portugal.
+**d’Oliveira Coelho J**. 2023. Testemunho de um ex-estudante do DCV. *Semana de Recepção ao Caloiro: Apresentação dos Centros de Investigação do Departamento de Ciências da Vida*. Universidade de Coimbra, Portugal.
 
 **d’Oliveira Coelho J**. 2023. Descoberta de sítios fósseis e reconstrução paleoecológica a partir de imagens de satélite. *Ciclo de Conferências: O Bom Antropólogo a casa torna*. Universidade de Coimbra, Portugal.
 
