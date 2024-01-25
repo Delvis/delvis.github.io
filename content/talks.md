@@ -71,6 +71,6 @@ Scott GR, Navega D, **d’Oliveira Coelho J**. 2021. The Evolution of rASUDAS an
 
 **d’Oliveira Coelho J**. 2018. Modern Human Variation: Skeletal Anatomy. *Guest Lecture for the BSc in Archaeology*. University of Oxford, United Kingdom.
 
-**d’Oliveira Coelho J**, Gaspar A. 2017. Debate: Empreendedorismo e Inovação em Antropologia. *ANTROP I9*. Universidade de Coimbra, Portugal.
+**d’Oliveira Coelho J**, Gaspar A. 2017. Debate: Empreendedorismo e Inovação em Antropologia. *Académica StartUC: ANTROP I9*. Universidade de Coimbra, Portugal.
 
 **d’Oliveira Coelho J**. 2015. Bioantropologia Aplicada: Business Incubators & Data Science. *NEA/AAC - Antropotalks*. Universidade de Coimbra, Portugal.
