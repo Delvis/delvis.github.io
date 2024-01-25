@@ -28,13 +28,15 @@ Bobe R, **d’Oliveira Coelho J**, Carvalho S. 2022. Biogeographic approaches to
 
 **d’Oliveira Coelho J**, Anemone RL, Carvalho S. 2018. Why bother surveying? How automated search of fossil sites in Africa can help fill gaps in hominoid evolution. *Abstracts of the 27th International Primatological Society Congress. Event–714*. Nairobi, Kenya.
 
-Ammer S, **d’Oliveira Coelho J**. 2017. Estimating Sex with Outline Shape Analysis of the Trochlear Constriction and the Olecranon Fossa. *American Academy of Forensic Sciences 70th Annual Scientific Meeting*. Seattle, USA.
+Ammer S, **d’Oliveira Coelho J**. 2018. Estimating Sex with Outline Shape Analysis of the Trochlear Constriction and the Olecranon Fossa. *American Academy of Forensic Sciences 70th Annual Scientific Meeting*. Seattle, USA.
 
 **d’Oliveira Coelho J**, Ammer S. 2017. Sex estimation based on outline shape analysis of the posterior distal humerus, *MORPH 2017 - A Conference on the Archaeological Applications of Morphometrics*. Aarhus, Denmark.
 
 Ferreira MT, Coelho C, Rufino AI, Navega D, **d’Oliveira Coelho J**, Wasterlain SN. 2017. Os Escravos do Valle da Gafaria: recuperar a identidade através dos ossos. *Dia Internacional dos Museus*. Viseu, Portugal.
 
 Rodrigues H, Fagundes L, Ramos R, Galego O, **d’Oliveira Coelho J**, Navega D, Caseiro-Alves F, Cunha E. 2017. Análise da mastóide, ouvido médio e ouvido interno em tomografia axial computarizada (TAC) - Possível contribuição para a identificação de cadáveres. *16º Congresso de Medicina Legal e Ciências Forenses*. Coimbra, Portugal.
+
+Pilloud MA, Scott GR, Navega D, d'Oliveira Coelho J, Cunha E, and Irish JD. 2017. A New Application for Estimating Ancestry Based on Dental Morphology. *American Academy of Forensic Sciences 69th Annual Scientific Meeting*. New Orleans, USA.
 
 Rufino AI, **d’Oliveira Coelho J**, Navega D. 2016. A coleção PAVd'09 (Lagos): futuro e novas perspetivas. *V Jornadas Portuguesas de Paleopatologia*. Coimbra, Portugal.
 
@@ -61,8 +63,14 @@ Scott GR, Navega D, **d’Oliveira Coelho J**, Cunha E, Irish JD. 2016. rASUDAS:
 
 **d’Oliveira Coelho J**. 2022. Ape Origins and Evolution across the Oligo-Miocene. *Ecology and Evolution Seminar Series for the MSc in Cognitive and Evolutionary Anthropology*. University of Oxford, United Kingdom.
 
-**d’Oliveira Coelho J**. 2021. In search of Gorongosa's fossil sites: an automated approach using satellites and unsupervised machine learning. *Gorongosa Research Seminars*, Chitengo, Moçambique.
+**d’Oliveira Coelho J**. 2021. In search of Gorongosa's fossil sites: an automated approach using satellites and unsupervised machine learning. *Gorongosa Research Seminars*. Chitengo, Moçambique.
 
 Scott GR, Navega D, **d’Oliveira Coelho J**. 2021. The Evolution of rASUDAS and Its Application to Bioarchaeological Problems. *Centro de Investigação em Antropologia e Saúde BioSocial Talks*. Online Seminar.
 
-**d’Oliveira Coelho J**. 2015. Bioantropologia Aplicada: business incubators & data science.  *NEA/AAC - Antropotalks*. Universidade de Coimbra, Portugal.
+**d’Oliveira Coelho J**. 2019. A Forensic Anthropology Perspective on Modern Human Variation. *Guest talk Lecture for the BSc in Archaeology*. University of Oxford, United Kingdom.
+
+**d’Oliveira Coelho J**. 2018. Modern Human Variation: Skeletal Anatomy. *Guest talk Lecture for the BSc in Archaeology*. University of Oxford, United Kingdom.
+
+**d’Oliveira Coelho J**, Gaspar A. 2017. Debate: Empreendedorismo e Inovação em Antropologia. *ANTROP I9*. Universidade de Coimbra, Portugal.
+
+**d’Oliveira Coelho J**. 2015. Bioantropologia Aplicada: business incubators & data science. *NEA/AAC - Antropotalks*. Universidade de Coimbra, Portugal.
