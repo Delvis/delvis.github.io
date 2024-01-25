@@ -51,8 +51,14 @@ Scott GR, Navega D, **d’Oliveira Coelho J**, Cunha E, Irish JD. 2016. rASUDAS:
 
 ## Invited Talks
 
-**d’Oliveira Coelho J**. Descoberta de sítios fósseis e reconstrução paleoecológica a partir de imagens de satélite. 2023. *Ciclo de Conferências: O Bom Antropólogo a casa torna*. Universidade de Coimbra, Coimbra, Portugal (Seminar).
+**d’Oliveira Coelho J**. 2023. Early Apes and Bipedalism Origins. *MSc in Cognitive and Evolutionary Anthropology*. University of Oxford, United Kingdom.
+
+**d’Oliveira Coelho J**. 2023. Descoberta de sítios fósseis e reconstrução paleoecológica a partir de imagens de satélite. *Ciclo de Conferências: O Bom Antropólogo a casa torna*. Universidade de Coimbra, Portugal (Seminar).
+
+**d’Oliveira Coelho J**. 2022. Ape Origins and Evolution across the Oligo-Miocene. *MSc in Cognitive and Evolutionary Anthropology*. University of Oxford, United Kingdom.
+
+**d’Oliveira Coelho J**. 2021. In search of Gorongosa's fossil sites: an automated approach using satellites and unsupervised machine learning. *Gorongosa Research Seminars*, Chitengo, Moçambique.
 
 Scott GR, Navega D, **d’Oliveira Coelho J**. 2021. The Evolution of rASUDAS and Its Application to Bioarchaeological Problems. *Centro de Investigação em Antropologia e Saúde BioSocial Talks*. Online Seminar.
 
-**d’Oliveira Coelho J**. Bioantropologia Aplicada: business incubators & data science. 2015. *NEA/AAC: Antropotalks*. Universidade de Coimbra, Coimbra, Portugal (Seminar).
+**d’Oliveira Coelho J**. 2015. Bioantropologia Aplicada: business incubators & data science.  *NEA/AAC - Antropotalks*. Universidade de Coimbra, Portugal.
