@@ -53,7 +53,10 @@ Scott GR, Navega D, **d’Oliveira Coelho J**, Cunha E, Irish JD. 2016. rASUDAS:
 
 ## Invited Talks
 
+
 **d’Oliveira Coelho J**. 2023. Early Apes and Bipedalism Origins. *Ecology and Evolution Seminar Series for the MSc in Cognitive and Evolutionary Anthropology*. University of Oxford, United Kingdom.
+
+**d’Oliveira Coelho J**. 2023. Testemunos de Alumni do DCV. *Semana de Recepçao ao Caloiro: Apresentação dos Centros de Investigação do Departamento de Ciências da Vida*. Universidade de Coimbra, Portugal.
 
 **d’Oliveira Coelho J**. 2023. Descoberta de sítios fósseis e reconstrução paleoecológica a partir de imagens de satélite. *Ciclo de Conferências: O Bom Antropólogo a casa torna*. Universidade de Coimbra, Portugal.
 
@@ -68,6 +71,10 @@ Scott GR, Navega D, **d’Oliveira Coelho J**, Cunha E, Irish JD. 2016. rASUDAS:
 Scott GR, Navega D, **d’Oliveira Coelho J**. 2021. The Evolution of rASUDAS and Its Application to Bioarchaeological Problems. *Centro de Investigação em Antropologia e Saúde BioSocial Talks*. Online Seminar.
 
 **d’Oliveira Coelho J**. 2019. A Forensic Perspective on Modern Human Variation. *Guest Lecture for the BSc in Archaeology*. University of Oxford, United Kingdom.
+
+**d’Oliveira Coelho J**. Na procura de sítios fósseis com homínineos em Moçambique: uma abordagem geoespacial automatizada. *Centre for Functional Ecology: Conferences*. Universidade de Coimbra, Portugal.
+
+**d’Oliveira Coelho J**, Carvalheira D. 2018. Saídas profissionais: experiências de ex-alunos. *BeAnthropology – I Encontro Nacional de Estudantes de Antropologia*. Universidade de Coimbra, Portugal.
 
 **d’Oliveira Coelho J**. 2018. Modern Human Variation: Skeletal Anatomy. *Guest Lecture for the BSc in Archaeology*. University of Oxford, United Kingdom.
 
