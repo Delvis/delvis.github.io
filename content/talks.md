@@ -67,9 +67,9 @@ Scott GR, Navega D, **d’Oliveira Coelho J**, Cunha E, Irish JD. 2016. rASUDAS:
 
 Scott GR, Navega D, **d’Oliveira Coelho J**. 2021. The Evolution of rASUDAS and Its Application to Bioarchaeological Problems. *Centro de Investigação em Antropologia e Saúde BioSocial Talks*. Online Seminar.
 
-**d’Oliveira Coelho J**. 2019. A Forensic Anthropology Perspective on Modern Human Variation. *Guest talk Lecture for the BSc in Archaeology*. University of Oxford, United Kingdom.
+**d’Oliveira Coelho J**. 2019. A Forensic Anthropology Perspective on Modern Human Variation. *Guest Lecture for the BSc in Archaeology*. University of Oxford, United Kingdom.
 
-**d’Oliveira Coelho J**. 2018. Modern Human Variation: Skeletal Anatomy. *Guest talk Lecture for the BSc in Archaeology*. University of Oxford, United Kingdom.
+**d’Oliveira Coelho J**. 2018. Modern Human Variation: Skeletal Anatomy. *Guest Lecture for the BSc in Archaeology*. University of Oxford, United Kingdom.
 
 **d’Oliveira Coelho J**, Gaspar A. 2017. Debate: Empreendedorismo e Inovação em Antropologia. *ANTROP I9*. Universidade de Coimbra, Portugal.
 
