@@ -51,11 +51,15 @@ Scott GR, Navega D, **d’Oliveira Coelho J**, Cunha E, Irish JD. 2016. rASUDAS:
 
 ## Invited Talks
 
-**d’Oliveira Coelho J**. 2023. Early Apes and Bipedalism Origins. *MSc in Cognitive and Evolutionary Anthropology*. University of Oxford, United Kingdom.
+**d’Oliveira Coelho J**. 2023. Early Apes and Bipedalism Origins. *Ecology and Evolution Seminar Series for the MSc in Cognitive and Evolutionary Anthropology*. University of Oxford, United Kingdom.
 
-**d’Oliveira Coelho J**. 2023. Descoberta de sítios fósseis e reconstrução paleoecológica a partir de imagens de satélite. *Ciclo de Conferências: O Bom Antropólogo a casa torna*. Universidade de Coimbra, Portugal (Seminar).
+**d’Oliveira Coelho J**. 2023. Descoberta de sítios fósseis e reconstrução paleoecológica a partir de imagens de satélite. *Ciclo de Conferências: O Bom Antropólogo a casa torna*. Universidade de Coimbra, Portugal.
 
-**d’Oliveira Coelho J**. 2022. Ape Origins and Evolution across the Oligo-Miocene. *MSc in Cognitive and Evolutionary Anthropology*. University of Oxford, United Kingdom.
+**d’Oliveira Coelho J**. 2023. Miocene Gorongosa. *Guest Lecture for the MSc in Human Evolution and Biology*. Universidade de Coimbra, Portugal.
+
+**d’Oliveira Coelho J**. 2023. Hominoidea: Origins, Biogeography, and Evolution. *Guest Lecture for the MSc in Human Evolution and Biology*. Universidade de Coimbra, Portugal.
+
+**d’Oliveira Coelho J**. 2022. Ape Origins and Evolution across the Oligo-Miocene. *Ecology and Evolution Seminar Series for the MSc in Cognitive and Evolutionary Anthropology*. University of Oxford, United Kingdom.
 
 **d’Oliveira Coelho J**. 2021. In search of Gorongosa's fossil sites: an automated approach using satellites and unsupervised machine learning. *Gorongosa Research Seminars*, Chitengo, Moçambique.
 
