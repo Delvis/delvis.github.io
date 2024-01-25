@@ -74,7 +74,7 @@ Scott GR, Navega D, **d’Oliveira Coelho J**. 2021. The Evolution of rASUDAS an
 
 **d’Oliveira Coelho J**. Na procura de sítios fósseis com homínineos em Moçambique: uma abordagem geoespacial automatizada. *Centre for Functional Ecology: Conferences*. Universidade de Coimbra, Portugal.
 
-**d’Oliveira Coelho J**, Carvalheira D. 2018. Saídas profissionais: experiências de ex-alunos. *BeAnthropology – I Encontro Nacional de Estudantes de Antropologia*. Universidade de Coimbra, Portugal.
+Carvalheira D, **d’Oliveira Coelho J**. 2018. Saídas profissionais: experiências de ex-alunos. *BeAnthropology – I Encontro Nacional de Estudantes de Antropologia*. Universidade de Coimbra, Portugal.
 
 **d’Oliveira Coelho J**. 2018. Modern Human Variation: Skeletal Anatomy. *Guest Lecture for the BSc in Archaeology*. University of Oxford, United Kingdom.
 
