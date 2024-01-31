@@ -10,7 +10,7 @@ author: jcoelho
 
 ## Scientific Articles
 
-Freymann E, **d’Oliveira Coelho J**, Muhumuza G, Hobaiter C, Huffman MA, Zuberbühler K, Carvalho S. 2023 (Accepted). Applying Collocation and APRIORI Analyses to Chimpanzee Diets: methods for investigating non-random food combinations in primate self-medication. *American Journal of Primatology*. (Accepted)
+Freymann E, **d’Oliveira Coelho J**, Muhumuza G, Hobaiter C, Huffman MA, Zuberbühler K, Carvalho S. 2024 . Applying collocation and APRIORI analyses to chimpanzee diets: Methods for investigating nonrandom food combinations in primate self-medication. *American Journal of Primatology*. **e23603** <a href ="https://onlinelibrary.wiley.com/doi/10.1002/ajp.23603" target = "_blank">10.1002/ajp.23603</a>
 
 Bobe R, Aldeias V, Alemseged Z, Anemone RL, Archer W, Aumaître G, Bamford MK, Biro D, Bourlès DL, Boyd MD, Braun DR, Capelli C, **d’Oliveira Coelho J**, Habermann JM, Head JJ, Keddadouche K, Kupczik K, Lebatard A-E, Lüdecke T, Macôa A, Martínez FI, Mathe J, Mendes C, Paulo LM, Pinto M, Presnyakova D, Püschel TA, Regala FT, Sier M, da Silva MJF, Stalmans M, Carvalho S. 2023. The first Miocene fossils from coastal woodlands in the southern East African Rift. *iScience*. **26** (9). <a href ="https://www.sciencedirect.com/science/article/pii/S2589004223017212" target = "_blank">10.1016/j.isci.2023.107644</a>
 
