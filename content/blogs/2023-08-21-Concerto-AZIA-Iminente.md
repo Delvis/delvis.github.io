@@ -2,7 +2,7 @@
 layout: post
 title: "AZIA - Iminente"
 description: "Concerto de AZIA, no Festival Iminente (2022) c/ DEL e DJ Score"
-modified: 2023-04-21
+modified: 2023-08-21
 image: https://cdn-images.rtp.pt/EPG/imagens/44046_69828_80472.jpg
 tags: [AZIA, DJ Score, DEL, Meurónios Bosque, Lisboa, experimental, psychedelic rap, LIVE]
 author: DEL
