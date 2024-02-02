@@ -15,8 +15,9 @@ Amazing concert from **AZIA** with DJ Score on the blades, where I had the honou
 
 Streaming link: https://www.rtp.pt/play/palco/p11779/azia-festival-iminente-2022
 
+Heads-up: it's all in Portuguese, of course!
 
-# Stealing stills
+## Stealing stills
 
 <figure>
 	<img src="/images/live/AZIA-IMINENTE-0.png" alt="AZIA LIVE @ IMINENTE 2022">
