@@ -3,7 +3,7 @@ layout: post
 title: "DMT - My first album, produced by Z G A is out!"
 description: "ACID IDM RAP"
 modified: 2019-01-01
-tags: [ZGA, DEL, DMT, raps, hip hop, electronic, IDM, ORLA, Crouga]
+tags: [ZGA, DEL, DMT, raps, electronic, IDM, ORLA, Crouga, psychedelic rap]
 image: /images/LOGO_FULL_SHADOWED.png
 author: DEL
 ---

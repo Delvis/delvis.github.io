@@ -3,7 +3,7 @@ layout: post
 title: "1 year of ORLA"
 description: "ORLA MASS release... one year after"
 modified: 2019-11-12
-tags: [ORLA, MASS, DMT, ZGA, Crouga, zer-0, LeVert, experimental, electronic, ambient, raps]
+tags: [ORLA, MASS, DMT, ZGA, Crouga, zer-0, LeVert, experimental, electronic, ambient, psychedelic rap]
 image: /images/ORLA.png
 author: João Pedro Valente
 ---
