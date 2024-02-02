@@ -4,7 +4,7 @@ title: "K. Wölf - Concerto Para Dormir"
 description: "K. Wölf - Concerto Para Dormir"
 modified: 2021-12-18
 image: http://i3.ytimg.com/vi/wm3vfykJNQA/hqdefault.jpg
-tags: [K. Wölf, Meurónios Bosque, Ansião, Coimbra, experimental, música portuguesa, ambient, guitar,TΩDΩ-PΩDEλΩSΩ, guitarra elétrica, Gonçalo Parreirão]
+tags: [K. Wölf, Meurónios Bosque, Ansião, Coimbra, experimental, música portuguesa, ambient, guitar,TΩDΩ-PΩDEλΩSΩ, guitarra elétrica, Gonçalo Parreirão, LIVE]
 author: DEL
 ---
 
