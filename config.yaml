@@ -249,7 +249,7 @@ params:
       - job: "Graduate Student"
         company: "PrimoBevo Lab"
         companyUrl: "https://primobevolab.web.ox.ac.uk/"
-        date: "2017-2024"
+        date: "2017-2023"
         info:
           enable: true
           content: Researcher at the Primate Models for Behavioural Evolution Lab, University of Oxford (UK)
@@ -295,7 +295,7 @@ params:
         school:
           name: "University of Oxford, United Kingdom"
           url: "https://www.ox.ac.uk/admissions/graduate/courses/dphil-anthropology"
-        date: "2017 - 2024"
+        date: "2017 - "
         content: |-
           Thesis
           - From satellite pixels to fossil apes: targeting gaps in the hominid fossil record
