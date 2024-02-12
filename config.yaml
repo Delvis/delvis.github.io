@@ -195,9 +195,9 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a self-taught programmer with an academic background in biological anthropology. I graduated in Human Evolution and Biology at the University of Coimbra, while simultaneously founding [osteomics](http://osteomics.com), where I developed several web applications.
+      I am a self-taught programmer with an academic background in biological anthropology. I graduated in Human Evolution and Biology at the University of Coimbra, while simultaneously founding <a href="https://osteomics.com" target = "_blank">osteomics</a>, where I developed several web applications.
 
-      I am currently completing a DPhil at the University of Oxford in Geospatial Paleoanthropology and doing fieldwork at Gorongosa National Park in Mozambique.
+      Later I obtained a DPhil at University of Oxford in Geospatial Paleoanthropology. Currently, I am a paleontologist at Gorongosa National Park, Mozambique.
     skills:
       enable: true
       title: "Here are a few technologies I can help you with:"
@@ -295,7 +295,7 @@ params:
         school:
           name: "University of Oxford, United Kingdom"
           url: "https://www.ox.ac.uk/admissions/graduate/courses/dphil-anthropology"
-        date: "2017 - "
+        date: "2017–2023"
         content: |-
           Thesis
           - From satellite pixels to fossil apes: targeting gaps in the hominid fossil record
@@ -313,7 +313,7 @@ params:
         school:
           name: "Universidade de Coimbra, Portugal"
           url: "https://apps.uc.pt/courses/en/course/340"
-        date: "2013 - 2015"
+        date: "2013–2015"
         content: |-
           Dissertation
           - Unwarping Heated Bones: a quantitative analysis of heat-induced skeletal deformations using 3D geometric morphometrics
@@ -331,7 +331,7 @@ params:
         school:
           name: "Universidade de Coimbra, Portugal"
           url: "https://apps.uc.pt/courses/en/course/345"
-        date: "2010 - 2013"
+        date: "2010–2013"
         content: |-
           Erasmus programme
           - Háskóli Íslands, Iceland (2012 - 2013)
