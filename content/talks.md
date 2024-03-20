@@ -14,7 +14,7 @@ author: jcoelho
 
 Bobe R, **d’Oliveira Coelho J**, Püschel TA, Carvalho S. 2023 The diversification of African primates in the Neogene: key questions and new data. *Joint Meeting of the International Primatological Society and the Malaysian Primatological Society*. Kuching, Malaysia.
 
-Farassi R, **d’Oliveira Coelho J**, Carvalho S. 2023. Object manipulation by chacma baboons (Papio ursinus) in Gorongosa National Park. *Joint Meeting of the International Primatological Society and the Malaysian Primatological Society*. Kuching, Malaysia.
+Farassi R, **d’Oliveira Coelho J**, Carvalho S. 2023. Object manipulation by chacma baboons (*Papio ursinus*) in Gorongosa National Park. *Joint Meeting of the International Primatological Society and the Malaysian Primatological Society*. Kuching, Malaysia.
 
 Freymann E, **d’Oliveira Coelho, J.**, Muhumuza G, Hobaiter C, Huffman MA, Zuberbühler K, Carvalho S. 2023. Applying Collocation and APRIORI Analyses to Chimpanzee Diets: methods for investigating non-random food combinations in primate self-medication. *Primate Society of Great Britain Spring Meeting*. Cambridge, United Kingdom.
 
@@ -72,11 +72,11 @@ Scott GR, Navega D, **d’Oliveira Coelho J**. 2021. The Evolution of rASUDAS an
 
 **d’Oliveira Coelho J**. 2019. A Forensic Perspective on Modern Human Variation. *Guest Lecture for the BSc in Archaeology*. University of Oxford, United Kingdom.
 
-**d’Oliveira Coelho J**. Na procura de sítios fósseis com homínineos em Moçambique: uma abordagem geoespacial automatizada. *Centre for Functional Ecology: Conferences*. Universidade de Coimbra, Portugal.
+**d’Oliveira Coelho J**. 2018. Na procura de sítios fósseis com homínineos em Moçambique: uma abordagem geoespacial automatizada. *Centre for Functional Ecology: Conferences*. Universidade de Coimbra, Portugal.
 
 Carvalheira D, **d’Oliveira Coelho J**. 2018. Saídas profissionais: experiências de ex-alunos. *BeAnthropology – I Encontro Nacional de Estudantes de Antropologia*. Universidade de Coimbra, Portugal.
 
-**d’Oliveira Coelho J**. 2018. Modern Human Variation: Skeletal Anatomy. *Guest Lecture for the BSc in Archaeology*. University of Oxford, United Kingdom.
+**d’Oliveira Coelho J**. 2018. Modern Human Variation, Forensic Anthropology, and Osteomics. *Guest Lecture for the BSc in Archaeology*. University of Oxford, United Kingdom.
 
 **d’Oliveira Coelho J**, Gaspar A. 2017. Debate: Empreendedorismo e Inovação em Antropologia. *Académica StartUC: ANTROP I9*. Universidade de Coimbra, Portugal.
 
