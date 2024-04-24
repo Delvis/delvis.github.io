@@ -15,6 +15,8 @@ Digges C. 2023. Digging for Our Origins in the Bone Beds of an African Park. <i>
 
 Berdugo S. 2022. AI Fossil Hunters. <i><a href = "https://oxsci.org/ai-fossil-hunters/" target = "_blank">The Oxford Scientist</a></i>, media coverage of <a href = "https://peerj.com/articles/11573/" target = "_blank">10.7717/peerj.11573</a>
 
+Diário Económico. 2021. Parque Nacional de Gorongosa Usa Inteligência Artificial Para Descobrir Novos Locais de Fósseis. <i><a href = "https://www.diarioeconomico.co.mz/2021/08/16/trends/sustentabilidade/parque-nacional-de-gorongosa-usa-inteligencia-artificial-para-descobrir-novos-locais-de-fosseis/" target = "_blank">diarioeconomico.co.mz</a></i>, media coverage of <a href = "https://peerj.com/articles/11573/" target = "_blank">10.7717/peerj.11573</a>
+
 **CADOES**:
 
 Séneca H. 2019. Investigadores de Coimbra criam aplicação que revela sexo de esqueletos. <a href = "https://visao.pt/exameinformatica/noticias-ei/ciencia-ei/2019-07-29-Investigadores-de-Coimbra-criam-aplicacao-que-revela-sexo-de-esqueletos/" target = "_blank">Exame Informática</a>.

@@ -53,6 +53,7 @@ Scott GR, Navega D, **d’Oliveira Coelho J**, Cunha E, Irish JD. 2016. rASUDAS:
 
 ## Invited Talks
 
+**d’Oliveira Coelho J**. 2024. Gorongosa: Um Safari ao Passado. *CIEC - Centro Integrado de Educação em Ciências*. Vila Nova de Barquinha, Portugal.
 
 **d’Oliveira Coelho J**. 2023. Early Apes and Bipedalism Origins. *Ecology and Evolution Seminar Series for the MSc in Cognitive and Evolutionary Anthropology*. University of Oxford, United Kingdom.
 
