@@ -10,7 +10,9 @@ author: jcoelho
 
 ## Scientific Articles
 
-Freymann E, **d’Oliveira Coelho J**, Muhumuza G, Hobaiter C, Huffman MA, Zuberbühler K, Carvalho S. 2024 . Applying collocation and APRIORI analyses to chimpanzee diets: Methods for investigating nonrandom food combinations in primate self-medication. *American Journal of Primatology*. **e23603** <a href ="https://onlinelibrary.wiley.com/doi/10.1002/ajp.23603" target = "_blank">10.1002/ajp.23603</a>
+Regala FT, Pinto MJ, Paulo LM, Bobe R, Raja M, Aldeias V, Archer W, Braun DR, Lüdecke T, **d’Oliveira Coelho J**, Mathe J, Macamo S, Bamford M, Martinez FI, Püschel TA, Capelli C, da Silva MJF, Anemone RL, Carvalho S, 2024. Caves of Inhaminga: the speleological heritage of the Cheringoma Plateau, Mozambique. *Cave and Karst Science*. **51**(2):67–80. <a href ="https://bcra.org.uk/pub/docs/downloads.html?f=cks152067.f" target = "_blank">(PDF 46.1MB)</a>
+
+Freymann E, **d’Oliveira Coelho J**, Muhumuza G, Hobaiter C, Huffman MA, Zuberbühler K, Carvalho S. 2024. Applying collocation and APRIORI analyses to chimpanzee diets: Methods for investigating nonrandom food combinations in primate self-medication. *American Journal of Primatology*. **e23603** <a href ="https://onlinelibrary.wiley.com/doi/10.1002/ajp.23603" target = "_blank">10.1002/ajp.23603</a>
 
 Bobe R, Aldeias V, Alemseged Z, Anemone RL, Archer W, Aumaître G, Bamford MK, Biro D, Bourlès DL, Boyd MD, Braun DR, Capelli C, **d’Oliveira Coelho J**, Habermann JM, Head JJ, Keddadouche K, Kupczik K, Lebatard A-E, Lüdecke T, Macôa A, Martínez FI, Mathe J, Mendes C, Paulo LM, Pinto M, Presnyakova D, Püschel TA, Regala FT, Sier M, da Silva MJF, Stalmans M, Carvalho S. 2023. The first Miocene fossils from coastal woodlands in the southern East African Rift. *iScience*. **26** (9). <a href ="https://www.sciencedirect.com/science/article/pii/S2589004223017212" target = "_blank">10.1016/j.isci.2023.107644</a>
 
