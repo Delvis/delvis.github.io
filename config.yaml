@@ -214,6 +214,20 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - job: "Paleontology Manager"
+        company: "GRP"
+        companyUrl: "https://gorongosa.net"
+        date: "2024-present"
+        featuredLink:
+          enable: true
+          name: "Gorongosa Restoration Project"
+          url: "https://gorongosa.net"
+        content: |
+          Paleontologist and lab manager for the Paleo-Primate Project Gorongosa
+          - Species documentation, photography, photogrammetry, and identification
+          - Fossil preparation
+          - Logistics for PPPG and the Gorongosa Interdisciplinary Field School in Human Evolution
+
       - job: "Founder"
         company: "osteomics"
         companyUrl: "https://osteomics.com"
@@ -228,8 +242,8 @@ params:
           - Web App Developer & Shiny Jedi
           - 3D Printing and 3D Scanning services
 
-      - job: "Paleontologist"
-        company: "PPP Gorongosa"
+      - job: "Field School Instructor"
+        company: "PPPG"
         companyUrl: "https://gorongosa.org/paleo-primate-project/"
         date: "2018-present"
         featuredLink:
@@ -240,15 +254,15 @@ params:
           enable: true
           content: I work as a paleontologist every summer in PPPG, but also as a primatologist in 2021 (Oct-Dec).
         content: |
-          - Field School Instructor
+          - Logistics for the Gorongosa Interdisciplinary Field School in Human Evolution (annually: july-august)
           - Database management, lab photography, 3D photogrammetry, fossil curation, anatomy and taxonomy
           - Co-directed paleontological excavations (GPL-12-E in 2022; GPL-12-W in 2023)
           - Drone pilot; Primatology (bipedalism and carnivory); and Taphonomy (carcasses monitoring) data collection for the 'Bones of Predation' project (2021)
           - Surveying team leader (2018 and 2019)
 
       - job: "Graduate Student"
-        company: "PrimoBevo Lab"
-        companyUrl: "https://primobevolab.web.ox.ac.uk/"
+        company: "Oxford"
+        companyUrl: "https://www.anthro.ox.ac.uk/"
         date: "2017-2023"
         info:
           enable: true
