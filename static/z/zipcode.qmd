@@ -1,0 +1,526 @@
+---
+title: "ZIP Code"
+subtitle: "A hands-on R session on Zero-Inflated Poisson and other models for rare primate behaviors"
+date: "April 2, 2025"
+author: "João d'Oliveira Coelho"
+format: 
+  revealjs:
+    theme: [dark, custom.scss]
+
+---
+
+## Why count data is different
+
+- Count data is **discrete, non-negative, often skewed**
+- Examples in primatology:
+  - Vocalization frequencies in vervets (few 0s) 
+  - Tool use occurrences in chimpanzees (some 0s) 
+  - Bipedalism bouts in chacma baboons (many 0s) 
+- Why not use linear regression?
+  - Violations of assumptions: **non-normality, non-constant variance**
+
+::: {.notes}
+
+- Count data is fundamentally **different from continuous data** and requires specialized statistical treatment.  
+
+1) It's discrete: We’re dealing with whole numbers (0, 1, 2...), not fractions like height or weight.
+
+2) It’s non-negative: You can’t have negative counts, which breaks the assumptions of normal distributions.
+
+3) It’s often skewed: Most counts are low (or even zero), while high counts are more unlikely.
+
+In primate behavior research, count data shows up everywhere—like tracking how often an animal is aggressive or how often it is grooming another individual. Here are some examples, and obviously if you are observing and recording behaviours like these, you will get some zeros or maybe even a lot of zeros.
+
+So you can't just grab your dataset with a dependent count variable and run a linear regression on top:
+
+- Why? It assumes normality, but count data violates that assumption.
+- heteros kedasti city: In count data, variance often increases with the mean.
+- A standard linear model can predict **impossible values** (e.g., negative counts), which doesn’t make sense in real-world scenarios.
+:::
+
+---
+
+## The Poisson distribution
+
+- Poisson models count data where **mean = variance**
+- Probability mass function:
+  $$ P(Y = k) = \frac{\lambda^k e^{-\lambda}}{k!} $$
+- Example I wanted: capuchin predation events
+- Example you get: Salamanders {glmmTMB} dataset
+
+<small>Price SJ, Muncy BL, Bonner SJ, Drayer AN, Barton CD (2016) Effects of mountaintop removal mining and valley filling on the occupancy and abundance of stream salamanders. <em>Journal of Applied Ecology</em> <strong>53</strong> 459–468. doi:<a href="10.1111/1365-2664.12585">10.1111/1365-2664.12585</a></small>
+
+
+::: {.notes}
+
+- Instead of linear regression, we need a model designed for count data. The **Poisson distribution** is the starting point because it naturally describes count-based outcomes.  
+- However, Poisson has strict assumptions (mean = variance), which can be too limiting.  
+
+Suppose we're studying how often capuchins hunt small vertebrates.
+
+This formula calculates the probability of observing exactly k predation events, given an expected rate𝜆. While λ represents both the mean and the variance in a Poisson process.
+
+If hunting events are randomly distributed over time, we could model the number of monthly predation events using a Poisson distribution. I wanted originally to do a hands-on R session with a capuchin predation dataset that we have, but the paper is not yet published so we need to use a publicly available dataset instead.
+
+Thankfully we have the very clean Salamanders dataset from the glmmTMB package. Which are not primates, but show the same ecological and mathematical proprieties for the purpose of learning how to model count data.
+
+The dataset includes salamander counts in different habitats and you can read more about it in this 2016 paper by Price and colleagues.
+
+:::
+
+---
+
+## The Poisson distribution (simulation)
+
+```r
+lambda <- 2  # Mean and variance
+pois_sample <- rpois(1000, lambda) # Random generation of Poisson distribution
+ggplot(data.frame(pois_sample), aes(x = as.factor(pois_sample))) + 
+  geom_histogram(stat = "count") + theme_minimal()
+```
+
+```{r, fig.width=12}
+set.seed(56)
+library(ggplot2)
+
+lambda <- 2  # Mean and variance
+pois_sample <- rpois(1000, lambda) # Random generation of Poisson distribution
+ggplot(data.frame(pois_sample), aes(x = as.factor(pois_sample))) + 
+  geom_histogram(stat = "count") + theme_minimal() + labs(x = "sampled numbers")
+```
+
+::: {.notes}
+
+So, if we ask R to generate 1000 random numbers for the Poisson distribution with parameter lambda of 2, we get this histogram. And as you can see, a typical feature of right-skewed distributions is that the mode is to the left of the mean.
+
+::: 
+
+---
+
+## Salamander dataset
+
+```r
+# Install if necessary
+install.packages(c("glmmTMB", "ggplot2", "DHARMa"))
+
+# Load libraries
+library(glmmTMB) # For modeling
+library(ggplot2) # For visualizations
+library(DHARMa)  # For residual diagnostics
+
+data(Salamanders)
+str(Salamanders)
+```
+
+```{r}
+# Load libraries
+library(glmmTMB) # For modeling
+library(ggplot2) # For visualizations
+library(DHARMa)  # For residual diagnostics
+
+data(Salamanders)
+str(Salamanders)
+```
+
+::: {.notes}
+
+Going now to a real dataset, we can use the function structure to quickly have a look at the variables available in the Salamanders dataset.
+
+A data frame with 644 observations on the following 10 variables:
+
+site
+name of a location where repeated samples were taken
+
+mined
+factor indicating whether the site was affected by mountain top removal coal mining
+
+cover
+amount of cover objects in the stream (scaled)
+
+sample
+repeated sample
+
+DOP
+Days since precipitation (scaled)
+
+Wtemp
+water temperature (scaled)
+
+DOY
+day of year (scaled)
+
+spp
+abbreviated species name, possibly also life stage
+
+count
+number of salamanders observed
+
+::: 
+
+---
+
+## Salamander dataset (distribution)
+
+```r
+sum(Salamanders$count == 0) / nrow(Salamanders)  # Proportion of zeros
+```
+
+```{r}
+sum(Salamanders$count == 0) / nrow(Salamanders)  # Proportion of zeros
+```
+
+```r
+ggplot(Salamanders, aes(x = count)) +
+  geom_histogram(binwidth = 1) +
+  theme_minimal() + labs(x = "Specimen count", y = "Frequency")
+```
+
+```{r, fig.width=14}
+ggplot(Salamanders, aes(x = count)) +
+  geom_histogram(binwidth = 1) +
+  theme_minimal() + labs(x = "Specimen count", y = "Frequency")
+```
+
+---
+
+## Poisson model
+
+```r
+m1_pr <- glmmTMB(count ~ spp + mined + (1|site), data = Salamanders, family = poisson)
+summary(m1_pr)
+```
+
+```{r}
+m1_pr <- glmmTMB(count ~ spp + mined + (1|site), data = Salamanders, family = poisson)
+summary(m1_pr)
+```
+
+::: {.notes}
+
+A random factor (or random effect) accounts for variation that we expect but don’t want to estimate directly. It helps us model data more realistically by acknowledging that some sources of variation are beyond our main variables of interest.
+
+::: 
+
+---
+
+## Diagnosis of the Poisson model
+
+```r
+simulateResiduals(m1_pr, plot = TRUE)
+```
+
+```{r}
+res_m1 <- simulateResiduals(m1_pr)  # Stores the result without printing text
+plot(res_m1)  # Only plots the residuals
+```
+
+::: {.notes}
+
+This function is from the DHARMa package, which provides diagnostic plots for regression models, especially for count data and zero-inflated models.
+
+- What does simulateResiduals() do?
+Simulates residuals from the fitted model using parametric bootstrapping.
+
+Compares observed residuals to expected ones under the model.
+
+- How to Detect Overdispersion?
+Overdispersion means the variance is greater than expected under the Poisson model. In DHARMa residual plots, you can spot overdispersion in two main ways:
+
+- Residual Dispersion Plot (2nd Plot)
+
+If residuals fan out (too much spread), it's a sign of overdispersion.
+
+- QQ Plot (1st Plot)
+
+If points deviate strongly from the 1:1 line, the model is struggling.
+
+:::
+
+---
+
+## How to handle overdispersion?
+
+- **Overdispersion:** Variance > Mean
+- Poisson assumption often fails → underestimates SE, misleading p-values
+- Negative Binomial adds a dispersion parameter to correct for this
+
+::: {.notes}
+
+- The **Poisson distribution** assumes that the variance equals the mean, but in real-world ecological data, variance is often **greater** than the mean.
+- When this happens, a **Poisson model underestimates standard errors**, which in turn leads to misleading confidence intervals and p-values.
+- This issue is called **overdispersion**, and it's very common in count data, especially in ecological and behavioral datasets.
+- **Negative Binomial regression** is a flexible alternative that includes an extra dispersion parameter, allowing the variance to exceed the mean.
+- This dispersion parameter corrects for the overdispersion problem and prevents incorrect statistical inferences.
+
+:::
+
+---
+
+## Negative Binomial model
+
+```r
+m2_nb <- glmmTMB(count ~ spp + mined + (1|site), data = Salamanders, family = nbinom2)
+summary(m2_nb)
+```
+
+```{r}
+m2_nb <- glmmTMB(count ~ spp + mined + (1|site), data = Salamanders, family = nbinom2)
+summary(m2_nb)
+```
+
+::: {.notes}
+
+- We will now introduce the Negative Binomial model and compare its fit to our data.
+
+:::
+
+---
+
+## Diagnosis of the Negative Binomial
+
+```r
+simulateResiduals(m2_nb, plot = TRUE)
+```
+
+```{r}
+res_m2 <- simulateResiduals(m2_nb)  # Stores the result without printing text
+plot(res_m2)  # Only plots the residuals
+```
+
+---
+
+## Excess zeros: ZI & hurdle models
+
+- Zero-Inflated models:
+  - Some zeros are **true**, others are **structural**
+  - **Zero-Inflated Poisson** (ZIP): two processes (occurence)
+  - **Zero-Inflated Negative Binomial** (ZINB): overdispersion
+- Hurdle models:
+  - **Hurdle models** are two-part models: 1) classification to detect zeros + 2) regression to model truncated data
+  - Here, all zeros are structural
+
+::: {.notes}
+
+- Many ecological and behavioral datasets contain **an excess of zeros**—more than would be expected under a standard Poisson or Negative Binomial distribution.
+- Some zeros are **true**: They represent actual absences (e.g., an animal was observed, and the behavior truly did not occur).
+- Some zeros are **structural**: They arise due to underlying processes (e.g., the observer was in the wrong habitat or season where the behavior never occurs).
+- **Zero-Inflated Poisson (ZIP)** models assume that two processes generate the data: one that determines whether a count is **zero or not**, and another that generates the count itself.
+- **Zero-Inflated Negative Binomial (ZINB)** models extend ZIP by allowing overdispersion in the count-generating process.
+- **Hurdle models**, we do not have time to explore today, but they are really great for rare behaviours and handling excess zeros. They are two-part models → First, a binary model (e.g., logistic regression) predicts whether a zero or non-zero occurs. If non-zero, a truncated count model (e.g., Poisson, Negative Binomial) models the positive counts.
+- **Key insight:** In hurdle models, zeros are always "structural"—they happen because the process doesn’t "cross the hurdle."
+
+---
+
+:::
+
+## Zero-Inflated Poisson model
+
+```r
+m3_zip <- glmmTMB(count ~ spp + mined + (1|site), ziformula = ~mined + DOP + Wtemp, 
+data = Salamanders, family = poisson)
+summary(m3_zip)
+```
+
+```{r}
+m3_zip <- glmmTMB(count ~ spp + mined + (1|site), ziformula = ~mined + DOP + Wtemp, 
+                  data = Salamanders, family = poisson)
+summary(m3_zip)
+```
+
+---
+
+## Zero-Inflated: under the hood
+
+```r
+zi_probs <- predict(m3_zip, type = "zprob")  # Probability of excess zeros
+ggplot(Salamanders, aes(x = mined, y = zi_probs)) +
+  geom_jitter(aes(color = as.factor(count == 0)), width = 0.5, size = 2, alpha = 0.6) +
+  stat_summary(fun = mean, geom = "point", color = "black", size = 5) +
+  theme_minimal() +
+  labs(x = "Mining Presence", y = "Probability of Excess Zeros", color = "Observed Zero?")
+```
+
+
+```{r, fig.width=14}
+zi_probs <- predict(m3_zip, type = "zprob")  # Probability of excess zeros
+ggplot(Salamanders, aes(x = mined, y = zi_probs)) +
+  geom_jitter(aes(color = as.factor(count == 0)), width = 0.5, size = 3, alpha = 0.6) +
+  stat_summary(fun = mean, geom = "point", color = "black", size = 6) +
+  theme_minimal() +
+  labs(x = "Mining Presence", y = "Probability of Excess Zeros", color = "Observed Zero?")
+```
+
+---
+
+## Zero-Inflated Negative Binomial model
+
+```r
+m4_zinb <- glmmTMB(count ~ spp + mined + (1|site), ziformula = ~mined + DOP + Wtemp, 
+data = Salamanders, family = nbinom2)
+summary(m4_zinb)
+```
+
+```{r}
+m4_zinb <- glmmTMB(count ~ spp + mined + (1|site), ziformula = ~mined + DOP + Wtemp, 
+                   data = Salamanders, family = nbinom2)
+summary(m4_zinb)
+```
+
+---
+
+## Model comparison
+
+- Compare models using **AIC, residual plots, likelihood ratio tests**
+
+```r
+anova(m1_pr, m2_nb, m3_zip, m4_zinb, test = "Chisq")
+```
+
+```{r}
+anova(m1_pr, m2_nb, m3_zip, m4_zinb, test = "Chisq") 
+```
+
+---
+
+## Visualization code
+
+```r
+# Generate predictions for all models
+Salamanders <- Salamanders %>%
+  mutate(
+    pred_pr = predict(m1_pr, type = "response"),
+    pred_nb = predict(m2_nb, type = "response"),
+    pred_zip = predict(m3_zip, type = "response"),
+    pred_zinb = predict(m4_zinb, type = "response")
+  )
+
+# Plot observed vs. predicted
+ggplot(Salamanders, aes(x = count)) +
+  geom_histogram(binwidth = 1, alpha = 0.5, color = "white") +
+  geom_density(aes(x = pred_pr, y = ..count..), color = "#2980b9", size = 1.2, linetype = "dashed") +
+  geom_density(aes(x = pred_nb, y = ..count..), color = "#c0392b", size = 1.2, linetype = "dashed") +
+  geom_density(aes(x = pred_zip, y = ..count..), color = "#8e44ad", size = 1.2, linetype = "dotted") +
+  geom_density(aes(x = pred_zinb, y = ..count..), color = "#16a085", size = 1.2) +
+  theme_minimal() +
+  labs(
+    title = "Observed vs. Predicted Count Distributions",
+    x = "Salamander Count",
+    y = "Density",
+    caption = "Blue = Poisson, Red = NB, Purple = ZIP, Green = ZINB"
+  )
+
+```
+
+---
+
+## Visualization output
+
+```{r}
+
+library(dplyr)
+library(ggplot2)
+
+# Generate predictions for all models
+Salamanders <- Salamanders %>%
+  mutate(
+    pred_pr = predict(m1_pr, type = "response"),
+    pred_nb = predict(m2_nb, type = "response"),
+    pred_zip = predict(m3_zip, type = "response"),
+    pred_zinb = predict(m4_zinb, type = "response")
+  )
+
+# Plot observed vs. predicted
+ggplot(Salamanders, aes(x = count)) +
+  geom_histogram(binwidth = 1, alpha = 0.5, color = "white") +
+  geom_density(aes(x = pred_pr, y = ..count..), color = "#2980b9", size = 1.2, linetype = "dashed") +
+  annotate("text", x = max(Salamanders$count) * 0.8, y = 300, label = "Poisson", color = "#2980b9", size = 7, fontface = "bold") +
+  theme_minimal() +
+  labs(
+    title = "Observed vs. Predicted Count Distributions",
+    x = "Salamander Count",
+    y = "Density",
+    caption = "Blue = Poisson, Red = NB, Purple = ZIP, Green = ZINB"
+  )
+
+```
+
+---
+
+## Visualization output
+
+```{r}
+
+# Plot observed vs. predicted
+ggplot(Salamanders, aes(x = count)) +
+  geom_histogram(binwidth = 1, alpha = 0.5, color = "white") +
+  geom_density(aes(x = pred_pr, y = ..count..), color = "#2980b9", size = 1.2, linetype = "dashed") +
+  geom_density(aes(x = pred_nb, y = ..count..), color = "#c0392b", size = 1.2, linetype = "dashed") +
+  annotate("text", x = max(Salamanders$count) * 0.8, y = 300, label = "Negative Binomial", color = "#c0392b", size = 7, fontface = "bold") +
+    theme_minimal() +
+  labs(
+    title = "Observed vs. Predicted Count Distributions",
+    x = "Salamander Count",
+    y = "Density",
+    caption = "Blue = Poisson, Red = NB, Purple = ZIP, Green = ZINB"
+  )
+
+```
+
+---
+
+## Visualization output
+
+```{r}
+
+# Plot observed vs. predicted
+ggplot(Salamanders, aes(x = count)) +
+  geom_histogram(binwidth = 1, alpha = 0.5, color = "white") +
+  geom_density(aes(x = pred_pr, y = ..count..), color = "#2980b9", size = 1.2, linetype = "dashed") +
+  geom_density(aes(x = pred_nb, y = ..count..), color = "#c0392b", size = 1.2, linetype = "dashed") +
+  geom_density(aes(x = pred_zip, y = ..count..), color = "#8e44ad", size = 1.2, linetype = "dotted") +
+  annotate("text", x = max(Salamanders$count) * 0.8, y = 300, label = "Zero-Inflated\nPoisson", color = "#8e44ad", size = 7, fontface = "bold") +
+  theme_minimal() +
+  labs(
+    title = "Observed vs. Predicted Count Distributions",
+    x = "Salamander Count",
+    y = "Density",
+    caption = "Blue = Poisson, Red = NB, Purple = ZIP, Green = ZINB"
+  )
+
+```
+
+---
+
+## Visualization output
+
+```{r}
+
+# Plot observed vs. predicted
+ggplot(Salamanders, aes(x = count)) +
+  geom_histogram(binwidth = 1, alpha = 0.5, color = "white") +
+  geom_density(aes(x = pred_pr, y = ..count..), color = "#2980b9", size = 1.2, linetype = "dashed") +
+  geom_density(aes(x = pred_nb, y = ..count..), color = "#c0392b", size = 1.2, linetype = "dashed") +
+  geom_density(aes(x = pred_zip, y = ..count..), color = "#8e44ad", size = 1.2, linetype = "dotted") +
+  geom_density(aes(x = pred_zinb, y = ..count..), color = "#27ae60", size = 1.2) +
+  annotate("text", x = max(Salamanders$count) * 0.8, y = 300, label = "Zero-Inflated\nNegative Binomial", color = "#27ae60", size = 7, fontface = "bold") +
+  theme_minimal() +
+  labs(
+    title = "Observed vs. Predicted Count Distributions",
+    x = "Salamander Count",
+    y = "Density",
+    caption = "Blue = Poisson, Red = NB, Purple = ZIP, Green = ZINB"
+  )
+
+```
+
+---
+
+## Thank you! Obrigado!
+
+- github.com/Delvis/ZIPcode
+
+![](gnp_logo.png){.absolute top=200 left=0 width="200" height="200"}
+
+![](UAlg_transparencia_alternativo.png){.absolute top=200 left=250 height="250"}
+
+![](ICArEHB_V_Color.png){.absolute bottom=200 right=0 width="200"}
