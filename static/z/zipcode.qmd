@@ -33,9 +33,9 @@ In primate behavior research, count data shows up everywhere—like tracking how
 
 So you can't just grab your dataset with a dependent count variable and run a linear regression on top:
 
-- Why? It assumes normality, but count data violates that assumption.
-- heteros kedasti city: In count data, variance often increases with the mean.
-- A standard linear model can predict **impossible values** (e.g., negative counts), which doesn’t make sense in real-world scenarios.
+- Why? Well, linear Regression assumes normality, but count data violates that assumption.
+- Heteros kedasti city: In count data, variance often increases with the mean.
+- A standard linear model can predict **impossible values** (e.g., negative counts), which doesn’t make sense biologically or in real-world scenarios.
 :::
 
 ---
