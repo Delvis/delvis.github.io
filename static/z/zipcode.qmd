@@ -1,5 +1,5 @@
 ---
-title: "ZIP Code"
+title: "📨 ZIP Code 📬"
 subtitle: "A hands-on R session on Zero-Inflated Poisson and other models for rare primate behaviors"
 date: "April 2, 2025"
 author: "João d'Oliveira Coelho"
@@ -523,4 +523,4 @@ ggplot(Salamanders, aes(x = count)) +
 
 ![](UAlg_transparencia_alternativo.png){.absolute top=200 left=250 height="250"}
 
-![](ICArEHB_V_Color.png){.absolute bottom=200 right=0 width="200"}
+![](ICArEHB_V_Color.png){.absolute top=200 right=0 width="200"}
