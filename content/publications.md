@@ -10,21 +10,21 @@ author: jcoelho
 
 ## Scientific Articles
 
-Farassi R, **d’Oliveira Coelho J**, Carvalho S. 2025. Habitat use and the demographics of object manipulation by wild chacma baboons. *American Journal of Biological Anthropology* **187**:e70094. <a href="https://doi.org/10.1002/ajpa.70094" target="_blank">10.1002/ajpa.70094</a>
+Farassi R, **d’Oliveira Coelho J**, Carvalho S. 2025. Habitat use and the demographics of object manipulation by wild chacma baboons. *American Journal of Biological Anthropology*, **187**:e70094. <a href="https://doi.org/10.1002/ajpa.70094" target="_blank">10.1002/ajpa.70094</a>
 
-Biro D, Muschinski J, Hammond P, Bobe R, Bamford MK, Capelli C, **d’Oliveira Coelho J**, Farassi R, Lüdecke T, Martinez FI, Mathe J, Silva MJF, Carvalho S. 2025. West Side Story: Regional Inter‐Troop Variation in Baboon Bark‐Stripping at Gorongosa National Park, Mozambique. *American Journal of Biological* **187**:e70057. Anthropology<a href="https://doi.org/10.1002/ajpa.70057" target="_blank">10.1002/ajpa.70057</a>
+Biro D, Muschinski J, Hammond P, Bobe R, Bamford MK, Capelli C, **d’Oliveira Coelho J**, Farassi R, Lüdecke T, Martinez FI, Mathe J, Silva MJF, Carvalho S. 2025. West Side Story: Regional Inter‐Troop Variation in Baboon Bark‐Stripping at Gorongosa National Park, Mozambique. *American Journal of Biological Anthropology*, **187**:e70057. <a href="https://doi.org/10.1002/ajpa.70057" target="_blank">10.1002/ajpa.70057</a>
 
-Regala FT, Pinto MJ, Paulo LM, Bobe R, Raja M, Aldeias V, Archer W, Braun DR, Lüdecke T, **d’Oliveira Coelho J**, Mathe J, Macamo S, Bamford M, Martinez FI, Püschel TA, Capelli C, da Silva MJF, Anemone RL, Carvalho S, 2024. Caves of Inhaminga: the speleological heritage of the Cheringoma Plateau, Mozambique. *Cave and Karst Science*. **51**(2):67–80. <a href ="https://bcra.org.uk/pub/docs/downloads.html?f=cks152067.f" target = "_blank">(PDF 46.1MB)</a>
+Regala FT, Pinto MJ, Paulo LM, Bobe R, Raja M, Aldeias V, Archer W, Braun DR, Lüdecke T, **d’Oliveira Coelho J**, Mathe J, Macamo S, Bamford M, Martinez FI, Püschel TA, Capelli C, da Silva MJF, Anemone RL, Carvalho S, 2024. Caves of Inhaminga: the speleological heritage of the Cheringoma Plateau, Mozambique. *Cave and Karst Science*, **51**(2):67–80. <a href ="https://bcra.org.uk/pub/docs/downloads.html?f=cks152067.f" target = "_blank">(PDF 46.1MB)</a>
 
-Freymann E, **d’Oliveira Coelho J**, Muhumuza G, Hobaiter C, Huffman MA, Zuberbühler K, Carvalho S. 2024. Applying collocation and APRIORI analyses to chimpanzee diets: Methods for investigating nonrandom food combinations in primate self-medication. *American Journal of Primatology*. **e23603** <a href ="https://onlinelibrary.wiley.com/doi/10.1002/ajp.23603" target = "_blank">10.1002/ajp.23603</a>
+Freymann E, **d’Oliveira Coelho J**, Muhumuza G, Hobaiter C, Huffman MA, Zuberbühler K, Carvalho S. 2024. Applying collocation and APRIORI analyses to chimpanzee diets: Methods for investigating nonrandom food combinations in primate self-medication. *American Journal of Primatology*, **e23603** <a href ="https://onlinelibrary.wiley.com/doi/10.1002/ajp.23603" target = "_blank">10.1002/ajp.23603</a>
 
-Bobe R, Aldeias V, Alemseged Z, Anemone RL, Archer W, Aumaître G, Bamford MK, Biro D, Bourlès DL, Boyd MD, Braun DR, Capelli C, **d’Oliveira Coelho J**, Habermann JM, Head JJ, Keddadouche K, Kupczik K, Lebatard A-E, Lüdecke T, Macôa A, Martínez FI, Mathe J, Mendes C, Paulo LM, Pinto M, Presnyakova D, Püschel TA, Regala FT, Sier M, da Silva MJF, Stalmans M, Carvalho S. 2023. The first Miocene fossils from coastal woodlands in the southern East African Rift. *iScience*. **26**(9). <a href ="https://www.sciencedirect.com/science/article/pii/S2589004223017212" target = "_blank">10.1016/j.isci.2023.107644</a>
+Bobe R, Aldeias V, Alemseged Z, Anemone RL, Archer W, Aumaître G, Bamford MK, Biro D, Bourlès DL, Boyd MD, Braun DR, Capelli C, **d’Oliveira Coelho J**, Habermann JM, Head JJ, Keddadouche K, Kupczik K, Lebatard A-E, Lüdecke T, Macôa A, Martínez FI, Mathe J, Mendes C, Paulo LM, Pinto M, Presnyakova D, Püschel TA, Regala FT, Sier M, da Silva MJF, Stalmans M, Carvalho S. 2023. The first Miocene fossils from coastal woodlands in the southern East African Rift. *iScience*, **26**(9). <a href ="https://www.sciencedirect.com/science/article/pii/S2589004223017212" target = "_blank">10.1016/j.isci.2023.107644</a>
 
-Curate F, Navega D, Cunha E, **d’Oliveira Coelho J**. 2022. DXAGE 2.0 — adult age at death estimation using bone loss in the proximal femur and the second metacarpal. *International Journal of Legal Medicine*. <a href = "https://link.springer.com/article/10.1007/s00414-022-02840-y" target = "_blank">10.1007/s00414-022-02840-y</a>
+Curate F, Navega D, Cunha E, **d’Oliveira Coelho J**. 2022. DXAGE 2.0 — adult age at death estimation using bone loss in the proximal femur and the second metacarpal. *International Journal of Legal Medicine*, <a href = "https://link.springer.com/article/10.1007/s00414-022-02840-y" target = "_blank">10.1007/s00414-022-02840-y</a>
 
-**d’Oliveira Coelho J**, Anemone RL, Carvalho S. 2021. Unsupervised learning of satellite images for enhancing fossil site discovery at Gorongosa, Mozambique. *PeerJ* **9**:e11573 <a href = "https://peerj.com/articles/11573/" target = "_blank">10.7717/peerj.11573</a>
+**d’Oliveira Coelho J**, Anemone RL, Carvalho S. 2021. Unsupervised learning of satellite images for enhancing fossil site discovery at Gorongosa, Mozambique. *PeerJ*, **9**:e11573 <a href = "https://peerj.com/articles/11573/" target = "_blank">10.7717/peerj.11573</a>
 
-Curate F, **d’Oliveira Coelho J**, Silva AM. 2021. CalcTalus: an online decision support system for the estimation of sex with the calcaneus and talus. *Archaeological and Anthropological Sciences*. **13**:74. <a href = "https://link.springer.com/article/10.1007/s12520-021-01327-y" target = "_blank">10.1007/s12520-021-01327-y</a>
+Curate F, **d’Oliveira Coelho J**, Silva AM. 2021. CalcTalus: an online decision support system for the estimation of sex with the calcaneus and talus. *Archaeological and Anthropological Sciences*, **13**:74. <a href = "https://link.springer.com/article/10.1007/s12520-021-01327-y" target = "_blank">10.1007/s12520-021-01327-y</a>
 
 Rodrigues H, Ramos R, Fagundes L, Galego O, Navega D, **d’Oliveira Coelho J**, Alves FC, Cunha E. 2020. Mastoid, middle ear and inner ear analysis in CT scan – a possible contribution for the identification of remains. *Medicine, Science and the Law*, **60**:102–111. <a href = "https://journals.sagepub.com/doi/10.1177/0025802419893424" target = "_blank">10.1177/0025802419893424</a>
 
@@ -64,7 +64,7 @@ Andrade B, Dias P, Coelho C, **d’Oliveira Coelho J**, Navega D, Wasterlain SN,
 
 ## Published Abstracts (Society Meetings)
 
-Carvalho S, **d'Oliveira Coelho J**, Bobe R. 2024. Early hominins (and other apes) under the canopy. PaleoAnthropology 2024(2):392. <a href = "https://paleoanthropology.org/ojs/index.php/paleo/article/view/1209/1214" target = "_blank">10.48738/2024.iss2.1209</a>
+Carvalho S, **d'Oliveira Coelho J**, Bobe R. 2024. Early hominins (and other apes) under the canopy. *PaleoAnthropology*, **2024**(2):392. <a href = "https://paleoanthropology.org/ojs/index.php/paleo/article/view/1209/1214" target = "_blank">10.48738/2024.iss2.1209</a>
 
 Scott GR, Navega D, **d’Oliveira Coelho J**, Vlemincq-Mendieta T, Kenessey D, Pilloud MA. 2022. Tooth morphology and population affinity: testing rASUDAS2 on modern African and European-derived samples. *American Journal of Biological Anthropology*, **177**(S73):164–165. <a href = "https://onlinelibrary.wiley.com/doi/10.1002/ajpa.24514" target = "_blank">10.1002/ajpa.24514</a>
 
