@@ -14,6 +14,8 @@ Farassi R, **d’Oliveira Coelho J**, Carvalho S. 2025. Habitat use and the demo
 
 Biro D, Muschinski J, Hammond P, Bobe R, Bamford MK, Capelli C, **d’Oliveira Coelho J**, Farassi R, Lüdecke T, Martinez FI, Mathe J, Silva MJF, Carvalho S. 2025. West Side Story: Regional Inter‐Troop Variation in Baboon Bark‐Stripping at Gorongosa National Park, Mozambique. *American Journal of Biological Anthropology*, **187**:e70057. <a href="https://doi.org/10.1002/ajpa.70057" target="_blank">10.1002/ajpa.70057</a>
 
+Scott GR, Navega DS, **d’Oliveira Coelho J**, Vlemincq-Mendieta T, Kenessey D, Irish JD. 2024. rASUDAS2: A new iteration of the application for assessing the population affinity of individuals by tooth crown and root morphology. *Forensic Anthropology*, **8**(1):1–9. <a href ="https://journals.upress.ufl.edu/fa/article/view/2881" target = "_blank">10.5744/fa.2024.0006</a>
+
 Regala FT, Pinto MJ, Paulo LM, Bobe R, Raja M, Aldeias V, Archer W, Braun DR, Lüdecke T, **d’Oliveira Coelho J**, Mathe J, Macamo S, Bamford M, Martinez FI, Püschel TA, Capelli C, da Silva MJF, Anemone RL, Carvalho S, 2024. Caves of Inhaminga: the speleological heritage of the Cheringoma Plateau, Mozambique. *Cave and Karst Science*, **51**(2):67–80. <a href ="https://bcra.org.uk/pub/docs/downloads.html?f=cks152067.f" target = "_blank">(PDF 46.1MB)</a>
 
 Freymann E, **d’Oliveira Coelho J**, Muhumuza G, Hobaiter C, Huffman MA, Zuberbühler K, Carvalho S. 2024. Applying collocation and APRIORI analyses to chimpanzee diets: Methods for investigating nonrandom food combinations in primate self-medication. *American Journal of Primatology*, **e23603** <a href ="https://onlinelibrary.wiley.com/doi/10.1002/ajp.23603" target = "_blank">10.1002/ajp.23603</a>
