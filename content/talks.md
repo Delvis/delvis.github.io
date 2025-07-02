@@ -8,11 +8,13 @@ date: "2023-01-13"
 author: jcoelho
 ---
 
-## Presentations
+## Podium Presentations
 
-**d’Oliveira Coelho J**. 2023 Searching for Kingdon's Coastal Ape in Miocene Estuarine Forests of Gorongosa. *Joint Meeting of the International Primatological Society and the Malaysian Primatological Society*. Kuching, Malaysia.
+Carvalho S, **d'Oliveira Coelho J**, Bobe R. 2024. Early hominins (and other apes) under the canopy. *14th Annual Meeting of the European Society for the Study of Human Evolution (ESHE)*. Zagreb, Croatia.
 
-Bobe R, **d’Oliveira Coelho J**, Püschel TA, Carvalho S. 2023 The diversification of African primates in the Neogene: key questions and new data. *Joint Meeting of the International Primatological Society and the Malaysian Primatological Society*. Kuching, Malaysia.
+**d’Oliveira Coelho J**. 2023. Searching for Kingdon's Coastal Ape in Miocene Estuarine Forests of Gorongosa. *Joint Meeting of the International Primatological Society and the Malaysian Primatological Society*. Kuching, Malaysia.
+
+Bobe R, **d’Oliveira Coelho J**, Püschel TA, Carvalho S. 2023. The diversification of African primates in the Neogene: key questions and new data. *Joint Meeting of the International Primatological Society and the Malaysian Primatological Society*. Kuching, Malaysia.
 
 Farassi R, **d’Oliveira Coelho J**, Carvalho S. 2023. Object manipulation by chacma baboons (*Papio ursinus*) in Gorongosa National Park. *Joint Meeting of the International Primatological Society and the Malaysian Primatological Society*. Kuching, Malaysia.
 
@@ -52,6 +54,12 @@ Scott GR, Navega D, **d’Oliveira Coelho J**, Cunha E, Irish JD. 2016. rASUDAS:
 
 
 ## Invited Talks
+
+Püschel T, **d’Oliveira Coelho J**. 2025. Shark updates: new species record and biostratigraphic perspective. *Paleo-Primate Project Gorongosa Annual Meeting 2025*, Universidade do Algarve, Portugal.
+
+Boyd M, Balate L, Mendes C, Tagir S, **d’Oliveira Coelho J**. 2025. Geology Field Season: November, 2024. *Paleo-Primate Project Gorongosa Annual Meeting 2025*, Universidade do Algarve, Portugal.
+
+**d’Oliveira Coelho J**. 2025. ZIP Code: A hands-on R session on Zero-Inflated Poisson and other models for rare primate behaviors. *Primate Models for Hominin Evolution Workshop*, Universidade do Algarve, Portugal. <a href="https://jcoelho.com/z/zipcode" target="_blank">Available here</a>.
 
 **d’Oliveira Coelho J**. 2024. Gorongosa: Um Safari ao Passado. *CIEC - Centro Integrado de Educação em Ciências*. Vila Nova de Barquinha, Portugal.
 
