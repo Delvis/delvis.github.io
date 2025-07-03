@@ -10,7 +10,7 @@ author: jcoelho
 
 ## Podium Presentations
 
-Carvalho S, **d'Oliveira Coelho J**, Bobe R. 2024. Early hominins (and other apes) under the canopy. *14th Annual Meeting of the European Society for the Study of Human Evolution (ESHE)*. Zagreb, Croatia.
+Carvalho S, **d’Oliveira Coelho J**, Bobe R. 2024. Early hominins (and other apes) under the canopy. *14th Annual Meeting of the European Society for the Study of Human Evolution (ESHE)*. Zagreb, Croatia.
 
 **d’Oliveira Coelho J**. 2023. Searching for Kingdon's Coastal Ape in Miocene Estuarine Forests of Gorongosa. *Joint Meeting of the International Primatological Society and the Malaysian Primatological Society*. Kuching, Malaysia.
 

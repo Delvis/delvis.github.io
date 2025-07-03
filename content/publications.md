@@ -66,7 +66,7 @@ Andrade B, Dias P, Coelho C, **d’Oliveira Coelho J**, Navega D, Wasterlain SN,
 
 ## Published Abstracts (Society Meetings)
 
-Carvalho S, **d'Oliveira Coelho J**, Bobe R. 2024. Early hominins (and other apes) under the canopy. *PaleoAnthropology*, **2024**(2):392. <a href = "https://paleoanthropology.org/ojs/index.php/paleo/article/view/1209/1214" target = "_blank">10.48738/2024.iss2.1209</a>
+Carvalho S, **d’Oliveira Coelho J**, Bobe R. 2024. Early hominins (and other apes) under the canopy. *PaleoAnthropology*, **2024**(2):392. <a href = "https://paleoanthropology.org/ojs/index.php/paleo/article/view/1209/1214" target = "_blank">10.48738/2024.iss2.1209</a>
 
 Scott GR, Navega D, **d’Oliveira Coelho J**, Vlemincq-Mendieta T, Kenessey D, Pilloud MA. 2022. Tooth morphology and population affinity: testing rASUDAS2 on modern African and European-derived samples. *American Journal of Biological Anthropology*, **177**(S73):164–165. <a href = "https://onlinelibrary.wiley.com/doi/10.1002/ajpa.24514" target = "_blank">10.1002/ajpa.24514</a>
 
