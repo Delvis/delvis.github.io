@@ -36,7 +36,7 @@ Ammer S, **d’Oliveira Coelho J**, Cunha E. 2019. Outline Shape Analysis on the
 
 Vilas-Boas D, Wasterlain SN, **d’Oliveira Coelho J**, Navega D, Gonçalves D. 2019. SPINNE: An app for human vertebral height estimation based on artificial neural networks. *Forensic Science International*, **298**:121–130. <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0379073819300805" target = "_blank">10.1016/j.forsciint.2019.02.056</a>
 
-Ferreira MT, Coelho C, d'Oliveira Coelho J, Navega D, Wasterlain SN. 2018. New data about sex and age-at-death based on the postcranial skeleton of the enslaved adult Africans found at Lagos, Portugal (15th-17th centuries). *Cadernos do GEEvH*, **7**(1):7–16. <a href = "https://geevh.jimdofree.com/cadernos-do-geevh/arquivo-archive/vol-7-1/" target = "_blank">Download</a>.
+Ferreira MT, Coelho C, **d’Oliveira Coelho J**, Navega D, Wasterlain SN. 2018. New data about sex and age-at-death based on the postcranial skeleton of the enslaved adult Africans found at Lagos, Portugal (15th-17th centuries). *Cadernos do GEEvH*, **7**(1):7–16. <a href = "https://geevh.jimdofree.com/cadernos-do-geevh/arquivo-archive/vol-7-1/" target = "_blank">Download</a>.
 
 Silva A, Tomé T, Cunha C, **d’Oliveira Coelho J**, Valera A, Filipe V, Scott GR. 2018. Unilateral absence of mandibular condyle in a Bronze Age male skeleton from Portugal. *International Journal of Paleopathology*, **22**:168–172. <a href = "https://www.sciencedirect.com/science/article/abs/pii/S1879981717301572" target = "_blank">10.1016/j.ijpp.2018.04.002</a>
 
@@ -52,7 +52,7 @@ Curate F, **d’Oliveira Coelho J**, Gonçalves D, Coelho C, Ferreira MT, Navega
 
 ## Book Chapters
 
-**d’Oliveira Coelho J** (2023). JOÃO COELHO. *In*: Wasterlain, SN. (Eds.), *30 Anos, 30 Antropólogos*. Imprensa da Universidade de Coimbra: 51-56. <a href = "http://monographs.uc.pt/iuc/catalog/book/392" target = "_blank">10.14195/978-989-26-2476-1</a>
+**d’Oliveira Coelho J**. 2023. JOÃO COELHO. *In*: Wasterlain, SN. (Eds.), *30 Anos, 30 Antropólogos*. Imprensa da Universidade de Coimbra: 51-56. <a href = "http://monographs.uc.pt/iuc/catalog/book/392" target = "_blank">10.14195/978-989-26-2476-1</a>
 
 Bobe R, **d’Oliveira Coelho J**, Carvalho S, Leakey M. 2022. Early Hominins and Paleoecology of the Koobi Fora Formation, Lake Turkana Basin, Kenya. *In*: Reynolds, SC, Bobe, R. (Eds.), *African Paleoecology and Human Evolution*. Cambridge University Press, Cambridge: 311–331. <a href = "https://www.cambridge.org/core/books/abs/african-paleoecology-and-human-evolution/early-hominins-and-paleoecology-of-the-koobi-fora-formation-lake-turkana-basin-kenya/55CF8CBDEF74EB723D4D6976DDF73BEE" target = "_blank">10.1017/9781139696470.026</a>
 
