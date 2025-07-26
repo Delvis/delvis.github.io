@@ -10,13 +10,17 @@ author: jcoelho
 
 ## Posters
 
+Farassi R, **d’Oliveira Coelho J**, Carvalho S. Habitat Use and the Demographics of Object Manipulation by Wild Chacma Baboons.  *30th Congress of the International Primatological Society (IPS)*. Antananarivo, Madagascar, 2025. **[Awarded Best Student Poster]**
+
+Rabajoli E, Lewis-Bevan L, **d’Oliveira Coelho J**, Coelho C, Farassi R, Mathe J, Biro D, Mubobo E, Angela M, de Salma Andicene F, Carvalho S. Rank, Relationships, and Resources: How is resource access influenced by individual ranking and social relationships in wild *Papio ursinus* in Gorongosa National Park?  *30th Congress of the International Primatological Society (IPS)*. Antananarivo, Madagascar, 2025.
+
 Carvalho S, Bobe R, **d’Oliveira Coelho J**, and Paleo-Primate Project. The first Miocene fossil sites of the southern end of the East African Rift: summary of key findings. *Oreopithecus150*. Florence, Italy, 2022.
 
 Scott GR, Navega D, **d’Oliveira Coelho J**, Vlemincq-Mendieta T, Kenessey D, Pilloud MA. Tooth morphology and population affinity: testing rASUDAS2 on modern African and European-derived samples. *91st Annual Meeting of the American Association of Biological Anthropologists*. Denver, Colorado, USA, 2022.
 
 Curate F, Navega D, Cunha E, **d’Oliveira Coelho J**. DXAGE 2.0 – An update on adult age at death estimation using bone loss. *19º Congresso Nacional de Medicina Legal e Ciências Forenses*. Coimbra, Portugal, 2021.
 
-**d’Oliveira Coelho J**, Bobe R, Carvalho S. Using fossil evidence to improve our understanding of divergence estimates for the Panini and Hominini lineages. *Primate Society of Great Britain - Winter meeting*. Online, 2020.
+**d’Oliveira Coelho J**, Bobe R, Carvalho S. Using fossil evidence to improve our understanding of divergence estimates for the Panini and Hominini lineages. *Primate Society of Great Britain - Winter meeting*. Online, 2020. **[Awarded Best Student Poster]**
 
 Dorans ER, **d’Oliveira Coelho J**, Anemone RL, Bobe R, Carvalho S, Forrest F, Braun DR. Using remote sensing and machine learning to reconstruct paleoenvironmental features in the Koobi Fora Formation. *The 89th Annual Meeting of the American Association of Physical Anthropologists*. Los Angeles, USA, 2020.
 
