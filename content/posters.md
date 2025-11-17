@@ -10,6 +10,10 @@ author: jcoelho
 
 ## Posters
 
+Anemone R, Bobe R, **d’Oliveira Coelho J**, Püschel T, Sier M, Mendes C, Archer W, Presnyakova D, Paixão E, Carvalho S. A new giant fossil hyracoid (Mammalia, Afrotheria) from the southern East African Rift in Gorongosa National Park, Mozambique. *Society for Vertebrate Paleontology Annual Conference, Journal of Vertebrate Paleontology* 81-82, Birmingham, United Kingdom, 2025.
+
+Bobe R, **d’Oliveira Coelho J**, Doyle Boyd M, Lourenço E, Balate L, Tagir S, Jena P, Sanders W, Bamford M, Carvalho S. The coastal forests of eastern Africa as an evolutionary hotspot: hypotheses and new data. *Society for Vertebrate Paleontology Annual Conference, Journal of Vertebrate Paleontology* 131-132, Birmingham, United Kingdom, 2025.
+
 Farassi R, **d’Oliveira Coelho J**, Carvalho S. Habitat Use and the Demographics of Object Manipulation by Wild Chacma Baboons.  *30th Congress of the International Primatological Society (IPS)*. Antananarivo, Madagascar, 2025. **[Awarded Best Student Poster]**
 
 Rabajoli E, Lewis-Bevan L, **d’Oliveira Coelho J**, Coelho C, Farassi R, Mathe J, Biro D, Mubobo E, Angela M, de Salma Andicene F, Carvalho S. Rank, Relationships, and Resources: How is resource access influenced by individual ranking and social relationships in wild *Papio ursinus* in Gorongosa National Park?  *30th Congress of the International Primatological Society (IPS)*. Antananarivo, Madagascar, 2025.
