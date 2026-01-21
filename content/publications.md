@@ -10,9 +10,11 @@ author: jcoelho
 
 ## Scientific Articles
 
-Farassi R, **d’Oliveira Coelho J**, Carvalho S. 2025. Habitat use and the demographics of object manipulation by wild chacma baboons. *American Journal of Biological Anthropology*, **187**:e70094. <a href="https://doi.org/10.1002/ajpa.70094" target="_blank">10.1002/ajpa.70094</a>
+Carvalho S, Anemone RL, **d’Oliveira Coelho J**, Bobe R. 2025. The primates of Gorongosa National Park, Mozambique. *American Journal of Biological Anthropology*, **188**(2):e70143. <a href = "https://doi.org/10.1002/ajpa.70143" target="_blank">10.1002/ajpa.70143</a>
 
-Biro D, Muschinski J, Hammond P, Bobe R, Bamford MK, Capelli C, **d’Oliveira Coelho J**, Farassi R, Lüdecke T, Martinez FI, Mathe J, Silva MJF, Carvalho S. 2025. West Side Story: Regional Inter‐Troop Variation in Baboon Bark‐Stripping at Gorongosa National Park, Mozambique. *American Journal of Biological Anthropology*, **187**:e70057. <a href="https://doi.org/10.1002/ajpa.70057" target="_blank">10.1002/ajpa.70057</a>
+Farassi R, **d’Oliveira Coelho J**, Carvalho S. 2025. Habitat use and the demographics of object manipulation by wild chacma baboons. *American Journal of Biological Anthropology*, **187**(3):e70094. <a href="https://doi.org/10.1002/ajpa.70094" target="_blank">10.1002/ajpa.70094</a>
+
+Biro D, Muschinski J, Hammond P, Bobe R, Bamford MK, Capelli C, **d’Oliveira Coelho J**, Farassi R, Lüdecke T, Martinez FI, Mathe J, Silva MJF, Carvalho S. 2025. West Side Story: Regional Inter‐Troop Variation in Baboon Bark‐Stripping at Gorongosa National Park, Mozambique. *American Journal of Biological Anthropology*, **187**(1):e70057. <a href="https://doi.org/10.1002/ajpa.70057" target="_blank">10.1002/ajpa.70057</a>
 
 Scott GR, Navega DS, **d’Oliveira Coelho J**, Vlemincq-Mendieta T, Kenessey D, Irish JD. 2024. rASUDAS2: A new iteration of the application for assessing the population affinity of individuals by tooth crown and root morphology. *Forensic Anthropology*, **8**(1):1–9. <a href ="https://journals.upress.ufl.edu/fa/article/view/2881" target = "_blank">10.5744/fa.2024.0006</a>
 
