@@ -10,6 +10,10 @@ author: jcoelho
 
 ## Podium Presentations
 
+**d’Oliveira Coelho J**, Carvalho S. 2025. The case of Gorongosa National Park, a Park for the People: How primatology, science and education can be key players in nature restoration processes. *30th International Primatological Society Congress*. Antananarivo, Madagascar.
+
+Carvalho S, Mathe J, Farassi RA, Reynard I, **d’Oliveira Coelho J**, Hammond P. 2025. Predation zones and primate behaviour: A study in Gorongosa National Park. *30th International Primatological Society Congress*. Antananarivo, Madagascar.
+
 Carvalho S, **d’Oliveira Coelho J**, Bobe R. 2024. Early hominins (and other apes) under the canopy. *14th Annual Meeting of the European Society for the Study of Human Evolution (ESHE)*. Zagreb, Croatia.
 
 **d’Oliveira Coelho J**. 2023. Searching for Kingdon's Coastal Ape in Miocene Estuarine Forests of Gorongosa. *Joint Meeting of the International Primatological Society and the Malaysian Primatological Society*. Kuching, Malaysia.
