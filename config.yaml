@@ -177,8 +177,6 @@ params:
           url: https://orcid.org/0000-0003-0871-1926
         - icon: fab fa-github
           url: https://github.com/Delvis
-        - icon: fab fa-x-twitter
-          url: https://twitter.com/Gangryong
         - icon: fab fa-instagram
           url: https://instagram.com/deusexistelonge
         # - icon: fab fa-goodreads
@@ -403,8 +401,6 @@ params:
   #           url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
   #         - icon: fab fa-github
   #           url: https://github.com/gurusabarish/hugo-profile
-  #         - icon: fab fa-twitter
-  #           url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
   #
   #     - title: Image Converter
   #       content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
@@ -455,7 +451,7 @@ params:
       disableFeaturedImage: false
     # socialNetworks:
     #   github: https://github.com/Delvis
-    #   twitter: https://twitter.com/Gangryong
+    #   twitter: https://x.com/Gangryong
     #   instagram: https://instagram.com/deusexistelonge
 
   # List pages like blogs and posts
