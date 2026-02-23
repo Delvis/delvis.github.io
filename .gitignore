@@ -4,6 +4,8 @@
 .Ruserdata
 .DS_Store
 Thumbs.db
-/public/
+/public/*
+!public/*.pdf
+!public/*.docx
 /resources/
 .hugo_build.lock
