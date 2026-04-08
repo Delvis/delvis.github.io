@@ -17,6 +17,10 @@ Berdugo S. 2022. AI Fossil Hunters. <i><a href = "https://oxsci.org/ai-fossil-hu
 
 Diário Económico. 2021. Parque Nacional de Gorongosa Usa Inteligência Artificial Para Descobrir Novos Locais de Fósseis. <i><a href = "https://www.diarioeconomico.co.mz/2021/08/16/trends/sustentabilidade/parque-nacional-de-gorongosa-usa-inteligencia-artificial-para-descobrir-novos-locais-de-fosseis/" target = "_blank">diarioeconomico.co.mz</a></i>, media coverage of <a href = "https://peerj.com/articles/11573/" target = "_blank">10.7717/peerj.11573</a>
 
+**rASUDAS**:
+
+McDonald L. 2021. Anthropologists debunk popular theory that Native Americans originated from Japan. <i><a href = "https://www.unr.edu/nevada-today/news/2021/anthropologists-debunk-popular-theory-that-native-americans-originated-from-japan" target = "_blank">Nevada Today</a></i>.
+
 **CADOES**:
 
 Séneca H. 2019. Investigadores de Coimbra criam aplicação que revela sexo de esqueletos. <i><a href = "https://visao.pt/exameinformatica/noticias-ei/ciencia-ei/2019-07-29-Investigadores-de-Coimbra-criam-aplicacao-que-revela-sexo-de-esqueletos/" target = "_blank">Exame Informática</a></i>.
@@ -31,9 +35,6 @@ Pinto C. 2019. Programa informático português inovador facilita caracterizaç�
 
 O Instalador. 2019. CADOES: o programa informático que vai facilitar o trabalho de antropólogos e arqueólogos <i><a href = "https://oinstalador.com/Artigos/253016-CADOES-o-programa-informatico-que-vai-facilitar-o-trabalho-de-antropologos-e-arqueologos.html" taget = "_blank">Revista O Instalador</a></i>.
 
-**rASUDAS**:
-
-McDonald L. 2021. Anthropologists debunk popular theory that Native Americans originated from Japan. <i><a href = "https://www.unr.edu/nevada-today/news/2021/anthropologists-debunk-popular-theory-that-native-americans-originated-from-japan" target = "_blank">Nevada Today</a></i>.
 
 ## Podcasts
 
@@ -51,6 +52,6 @@ McDonald L. 2021. Anthropologists debunk popular theory that Native Americans or
 
 ## Educational videos
 
-Hockings K, Carvalho S, Bersacola E, Mielke A, Ramon M, Phillips C, Bessa J, Pascual-Garrido A, McLennan M, Almeida-Warren K, **d’Oliveira Coelho J**, Howard-Spink E, Goodhead C. <a href = "https://www.youtube.com/playlist?list=PLp0VOjHJMYGXgdOgg0D2_1d1a_XVylE3l" target = "_blank">World Chimpanzee Day - 14 July 2020</a>. YouTube playlist, uploaded July 14 2020.
-
 Scott GR, Navega D, **d’Oliveira Coelho J**. 2021. The Evolution of rASUDAS and Its Application to Bioarchaeological Problems. <i><a href="https://www.youtube.com/watch?v=DO16vjcVbfM" target="_blank">BioSocial Talks</a></i>. Research Centre for Anthropology and Health (CIAS), University of Coimbra: May 18 2021.
+
+Hockings K, Carvalho S, Bersacola E, Mielke A, Ramon M, Phillips C, Bessa J, Pascual-Garrido A, McLennan M, Almeida-Warren K, **d’Oliveira Coelho J**, Howard-Spink E, Goodhead C. 2021. <a href = "https://www.youtube.com/playlist?list=PLp0VOjHJMYGXgdOgg0D2_1d1a_XVylE3l" target = "_blank">World Chimpanzee Day - 14 July 2020</a>. YouTube playlist, uploaded July 14 2020.
