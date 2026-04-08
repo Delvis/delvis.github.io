@@ -52,6 +52,6 @@ O Instalador. 2019. CADOES: o programa informático que vai facilitar o trabalho
 
 ## Educational videos
 
-Scott GR, Navega D, **d’Oliveira Coelho J**. 2021. The Evolution of rASUDAS and Its Application to Bioarchaeological Problems. <i><a href="https://www.youtube.com/watch?v=DO16vjcVbfM" target="_blank">BioSocial Talks</a></i>. Research Centre for Anthropology and Health (CIAS), University of Coimbra: May 18 2021.
+Scott GR, Navega D, **d’Oliveira Coelho J**. 2021. The Evolution of rASUDAS and Its Application to Bioarchaeological Problems. <i><a href="https://www.youtube.com/watch?v=DO16vjcVbfM" target="_blank">BioSocial Talks</a></i>. Research Centre for Anthropology and Health (CIAS), University of Coimbra. YouTube video, uploaded May 18 2021.
 
-Hockings K, Carvalho S, Bersacola E, Mielke A, Ramon M, Phillips C, Bessa J, Pascual-Garrido A, McLennan M, Almeida-Warren K, **d’Oliveira Coelho J**, Howard-Spink E, Goodhead C. 2021. <a href = "https://www.youtube.com/playlist?list=PLp0VOjHJMYGXgdOgg0D2_1d1a_XVylE3l" target = "_blank">World Chimpanzee Day - 14 July 2020</a>. YouTube playlist, uploaded July 14 2020.
+Hockings K, Carvalho S, Bersacola E, Mielke A, Ramon M, Phillips C, Bessa J, Pascual-Garrido A, McLennan M, Almeida-Warren K, **d’Oliveira Coelho J**, Howard-Spink E, Goodhead C. 2020. <a href = "https://www.youtube.com/playlist?list=PLp0VOjHJMYGXgdOgg0D2_1d1a_XVylE3l" target = "_blank">World Chimpanzee Day - 14 July 2020</a>. YouTube playlist, uploaded July 14 2020.
