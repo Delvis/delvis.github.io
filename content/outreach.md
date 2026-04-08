@@ -19,17 +19,21 @@ Diário Económico. 2021. Parque Nacional de Gorongosa Usa Inteligência Artific
 
 **CADOES**:
 
-Séneca H. 2019. Investigadores de Coimbra criam aplicação que revela sexo de esqueletos. <a href = "https://visao.pt/exameinformatica/noticias-ei/ciencia-ei/2019-07-29-Investigadores-de-Coimbra-criam-aplicacao-que-revela-sexo-de-esqueletos/" target = "_blank">Exame Informática</a>.
+Séneca H. 2019. Investigadores de Coimbra criam aplicação que revela sexo de esqueletos. <i><a href = "https://visao.pt/exameinformatica/noticias-ei/ciencia-ei/2019-07-29-Investigadores-de-Coimbra-criam-aplicacao-que-revela-sexo-de-esqueletos/" target = "_blank">Exame Informática</a></i>.
 
-Observador. 2019. Investigadores portugueses criam software que facilita identificação do sexo de esqueletos humanos. <a href = "https://observador.pt/2019/07/29/investigadores-portugueses-criam-software-que-facilita-identificacao-do-sexo-de-esqueletos-humanos/" target = "_blank">Observador</a>.
+Observador. 2019. Investigadores portugueses criam software que facilita identificação do sexo de esqueletos humanos. <i><a href = "https://observador.pt/2019/07/29/investigadores-portugueses-criam-software-que-facilita-identificacao-do-sexo-de-esqueletos-humanos/" target = "_blank">Observador</a></i>.
 
-Agência Lusa. 2019. Novo programa informático facilita identificação do sexo de esqueletos humanos. <a href = "https://www.asbeiras.pt/2019/07/novo-programa-informatico-da-uc-facilita-identificacao-do-sexo-de-esqueletos-humanos/" target = "_blank">Diário As Beiras</a>.
+Agência Lusa. 2019. Novo programa informático facilita identificação do sexo de esqueletos humanos. <i><a href = "https://www.asbeiras.pt/2019/07/novo-programa-informatico-da-uc-facilita-identificacao-do-sexo-de-esqueletos-humanos/" target = "_blank">Diário As Beiras</a></i>.
 
-Notícias UC. 2019. CADOES, o programa informático que vai facilitar o trabalho de antropólogos e arqueólogos. <a href = "https://noticias.uc.pt/artigos/cadoes-o-programa-informatico-que-vai-facilitar-o-trabalho-de-antropologos-e-arqueologos/" target = "_blank">Universidade de Coimbra</a>.
+Notícias UC. 2019. CADOES, o programa informático que vai facilitar o trabalho de antropólogos e arqueólogos. <i><a href = "https://noticias.uc.pt/artigos/cadoes-o-programa-informatico-que-vai-facilitar-o-trabalho-de-antropologos-e-arqueologos/" target = "_blank">Universidade de Coimbra</a></i>.
 
-Pinto C. 2019. Programa informático português inovador facilita caracterização de esqueletos humanos. <a href = "https://presspoint.pt/esqueletos-humanos/" target = "_blank">Press Point</a>.
+Pinto C. 2019. Programa informático português inovador facilita caracterização de esqueletos humanos. <i><a href = "https://presspoint.pt/esqueletos-humanos/" target = "_blank">Press Point</a></i>.
 
-O Instalador. 2019. CADOES: o programa informático que vai facilitar o trabalho de antropólogos e arqueólogos <a href = "https://oinstalador.com/Artigos/253016-CADOES-o-programa-informatico-que-vai-facilitar-o-trabalho-de-antropologos-e-arqueologos.html" taget = "_blank">Revista O Instalador</a>.
+O Instalador. 2019. CADOES: o programa informático que vai facilitar o trabalho de antropólogos e arqueólogos <i><a href = "https://oinstalador.com/Artigos/253016-CADOES-o-programa-informatico-que-vai-facilitar-o-trabalho-de-antropologos-e-arqueologos.html" taget = "_blank">Revista O Instalador</a></i>.
+
+**rASUDAS**:
+
+McDonald L. 2021. Anthropologists debunk popular theory that Native Americans originated from Japan. <i><a href = "https://www.unr.edu/nevada-today/news/2021/anthropologists-debunk-popular-theory-that-native-americans-originated-from-japan" target = "_blank">Nevada Today</a></i>.
 
 ## Podcasts
 
