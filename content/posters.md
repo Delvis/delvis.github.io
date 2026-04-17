@@ -38,6 +38,8 @@ Gabriel B, Makhoul C, **d’Oliveira Coelho J**, de Carvalho LB, Cunha E. Therma
 
 **d’Oliveira Coelho J**, Anemone RL, Carvalho S. Finding the needle in a haystack: automating spectral remote searching for hominin fossil sites in Gorongosa, Mozambique. *Proceedings of the European Society for the Study of Human Evolution. 56*. Faro, Portugal, 2018.
 
+Ferreira MT, Coelho C, **d’Oliveira Coelho J**, Navega D, Wasterlain S. Nouvelles données sur le sexe et l’âge à la mort basées sur le squelette postcrânien des esclaves africains adultes asservis trouvés à Lagos, Portugal (XVe–XVIIe siècles). *XXXIIIème Colloque du GALF*. Coimbra, Portugal, 2018.
+
 Navega D, **d’Oliveira Coelho J**, Cunha E, Curate F. Estimativa da idade à morte com base na densidade mineral óssea do fémur proximal: uma abordagem com redes neuronais artificiais. *III Conferência do Instituto Nacional de Medicina Legal e Ciências Forenses*. Coimbra, Portugal, 2016.
 
 Coelho C, **d’Oliveira Coelho J**, Navega D, Andrade B, Dias P, Santos BS, Wasterlain SN, Ferreira MT. CraMs: uma ferramenta informática para a análise antropológica do crânio. *III Conferência do Instituto Nacional de Medicina Legal e Ciências Forenses*. Coimbra, Portugal, 2016.

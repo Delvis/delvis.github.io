@@ -36,6 +36,8 @@ Bobe R, **d’Oliveira Coelho J**, Carvalho S. 2022. Biogeographic approaches to
 
 Ammer S, **d’Oliveira Coelho J**. 2018. Estimating Sex with Outline Shape Analysis of the Trochlear Constriction and the Olecranon Fossa. *American Academy of Forensic Sciences 70th Annual Scientific Meeting*. Seattle, USA.
 
+Ferreira MT, Coelho C, **d’Oliveira Coelho J**, Rufino AI, Navega D, Cunha E, Almeida M, Wasterlain S. 2018. Allongés à la poubelle: enterrement des esclaves au Valle da Gafaria, Lagos (Portugal; XV–XVIII siècles). *Des Cadavres dans Nos Poubelles: restes humains et espaces détritiques de la Préhistoire à nos jours*. Marseille, France.
+
 **d’Oliveira Coelho J**, Ammer S. 2017. Sex estimation based on outline shape analysis of the posterior distal humerus, *MORPH 2017 - A Conference on the Archaeological Applications of Morphometrics*. Aarhus, Denmark.
 
 Ferreira MT, Coelho C, Rufino AI, Navega D, **d’Oliveira Coelho J**, Wasterlain SN. 2017. Os Escravos do Valle da Gafaria: recuperar a identidade através dos ossos. *Dia Internacional dos Museus*. Viseu, Portugal.
