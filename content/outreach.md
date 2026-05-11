@@ -40,7 +40,11 @@ O Instalador. 2019. CADOES: o programa informático que vai facilitar o trabalho
 
 **d’Oliveira Coelho J**. 2021. Big Data and Machine Learning. *In*: Curate F. (Host), <i><a href = "https://www.instagram.com/insta_geevh/reel/CNs5o_SA0zg/" target = "_blank">GEEvH Live Instagram Series</a></i>. Grupo de Estudos em Evolução Humana: April 15 2021.
 
-## Short Documentaries
+## Media Appearances on Documentaries
+
+**"Die Sklaven von Lagos"** (The Slaves of Lagos). July 6, 2017. Filmproduktionen der Gerda Henkel Stiftung. [Watch Here](https://lisa.gerda-henkel-stiftung.de/die_sklaven_von_lagos).
+
+## Film & Multimedia Production
 
 **"Sulemane - Through the lens of our Fiscais (Episode 1)"**. February 23, 2022. [Watch Here](https://www.youtube.com/watch?v=O5vYX2v6v9U).
 
