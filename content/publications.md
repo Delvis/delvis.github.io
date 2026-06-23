@@ -10,6 +10,10 @@ author: jcoelho
 
 ## Scientific Articles
 
+**d’Oliveira Coelho J**, Anemone RL, Bobe R, Carvalho S. 2026 Parting ways: Pan-Homo divergence revisited. *Primates*. <a href ="https://doi.org/10.1007/s10329-026-01269-w" target = "_blank">10.1007/s10329-026-01269-w</a>
+
+Allen G, Freymann E, **d’Oliveira Coelho J**, Shagara H, Shinyo I, Panda A, Jaya A, Hockings KJ, Morrogh-Bernard HC. 2026. Investigating medicinal resource combinations in the Bornean orangutan diet. *Scientific Reports* **16**:18690. <a href="https://www.nature.com/articles/s41598-026-52614-4"  target="_blank">10.1038/s41598-026-52614-4</a>
+
 Carvalho S, Anemone RL, **d’Oliveira Coelho J**, Bobe R. 2025. The primates of Gorongosa National Park, Mozambique. *American Journal of Biological Anthropology*, **188**(2):e70143. <a href = "https://doi.org/10.1002/ajpa.70143" target="_blank">10.1002/ajpa.70143</a>
 
 Farassi R, **d’Oliveira Coelho J**, Carvalho S. 2025. Habitat use and the demographics of object manipulation by wild chacma baboons. *American Journal of Biological Anthropology*, **187**(3):e70094. <a href="https://doi.org/10.1002/ajpa.70094" target="_blank">10.1002/ajpa.70094</a>

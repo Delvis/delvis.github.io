@@ -18,6 +18,8 @@ Farassi R, **d’Oliveira Coelho J**, Carvalho S. Habitat Use and the Demographi
 
 Rabajoli E, Lewis-Bevan L, **d’Oliveira Coelho J**, Coelho C, Farassi R, Mathe J, Biro D, Mubobo E, Angela M, de Salma Andicene F, Carvalho S. Rank, Relationships, and Resources: How is resource access influenced by individual ranking and social relationships in wild *Papio ursinus* in Gorongosa National Park?  *30th Congress of the International Primatological Society (IPS)*. Antananarivo, Madagascar, 2025.
 
+Allen G, Freymann E, **d’Oliveira Coelho J**, Panda A, Jaya A, Hockings KJ, Morrogh-Bernard HC. Orangutan Self-Medicative Behaviour: Feeding Ecology and Resource Combinations. *Student Conference on Conservation Science (SCCS) Cambridge*. Cambridge, United Kingdom, 2025.
+
 Carvalho S, Bobe R, **d’Oliveira Coelho J**, and Paleo-Primate Project. The first Miocene fossil sites of the southern end of the East African Rift: summary of key findings. *Oreopithecus150*. Florence, Italy, 2022.
 
 Scott GR, Navega D, **d’Oliveira Coelho J**, Vlemincq-Mendieta T, Kenessey D, Pilloud MA. Tooth morphology and population affinity: testing rASUDAS2 on modern African and European-derived samples. *91st Annual Meeting of the American Association of Biological Anthropologists*. Denver, Colorado, USA, 2022.
