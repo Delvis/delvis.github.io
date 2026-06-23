@@ -10,7 +10,7 @@ author: jcoelho
 
 ## Scientific Articles
 
-**d’Oliveira Coelho J**, Anemone RL, Bobe R, Carvalho S. 2026 Parting ways: Pan-Homo divergence revisited. *Primates*. <a href ="https://doi.org/10.1007/s10329-026-01269-w" target = "_blank">10.1007/s10329-026-01269-w</a>
+**d’Oliveira Coelho J**, Anemone RL, Bobe R, Carvalho S. 2026 Parting ways: *Pan*-*Homo* divergence revisited. *Primates*. <a href ="https://doi.org/10.1007/s10329-026-01269-w" target = "_blank">10.1007/s10329-026-01269-w</a>
 
 Allen G, Freymann E, **d’Oliveira Coelho J**, Shagara H, Shinyo I, Panda A, Jaya A, Hockings KJ, Morrogh-Bernard HC. 2026. Investigating medicinal resource combinations in the Bornean orangutan diet. *Scientific Reports* **16**:18690. <a href="https://www.nature.com/articles/s41598-026-52614-4"  target="_blank">10.1038/s41598-026-52614-4</a>
 
