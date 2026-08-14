@@ -69,7 +69,7 @@ Scott GR, Navega D, **d’Oliveira Coelho J**, Cunha E, Irish JD. 2016. rASUDAS:
 
 ## Invited Talks
 
-**d’Oliveira Coelho J**. 2026. Gestão do Património Cultural no Parque Nacional da Gorongosa: Práticas de Campo e Gestão de Acervos em Arqueologia e Paleontologia. *SAFARIS IN DEEP TIME: Palestra para os “Mestrado em Planeamento Territorial Conservação de Biodiversidade” e “Mestrado em Gestão Ambiental e dos Recursos Hídricos”*. UniZambeze, Moçambique.
+**d’Oliveira Coelho J**. 2026. *SAFARIS IN DEEP TIME:* Gestão do Património Cultural no Parque Nacional da Gorongosa: Práticas de Campo e Gestão de Acervos em Arqueologia e Paleontologia. *Palestra para os “Mestrado em Planeamento Territorial Conservação de Biodiversidade” e “Mestrado em Gestão Ambiental e dos Recursos Hídricos”*. UniZambeze, Moçambique.
 
 Püschel T, **d’Oliveira Coelho J**. 2025. Shark updates: new species record and biostratigraphic perspective. *Paleo-Primate Project Gorongosa Annual Meeting 2025*, Universidade do Algarve, Portugal.
 
