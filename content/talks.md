@@ -10,13 +10,13 @@ author: jcoelho
 
 ## Podium Presentations
 
-**d'Oliveira Coelho J**, Bobe R, Lourenço E, Carvalho S. A Safari in Deep Time: The Evolutionary History of the Gorongosa Ecosystem. *17th Pan-African Archaeological Association Congress (PanAF 2026): Discovering African Archaeology and Heritage Without Borders*. Maputo, Mozambique.
+**d'Oliveira Coelho J**, Bobe R, Lourenço E, Carvalho S. 2026. A Safari in Deep Time: The Evolutionary History of the Gorongosa Ecosystem. *17th Pan-African Archaeological Association Congress (PanAF 2026): Discovering African Archaeology and Heritage Without Borders*. Maputo, Mozambique.
 
-Anemone RL, Bobe R, Carvalho S, Püschel T, **d'Oliveira Coelho J**. A new giant fossil hyrax from Gorongosa National Park, Mozambique. *17th Pan-African Archaeological Association Congress (PanAF 2026): Discovering African Archaeology and Heritage Without Borders*. Maputo, Mozambique.
+Anemone RL, Bobe R, Carvalho S, Püschel T, **d'Oliveira Coelho J**. 2026. A new giant fossil hyrax from Gorongosa National Park, Mozambique. *17th Pan-African Archaeological Association Congress (PanAF 2026): Discovering African Archaeology and Heritage Without Borders*. Maputo, Mozambique.
 
-Boyd MD, Tagir S, Balate L, Lourenço E, Bobe R, **d'Oliveira Coelho J**, Carvalho S. The Geological Context of the Neogene fossil sites in Gorongosa National Park, Mozambique: Exploring the Southern Terminus of the East African Rift. *17th Pan-African Archaeological Association Congress (PanAF 2026): Discovering African Archaeology and Heritage Without Borders*. Maputo, Mozambique.
+Boyd MD, Tagir S, Balate L, Lourenço E, Bobe R, **d'Oliveira Coelho J**, Carvalho S. 2026. The Geological Context of the Neogene fossil sites in Gorongosa National Park, Mozambique: Exploring the Southern Terminus of the East African Rift. *17th Pan-African Archaeological Association Congress (PanAF 2026): Discovering African Archaeology and Heritage Without Borders*. Maputo, Mozambique.
 
-Gove R, Mathe J, Bobe R, Carvalho S, Farassi R, Rabajoli E, Coelho C, **d'Oliveira Coelho J**. Dispersão de restos ósseos de animais contemporâneos em diferentes habitates do Parque Nacional da Gorongosa (PNG). *17th Pan-African Archaeological Association Congress (PanAF 2026): Discovering African Archaeology and Heritage Without Borders*. Maputo, Mozambique.
+Gove R, Mathe J, Bobe R, Carvalho S, Farassi R, Rabajoli E, Coelho C, **d'Oliveira Coelho J**. 2026. Dispersão de restos ósseos de animais contemporâneos em diferentes habitates do Parque Nacional da Gorongosa (PNG). *17th Pan-African Archaeological Association Congress (PanAF 2026): Discovering African Archaeology and Heritage Without Borders*. Maputo, Mozambique.
 
 **d’Oliveira Coelho J**, Carvalho S. 2025. The case of Gorongosa National Park, a Park for the People: How primatology, science and education can be key players in nature restoration processes. *30th International Primatological Society Congress (IPS)*. Antananarivo, Madagascar.
 
