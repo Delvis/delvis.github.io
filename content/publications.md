@@ -10,6 +10,8 @@ author: jcoelho
 
 ## Scientific Articles
 
+Carvalho S, Spagnoletti N, **d’Oliveira Coelho J**, Beardmore-Herd M, Mendonça-Furtado O, Verderane M, Prieto J, Cavallaro DI, Izar P, Visalberghi E. 2026. Small vertebrate consumption by capuchin monkeys (*Sapajus libidinosus*): Insights into the human predatory pattern. *PLOS One* 21:e0355204. <a href="https://doi.org/10.1371/journal.pone.0355204" target = "_blank">10.1371/journal.pone.0355204</a>
+
 Carvalho S, Bobe R, Beardmore-Herd M, **d’Oliveira Coelho J**, Pascual-Garrido A, Kingdon J. 2026. Natural history is more relevant than ever for primate ecology and conservation. *Primates*. <a href ="https://doi.org/10.1007/s10329-026-01287-8" target = "_blank">10.1007/s10329-026-01287-8</a>
 
 **d’Oliveira Coelho J**, Anemone RL, Bobe R, Carvalho S. 2026 Parting ways: *Pan*-*Homo* divergence revisited. *Primates*. <a href ="https://doi.org/10.1007/s10329-026-01269-w" target = "_blank">10.1007/s10329-026-01269-w</a>
